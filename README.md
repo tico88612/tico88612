@@ -12,7 +12,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tico88612&theme=flat&no-frame=true&margin-w=30" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tico88612&theme=flat&no-frame=true&theme=onedark&margin-w=30&column=4" />
 </div>
 
 <!-- It is https://yhype.me/ views count tracker, please remove it or use your own -->
