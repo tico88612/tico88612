@@ -6,6 +6,7 @@
 
 - 🧑‍💻 SRE Intern @ Hualien, Taiwan
 - ⎈ Kubernetes, Docker, Typescript, PHP
+- 🤝 GDG Hualien Co-Organizer
 - ❤️ Kagamine Rin , Play Japanese Mahjong 🀄️
 
 <br>
