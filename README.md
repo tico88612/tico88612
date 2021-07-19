@@ -4,8 +4,8 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=tico88612&hide_title=true&count_private=true&show_icons=true" />
 
-- 🧑‍💻 SRE Intern @ Hualien, Taiwan
-- ⎈ Kubernetes, Docker, Typescript, PHP
+- 🧑‍💻 SRE Contractor @ Hualien, Taiwan
+- 🐳 Kubernetes, Docker, Typescript, PHP
 - 🤝 GDG Hualien Co-Organizer
 - ❤️ Kagamine Rin , Play Japanese Mahjong 🀄️
 
