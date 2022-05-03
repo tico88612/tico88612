@@ -7,7 +7,7 @@
 - 🧑‍💻 SRE Contractor @ Hualien, Taiwan
 - 🐳 Kubernetes, Docker, Typescript, PHP
 - 🤝 GDG Hualien Co-Organizer
-- ❤️ Kagamine Rin , Play Japanese Mahjong 🀄️
+- ❤️ Kagamine Rin
 
 <br>
 
