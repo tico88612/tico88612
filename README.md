@@ -6,7 +6,7 @@
 
 - 🧑‍💻 IT/SRE @ Hualien, Taiwan
 - 🐳 Kubernetes, Container, Golang, Typescript
-- 🤝 GDG Hualien Co-Organizer
+- 🤝 CNTUG Co-Organizer, GDG Hualien Co-Organizer
 - ❤️ Kagamine Rin
 
 <br>
