@@ -4,7 +4,7 @@
 
 - 🧑‍💻 IT/SRE @ Hualien, Taiwan
 - 🐳 Kubernetes, Container, Golang, Typescript
-- 🤝 CNTUG Co-Organizer, GDG Hualien Co-Organizer
+- 🤝 CNTUG Co-Organizer
 - ❤️ Kagamine Rin
 
 <img src="https://github-readme-stats.vercel.app/api?username=tico88612&hide_title=true&count_private=true&show_icons=true" />
