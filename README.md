@@ -2,6 +2,8 @@
   <h1>Hi there! 👋</h1>
 </div>
 
+![](https://komarev.com/ghpvc/?username=tico88612&color=brightgreen&style=for-the-badge)
+
 - 🧑‍💻 IT/SRE @ Hualien, Taiwan
 - 🐳 Kubernetes, Container, Golang, Typescript
 - 🤝 CNTUG Co-Organizer
