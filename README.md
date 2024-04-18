@@ -40,16 +40,16 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.7.0](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.7.0), today) - IP address Manager for Cluster API Provider Metal3
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.26.1](https://github.com/backstage/backstage/releases/tag/v1.26.1), today) - Backstage is an open platform for building developer portals
   - [metal3-io/baremetal-operator](https://github.com/metal3-io/baremetal-operator) ([v0.6.0](https://github.com/metal3-io/baremetal-operator/releases/tag/v0.6.0), 1 day ago) - Bare metal host provisioning integration for Kubernetes
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.47](https://github.com/meshery/meshery/releases/tag/v0.7.47), 2 days ago) - Meshery, the cloud native manager
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.26.0](https://github.com/backstage/backstage/releases/tag/v1.26.0), 2 days ago) - Backstage is an open platform for building developer portals
   - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.28.3](https://github.com/projectcontour/contour/releases/tag/v1.28.3), 1 week ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.56.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.56.0), 2 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.40.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.40.0), 2 weeks ago) - Web UI for Jaeger
   - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) ([v1.2.1](https://github.com/kubearmor/kubearmor-client/releases/tag/v1.2.1), 3 weeks ago) - KubeArmor cli tool aka kArmor :robot:
   - [metallb/metallb](https://github.com/metallb/metallb) ([v0.14.4](https://github.com/metallb/metallb/releases/tag/v0.14.4), 3 weeks ago) - A network load-balancer implementation for Kubernetes using standard routing protocols
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.7.0-beta.0](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.7.0-beta.0), 3 weeks ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
-  - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.7.0-beta.0](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.7.0-beta.0), 3 weeks ago) - IP address Manager for Cluster API Provider Metal3
 
   #### 🔨 My recent Pull Requests
   
