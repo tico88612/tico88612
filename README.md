@@ -40,6 +40,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [metallb/metallb](https://github.com/metallb/metallb) ([metallb-chart-0.14.5](https://github.com/metallb/metallb/releases/tag/metallb-chart-0.14.5), today) - A network load-balancer implementation for Kubernetes using standard routing protocols
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.26.2](https://github.com/backstage/backstage/releases/tag/v1.26.2), today) - Backstage is an open platform for building developer portals
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.49](https://github.com/meshery/meshery/releases/tag/v0.7.49), today) - Meshery, the cloud native manager
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.7.0](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.7.0), 1 day ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
@@ -49,10 +50,10 @@
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.56.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.56.0), 2 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.40.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.40.0), 2 weeks ago) - Web UI for Jaeger
   - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) ([v1.2.1](https://github.com/kubearmor/kubearmor-client/releases/tag/v1.2.1), 3 weeks ago) - KubeArmor cli tool aka kArmor :robot:
-  - [metallb/metallb](https://github.com/metallb/metallb) ([v0.14.4](https://github.com/metallb/metallb/releases/tag/v0.14.4), 3 weeks ago) - A network load-balancer implementation for Kubernetes using standard routing protocols
 
   #### 🔨 My recent Pull Requests
   
+  - [Add PR template &amp; Classify PR &amp; Generate release note](https://github.com/metallb/metallb-operator/pull/462) on [metallb/metallb-operator](https://github.com/metallb/metallb-operator) (today)
   - [Bump envoy to v1.30.0](https://github.com/projectcontour/contour/pull/6353) on [projectcontour/contour](https://github.com/projectcontour/contour) (2 days ago)
   - [CI: sign image with cosign on release](https://github.com/metallb/metallb-operator/pull/458) on [metallb/metallb-operator](https://github.com/metallb/metallb-operator) (3 days ago)
   - [Feat: dependabot initial config](https://github.com/kubernetes-sigs/kubespray/pull/11084) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (6 days ago)
@@ -62,7 +63,6 @@
   - [Replace grpc.Dial function that is going to be deprecated in grpc-go@v1.64](https://github.com/jaegertracing/jaeger/pull/5336) on [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) (1 week ago)
   - [Implement inappropriate language filter Python script](https://github.com/knative/docs/pull/5935) on [knative/docs](https://github.com/knative/docs) (2 weeks ago)
   - [Fix: Navbar hover background color much darker](https://github.com/jaegertracing/documentation/pull/690) on [jaegertracing/documentation](https://github.com/jaegertracing/documentation) (2 weeks ago)
-  - [🌱 Add lint-fix as make target](https://github.com/metal3-io/ip-address-manager/pull/480) on [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) (3 weeks ago)
 
   #### ⭐ Recent Stars
   
