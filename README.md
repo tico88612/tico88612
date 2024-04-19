@@ -40,8 +40,8 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [metallb/metallb](https://github.com/metallb/metallb) ([v0.14.5](https://github.com/metallb/metallb/releases/tag/v0.14.5), today) - A network load-balancer implementation for Kubernetes using standard routing protocols
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.26.3](https://github.com/backstage/backstage/releases/tag/v1.26.3), today) - Backstage is an open platform for building developer portals
-  - [metallb/metallb](https://github.com/metallb/metallb) ([metallb-chart-0.14.5](https://github.com/metallb/metallb/releases/tag/metallb-chart-0.14.5), today) - A network load-balancer implementation for Kubernetes using standard routing protocols
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.49](https://github.com/meshery/meshery/releases/tag/v0.7.49), today) - Meshery, the cloud native manager
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.7.0](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.7.0), 1 day ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
   - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.7.0](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.7.0), 1 day ago) - IP address Manager for Cluster API Provider Metal3
