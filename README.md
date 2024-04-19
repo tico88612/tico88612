@@ -29,7 +29,6 @@
   
   - [tico88612/get-real-ip](https://github.com/tico88612/get-real-ip) - 
   - [tico88612/podman-monitor-workshop](https://github.com/tico88612/podman-monitor-workshop) - 
-  - [tico88612/new-infra-labs-docs](https://github.com/tico88612/new-infra-labs-docs) - 
   - [tico88612/cicd-hexo-blog-pages](https://github.com/tico88612/cicd-hexo-blog-pages) - 以 Hexo Blog 撰寫 CI/CD Pipeline 網頁
   - [tico88612/cicd-hexo-blog-template](https://github.com/tico88612/cicd-hexo-blog-template) - 以 Hexo Blog 撰寫 CI/CD Pipeline 模板
   - [tico88612/butter-toast-cup-2023](https://github.com/tico88612/butter-toast-cup-2023) - 奶油吐司杯 2023 分數計算機
@@ -37,6 +36,7 @@
   - [tico88612/network-security-final](https://github.com/tico88612/network-security-final) - 
   - [tico88612/docker-init.engineer](https://github.com/tico88612/docker-init.engineer) - 純靠北工程師 Docker 架設版
   - [tico88612/kantai-teachme.tw](https://github.com/tico88612/kantai-teachme.tw) - 
+  - [tico88612/minecraft_on_discord](https://github.com/tico88612/minecraft_on_discord) - Paste this link to Discord
 
   #### 🔭 Latest releases I've contributed to
   
