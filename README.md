@@ -53,6 +53,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [feat: KubeArmor support toleration config](https://github.com/kubearmor/KubeArmor/pull/1731) on [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) (today)
   - [Add PR template &amp; Classify PR &amp; Generate release note](https://github.com/metallb/metallb-operator/pull/462) on [metallb/metallb-operator](https://github.com/metallb/metallb-operator) (1 day ago)
   - [Bump envoy to v1.30.0](https://github.com/projectcontour/contour/pull/6353) on [projectcontour/contour](https://github.com/projectcontour/contour) (3 days ago)
   - [CI: sign image with cosign on release](https://github.com/metallb/metallb-operator/pull/458) on [metallb/metallb-operator](https://github.com/metallb/metallb-operator) (4 days ago)
@@ -62,7 +63,6 @@
   - [Test: add tools/rw-heatmaps &amp; tools/testgrid-analysis to module_dirs](https://github.com/etcd-io/etcd/pull/17770) on [etcd-io/etcd](https://github.com/etcd-io/etcd) (1 week ago)
   - [Replace grpc.Dial function that is going to be deprecated in grpc-go@v1.64](https://github.com/jaegertracing/jaeger/pull/5336) on [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) (1 week ago)
   - [Implement inappropriate language filter Python script](https://github.com/knative/docs/pull/5935) on [knative/docs](https://github.com/knative/docs) (2 weeks ago)
-  - [Fix: Navbar hover background color much darker](https://github.com/jaegertracing/documentation/pull/690) on [jaegertracing/documentation](https://github.com/jaegertracing/documentation) (2 weeks ago)
 
   #### ⭐ Recent Stars
   
