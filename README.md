@@ -53,6 +53,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [[zh-cn] sync Deployment with en](https://github.com/kubernetes/website/pull/45975) on [kubernetes/website](https://github.com/kubernetes/website) (today)
   - [[zh-cn] sync StatefulSet with en](https://github.com/kubernetes/website/pull/45973) on [kubernetes/website](https://github.com/kubernetes/website) (today)
   - [feat: KubeArmor support toleration config](https://github.com/kubearmor/KubeArmor/pull/1731) on [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) (3 days ago)
   - [Add PR template &amp; Classify PR &amp; Generate release note](https://github.com/metallb/metallb-operator/pull/462) on [metallb/metallb-operator](https://github.com/metallb/metallb-operator) (4 days ago)
@@ -62,7 +63,6 @@
   - [Merge dependabot](https://github.com/tico88612/kubespray/pull/1) on [tico88612/kubespray](https://github.com/tico88612/kubespray) (1 week ago)
   - [Docs: upgrade MetalLB documentation website](https://github.com/metallb/metallb/pull/2364) on [metallb/metallb](https://github.com/metallb/metallb) (1 week ago)
   - [Test: add tools/rw-heatmaps &amp; tools/testgrid-analysis to module_dirs](https://github.com/etcd-io/etcd/pull/17770) on [etcd-io/etcd](https://github.com/etcd-io/etcd) (1 week ago)
-  - [Replace grpc.Dial function that is going to be deprecated in grpc-go@v1.64](https://github.com/jaegertracing/jaeger/pull/5336) on [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) (2 weeks ago)
 
   #### ⭐ Recent Stars
   
