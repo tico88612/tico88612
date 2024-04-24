@@ -40,9 +40,9 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.50](https://github.com/meshery/meshery/releases/tag/v0.7.50), today) - Meshery, the cloud native manager
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.27.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.27.0-next.0), 1 day ago) - Backstage is an open platform for building developer portals
   - [metallb/metallb](https://github.com/metallb/metallb) ([v0.14.5](https://github.com/metallb/metallb/releases/tag/v0.14.5), 5 days ago) - A network load-balancer implementation for Kubernetes using standard routing protocols
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.49](https://github.com/meshery/meshery/releases/tag/v0.7.49), 5 days ago) - Meshery, the cloud native manager
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.7.0](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.7.0), 6 days ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
   - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.7.0](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.7.0), 6 days ago) - IP address Manager for Cluster API Provider Metal3
   - [metal3-io/baremetal-operator](https://github.com/metal3-io/baremetal-operator) ([v0.6.0](https://github.com/metal3-io/baremetal-operator/releases/tag/v0.6.0), 1 week ago) - Bare metal host provisioning integration for Kubernetes
@@ -53,6 +53,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Remove redundant closing spaces](https://github.com/kubernetes/website/pull/45999) on [kubernetes/website](https://github.com/kubernetes/website) (today)
   - [[zh-cn] sync DaemonSet with en](https://github.com/kubernetes/website/pull/45989) on [kubernetes/website](https://github.com/kubernetes/website) (today)
   - [[zh-cn] sync Deployment with en](https://github.com/kubernetes/website/pull/45975) on [kubernetes/website](https://github.com/kubernetes/website) (1 day ago)
   - [[zh-cn] sync StatefulSet with en](https://github.com/kubernetes/website/pull/45973) on [kubernetes/website](https://github.com/kubernetes/website) (1 day ago)
@@ -62,7 +63,6 @@
   - [CI: sign image with cosign on release](https://github.com/metallb/metallb-operator/pull/458) on [metallb/metallb-operator](https://github.com/metallb/metallb-operator) (1 week ago)
   - [Feat: dependabot initial config](https://github.com/kubernetes-sigs/kubespray/pull/11084) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Merge dependabot](https://github.com/tico88612/kubespray/pull/1) on [tico88612/kubespray](https://github.com/tico88612/kubespray) (1 week ago)
-  - [Docs: upgrade MetalLB documentation website](https://github.com/metallb/metallb/pull/2364) on [metallb/metallb](https://github.com/metallb/metallb) (1 week ago)
 
   #### ⭐ Recent Stars
   
