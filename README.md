@@ -53,7 +53,7 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [[zh-cn] sync EndpointSlice with en](https://github.com/kubernetes/website/pull/46011) on [kubernetes/website](https://github.com/kubernetes/website) (today)
+  - [[zh-cn] sync only update `api_metadata` docs](https://github.com/kubernetes/website/pull/46011) on [kubernetes/website](https://github.com/kubernetes/website) (today)
   - [Remove redundant closing spaces](https://github.com/kubernetes/website/pull/45999) on [kubernetes/website](https://github.com/kubernetes/website) (1 day ago)
   - [[zh-cn] sync DaemonSet with en](https://github.com/kubernetes/website/pull/45989) on [kubernetes/website](https://github.com/kubernetes/website) (1 day ago)
   - [[zh-cn] sync Deployment with en](https://github.com/kubernetes/website/pull/45975) on [kubernetes/website](https://github.com/kubernetes/website) (2 days ago)
