@@ -14,10 +14,10 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (today)
-  - [cloud-native-taiwan/Infra-Labs-Docs](https://github.com/cloud-native-taiwan/Infra-Labs-Docs) - Documentation for Cloud Native Taiwan Infra Labs (3 days ago)
-  - [metallb/metallb-operator](https://github.com/metallb/metallb-operator) - MetalLB Operator for deploying metallb (4 days ago)
-  - [projectcontour/contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy. (6 days ago)
+  - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (1 day ago)
+  - [cloud-native-taiwan/Infra-Labs-Docs](https://github.com/cloud-native-taiwan/Infra-Labs-Docs) - Documentation for Cloud Native Taiwan Infra Labs (4 days ago)
+  - [metallb/metallb-operator](https://github.com/metallb/metallb-operator) - MetalLB Operator for deploying metallb (5 days ago)
+  - [projectcontour/contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy. (1 week ago)
   - [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols (1 week ago)
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform (2 weeks ago)
   - [knative/docs](https://github.com/knative/docs) - User documentation for Knative components. (2 weeks ago)
@@ -40,11 +40,11 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.26.4](https://github.com/backstage/backstage/releases/tag/v1.26.4), today) - Backstage is an open platform for building developer portals
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.50](https://github.com/meshery/meshery/releases/tag/v0.7.50), today) - Meshery, the cloud native manager
-  - [metallb/metallb](https://github.com/metallb/metallb) ([v0.14.5](https://github.com/metallb/metallb/releases/tag/v0.14.5), 5 days ago) - A network load-balancer implementation for Kubernetes using standard routing protocols
-  - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.7.0](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.7.0), 6 days ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
-  - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.7.0](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.7.0), 6 days ago) - IP address Manager for Cluster API Provider Metal3
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.26.4](https://github.com/backstage/backstage/releases/tag/v1.26.4), 1 day ago) - Backstage is an open platform for building developer portals
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.50](https://github.com/meshery/meshery/releases/tag/v0.7.50), 1 day ago) - Meshery, the cloud native manager
+  - [metallb/metallb](https://github.com/metallb/metallb) ([v0.14.5](https://github.com/metallb/metallb/releases/tag/v0.14.5), 6 days ago) - A network load-balancer implementation for Kubernetes using standard routing protocols
+  - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.7.0](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.7.0), 1 week ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
+  - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.7.0](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.7.0), 1 week ago) - IP address Manager for Cluster API Provider Metal3
   - [metal3-io/baremetal-operator](https://github.com/metal3-io/baremetal-operator) ([v0.6.0](https://github.com/metal3-io/baremetal-operator/releases/tag/v0.6.0), 1 week ago) - Bare metal host provisioning integration for Kubernetes
   - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.28.3](https://github.com/projectcontour/contour/releases/tag/v1.28.3), 2 weeks ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.56.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.56.0), 3 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
@@ -53,16 +53,16 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [Remove redundant closing spaces](https://github.com/kubernetes/website/pull/45999) on [kubernetes/website](https://github.com/kubernetes/website) (today)
-  - [[zh-cn] sync DaemonSet with en](https://github.com/kubernetes/website/pull/45989) on [kubernetes/website](https://github.com/kubernetes/website) (today)
-  - [[zh-cn] sync Deployment with en](https://github.com/kubernetes/website/pull/45975) on [kubernetes/website](https://github.com/kubernetes/website) (1 day ago)
-  - [[zh-cn] sync StatefulSet with en](https://github.com/kubernetes/website/pull/45973) on [kubernetes/website](https://github.com/kubernetes/website) (1 day ago)
-  - [feat: KubeArmor support toleration config](https://github.com/kubearmor/KubeArmor/pull/1731) on [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) (4 days ago)
-  - [Add PR template &amp; Classify PR &amp; Generate release note](https://github.com/metallb/metallb-operator/pull/462) on [metallb/metallb-operator](https://github.com/metallb/metallb-operator) (5 days ago)
+  - [[zh-cn] sync EndpointSlice with en](https://github.com/kubernetes/website/pull/46011) on [kubernetes/website](https://github.com/kubernetes/website) (today)
+  - [Remove redundant closing spaces](https://github.com/kubernetes/website/pull/45999) on [kubernetes/website](https://github.com/kubernetes/website) (1 day ago)
+  - [[zh-cn] sync DaemonSet with en](https://github.com/kubernetes/website/pull/45989) on [kubernetes/website](https://github.com/kubernetes/website) (1 day ago)
+  - [[zh-cn] sync Deployment with en](https://github.com/kubernetes/website/pull/45975) on [kubernetes/website](https://github.com/kubernetes/website) (2 days ago)
+  - [[zh-cn] sync StatefulSet with en](https://github.com/kubernetes/website/pull/45973) on [kubernetes/website](https://github.com/kubernetes/website) (2 days ago)
+  - [feat: KubeArmor support toleration config](https://github.com/kubearmor/KubeArmor/pull/1731) on [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) (5 days ago)
+  - [Add PR template &amp; Classify PR &amp; Generate release note](https://github.com/metallb/metallb-operator/pull/462) on [metallb/metallb-operator](https://github.com/metallb/metallb-operator) (6 days ago)
   - [Bump envoy to v1.30.0](https://github.com/projectcontour/contour/pull/6353) on [projectcontour/contour](https://github.com/projectcontour/contour) (1 week ago)
   - [CI: sign image with cosign on release](https://github.com/metallb/metallb-operator/pull/458) on [metallb/metallb-operator](https://github.com/metallb/metallb-operator) (1 week ago)
   - [Feat: dependabot initial config](https://github.com/kubernetes-sigs/kubespray/pull/11084) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
-  - [Merge dependabot](https://github.com/tico88612/kubespray/pull/1) on [tico88612/kubespray](https://github.com/tico88612/kubespray) (1 week ago)
 
   #### ⭐ Recent Stars
   
@@ -72,7 +72,7 @@
   - [gladstone-institutes/Bioinformatics-Workshops](https://github.com/gladstone-institutes/Bioinformatics-Workshops) - Workshops presented by the Gladstone Bioinformatics Core (6 months ago)
   - [mantou132/Spotify-Lyrics](https://github.com/mantou132/Spotify-Lyrics) - 🎉 Desktop Spotify Web Player Instant Synchronised Lyrics (6 months ago)
   - [cncf/mentoring](https://github.com/cncf/mentoring) - 👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring: LFX Mentorship &#43; Summer of Code (9 months ago)
-  - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (10 months ago)
+  - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (11 months ago)
   - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects (11 months ago)
   - [XPoet/hexo-theme-keep](https://github.com/XPoet/hexo-theme-keep) - :rainbow: A simple and light theme for Hexo. It makes you more focused on writing. (11 months ago)
   - [EvanNotFound/hexo-theme-redefine](https://github.com/EvanNotFound/hexo-theme-redefine) - Simplicity in Speed, Purity in Design: Redefine Your Hexo Journey. (11 months ago)
