@@ -66,6 +66,7 @@
 
   #### ⭐ Recent Stars
   
+  - [kubernetes/enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes (today)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (4 months ago)
   - [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers: Linux &amp; DevOps Troubleshooting Scenarios SaaS (5 months ago)
   - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南 (5 months ago)
@@ -75,7 +76,6 @@
   - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (11 months ago)
   - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects (11 months ago)
   - [XPoet/hexo-theme-keep](https://github.com/XPoet/hexo-theme-keep) - :rainbow: A simple and light theme for Hexo. It makes you more focused on writing. (11 months ago)
-  - [EvanNotFound/hexo-theme-redefine](https://github.com/EvanNotFound/hexo-theme-redefine) - Simplicity in Speed, Purity in Design: Redefine Your Hexo Journey. (11 months ago)
 
   #### 👯 Check out some of my recent followers
   
