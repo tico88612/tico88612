@@ -20,8 +20,8 @@
   - [metallb/metallb-operator](https://github.com/metallb/metallb-operator) - MetalLB Operator for deploying metallb (1 week ago)
   - [projectcontour/contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy. (1 week ago)
   - [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols (2 weeks ago)
-  - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform (2 weeks ago)
   - [knative/docs](https://github.com/knative/docs) - User documentation for Knative components. (2 weeks ago)
+  - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform (2 weeks ago)
   - [jaegertracing/documentation](https://github.com/jaegertracing/documentation) - Documentation/website for the Jaeger Distributed Tracing project. (3 weeks ago)
   - [cloud-native-taiwan/cloud-native-taiwan.github.io](https://github.com/cloud-native-taiwan/cloud-native-taiwan.github.io) - Cloud Native Taiwan website (3 weeks ago)
 
