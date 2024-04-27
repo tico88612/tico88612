@@ -53,6 +53,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [[zh-cn] sync `Pod Topology Spread Constraints`](https://github.com/kubernetes/website/pull/46033) on [kubernetes/website](https://github.com/kubernetes/website) (today)
   - [[zh-cn] sync only update `api_metadata` docs](https://github.com/kubernetes/website/pull/46011) on [kubernetes/website](https://github.com/kubernetes/website) (2 days ago)
   - [Remove redundant closing spaces](https://github.com/kubernetes/website/pull/45999) on [kubernetes/website](https://github.com/kubernetes/website) (3 days ago)
   - [[zh-cn] sync DaemonSet with en](https://github.com/kubernetes/website/pull/45989) on [kubernetes/website](https://github.com/kubernetes/website) (3 days ago)
@@ -62,7 +63,6 @@
   - [Add PR template &amp; Classify PR &amp; Generate release note](https://github.com/metallb/metallb-operator/pull/462) on [metallb/metallb-operator](https://github.com/metallb/metallb-operator) (1 week ago)
   - [Bump envoy to v1.30.0](https://github.com/projectcontour/contour/pull/6353) on [projectcontour/contour](https://github.com/projectcontour/contour) (1 week ago)
   - [CI: sign image with cosign on release](https://github.com/metallb/metallb-operator/pull/458) on [metallb/metallb-operator](https://github.com/metallb/metallb-operator) (1 week ago)
-  - [Feat: dependabot initial config](https://github.com/kubernetes-sigs/kubespray/pull/11084) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
 
   #### ⭐ Recent Stars
   
