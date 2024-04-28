@@ -53,6 +53,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [CI: add Ubuntu 24.04 support](https://github.com/kubernetes-sigs/kubespray/pull/11132) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [[zh-cn] minor update task/administer-cluster](https://github.com/kubernetes/website/pull/46035) on [kubernetes/website](https://github.com/kubernetes/website) (1 day ago)
   - [[zh-cn] sync `Pod Topology Spread Constraints`](https://github.com/kubernetes/website/pull/46033) on [kubernetes/website](https://github.com/kubernetes/website) (1 day ago)
   - [[zh-cn] sync only update `api_metadata` docs](https://github.com/kubernetes/website/pull/46011) on [kubernetes/website](https://github.com/kubernetes/website) (3 days ago)
@@ -62,7 +63,6 @@
   - [[zh-cn] sync StatefulSet with en](https://github.com/kubernetes/website/pull/45973) on [kubernetes/website](https://github.com/kubernetes/website) (5 days ago)
   - [feat: KubeArmor support toleration config](https://github.com/kubearmor/KubeArmor/pull/1731) on [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) (1 week ago)
   - [Add PR template &amp; Classify PR &amp; Generate release note](https://github.com/metallb/metallb-operator/pull/462) on [metallb/metallb-operator](https://github.com/metallb/metallb-operator) (1 week ago)
-  - [Bump envoy to v1.30.0](https://github.com/projectcontour/contour/pull/6353) on [projectcontour/contour](https://github.com/projectcontour/contour) (1 week ago)
 
   #### ⭐ Recent Stars
   
