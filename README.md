@@ -15,15 +15,15 @@
   #### 👷 Check out what I'm currently working on
   
   - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (1 day ago)
+  - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system (3 days ago)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (4 days ago)
   - [cloud-native-taiwan/Infra-Labs-Docs](https://github.com/cloud-native-taiwan/Infra-Labs-Docs) - Documentation for Cloud Native Taiwan Infra Labs (1 week ago)
   - [metallb/metallb-operator](https://github.com/metallb/metallb-operator) - MetalLB Operator for deploying metallb (1 week ago)
   - [projectcontour/contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy. (1 week ago)
   - [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols (2 weeks ago)
-  - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform (2 weeks ago)
   - [knative/docs](https://github.com/knative/docs) - User documentation for Knative components. (2 weeks ago)
+  - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform (2 weeks ago)
   - [jaegertracing/documentation](https://github.com/jaegertracing/documentation) - Documentation/website for the Jaeger Distributed Tracing project. (3 weeks ago)
-  - [cloud-native-taiwan/status-infra-labs](https://github.com/cloud-native-taiwan/status-infra-labs) -  (3 weeks ago)
 
   #### 🌱 My latest projects
   
@@ -40,6 +40,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.32](https://github.com/etcd-io/etcd/releases/tag/v3.4.32), 4 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
   - [kedacore/keda](https://github.com/kedacore/keda) ([v2.14.0](https://github.com/kedacore/keda/releases/tag/v2.14.0), 4 days ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.26.4](https://github.com/backstage/backstage/releases/tag/v1.26.4), 5 days ago) - Backstage is an open platform for building developer portals
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.50](https://github.com/meshery/meshery/releases/tag/v0.7.50), 5 days ago) - Meshery, the cloud native manager
@@ -49,7 +50,6 @@
   - [metal3-io/baremetal-operator](https://github.com/metal3-io/baremetal-operator) ([v0.6.0](https://github.com/metal3-io/baremetal-operator/releases/tag/v0.6.0), 1 week ago) - Bare metal host provisioning integration for Kubernetes
   - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.28.3](https://github.com/projectcontour/contour/releases/tag/v1.28.3), 2 weeks ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.56.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.56.0), 3 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
-  - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.40.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.40.0), 3 weeks ago) - Web UI for Jaeger
 
   #### 🔨 My recent Pull Requests
   
