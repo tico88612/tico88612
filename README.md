@@ -53,6 +53,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [[zh-cn] minor sync docs/reference/access-authn-authz](https://github.com/kubernetes/website/pull/46093) on [kubernetes/website](https://github.com/kubernetes/website) (today)
   - [[CI] Fix .github/labeler.yml upgrade to actions/labeler@v5 problem](https://github.com/meshery/meshery/pull/10817) on [meshery/meshery](https://github.com/meshery/meshery) (today)
   - [[zh-cn] Sync docs/reference/using-api](https://github.com/kubernetes/website/pull/46075) on [kubernetes/website](https://github.com/kubernetes/website) (1 day ago)
   - [CI: add Ubuntu 24.04 support](https://github.com/kubernetes-sigs/kubespray/pull/11132) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 days ago)
@@ -62,7 +63,6 @@
   - [Remove redundant closing spaces](https://github.com/kubernetes/website/pull/45999) on [kubernetes/website](https://github.com/kubernetes/website) (6 days ago)
   - [[zh-cn] sync DaemonSet with en](https://github.com/kubernetes/website/pull/45989) on [kubernetes/website](https://github.com/kubernetes/website) (6 days ago)
   - [[zh-cn] sync Deployment with en](https://github.com/kubernetes/website/pull/45975) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
-  - [[zh-cn] sync StatefulSet with en](https://github.com/kubernetes/website/pull/45973) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
 
   #### ⭐ Recent Stars
   
