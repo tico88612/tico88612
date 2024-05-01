@@ -40,6 +40,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.57.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.57.0), today) - Web UI for Jaeger
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.27.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.27.0-next.1), 1 day ago) - Backstage is an open platform for building developer portals
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.51](https://github.com/meshery/meshery/releases/tag/v0.7.51), 2 days ago) - Meshery, the cloud native manager
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.32](https://github.com/etcd-io/etcd/releases/tag/v3.4.32), 6 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
@@ -49,7 +50,6 @@
   - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.7.0](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.7.0), 1 week ago) - IP address Manager for Cluster API Provider Metal3
   - [metal3-io/baremetal-operator](https://github.com/metal3-io/baremetal-operator) ([v0.6.0](https://github.com/metal3-io/baremetal-operator/releases/tag/v0.6.0), 2 weeks ago) - Bare metal host provisioning integration for Kubernetes
   - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.28.3](https://github.com/projectcontour/contour/releases/tag/v1.28.3), 3 weeks ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
-  - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.56.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.56.0), 4 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
 
   #### 🔨 My recent Pull Requests
   
