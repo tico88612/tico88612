@@ -14,15 +14,15 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (today)
-  - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system (4 days ago)
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (5 days ago)
+  - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (1 day ago)
+  - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system (5 days ago)
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (6 days ago)
   - [cloud-native-taiwan/Infra-Labs-Docs](https://github.com/cloud-native-taiwan/Infra-Labs-Docs) - Documentation for Cloud Native Taiwan Infra Labs (1 week ago)
   - [metallb/metallb-operator](https://github.com/metallb/metallb-operator) - MetalLB Operator for deploying metallb (1 week ago)
   - [projectcontour/contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy. (1 week ago)
   - [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols (2 weeks ago)
-  - [knative/docs](https://github.com/knative/docs) - User documentation for Knative components. (2 weeks ago)
-  - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform (2 weeks ago)
+  - [knative/docs](https://github.com/knative/docs) - User documentation for Knative components. (3 weeks ago)
+  - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform (3 weeks ago)
   - [jaegertracing/documentation](https://github.com/jaegertracing/documentation) - Documentation/website for the Jaeger Distributed Tracing project. (3 weeks ago)
 
   #### 🌱 My latest projects
@@ -40,33 +40,33 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.27.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.27.0-next.1), today) - Backstage is an open platform for building developer portals
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.51](https://github.com/meshery/meshery/releases/tag/v0.7.51), 1 day ago) - Meshery, the cloud native manager
-  - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.32](https://github.com/etcd-io/etcd/releases/tag/v3.4.32), 5 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
-  - [kedacore/keda](https://github.com/kedacore/keda) ([v2.14.0](https://github.com/kedacore/keda/releases/tag/v2.14.0), 5 days ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.27.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.27.0-next.1), 1 day ago) - Backstage is an open platform for building developer portals
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.51](https://github.com/meshery/meshery/releases/tag/v0.7.51), 2 days ago) - Meshery, the cloud native manager
+  - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.32](https://github.com/etcd-io/etcd/releases/tag/v3.4.32), 6 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
+  - [kedacore/keda](https://github.com/kedacore/keda) ([v2.14.0](https://github.com/kedacore/keda/releases/tag/v2.14.0), 6 days ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
   - [metallb/metallb](https://github.com/metallb/metallb) ([v0.14.5](https://github.com/metallb/metallb/releases/tag/v0.14.5), 1 week ago) - A network load-balancer implementation for Kubernetes using standard routing protocols
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.7.0](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.7.0), 1 week ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
   - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.7.0](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.7.0), 1 week ago) - IP address Manager for Cluster API Provider Metal3
-  - [metal3-io/baremetal-operator](https://github.com/metal3-io/baremetal-operator) ([v0.6.0](https://github.com/metal3-io/baremetal-operator/releases/tag/v0.6.0), 1 week ago) - Bare metal host provisioning integration for Kubernetes
-  - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.28.3](https://github.com/projectcontour/contour/releases/tag/v1.28.3), 2 weeks ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
-  - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.56.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.56.0), 3 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
+  - [metal3-io/baremetal-operator](https://github.com/metal3-io/baremetal-operator) ([v0.6.0](https://github.com/metal3-io/baremetal-operator/releases/tag/v0.6.0), 2 weeks ago) - Bare metal host provisioning integration for Kubernetes
+  - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.28.3](https://github.com/projectcontour/contour/releases/tag/v1.28.3), 3 weeks ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
+  - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.56.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.56.0), 4 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
 
   #### 🔨 My recent Pull Requests
   
-  - [[zh-cn] minor sync docs/reference/access-authn-authz](https://github.com/kubernetes/website/pull/46093) on [kubernetes/website](https://github.com/kubernetes/website) (today)
-  - [[CI] Fix .github/labeler.yml upgrade to actions/labeler@v5 problem](https://github.com/meshery/meshery/pull/10817) on [meshery/meshery](https://github.com/meshery/meshery) (today)
-  - [[zh-cn] Sync docs/reference/using-api](https://github.com/kubernetes/website/pull/46075) on [kubernetes/website](https://github.com/kubernetes/website) (1 day ago)
-  - [CI: add Ubuntu 24.04 support](https://github.com/kubernetes-sigs/kubespray/pull/11132) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 days ago)
-  - [[zh-cn] minor update task/administer-cluster](https://github.com/kubernetes/website/pull/46035) on [kubernetes/website](https://github.com/kubernetes/website) (3 days ago)
-  - [[zh-cn] sync `Pod Topology Spread Constraints`](https://github.com/kubernetes/website/pull/46033) on [kubernetes/website](https://github.com/kubernetes/website) (3 days ago)
-  - [[zh-cn] sync only update `api_metadata` docs](https://github.com/kubernetes/website/pull/46011) on [kubernetes/website](https://github.com/kubernetes/website) (5 days ago)
-  - [Remove redundant closing spaces](https://github.com/kubernetes/website/pull/45999) on [kubernetes/website](https://github.com/kubernetes/website) (6 days ago)
-  - [[zh-cn] sync DaemonSet with en](https://github.com/kubernetes/website/pull/45989) on [kubernetes/website](https://github.com/kubernetes/website) (6 days ago)
+  - [[zh-cn] minor sync docs/reference/access-authn-authz](https://github.com/kubernetes/website/pull/46093) on [kubernetes/website](https://github.com/kubernetes/website) (1 day ago)
+  - [[CI] Fix .github/labeler.yml upgrade to actions/labeler@v5 problem](https://github.com/meshery/meshery/pull/10817) on [meshery/meshery](https://github.com/meshery/meshery) (1 day ago)
+  - [[zh-cn] Sync docs/reference/using-api](https://github.com/kubernetes/website/pull/46075) on [kubernetes/website](https://github.com/kubernetes/website) (2 days ago)
+  - [CI: add Ubuntu 24.04 support](https://github.com/kubernetes-sigs/kubespray/pull/11132) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 days ago)
+  - [[zh-cn] minor update task/administer-cluster](https://github.com/kubernetes/website/pull/46035) on [kubernetes/website](https://github.com/kubernetes/website) (4 days ago)
+  - [[zh-cn] sync `Pod Topology Spread Constraints`](https://github.com/kubernetes/website/pull/46033) on [kubernetes/website](https://github.com/kubernetes/website) (4 days ago)
+  - [[zh-cn] sync only update `api_metadata` docs](https://github.com/kubernetes/website/pull/46011) on [kubernetes/website](https://github.com/kubernetes/website) (6 days ago)
+  - [Remove redundant closing spaces](https://github.com/kubernetes/website/pull/45999) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
+  - [[zh-cn] sync DaemonSet with en](https://github.com/kubernetes/website/pull/45989) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
   - [[zh-cn] sync Deployment with en](https://github.com/kubernetes/website/pull/45975) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
 
   #### ⭐ Recent Stars
   
-  - [kubernetes/enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes (4 days ago)
+  - [kubernetes/enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes (5 days ago)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (4 months ago)
   - [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers: Linux &amp; DevOps Troubleshooting Scenarios SaaS (5 months ago)
   - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南 (5 months ago)
