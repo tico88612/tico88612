@@ -40,11 +40,11 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.52](https://github.com/meshery/meshery/releases/tag/v0.7.52), today) - Meshery, the cloud native manager
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.57.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.57.0), today) - CNCF Jaeger, a Distributed Tracing Platform
   - [metallb/metallb-operator](https://github.com/metallb/metallb-operator) ([v0.14.2](https://github.com/metallb/metallb-operator/releases/tag/v0.14.2), today) - MetalLB Operator for deploying metallb
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.57.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.57.0), 1 day ago) - Web UI for Jaeger
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.27.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.27.0-next.1), 2 days ago) - Backstage is an open platform for building developer portals
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.51](https://github.com/meshery/meshery/releases/tag/v0.7.51), 3 days ago) - Meshery, the cloud native manager
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.32](https://github.com/etcd-io/etcd/releases/tag/v3.4.32), 1 week ago) - Distributed reliable key-value store for the most critical data of a distributed system
   - [kedacore/keda](https://github.com/kedacore/keda) ([v2.14.0](https://github.com/kedacore/keda/releases/tag/v2.14.0), 1 week ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
   - [metallb/metallb](https://github.com/metallb/metallb) ([v0.14.5](https://github.com/metallb/metallb/releases/tag/v0.14.5), 1 week ago) - A network load-balancer implementation for Kubernetes using standard routing protocols
