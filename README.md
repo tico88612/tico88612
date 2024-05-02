@@ -40,6 +40,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.29.0-rc.1](https://github.com/projectcontour/contour/releases/tag/v1.29.0-rc.1), today) - Contour is a Kubernetes ingress controller using Envoy proxy.
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.52](https://github.com/meshery/meshery/releases/tag/v0.7.52), today) - Meshery, the cloud native manager
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.57.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.57.0), today) - CNCF Jaeger, a Distributed Tracing Platform
   - [metallb/metallb-operator](https://github.com/metallb/metallb-operator) ([v0.14.2](https://github.com/metallb/metallb-operator/releases/tag/v0.14.2), today) - MetalLB Operator for deploying metallb
@@ -49,7 +50,6 @@
   - [kedacore/keda](https://github.com/kedacore/keda) ([v2.14.0](https://github.com/kedacore/keda/releases/tag/v2.14.0), 1 week ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
   - [metallb/metallb](https://github.com/metallb/metallb) ([v0.14.5](https://github.com/metallb/metallb/releases/tag/v0.14.5), 1 week ago) - A network load-balancer implementation for Kubernetes using standard routing protocols
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.7.0](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.7.0), 2 weeks ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
-  - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.7.0](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.7.0), 2 weeks ago) - IP address Manager for Cluster API Provider Metal3
 
   #### 🔨 My recent Pull Requests
   
