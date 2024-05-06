@@ -15,6 +15,7 @@
   #### 👷 Check out what I'm currently working on
   
   - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (2 days ago)
+  - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (6 days ago)
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system (1 week ago)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (1 week ago)
   - [cloud-native-taiwan/Infra-Labs-Docs](https://github.com/cloud-native-taiwan/Infra-Labs-Docs) - Documentation for Cloud Native Taiwan Infra Labs (2 weeks ago)
@@ -23,7 +24,6 @@
   - [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols (3 weeks ago)
   - [knative/docs](https://github.com/knative/docs) - User documentation for Knative components. (3 weeks ago)
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform (3 weeks ago)
-  - [jaegertracing/documentation](https://github.com/jaegertracing/documentation) - Documentation/website for the Jaeger Distributed Tracing project. (1 month ago)
 
   #### 🌱 My latest projects
   
