@@ -53,6 +53,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [add tico88612 to kubernetes-sigs, kubernetes](https://github.com/kubernetes/org/pull/4934) on [kubernetes/org](https://github.com/kubernetes/org) (today)
   - [Fix: website name &amp; URL link](https://github.com/cncf/ambassadors/pull/115) on [cncf/ambassadors](https://github.com/cncf/ambassadors) (2 days ago)
   - [[zh-cn] sync releases/_index.md](https://github.com/kubernetes/website/pull/46168) on [kubernetes/website](https://github.com/kubernetes/website) (3 days ago)
   - [[zh-cn] minor sync docs/reference/access-authn-authz](https://github.com/kubernetes/website/pull/46093) on [kubernetes/website](https://github.com/kubernetes/website) (6 days ago)
@@ -62,7 +63,6 @@
   - [[zh-cn] minor update task/administer-cluster](https://github.com/kubernetes/website/pull/46035) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
   - [[zh-cn] sync `Pod Topology Spread Constraints`](https://github.com/kubernetes/website/pull/46033) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
   - [[zh-cn] sync only update `api_metadata` docs](https://github.com/kubernetes/website/pull/46011) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
-  - [Remove redundant closing spaces](https://github.com/kubernetes/website/pull/45999) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
 
   #### ⭐ Recent Stars
   
