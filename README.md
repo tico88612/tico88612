@@ -79,11 +79,11 @@
 
   #### 👯 Check out some of my recent followers
   
+  - [googs1025](https://github.com/googs1025)
   - [sophie0730](https://github.com/sophie0730)
   - [sanshah1211](https://github.com/sanshah1211)
   - [yankay](https://github.com/yankay)
   - [EricChangOwO](https://github.com/EricChangOwO)
-  - [Chengxufeng1994](https://github.com/Chengxufeng1994)
 </details>
 
 <img src="https://github-readme-stats.vercel.app/api?username=tico88612&hide_title=true&count_private=true&show_icons=true" />
