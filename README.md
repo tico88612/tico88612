@@ -40,8 +40,8 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.27.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.27.0-next.2), today) - Backstage is an open platform for building developer portals
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.54](https://github.com/meshery/meshery/releases/tag/v0.7.54), 1 day ago) - Meshery, the cloud native manager
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.26.5](https://github.com/backstage/backstage/releases/tag/v1.26.5), 4 days ago) - Backstage is an open platform for building developer portals
   - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.29.0-rc.1](https://github.com/projectcontour/contour/releases/tag/v1.29.0-rc.1), 5 days ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.57.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.57.0), 5 days ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [metallb/metallb-operator](https://github.com/metallb/metallb-operator) ([v0.14.2](https://github.com/metallb/metallb-operator/releases/tag/v0.14.2), 5 days ago) - MetalLB Operator for deploying metallb
@@ -53,6 +53,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Bump openstack-cloud-controller-manager from 1.25.3 to 1.28.2](https://github.com/kubernetes-sigs/kubespray/pull/11174) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [add tico88612 to kubernetes-sigs, kubernetes](https://github.com/kubernetes/org/pull/4934) on [kubernetes/org](https://github.com/kubernetes/org) (1 day ago)
   - [Fix: website name &amp; URL link](https://github.com/cncf/ambassadors/pull/115) on [cncf/ambassadors](https://github.com/cncf/ambassadors) (3 days ago)
   - [[zh-cn] sync releases/_index.md](https://github.com/kubernetes/website/pull/46168) on [kubernetes/website](https://github.com/kubernetes/website) (4 days ago)
@@ -62,7 +63,6 @@
   - [CI: add Ubuntu 24.04 support](https://github.com/kubernetes-sigs/kubespray/pull/11132) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [[zh-cn] minor update task/administer-cluster](https://github.com/kubernetes/website/pull/46035) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
   - [[zh-cn] sync `Pod Topology Spread Constraints`](https://github.com/kubernetes/website/pull/46033) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
-  - [[zh-cn] sync only update `api_metadata` docs](https://github.com/kubernetes/website/pull/46011) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
 
   #### ⭐ Recent Stars
   
