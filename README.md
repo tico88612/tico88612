@@ -53,6 +53,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [[zh-cn] Sync reference/setup-tools/kubeadm](https://github.com/kubernetes/website/pull/46289) on [kubernetes/website](https://github.com/kubernetes/website) (today)
   - [Bump openstack-cloud-controller-manager from 1.25.3 to 1.28.2](https://github.com/kubernetes-sigs/kubespray/pull/11174) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 days ago)
   - [add tico88612 to kubernetes-sigs, kubernetes](https://github.com/kubernetes/org/pull/4934) on [kubernetes/org](https://github.com/kubernetes/org) (3 days ago)
   - [Fix: website name &amp; URL link](https://github.com/cncf/ambassadors/pull/115) on [cncf/ambassadors](https://github.com/cncf/ambassadors) (5 days ago)
@@ -62,7 +63,6 @@
   - [[zh-cn] Sync docs/reference/using-api](https://github.com/kubernetes/website/pull/46075) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
   - [CI: add Ubuntu 24.04 support](https://github.com/kubernetes-sigs/kubespray/pull/11132) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [[zh-cn] minor update task/administer-cluster](https://github.com/kubernetes/website/pull/46035) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
-  - [[zh-cn] sync `Pod Topology Spread Constraints`](https://github.com/kubernetes/website/pull/46033) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
 
   #### ⭐ Recent Stars
   
