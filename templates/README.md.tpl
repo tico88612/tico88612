@@ -6,7 +6,7 @@
 
 - 🧑‍💻 IT/SRE @ Hualien, Taiwan
 - 🐳 Kubernetes, Container, Golang, Typescript
-- 🤝 CNCF Ambassador (H1 2024) | CNTUG Co-Organizer
+- 🤝 CNCF Ambassador (H1 2024) | CNTUG Co-Organizer | Kubernetes & Kubernetes SIGs member
 - ❤️ Kagamine Rin
 
 <details>
