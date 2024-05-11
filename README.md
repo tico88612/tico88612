@@ -53,6 +53,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Fix: sample inventory local path provisioner image repo](https://github.com/kubernetes-sigs/kubespray/pull/11180) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [[zh-cn] Sync reference/setup-tools/kubeadm](https://github.com/kubernetes/website/pull/46289) on [kubernetes/website](https://github.com/kubernetes/website) (2 days ago)
   - [Bump openstack-cloud-controller-manager from 1.25.3 to 1.28.2](https://github.com/kubernetes-sigs/kubespray/pull/11174) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 days ago)
   - [add tico88612 to kubernetes-sigs, kubernetes](https://github.com/kubernetes/org/pull/4934) on [kubernetes/org](https://github.com/kubernetes/org) (5 days ago)
@@ -62,7 +63,6 @@
   - [[CI] Fix .github/labeler.yml upgrade to actions/labeler@v5 problem](https://github.com/meshery/meshery/pull/10817) on [meshery/meshery](https://github.com/meshery/meshery) (1 week ago)
   - [[zh-cn] Sync docs/reference/using-api](https://github.com/kubernetes/website/pull/46075) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
   - [CI: add Ubuntu 24.04 support](https://github.com/kubernetes-sigs/kubespray/pull/11132) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
-  - [[zh-cn] minor update task/administer-cluster](https://github.com/kubernetes/website/pull/46035) on [kubernetes/website](https://github.com/kubernetes/website) (2 weeks ago)
 
   #### ⭐ Recent Stars
   
