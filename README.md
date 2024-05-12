@@ -14,6 +14,7 @@
 
   #### 👷 Check out what I'm currently working on
   
+  - [jaegertracing/documentation](https://github.com/jaegertracing/documentation) - Documentation/website for the Jaeger Distributed Tracing project. (today)
   - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (3 days ago)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (4 days ago)
   - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (5 days ago)
@@ -23,7 +24,6 @@
   - [metallb/metallb-operator](https://github.com/metallb/metallb-operator) - MetalLB Operator for deploying metallb (3 weeks ago)
   - [projectcontour/contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy. (3 weeks ago)
   - [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols (1 month ago)
-  - [knative/docs](https://github.com/knative/docs) - User documentation for Knative components. (1 month ago)
 
   #### 🌱 My latest projects
   
