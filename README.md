@@ -53,6 +53,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Remove: support ElasticSearch 5.x &amp; 6.x](https://github.com/jaegertracing/documentation/pull/703) on [jaegertracing/documentation](https://github.com/jaegertracing/documentation) (today)
   - [Fix: sample inventory local path provisioner image repo](https://github.com/kubernetes-sigs/kubespray/pull/11180) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 day ago)
   - [[zh-cn] Sync reference/setup-tools/kubeadm](https://github.com/kubernetes/website/pull/46289) on [kubernetes/website](https://github.com/kubernetes/website) (3 days ago)
   - [Bump openstack-cloud-controller-manager from 1.25.3 to 1.28.2](https://github.com/kubernetes-sigs/kubespray/pull/11174) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (5 days ago)
@@ -62,7 +63,6 @@
   - [[zh-cn] minor sync docs/reference/access-authn-authz](https://github.com/kubernetes/website/pull/46093) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
   - [[CI] Fix .github/labeler.yml upgrade to actions/labeler@v5 problem](https://github.com/meshery/meshery/pull/10817) on [meshery/meshery](https://github.com/meshery/meshery) (1 week ago)
   - [[zh-cn] Sync docs/reference/using-api](https://github.com/kubernetes/website/pull/46075) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
-  - [CI: add Ubuntu 24.04 support](https://github.com/kubernetes-sigs/kubespray/pull/11132) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
 
   #### ⭐ Recent Stars
   
