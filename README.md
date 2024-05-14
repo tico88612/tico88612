@@ -53,6 +53,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Add members 2024-05-14](https://github.com/kubernetes/org/pull/4950) on [kubernetes/org](https://github.com/kubernetes/org) (today)
   - [Remove: support ElasticSearch 5.x &amp; 6.x](https://github.com/jaegertracing/documentation/pull/703) on [jaegertracing/documentation](https://github.com/jaegertracing/documentation) (2 days ago)
   - [Fix: sample inventory local path provisioner image repo](https://github.com/kubernetes-sigs/kubespray/pull/11180) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 days ago)
   - [[zh-cn] Sync reference/setup-tools/kubeadm](https://github.com/kubernetes/website/pull/46289) on [kubernetes/website](https://github.com/kubernetes/website) (5 days ago)
@@ -62,7 +63,6 @@
   - [[zh-cn] sync releases/_index.md](https://github.com/kubernetes/website/pull/46168) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
   - [[zh-cn] minor sync docs/reference/access-authn-authz](https://github.com/kubernetes/website/pull/46093) on [kubernetes/website](https://github.com/kubernetes/website) (2 weeks ago)
   - [[CI] Fix .github/labeler.yml upgrade to actions/labeler@v5 problem](https://github.com/meshery/meshery/pull/10817) on [meshery/meshery](https://github.com/meshery/meshery) (2 weeks ago)
-  - [[zh-cn] Sync docs/reference/using-api](https://github.com/kubernetes/website/pull/46075) on [kubernetes/website](https://github.com/kubernetes/website) (2 weeks ago)
 
   #### ⭐ Recent Stars
   
