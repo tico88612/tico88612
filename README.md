@@ -14,9 +14,9 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (1 day ago)
-  - [jaegertracing/documentation](https://github.com/jaegertracing/documentation) - Documentation/website for the Jaeger Distributed Tracing project. (2 days ago)
-  - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (5 days ago)
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (2 days ago)
+  - [jaegertracing/documentation](https://github.com/jaegertracing/documentation) - Documentation/website for the Jaeger Distributed Tracing project. (3 days ago)
+  - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (6 days ago)
   - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (1 week ago)
   - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (2 weeks ago)
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system (2 weeks ago)
@@ -40,12 +40,12 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.57](https://github.com/meshery/meshery/releases/tag/v0.7.57), today) - Meshery, the cloud native manager
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.27.0](https://github.com/backstage/backstage/releases/tag/v1.27.0), today) - Backstage is an open platform for building developer portals
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.57](https://github.com/meshery/meshery/releases/tag/v0.7.57), 1 day ago) - Meshery, the cloud native manager
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.27.0](https://github.com/backstage/backstage/releases/tag/v1.27.0), 1 day ago) - Backstage is an open platform for building developer portals
   - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.29.0](https://github.com/projectcontour/contour/releases/tag/v1.29.0), 1 week ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.57.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.57.0), 1 week ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [metallb/metallb-operator](https://github.com/metallb/metallb-operator) ([v0.14.2](https://github.com/metallb/metallb-operator/releases/tag/v0.14.2), 1 week ago) - MetalLB Operator for deploying metallb
-  - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.57.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.57.0), 1 week ago) - Web UI for Jaeger
+  - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.57.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.57.0), 2 weeks ago) - Web UI for Jaeger
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.32](https://github.com/etcd-io/etcd/releases/tag/v3.4.32), 2 weeks ago) - Distributed reliable key-value store for the most critical data of a distributed system
   - [kedacore/keda](https://github.com/kedacore/keda) ([v2.14.0](https://github.com/kedacore/keda/releases/tag/v2.14.0), 2 weeks ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
   - [metallb/metallb](https://github.com/metallb/metallb) ([v0.14.5](https://github.com/metallb/metallb/releases/tag/v0.14.5), 3 weeks ago) - A network load-balancer implementation for Kubernetes using standard routing protocols
@@ -53,10 +53,10 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [Add members 2024-05-14](https://github.com/kubernetes/org/pull/4950) on [kubernetes/org](https://github.com/kubernetes/org) (today)
-  - [Remove: support ElasticSearch 5.x &amp; 6.x](https://github.com/jaegertracing/documentation/pull/703) on [jaegertracing/documentation](https://github.com/jaegertracing/documentation) (2 days ago)
-  - [Fix: sample inventory local path provisioner image repo](https://github.com/kubernetes-sigs/kubespray/pull/11180) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 days ago)
-  - [[zh-cn] Sync reference/setup-tools/kubeadm](https://github.com/kubernetes/website/pull/46289) on [kubernetes/website](https://github.com/kubernetes/website) (5 days ago)
+  - [Add members 2024-05-14](https://github.com/kubernetes/org/pull/4950) on [kubernetes/org](https://github.com/kubernetes/org) (1 day ago)
+  - [Remove: support ElasticSearch 5.x &amp; 6.x](https://github.com/jaegertracing/documentation/pull/703) on [jaegertracing/documentation](https://github.com/jaegertracing/documentation) (3 days ago)
+  - [Fix: sample inventory local path provisioner image repo](https://github.com/kubernetes-sigs/kubespray/pull/11180) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 days ago)
+  - [[zh-cn] Sync reference/setup-tools/kubeadm](https://github.com/kubernetes/website/pull/46289) on [kubernetes/website](https://github.com/kubernetes/website) (6 days ago)
   - [Bump openstack-cloud-controller-manager from 1.25.3 to 1.28.2](https://github.com/kubernetes-sigs/kubespray/pull/11174) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [add tico88612 to kubernetes-sigs, kubernetes](https://github.com/kubernetes/org/pull/4934) on [kubernetes/org](https://github.com/kubernetes/org) (1 week ago)
   - [Fix: website name &amp; URL link](https://github.com/cncf/ambassadors/pull/115) on [cncf/ambassadors](https://github.com/cncf/ambassadors) (1 week ago)
