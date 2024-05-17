@@ -14,12 +14,12 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (today)
-  - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (1 day ago)
-  - [jaegertracing/documentation](https://github.com/jaegertracing/documentation) - Documentation/website for the Jaeger Distributed Tracing project. (4 days ago)
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (1 day ago)
+  - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (2 days ago)
+  - [jaegertracing/documentation](https://github.com/jaegertracing/documentation) - Documentation/website for the Jaeger Distributed Tracing project. (5 days ago)
   - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (1 week ago)
   - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (2 weeks ago)
-  - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system (2 weeks ago)
+  - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system (3 weeks ago)
   - [cloud-native-taiwan/Infra-Labs-Docs](https://github.com/cloud-native-taiwan/Infra-Labs-Docs) - Documentation for Cloud Native Taiwan Infra Labs (3 weeks ago)
   - [metallb/metallb-operator](https://github.com/metallb/metallb-operator) - MetalLB Operator for deploying metallb (3 weeks ago)
   - [projectcontour/contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy. (4 weeks ago)
@@ -40,33 +40,33 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.27.2](https://github.com/backstage/backstage/releases/tag/v1.27.2), today) - Backstage is an open framework for building developer portals
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.57](https://github.com/meshery/meshery/releases/tag/v0.7.57), 2 days ago) - Meshery, the cloud native manager
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.27.2](https://github.com/backstage/backstage/releases/tag/v1.27.2), 1 day ago) - Backstage is an open framework for building developer portals
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.57](https://github.com/meshery/meshery/releases/tag/v0.7.57), 3 days ago) - Meshery, the cloud native manager
   - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.29.0](https://github.com/projectcontour/contour/releases/tag/v1.29.0), 1 week ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.57.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.57.0), 2 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [metallb/metallb-operator](https://github.com/metallb/metallb-operator) ([v0.14.2](https://github.com/metallb/metallb-operator/releases/tag/v0.14.2), 2 weeks ago) - MetalLB Operator for deploying metallb
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.57.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.57.0), 2 weeks ago) - Web UI for Jaeger
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.32](https://github.com/etcd-io/etcd/releases/tag/v3.4.32), 3 weeks ago) - Distributed reliable key-value store for the most critical data of a distributed system
   - [kedacore/keda](https://github.com/kedacore/keda) ([v2.14.0](https://github.com/kedacore/keda/releases/tag/v2.14.0), 3 weeks ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
-  - [metallb/metallb](https://github.com/metallb/metallb) ([v0.14.5](https://github.com/metallb/metallb/releases/tag/v0.14.5), 3 weeks ago) - A network load-balancer implementation for Kubernetes using standard routing protocols
+  - [metallb/metallb](https://github.com/metallb/metallb) ([v0.14.5](https://github.com/metallb/metallb/releases/tag/v0.14.5), 4 weeks ago) - A network load-balancer implementation for Kubernetes using standard routing protocols
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.7.0](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.7.0), 4 weeks ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
 
   #### 🔨 My recent Pull Requests
   
-  - [Bump docker version from 24.0 to 26.1](https://github.com/kubernetes-sigs/kubespray/pull/11198) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 day ago)
-  - [Add members 2024-05-14](https://github.com/kubernetes/org/pull/4950) on [kubernetes/org](https://github.com/kubernetes/org) (2 days ago)
-  - [Remove: support ElasticSearch 5.x &amp; 6.x](https://github.com/jaegertracing/documentation/pull/703) on [jaegertracing/documentation](https://github.com/jaegertracing/documentation) (4 days ago)
-  - [Fix: sample inventory local path provisioner image repo](https://github.com/kubernetes-sigs/kubespray/pull/11180) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (5 days ago)
+  - [Feat: Support ARM64 platform in XGBoost examples](https://github.com/kubeflow/training-operator/pull/2114) on [kubeflow/training-operator](https://github.com/kubeflow/training-operator) (today)
+  - [Bump docker version from 24.0 to 26.1](https://github.com/kubernetes-sigs/kubespray/pull/11198) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 days ago)
+  - [Add members 2024-05-14](https://github.com/kubernetes/org/pull/4950) on [kubernetes/org](https://github.com/kubernetes/org) (3 days ago)
+  - [Remove: support ElasticSearch 5.x &amp; 6.x](https://github.com/jaegertracing/documentation/pull/703) on [jaegertracing/documentation](https://github.com/jaegertracing/documentation) (5 days ago)
+  - [Fix: sample inventory local path provisioner image repo](https://github.com/kubernetes-sigs/kubespray/pull/11180) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (6 days ago)
   - [[zh-cn] Sync reference/setup-tools/kubeadm](https://github.com/kubernetes/website/pull/46289) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
   - [Bump openstack-cloud-controller-manager from 1.25.3 to 1.28.2](https://github.com/kubernetes-sigs/kubespray/pull/11174) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [add tico88612 to kubernetes-sigs, kubernetes](https://github.com/kubernetes/org/pull/4934) on [kubernetes/org](https://github.com/kubernetes/org) (1 week ago)
   - [Fix: website name &amp; URL link](https://github.com/cncf/ambassadors/pull/115) on [cncf/ambassadors](https://github.com/cncf/ambassadors) (1 week ago)
-  - [[zh-cn] sync releases/_index.md](https://github.com/kubernetes/website/pull/46168) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
-  - [[zh-cn] minor sync docs/reference/access-authn-authz](https://github.com/kubernetes/website/pull/46093) on [kubernetes/website](https://github.com/kubernetes/website) (2 weeks ago)
+  - [[zh-cn] sync releases/_index.md](https://github.com/kubernetes/website/pull/46168) on [kubernetes/website](https://github.com/kubernetes/website) (2 weeks ago)
 
   #### ⭐ Recent Stars
   
-  - [kubernetes/enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes (2 weeks ago)
+  - [kubernetes/enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes (3 weeks ago)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (5 months ago)
   - [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers: Linux &amp; DevOps Troubleshooting Scenarios SaaS (6 months ago)
   - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南 (6 months ago)
