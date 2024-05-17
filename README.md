@@ -14,6 +14,7 @@
 
   #### 👷 Check out what I'm currently working on
   
+  - [kubeflow/training-operator](https://github.com/kubeflow/training-operator) - Distributed ML Training and Fine-Tuning on Kubernetes (today)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (1 day ago)
   - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (2 days ago)
   - [jaegertracing/documentation](https://github.com/jaegertracing/documentation) - Documentation/website for the Jaeger Distributed Tracing project. (5 days ago)
@@ -23,7 +24,6 @@
   - [cloud-native-taiwan/Infra-Labs-Docs](https://github.com/cloud-native-taiwan/Infra-Labs-Docs) - Documentation for Cloud Native Taiwan Infra Labs (3 weeks ago)
   - [metallb/metallb-operator](https://github.com/metallb/metallb-operator) - MetalLB Operator for deploying metallb (3 weeks ago)
   - [projectcontour/contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy. (4 weeks ago)
-  - [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols (1 month ago)
 
   #### 🌱 My latest projects
   
@@ -46,10 +46,10 @@
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.57.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.57.0), 2 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [metallb/metallb-operator](https://github.com/metallb/metallb-operator) ([v0.14.2](https://github.com/metallb/metallb-operator/releases/tag/v0.14.2), 2 weeks ago) - MetalLB Operator for deploying metallb
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.57.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.57.0), 2 weeks ago) - Web UI for Jaeger
+  - [kubeflow/training-operator](https://github.com/kubeflow/training-operator) ([v1.8.0-rc.0](https://github.com/kubeflow/training-operator/releases/tag/v1.8.0-rc.0), 2 weeks ago) - Distributed ML Training and Fine-Tuning on Kubernetes
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.32](https://github.com/etcd-io/etcd/releases/tag/v3.4.32), 3 weeks ago) - Distributed reliable key-value store for the most critical data of a distributed system
   - [kedacore/keda](https://github.com/kedacore/keda) ([v2.14.0](https://github.com/kedacore/keda/releases/tag/v2.14.0), 3 weeks ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
   - [metallb/metallb](https://github.com/metallb/metallb) ([v0.14.5](https://github.com/metallb/metallb/releases/tag/v0.14.5), 4 weeks ago) - A network load-balancer implementation for Kubernetes using standard routing protocols
-  - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.7.0](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.7.0), 4 weeks ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
 
   #### 🔨 My recent Pull Requests
   
