@@ -40,6 +40,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.25.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.25.0), today) - Deploy a Production Ready Kubernetes Cluster
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.59](https://github.com/meshery/meshery/releases/tag/v0.7.59), 4 days ago) - Meshery, the cloud native manager
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.27.2](https://github.com/backstage/backstage/releases/tag/v1.27.2), 5 days ago) - Backstage is an open framework for building developer portals
   - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.29.0](https://github.com/projectcontour/contour/releases/tag/v1.29.0), 2 weeks ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
@@ -49,7 +50,6 @@
   - [kubeflow/training-operator](https://github.com/kubeflow/training-operator) ([v1.8.0-rc.0](https://github.com/kubeflow/training-operator/releases/tag/v1.8.0-rc.0), 3 weeks ago) - Distributed ML Training and Fine-Tuning on Kubernetes
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.32](https://github.com/etcd-io/etcd/releases/tag/v3.4.32), 3 weeks ago) - Distributed reliable key-value store for the most critical data of a distributed system
   - [kedacore/keda](https://github.com/kedacore/keda) ([v2.14.0](https://github.com/kedacore/keda/releases/tag/v2.14.0), 3 weeks ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
-  - [metallb/metallb](https://github.com/metallb/metallb) ([v0.14.5](https://github.com/metallb/metallb/releases/tag/v0.14.5), 1 month ago) - A network load-balancer implementation for Kubernetes using standard routing protocols
 
   #### 🔨 My recent Pull Requests
   
