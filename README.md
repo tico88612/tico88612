@@ -40,8 +40,8 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.61](https://github.com/meshery/meshery/releases/tag/v0.7.61), today) - Meshery, the cloud native manager
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.27.3](https://github.com/backstage/backstage/releases/tag/v1.27.3), today) - Backstage is an open framework for building developer portals
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.60](https://github.com/meshery/meshery/releases/tag/v0.7.60), 1 day ago) - Meshery, the cloud native manager
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.25.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.25.0), 1 day ago) - Deploy a Production Ready Kubernetes Cluster
   - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.29.0](https://github.com/projectcontour/contour/releases/tag/v1.29.0), 2 weeks ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.57.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.57.0), 2 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
@@ -53,6 +53,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Bump CNI weave 2.8.1 to reweave 2.8.7](https://github.com/kubernetes-sigs/kubespray/pull/11228) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [[zh-cn] sync reference/node content](https://github.com/kubernetes/website/pull/46470) on [kubernetes/website](https://github.com/kubernetes/website) (1 day ago)
   - [Docs: fix README.md flannel link](https://github.com/kubernetes-sigs/kubespray/pull/11208) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 days ago)
   - [Feat: Support ARM64 platform in XGBoost examples](https://github.com/kubeflow/training-operator/pull/2114) on [kubeflow/training-operator](https://github.com/kubeflow/training-operator) (5 days ago)
@@ -62,7 +63,6 @@
   - [Fix: sample inventory local path provisioner image repo](https://github.com/kubernetes-sigs/kubespray/pull/11180) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [[zh-cn] Sync reference/setup-tools/kubeadm](https://github.com/kubernetes/website/pull/46289) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
   - [Bump openstack-cloud-controller-manager from 1.25.3 to 1.28.2](https://github.com/kubernetes-sigs/kubespray/pull/11174) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
-  - [add tico88612 to kubernetes-sigs, kubernetes](https://github.com/kubernetes/org/pull/4934) on [kubernetes/org](https://github.com/kubernetes/org) (2 weeks ago)
 
   #### ⭐ Recent Stars
   
