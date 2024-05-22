@@ -10,7 +10,7 @@
 - ❤️ Kagamine Rin
 
 <details>
-  <summary>My recent activities</summary>
+  <summary>My recent activities (click here to expand)</summary>
 
   #### 👷 Check out what I'm currently working on
   
