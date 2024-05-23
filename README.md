@@ -53,6 +53,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Docs: update ubuntu support version &amp; docker version](https://github.com/kubernetes-sigs/kubespray/pull/11231) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [Bump CNI weave 2.8.1 to reweave 2.8.7](https://github.com/kubernetes-sigs/kubespray/pull/11228) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 day ago)
   - [[zh-cn] sync reference/node content](https://github.com/kubernetes/website/pull/46470) on [kubernetes/website](https://github.com/kubernetes/website) (2 days ago)
   - [Docs: fix README.md flannel link](https://github.com/kubernetes-sigs/kubespray/pull/11208) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 days ago)
@@ -62,7 +63,6 @@
   - [Remove: support ElasticSearch 5.x &amp; 6.x](https://github.com/jaegertracing/documentation/pull/703) on [jaegertracing/documentation](https://github.com/jaegertracing/documentation) (1 week ago)
   - [Fix: sample inventory local path provisioner image repo](https://github.com/kubernetes-sigs/kubespray/pull/11180) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [[zh-cn] Sync reference/setup-tools/kubeadm](https://github.com/kubernetes/website/pull/46289) on [kubernetes/website](https://github.com/kubernetes/website) (2 weeks ago)
-  - [Bump openstack-cloud-controller-manager from 1.25.3 to 1.28.2](https://github.com/kubernetes-sigs/kubespray/pull/11174) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
 
   #### ⭐ Recent Stars
   
