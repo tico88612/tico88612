@@ -40,6 +40,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) ([v1.2.2](https://github.com/kubearmor/kubearmor-client/releases/tag/v1.2.2), today) - KubeArmor cli tool aka kArmor :robot:
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.64](https://github.com/meshery/meshery/releases/tag/v0.7.64), 4 days ago) - Meshery, the cloud native manager
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.27.3](https://github.com/backstage/backstage/releases/tag/v1.27.3), 5 days ago) - Backstage is an open framework for building developer portals
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.25.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.25.0), 6 days ago) - Deploy a Production Ready Kubernetes Cluster
@@ -49,7 +50,6 @@
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.57.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.57.0), 3 weeks ago) - Web UI for Jaeger
   - [kubeflow/training-operator](https://github.com/kubeflow/training-operator) ([v1.8.0-rc.0](https://github.com/kubeflow/training-operator/releases/tag/v1.8.0-rc.0), 4 weeks ago) - Distributed ML Training and Fine-Tuning on Kubernetes
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.32](https://github.com/etcd-io/etcd/releases/tag/v3.4.32), 1 month ago) - Distributed reliable key-value store for the most critical data of a distributed system
-  - [kedacore/keda](https://github.com/kedacore/keda) ([v2.14.0](https://github.com/kedacore/keda/releases/tag/v2.14.0), 1 month ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
 
   #### 🔨 My recent Pull Requests
   
