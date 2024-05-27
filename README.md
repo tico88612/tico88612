@@ -40,9 +40,9 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.27.4](https://github.com/backstage/backstage/releases/tag/v1.27.4), today) - Backstage is an open framework for building developer portals
   - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) ([v1.2.2](https://github.com/kubearmor/kubearmor-client/releases/tag/v1.2.2), today) - KubeArmor cli tool aka kArmor :robot:
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.64](https://github.com/meshery/meshery/releases/tag/v0.7.64), 4 days ago) - Meshery, the cloud native manager
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.27.3](https://github.com/backstage/backstage/releases/tag/v1.27.3), 5 days ago) - Backstage is an open framework for building developer portals
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.25.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.25.0), 6 days ago) - Deploy a Production Ready Kubernetes Cluster
   - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.29.0](https://github.com/projectcontour/contour/releases/tag/v1.29.0), 2 weeks ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.57.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.57.0), 3 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
@@ -55,7 +55,7 @@
   
   - [Add members 2024-05-25](https://github.com/kubernetes/org/pull/4981) on [kubernetes/org](https://github.com/kubernetes/org) (2 days ago)
   - [Docs: update ubuntu support version &amp; docker version](https://github.com/kubernetes-sigs/kubespray/pull/11231) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 days ago)
-  - [Bump CNI weave 2.8.1 to reweave 2.8.7](https://github.com/kubernetes-sigs/kubespray/pull/11228) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (5 days ago)
+  - [Bump CNI weave 2.8.1 to 2.8.7 (community version)](https://github.com/kubernetes-sigs/kubespray/pull/11228) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (5 days ago)
   - [[zh-cn] sync reference/node content](https://github.com/kubernetes/website/pull/46470) on [kubernetes/website](https://github.com/kubernetes/website) (6 days ago)
   - [Docs: fix README.md flannel link](https://github.com/kubernetes-sigs/kubespray/pull/11208) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Feat: Support ARM64 platform in XGBoost examples](https://github.com/kubeflow/training-operator/pull/2114) on [kubeflow/training-operator](https://github.com/kubeflow/training-operator) (1 week ago)
