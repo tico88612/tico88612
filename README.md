@@ -40,7 +40,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.27.5](https://github.com/backstage/backstage/releases/tag/v1.27.5), today) - Backstage is an open framework for building developer portals
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.28.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.28.0-next.1), today) - Backstage is an open framework for building developer portals
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.66](https://github.com/meshery/meshery/releases/tag/v0.7.66), today) - Meshery, the cloud native manager
   - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) ([v1.2.2](https://github.com/kubearmor/kubearmor-client/releases/tag/v1.2.2), 1 day ago) - KubeArmor cli tool aka kArmor :robot:
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.25.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.25.0), 1 week ago) - Deploy a Production Ready Kubernetes Cluster
