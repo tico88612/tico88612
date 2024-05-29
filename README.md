@@ -40,6 +40,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.14](https://github.com/etcd-io/etcd/releases/tag/v3.5.14), today) - Distributed reliable key-value store for the most critical data of a distributed system
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.67](https://github.com/meshery/meshery/releases/tag/v0.7.67), today) - Meshery, the cloud native manager
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.28.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.28.0-next.1), 1 day ago) - Backstage is an open framework for building developer portals
   - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) ([v1.2.2](https://github.com/kubearmor/kubearmor-client/releases/tag/v1.2.2), 2 days ago) - KubeArmor cli tool aka kArmor :robot:
@@ -49,7 +50,6 @@
   - [metallb/metallb-operator](https://github.com/metallb/metallb-operator) ([v0.14.2](https://github.com/metallb/metallb-operator/releases/tag/v0.14.2), 3 weeks ago) - MetalLB Operator for deploying metallb
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.57.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.57.0), 4 weeks ago) - Web UI for Jaeger
   - [kubeflow/training-operator](https://github.com/kubeflow/training-operator) ([v1.8.0-rc.0](https://github.com/kubeflow/training-operator/releases/tag/v1.8.0-rc.0), 1 month ago) - Distributed ML Training and Fine-Tuning on Kubernetes
-  - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.32](https://github.com/etcd-io/etcd/releases/tag/v3.4.32), 1 month ago) - Distributed reliable key-value store for the most critical data of a distributed system
 
   #### 🔨 My recent Pull Requests
   
