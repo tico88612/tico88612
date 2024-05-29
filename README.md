@@ -40,8 +40,8 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.67](https://github.com/meshery/meshery/releases/tag/v0.7.67), today) - Meshery, the cloud native manager
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.28.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.28.0-next.1), 1 day ago) - Backstage is an open framework for building developer portals
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.66](https://github.com/meshery/meshery/releases/tag/v0.7.66), 1 day ago) - Meshery, the cloud native manager
   - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) ([v1.2.2](https://github.com/kubearmor/kubearmor-client/releases/tag/v1.2.2), 2 days ago) - KubeArmor cli tool aka kArmor :robot:
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.25.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.25.0), 1 week ago) - Deploy a Production Ready Kubernetes Cluster
   - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.29.0](https://github.com/projectcontour/contour/releases/tag/v1.29.0), 3 weeks ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
