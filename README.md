@@ -40,7 +40,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.27.6](https://github.com/backstage/backstage/releases/tag/v1.27.6), 1 day ago) - Backstage is an open framework for building developer portals
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.28.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.28.0-next.2), today) - Backstage is an open framework for building developer portals
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.69](https://github.com/meshery/meshery/releases/tag/v0.7.69), 2 days ago) - Meshery, the cloud native manager
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.14](https://github.com/etcd-io/etcd/releases/tag/v3.5.14), 6 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
   - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) ([v1.2.2](https://github.com/kubearmor/kubearmor-client/releases/tag/v1.2.2), 1 week ago) - KubeArmor cli tool aka kArmor :robot:
