@@ -40,9 +40,9 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.70](https://github.com/meshery/meshery/releases/tag/v0.7.70), today) - Meshery, the cloud native manager
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.28.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.28.0-next.2), today) - Backstage is an open framework for building developer portals
-  - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.14](https://github.com/etcd-io/etcd/releases/tag/v3.5.14), 6 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.70](https://github.com/meshery/meshery/releases/tag/v0.7.70), 1 day ago) - Meshery, the cloud native manager
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.28.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.28.0-next.2), 1 day ago) - Backstage is an open framework for building developer portals
+  - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.14](https://github.com/etcd-io/etcd/releases/tag/v3.5.14), 1 week ago) - Distributed reliable key-value store for the most critical data of a distributed system
   - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) ([v1.2.2](https://github.com/kubearmor/kubearmor-client/releases/tag/v1.2.2), 1 week ago) - KubeArmor cli tool aka kArmor :robot:
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.25.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.25.0), 2 weeks ago) - Deploy a Production Ready Kubernetes Cluster
   - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.29.0](https://github.com/projectcontour/contour/releases/tag/v1.29.0), 4 weeks ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
@@ -55,11 +55,11 @@
   
   - [Add members 2024-05-25](https://github.com/kubernetes/org/pull/4981) on [kubernetes/org](https://github.com/kubernetes/org) (1 week ago)
   - [Docs: update ubuntu support version &amp; docker version](https://github.com/kubernetes-sigs/kubespray/pull/11231) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
-  - [Bump CNI weave 2.8.1 to 2.8.7 (community version)](https://github.com/kubernetes-sigs/kubespray/pull/11228) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
+  - [Bump CNI weave 2.8.1 to 2.8.7 (community version)](https://github.com/kubernetes-sigs/kubespray/pull/11228) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [[zh-cn] sync reference/node content](https://github.com/kubernetes/website/pull/46470) on [kubernetes/website](https://github.com/kubernetes/website) (2 weeks ago)
   - [Docs: fix README.md flannel link](https://github.com/kubernetes-sigs/kubespray/pull/11208) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [Feat: Support ARM64 platform in XGBoost examples](https://github.com/kubeflow/training-operator/pull/2114) on [kubeflow/training-operator](https://github.com/kubeflow/training-operator) (2 weeks ago)
-  - [Bump docker version from 24.0 to 26.1](https://github.com/kubernetes-sigs/kubespray/pull/11198) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
+  - [Bump docker version from 24.0 to 26.1](https://github.com/kubernetes-sigs/kubespray/pull/11198) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
   - [Add members 2024-05-14](https://github.com/kubernetes/org/pull/4950) on [kubernetes/org](https://github.com/kubernetes/org) (3 weeks ago)
   - [Remove: support ElasticSearch 5.x &amp; 6.x](https://github.com/jaegertracing/documentation/pull/703) on [jaegertracing/documentation](https://github.com/jaegertracing/documentation) (3 weeks ago)
   - [Fix: sample inventory local path provisioner image repo](https://github.com/kubernetes-sigs/kubespray/pull/11180) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
