@@ -40,6 +40,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [metal3-io/baremetal-operator](https://github.com/metal3-io/baremetal-operator) ([v0.6.1](https://github.com/metal3-io/baremetal-operator/releases/tag/v0.6.1), today) - Bare metal host provisioning integration for Kubernetes
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.70](https://github.com/meshery/meshery/releases/tag/v0.7.70), 1 day ago) - Meshery, the cloud native manager
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.28.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.28.0-next.2), 1 day ago) - Backstage is an open framework for building developer portals
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.14](https://github.com/etcd-io/etcd/releases/tag/v3.5.14), 1 week ago) - Distributed reliable key-value store for the most critical data of a distributed system
@@ -49,7 +50,6 @@
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.57.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.57.0), 1 month ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [metallb/metallb-operator](https://github.com/metallb/metallb-operator) ([v0.14.2](https://github.com/metallb/metallb-operator/releases/tag/v0.14.2), 1 month ago) - MetalLB Operator for deploying metallb
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.57.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.57.0), 1 month ago) - Web UI for Jaeger
-  - [kubeflow/training-operator](https://github.com/kubeflow/training-operator) ([v1.8.0-rc.0](https://github.com/kubeflow/training-operator/releases/tag/v1.8.0-rc.0), 1 month ago) - Distributed ML Training and Fine-Tuning on Kubernetes
 
   #### 🔨 My recent Pull Requests
   
