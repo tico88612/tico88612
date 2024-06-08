@@ -79,7 +79,7 @@
 
   #### 👯 Check out some of my recent followers
   
-  - [A-Biann](https://github.com/A-Biann)
+  - [tzuhsunn](https://github.com/tzuhsunn)
   - [googs1025](https://github.com/googs1025)
   - [sophie0730](https://github.com/sophie0730)
   - [sanshah1211](https://github.com/sanshah1211)
