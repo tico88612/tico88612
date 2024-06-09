@@ -40,7 +40,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.71](https://github.com/meshery/meshery/releases/tag/v0.7.71), 3 days ago) - Meshery, the cloud native manager
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.72](https://github.com/meshery/meshery/releases/tag/v0.7.72), today) - Meshery, the cloud native manager
   - [metal3-io/baremetal-operator](https://github.com/metal3-io/baremetal-operator) ([v0.6.1](https://github.com/metal3-io/baremetal-operator/releases/tag/v0.6.1), 4 days ago) - Bare metal host provisioning integration for Kubernetes
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.28.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.28.0-next.2), 5 days ago) - Backstage is an open framework for building developer portals
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.14](https://github.com/etcd-io/etcd/releases/tag/v3.5.14), 1 week ago) - Distributed reliable key-value store for the most critical data of a distributed system
