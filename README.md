@@ -40,10 +40,10 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.73](https://github.com/meshery/meshery/releases/tag/v0.7.73), today) - Meshery, the cloud native manager
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.27.7](https://github.com/backstage/backstage/releases/tag/v1.27.7), today) - Backstage is an open framework for building developer portals
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.58.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.58.0), 1 day ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.58.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.58.0), 1 day ago) - Web UI for Jaeger
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.72](https://github.com/meshery/meshery/releases/tag/v0.7.72), 3 days ago) - Meshery, the cloud native manager
   - [metal3-io/baremetal-operator](https://github.com/metal3-io/baremetal-operator) ([v0.6.1](https://github.com/metal3-io/baremetal-operator/releases/tag/v0.6.1), 1 week ago) - Bare metal host provisioning integration for Kubernetes
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.14](https://github.com/etcd-io/etcd/releases/tag/v3.5.14), 2 weeks ago) - Distributed reliable key-value store for the most critical data of a distributed system
   - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) ([v1.2.2](https://github.com/kubearmor/kubearmor-client/releases/tag/v1.2.2), 2 weeks ago) - KubeArmor cli tool aka kArmor :robot:
