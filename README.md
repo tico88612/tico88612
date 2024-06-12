@@ -40,6 +40,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.29.1](https://github.com/projectcontour/contour/releases/tag/v1.29.1), today) - Contour is a Kubernetes ingress controller using Envoy proxy.
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.73](https://github.com/meshery/meshery/releases/tag/v0.7.73), today) - Meshery, the cloud native manager
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.27.7](https://github.com/backstage/backstage/releases/tag/v1.27.7), today) - Backstage is an open framework for building developer portals
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.58.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.58.0), 1 day ago) - CNCF Jaeger, a Distributed Tracing Platform
@@ -48,7 +49,6 @@
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.14](https://github.com/etcd-io/etcd/releases/tag/v3.5.14), 2 weeks ago) - Distributed reliable key-value store for the most critical data of a distributed system
   - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) ([v1.2.2](https://github.com/kubearmor/kubearmor-client/releases/tag/v1.2.2), 2 weeks ago) - KubeArmor cli tool aka kArmor :robot:
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.25.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.25.0), 3 weeks ago) - Deploy a Production Ready Kubernetes Cluster
-  - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.29.0](https://github.com/projectcontour/contour/releases/tag/v1.29.0), 1 month ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
   - [metallb/metallb-operator](https://github.com/metallb/metallb-operator) ([v0.14.2](https://github.com/metallb/metallb-operator/releases/tag/v0.14.2), 1 month ago) - MetalLB Operator for deploying metallb
 
   #### 🔨 My recent Pull Requests
