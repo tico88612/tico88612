@@ -40,7 +40,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.28.0-next.3](https://github.com/backstage/backstage/releases/tag/v1.28.0-next.3), 1 day ago) - Backstage is an open framework for building developer portals
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.27.7](https://github.com/backstage/backstage/releases/tag/v1.27.7), today) - Backstage is an open framework for building developer portals
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.58.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.58.0), 1 day ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.58.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.58.0), 1 day ago) - Web UI for Jaeger
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.72](https://github.com/meshery/meshery/releases/tag/v0.7.72), 3 days ago) - Meshery, the cloud native manager
