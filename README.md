@@ -53,6 +53,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Update the profile for ChengHao Yang](https://github.com/cncf/people/pull/510) on [cncf/people](https://github.com/cncf/people) (today)
   - [[cert-manager] upgrade to v1.13.6](https://github.com/kubernetes-sigs/kubespray/pull/11279) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Add members 2024-05-25](https://github.com/kubernetes/org/pull/4981) on [kubernetes/org](https://github.com/kubernetes/org) (3 weeks ago)
   - [Docs: update ubuntu support version &amp; docker version](https://github.com/kubernetes-sigs/kubespray/pull/11231) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
@@ -62,7 +63,6 @@
   - [Feat: Support ARM64 platform in XGBoost examples](https://github.com/kubeflow/training-operator/pull/2114) on [kubeflow/training-operator](https://github.com/kubeflow/training-operator) (4 weeks ago)
   - [Bump docker version from 24.0 to 26.1](https://github.com/kubernetes-sigs/kubespray/pull/11198) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Add members 2024-05-14](https://github.com/kubernetes/org/pull/4950) on [kubernetes/org](https://github.com/kubernetes/org) (1 month ago)
-  - [Remove: support ElasticSearch 5.x &amp; 6.x](https://github.com/jaegertracing/documentation/pull/703) on [jaegertracing/documentation](https://github.com/jaegertracing/documentation) (1 month ago)
 
   #### ⭐ Recent Stars
   
