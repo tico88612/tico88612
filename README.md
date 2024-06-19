@@ -40,8 +40,8 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.75](https://github.com/meshery/meshery/releases/tag/v0.7.75), today) - Meshery, the cloud native manager
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.28.2](https://github.com/backstage/backstage/releases/tag/v1.28.2), today) - Backstage is an open framework for building developer portals
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.74](https://github.com/meshery/meshery/releases/tag/v0.7.74), 4 days ago) - Meshery, the cloud native manager
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.33](https://github.com/etcd-io/etcd/releases/tag/v3.4.33), 6 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
   - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.29.1](https://github.com/projectcontour/contour/releases/tag/v1.29.1), 1 week ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.58.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.58.0), 1 week ago) - CNCF Jaeger, a Distributed Tracing Platform
