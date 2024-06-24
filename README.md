@@ -40,6 +40,8 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) ([v1.2.3](https://github.com/kubearmor/kubearmor-client/releases/tag/v1.2.3), today) - KubeArmor cli tool aka kArmor :robot:
+  - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.7.1](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.7.1), today) - IP address Manager for Cluster API Provider Metal3
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.58.1](https://github.com/jaegertracing/jaeger/releases/tag/v1.58.1), 2 days ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.76](https://github.com/meshery/meshery/releases/tag/v0.7.76), 3 days ago) - Meshery, the cloud native manager
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.28.2](https://github.com/backstage/backstage/releases/tag/v1.28.2), 5 days ago) - Backstage is an open framework for building developer portals
@@ -47,9 +49,7 @@
   - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.29.1](https://github.com/projectcontour/contour/releases/tag/v1.29.1), 1 week ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.58.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.58.0), 1 week ago) - Web UI for Jaeger
   - [metal3-io/baremetal-operator](https://github.com/metal3-io/baremetal-operator) ([v0.6.1](https://github.com/metal3-io/baremetal-operator/releases/tag/v0.6.1), 2 weeks ago) - Bare metal host provisioning integration for Kubernetes
-  - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) ([v1.2.2](https://github.com/kubearmor/kubearmor-client/releases/tag/v1.2.2), 4 weeks ago) - KubeArmor cli tool aka kArmor :robot:
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.25.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.25.0), 1 month ago) - Deploy a Production Ready Kubernetes Cluster
-  - [metallb/metallb-operator](https://github.com/metallb/metallb-operator) ([v0.14.2](https://github.com/metallb/metallb-operator/releases/tag/v0.14.2), 1 month ago) - MetalLB Operator for deploying metallb
 
   #### 🔨 My recent Pull Requests
   
