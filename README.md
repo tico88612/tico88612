@@ -40,6 +40,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.7.1](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.7.1), today) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.29.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.29.0-next.0), today) - Backstage is an open framework for building developer portals
   - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) ([v1.2.3](https://github.com/kubearmor/kubearmor-client/releases/tag/v1.2.3), 1 day ago) - KubeArmor cli tool aka kArmor :robot:
   - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.7.1](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.7.1), 1 day ago) - IP address Manager for Cluster API Provider Metal3
@@ -49,7 +50,6 @@
   - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.29.1](https://github.com/projectcontour/contour/releases/tag/v1.29.1), 1 week ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.58.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.58.0), 2 weeks ago) - Web UI for Jaeger
   - [metal3-io/baremetal-operator](https://github.com/metal3-io/baremetal-operator) ([v0.6.1](https://github.com/metal3-io/baremetal-operator/releases/tag/v0.6.1), 2 weeks ago) - Bare metal host provisioning integration for Kubernetes
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.25.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.25.0), 1 month ago) - Deploy a Production Ready Kubernetes Cluster
 
   #### 🔨 My recent Pull Requests
   
