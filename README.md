@@ -40,11 +40,11 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.29.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.29.0-next.0), today) - Backstage is an open framework for building developer portals
   - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) ([v1.2.3](https://github.com/kubearmor/kubearmor-client/releases/tag/v1.2.3), 1 day ago) - KubeArmor cli tool aka kArmor :robot:
   - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.7.1](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.7.1), 1 day ago) - IP address Manager for Cluster API Provider Metal3
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.58.1](https://github.com/jaegertracing/jaeger/releases/tag/v1.58.1), 3 days ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.76](https://github.com/meshery/meshery/releases/tag/v0.7.76), 4 days ago) - Meshery, the cloud native manager
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.28.2](https://github.com/backstage/backstage/releases/tag/v1.28.2), 6 days ago) - Backstage is an open framework for building developer portals
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.33](https://github.com/etcd-io/etcd/releases/tag/v3.4.33), 1 week ago) - Distributed reliable key-value store for the most critical data of a distributed system
   - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.29.1](https://github.com/projectcontour/contour/releases/tag/v1.29.1), 1 week ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.58.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.58.0), 2 weeks ago) - Web UI for Jaeger
