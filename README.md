@@ -53,6 +53,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [[cert-manager] upgrade to v1.14.7](https://github.com/kubernetes-sigs/kubespray/pull/11341) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [Fix install with argocd targetRevision not match each version](https://github.com/longhorn/website/pull/934) on [longhorn/website](https://github.com/longhorn/website) (today)
   - [Conformance results for v1.29/kubespray](https://github.com/cncf/k8s-conformance/pull/3268) on [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) (1 week ago)
   - [Update the profile for ChengHao Yang](https://github.com/cncf/people/pull/510) on [cncf/people](https://github.com/cncf/people) (2 weeks ago)
@@ -62,7 +63,6 @@
   - [Bump CNI weave 2.8.1 to 2.8.7 (community version)](https://github.com/kubernetes-sigs/kubespray/pull/11228) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [[zh-cn] sync reference/node content](https://github.com/kubernetes/website/pull/46470) on [kubernetes/website](https://github.com/kubernetes/website) (1 month ago)
   - [Docs: fix README.md flannel link](https://github.com/kubernetes-sigs/kubespray/pull/11208) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
-  - [Feat: Support ARM64 platform in XGBoost examples](https://github.com/kubeflow/training-operator/pull/2114) on [kubeflow/training-operator](https://github.com/kubeflow/training-operator) (1 month ago)
 
   #### ⭐ Recent Stars
   
