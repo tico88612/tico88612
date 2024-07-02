@@ -53,6 +53,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [CI: Remove Debian 10 support &amp; move macvlan test to Debian 12](https://github.com/kubernetes-sigs/kubespray/pull/11347) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [[cert-manager] upgrade to v1.14.7](https://github.com/kubernetes-sigs/kubespray/pull/11341) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 day ago)
   - [Fix install with argocd targetRevision not match each version](https://github.com/longhorn/website/pull/934) on [longhorn/website](https://github.com/longhorn/website) (1 day ago)
   - [Conformance results for v1.29/kubespray](https://github.com/cncf/k8s-conformance/pull/3268) on [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) (1 week ago)
@@ -62,7 +63,6 @@
   - [Docs: update ubuntu support version &amp; docker version](https://github.com/kubernetes-sigs/kubespray/pull/11231) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Bump CNI weave 2.8.1 to 2.8.7 (community version)](https://github.com/kubernetes-sigs/kubespray/pull/11228) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [[zh-cn] sync reference/node content](https://github.com/kubernetes/website/pull/46470) on [kubernetes/website](https://github.com/kubernetes/website) (1 month ago)
-  - [Docs: fix README.md flannel link](https://github.com/kubernetes-sigs/kubespray/pull/11208) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
 
   #### ⭐ Recent Stars
   
