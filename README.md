@@ -14,7 +14,7 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (6 days ago)
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (today)
   - [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (2 weeks ago)
   - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (1 month ago)
   - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (1 month ago)
