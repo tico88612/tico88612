@@ -53,7 +53,7 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [CI: Remove Debian 10 support &amp; move macvlan test to Debian 12](https://github.com/kubernetes-sigs/kubespray/pull/11347) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
+  - [CI: Remove Debian 10 support &amp; macvlan test move to Debian 12](https://github.com/kubernetes-sigs/kubespray/pull/11347) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [[cert-manager] upgrade to v1.14.7](https://github.com/kubernetes-sigs/kubespray/pull/11341) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 day ago)
   - [Fix install with argocd targetRevision not match each version](https://github.com/longhorn/website/pull/934) on [longhorn/website](https://github.com/longhorn/website) (1 day ago)
   - [Conformance results for v1.29/kubespray](https://github.com/cncf/k8s-conformance/pull/3268) on [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) (1 week ago)
