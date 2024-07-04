@@ -14,6 +14,7 @@
 
   #### 👷 Check out what I'm currently working on
   
+  - [cloud-native-taiwan/status-infra-labs](https://github.com/cloud-native-taiwan/status-infra-labs) -  (today)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (today)
   - [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group (1 day ago)
   - [longhorn/website](https://github.com/longhorn/website) - https://longhorn.io/ (3 days ago)
@@ -23,7 +24,6 @@
   - [kubeflow/training-operator](https://github.com/kubeflow/training-operator) - Distributed ML Training and Fine-Tuning on Kubernetes (1 month ago)
   - [jaegertracing/documentation](https://github.com/jaegertracing/documentation) - Documentation/website for the Jaeger Distributed Tracing project. (1 month ago)
   - [cncf/ambassadors](https://github.com/cncf/ambassadors) - 🌏🌎🌍 CNCF Ambassadors (2 months ago)
-  - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (2 months ago)
 
   #### 🌱 My latest projects
   
