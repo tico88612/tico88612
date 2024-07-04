@@ -53,6 +53,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Bump: Upptime 1.37.0](https://github.com/cloud-native-taiwan/status-infra-labs/pull/4) on [cloud-native-taiwan/status-infra-labs](https://github.com/cloud-native-taiwan/status-infra-labs) (today)
   - [CI: Remove Debian 10 support &amp; macvlan test move to Debian 11](https://github.com/kubernetes-sigs/kubespray/pull/11347) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 days ago)
   - [[cert-manager] upgrade to v1.14.7](https://github.com/kubernetes-sigs/kubespray/pull/11341) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 days ago)
   - [Fix install with argocd targetRevision not match each version](https://github.com/longhorn/website/pull/934) on [longhorn/website](https://github.com/longhorn/website) (3 days ago)
@@ -62,7 +63,6 @@
   - [Add members 2024-05-25](https://github.com/kubernetes/org/pull/4981) on [kubernetes/org](https://github.com/kubernetes/org) (1 month ago)
   - [Docs: update ubuntu support version &amp; docker version](https://github.com/kubernetes-sigs/kubespray/pull/11231) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Bump CNI weave 2.8.1 to 2.8.7 (community version)](https://github.com/kubernetes-sigs/kubespray/pull/11228) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
-  - [[zh-cn] sync reference/node content](https://github.com/kubernetes/website/pull/46470) on [kubernetes/website](https://github.com/kubernetes/website) (1 month ago)
 
   #### ⭐ Recent Stars
   
