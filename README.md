@@ -53,6 +53,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [[release-2.25] Bump Kubernetes to 1.29.6](https://github.com/kubernetes-sigs/kubespray/pull/11355) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [Bump: Upptime 1.37.0](https://github.com/cloud-native-taiwan/status-infra-labs/pull/4) on [cloud-native-taiwan/status-infra-labs](https://github.com/cloud-native-taiwan/status-infra-labs) (2 days ago)
   - [CI: Remove Debian 10 support &amp; macvlan test move to Debian 11](https://github.com/kubernetes-sigs/kubespray/pull/11347) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 days ago)
   - [[cert-manager] upgrade to v1.14.7](https://github.com/kubernetes-sigs/kubespray/pull/11341) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (5 days ago)
@@ -62,7 +63,6 @@
   - [[cert-manager] upgrade to v1.13.6](https://github.com/kubernetes-sigs/kubespray/pull/11279) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 weeks ago)
   - [Add members 2024-05-25](https://github.com/kubernetes/org/pull/4981) on [kubernetes/org](https://github.com/kubernetes/org) (1 month ago)
   - [Docs: update ubuntu support version &amp; docker version](https://github.com/kubernetes-sigs/kubespray/pull/11231) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
-  - [Bump CNI weave 2.8.1 to 2.8.7 (community version)](https://github.com/kubernetes-sigs/kubespray/pull/11228) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
 
   #### ⭐ Recent Stars
   
