@@ -53,7 +53,7 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [[WIP] Fix CentOS 7 yum repo baseurl update](https://github.com/kubernetes-sigs/kubespray/pull/11360) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
+  - [Fix CentOS 7 yum repo baseurl update](https://github.com/kubernetes-sigs/kubespray/pull/11360) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [Bump: OpenStack Cloud Controller Manager to 1.30.0](https://github.com/kubernetes-sigs/kubespray/pull/11358) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [[release-2.25] Bump Kubernetes to 1.29.6](https://github.com/kubernetes-sigs/kubespray/pull/11355) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 day ago)
   - [Bump: Upptime 1.37.0](https://github.com/cloud-native-taiwan/status-infra-labs/pull/4) on [cloud-native-taiwan/status-infra-labs](https://github.com/cloud-native-taiwan/status-infra-labs) (3 days ago)
