@@ -66,6 +66,7 @@
 
   #### ⭐ Recent Stars
   
+  - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform Provider for Proxmox (today)
   - [kubernetes/enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes (2 months ago)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (6 months ago)
   - [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers: Linux &amp; DevOps Troubleshooting Scenarios SaaS (7 months ago)
@@ -75,7 +76,6 @@
   - [cncf/mentoring](https://github.com/cncf/mentoring) - 👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring: LFX Mentorship &#43; Summer of Code (1 year ago)
   - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (1 year ago)
   - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects (1 year ago)
-  - [XPoet/hexo-theme-keep](https://github.com/XPoet/hexo-theme-keep) - :rainbow: A simple and light theme for Hexo. It makes you more focused on writing. (1 year ago)
 
   #### 👯 Check out some of my recent followers
   
