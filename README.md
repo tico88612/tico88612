@@ -40,10 +40,10 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.80](https://github.com/meshery/meshery/releases/tag/v0.7.80), today) - Meshery, the cloud native manager
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.59.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.59.0), today) - CNCF Jaeger, a Distributed Tracing Platform
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.59.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.59.0), today) - Web UI for Jaeger
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.29.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.29.0-next.2), 1 day ago) - Backstage is an open framework for building developer portals
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.79](https://github.com/meshery/meshery/releases/tag/v0.7.79), 5 days ago) - Meshery, the cloud native manager
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.6.2](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.6.2), 1 week ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
   - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) ([v1.2.3](https://github.com/kubearmor/kubearmor-client/releases/tag/v1.2.3), 2 weeks ago) - KubeArmor cli tool aka kArmor :robot:
   - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.7.1](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.7.1), 2 weeks ago) - IP address Manager for Cluster API Provider Metal3
