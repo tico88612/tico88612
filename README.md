@@ -14,6 +14,7 @@
 
   #### 👷 Check out what I'm currently working on
   
+  - [HunterPie/localization](https://github.com/HunterPie/localization) - Localization repository for HunterPie&#39;s client (today)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (1 day ago)
   - [cloud-native-taiwan/status-infra-labs](https://github.com/cloud-native-taiwan/status-infra-labs) -  (1 week ago)
   - [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group (1 week ago)
@@ -23,7 +24,6 @@
   - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (1 month ago)
   - [kubeflow/training-operator](https://github.com/kubeflow/training-operator) - Distributed ML Training and Fine-Tuning on Kubernetes (1 month ago)
   - [jaegertracing/documentation](https://github.com/jaegertracing/documentation) - Documentation/website for the Jaeger Distributed Tracing project. (2 months ago)
-  - [cncf/ambassadors](https://github.com/cncf/ambassadors) - 🌏🌎🌍 CNCF Ambassadors (2 months ago)
 
   #### 🌱 My latest projects
   
