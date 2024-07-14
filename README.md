@@ -53,6 +53,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [[WIP] Feat: Add missing zh-tw translation](https://github.com/HunterPie/localization/pull/99) on [HunterPie/localization](https://github.com/HunterPie/localization) (today)
   - [Feat: Upgrade external OCI cloud controller manager](https://github.com/kubernetes-sigs/kubespray/pull/11378) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 day ago)
   - [Feat: Gateway API CRDs install support](https://github.com/kubernetes-sigs/kubespray/pull/11376) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 days ago)
   - [Bump Cinder CSI Plugin to v1.30.0](https://github.com/kubernetes-sigs/kubespray/pull/11374) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 days ago)
@@ -62,7 +63,6 @@
   - [Bump: Upptime 1.37.0](https://github.com/cloud-native-taiwan/status-infra-labs/pull/4) on [cloud-native-taiwan/status-infra-labs](https://github.com/cloud-native-taiwan/status-infra-labs) (1 week ago)
   - [CI: Remove Debian 10 support &amp; macvlan test move to Debian 11](https://github.com/kubernetes-sigs/kubespray/pull/11347) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [[cert-manager] upgrade to v1.14.7](https://github.com/kubernetes-sigs/kubespray/pull/11341) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
-  - [Fix install with argocd targetRevision not match each version](https://github.com/longhorn/website/pull/934) on [longhorn/website](https://github.com/longhorn/website) (1 week ago)
 
   #### ⭐ Recent Stars
   
