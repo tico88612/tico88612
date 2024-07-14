@@ -53,7 +53,7 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [[WIP] Feat: Add missing zh-tw translation](https://github.com/HunterPie/localization/pull/99) on [HunterPie/localization](https://github.com/HunterPie/localization) (today)
+  - [Feat: Add missing zh-tw translation &amp; Fix wrong ID](https://github.com/HunterPie/localization/pull/99) on [HunterPie/localization](https://github.com/HunterPie/localization) (today)
   - [Feat: Upgrade external OCI cloud controller manager](https://github.com/kubernetes-sigs/kubespray/pull/11378) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 day ago)
   - [Feat: Gateway API CRDs install support](https://github.com/kubernetes-sigs/kubespray/pull/11376) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 days ago)
   - [Bump Cinder CSI Plugin to v1.30.0](https://github.com/kubernetes-sigs/kubespray/pull/11374) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 days ago)
