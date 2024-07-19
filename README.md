@@ -40,6 +40,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.15](https://github.com/etcd-io/etcd/releases/tag/v3.5.15), today) - Distributed reliable key-value store for the most critical data of a distributed system
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.24.2](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.24.2), 2 days ago) - Deploy a Production Ready Kubernetes Cluster
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.29.1](https://github.com/backstage/backstage/releases/tag/v1.29.1), 3 days ago) - Backstage is an open framework for building developer portals
   - [metallb/metallb](https://github.com/metallb/metallb) ([v0.14.7](https://github.com/metallb/metallb/releases/tag/v0.14.7), 3 days ago) - A network load-balancer implementation for Kubernetes using standard routing protocols
@@ -49,7 +50,6 @@
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.6.2](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.6.2), 3 weeks ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
   - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) ([v1.2.3](https://github.com/kubearmor/kubearmor-client/releases/tag/v1.2.3), 3 weeks ago) - KubeArmor cli tool aka kArmor :robot:
   - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.7.1](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.7.1), 3 weeks ago) - IP address Manager for Cluster API Provider Metal3
-  - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.33](https://github.com/etcd-io/etcd/releases/tag/v3.4.33), 1 month ago) - Distributed reliable key-value store for the most critical data of a distributed system
 
   #### 🔨 My recent Pull Requests
   
