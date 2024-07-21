@@ -14,8 +14,8 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (4 days ago)
-  - [HunterPie/localization](https://github.com/HunterPie/localization) - Localization repository for HunterPie&#39;s client (6 days ago)
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (5 days ago)
+  - [HunterPie/localization](https://github.com/HunterPie/localization) - Localization repository for HunterPie&#39;s client (1 week ago)
   - [cloud-native-taiwan/status-infra-labs](https://github.com/cloud-native-taiwan/status-infra-labs) -  (2 weeks ago)
   - [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group (2 weeks ago)
   - [longhorn/website](https://github.com/longhorn/website) - https://longhorn.io/ (2 weeks ago)
@@ -40,11 +40,11 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.15](https://github.com/etcd-io/etcd/releases/tag/v3.5.15), 1 day ago) - Distributed reliable key-value store for the most critical data of a distributed system
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.24.2](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.24.2), 3 days ago) - Deploy a Production Ready Kubernetes Cluster
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.29.1](https://github.com/backstage/backstage/releases/tag/v1.29.1), 4 days ago) - Backstage is an open framework for building developer portals
-  - [metallb/metallb](https://github.com/metallb/metallb) ([v0.14.7](https://github.com/metallb/metallb/releases/tag/v0.14.7), 4 days ago) - A network load-balancer implementation for Kubernetes using standard routing protocols
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.83](https://github.com/meshery/meshery/releases/tag/v0.7.83), 5 days ago) - Meshery, the cloud native manager
+  - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.15](https://github.com/etcd-io/etcd/releases/tag/v3.5.15), 2 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.24.2](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.24.2), 4 days ago) - Deploy a Production Ready Kubernetes Cluster
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.29.1](https://github.com/backstage/backstage/releases/tag/v1.29.1), 5 days ago) - Backstage is an open framework for building developer portals
+  - [metallb/metallb](https://github.com/metallb/metallb) ([v0.14.7](https://github.com/metallb/metallb/releases/tag/v0.14.7), 5 days ago) - A network load-balancer implementation for Kubernetes using standard routing protocols
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.83](https://github.com/meshery/meshery/releases/tag/v0.7.83), 6 days ago) - Meshery, the cloud native manager
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.59.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.59.0), 1 week ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.59.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.59.0), 1 week ago) - Web UI for Jaeger
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.6.2](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.6.2), 3 weeks ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
@@ -53,12 +53,12 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [Feat: Add missing zh-tw translation &amp; Fix wrong ID](https://github.com/HunterPie/localization/pull/99) on [HunterPie/localization](https://github.com/HunterPie/localization) (6 days ago)
+  - [Feat: Add missing zh-tw translation &amp; Fix wrong ID](https://github.com/HunterPie/localization/pull/99) on [HunterPie/localization](https://github.com/HunterPie/localization) (1 week ago)
   - [Feat: Upgrade external OCI cloud controller manager](https://github.com/kubernetes-sigs/kubespray/pull/11378) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Feat: Gateway API CRDs install support](https://github.com/kubernetes-sigs/kubespray/pull/11376) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Bump Cinder CSI Plugin to v1.30.0](https://github.com/kubernetes-sigs/kubespray/pull/11374) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
-  - [Fix CentOS 7 yum repo baseurl update](https://github.com/kubernetes-sigs/kubespray/pull/11360) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
-  - [Bump: OpenStack Cloud Controller Manager to 1.30.0](https://github.com/kubernetes-sigs/kubespray/pull/11358) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
+  - [Fix CentOS 7 yum repo baseurl update](https://github.com/kubernetes-sigs/kubespray/pull/11360) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
+  - [Bump: OpenStack Cloud Controller Manager to 1.30.0](https://github.com/kubernetes-sigs/kubespray/pull/11358) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [[release-2.25] Bump Kubernetes to 1.29.6](https://github.com/kubernetes-sigs/kubespray/pull/11355) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [Bump: Upptime 1.37.0](https://github.com/cloud-native-taiwan/status-infra-labs/pull/4) on [cloud-native-taiwan/status-infra-labs](https://github.com/cloud-native-taiwan/status-infra-labs) (2 weeks ago)
   - [CI: Remove Debian 10 support &amp; macvlan test move to Debian 11](https://github.com/kubernetes-sigs/kubespray/pull/11347) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
