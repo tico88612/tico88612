@@ -40,6 +40,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [kubeflow/training-operator](https://github.com/kubeflow/training-operator) ([v1.8.0](https://github.com/kubeflow/training-operator/releases/tag/v1.8.0), today) - Distributed ML Training and Fine-Tuning on Kubernetes
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.30.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.30.0-next.0), today) - Backstage is an open framework for building developer portals
   - [metallb/metallb](https://github.com/metallb/metallb) ([v0.14.8](https://github.com/metallb/metallb/releases/tag/v0.14.8), today) - A network load-balancer implementation for Kubernetes using standard routing protocols
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.84](https://github.com/meshery/meshery/releases/tag/v0.7.84), 1 day ago) - Meshery, the cloud native manager
@@ -49,7 +50,6 @@
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.59.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.59.0), 1 week ago) - Web UI for Jaeger
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.6.2](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.6.2), 3 weeks ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
   - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) ([v1.2.3](https://github.com/kubearmor/kubearmor-client/releases/tag/v1.2.3), 4 weeks ago) - KubeArmor cli tool aka kArmor :robot:
-  - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.7.1](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.7.1), 4 weeks ago) - IP address Manager for Cluster API Provider Metal3
 
   #### 🔨 My recent Pull Requests
   
