@@ -40,11 +40,11 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.30.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.30.0-next.0), today) - Backstage is an open framework for building developer portals
   - [metallb/metallb](https://github.com/metallb/metallb) ([v0.14.8](https://github.com/metallb/metallb/releases/tag/v0.14.8), today) - A network load-balancer implementation for Kubernetes using standard routing protocols
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.84](https://github.com/meshery/meshery/releases/tag/v0.7.84), 1 day ago) - Meshery, the cloud native manager
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.15](https://github.com/etcd-io/etcd/releases/tag/v3.5.15), 4 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.24.2](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.24.2), 6 days ago) - Deploy a Production Ready Kubernetes Cluster
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.29.1](https://github.com/backstage/backstage/releases/tag/v1.29.1), 1 week ago) - Backstage is an open framework for building developer portals
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.59.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.59.0), 1 week ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.59.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.59.0), 1 week ago) - Web UI for Jaeger
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.6.2](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.6.2), 3 weeks ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
