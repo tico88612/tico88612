@@ -17,10 +17,10 @@
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (1 week ago)
   - [HunterPie/localization](https://github.com/HunterPie/localization) - Localization repository for HunterPie&#39;s client (1 week ago)
   - [cloud-native-taiwan/status-infra-labs](https://github.com/cloud-native-taiwan/status-infra-labs) -  (2 weeks ago)
-  - [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group (2 weeks ago)
+  - [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group (3 weeks ago)
   - [longhorn/website](https://github.com/longhorn/website) - https://longhorn.io/ (3 weeks ago)
   - [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (1 month ago)
-  - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (1 month ago)
+  - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (2 months ago)
   - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (2 months ago)
   - [kubeflow/training-operator](https://github.com/kubeflow/training-operator) - Distributed ML Training and Fine-Tuning on Kubernetes (2 months ago)
   - [jaegertracing/documentation](https://github.com/jaegertracing/documentation) - Documentation/website for the Jaeger Distributed Tracing project. (2 months ago)
@@ -40,20 +40,20 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [kubeflow/training-operator](https://github.com/kubeflow/training-operator) ([v1.8.0](https://github.com/kubeflow/training-operator/releases/tag/v1.8.0), today) - Distributed ML Training and Fine-Tuning on Kubernetes
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.30.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.30.0-next.0), today) - Backstage is an open framework for building developer portals
-  - [metallb/metallb](https://github.com/metallb/metallb) ([v0.14.8](https://github.com/metallb/metallb/releases/tag/v0.14.8), today) - A network load-balancer implementation for Kubernetes using standard routing protocols
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.84](https://github.com/meshery/meshery/releases/tag/v0.7.84), 1 day ago) - Meshery, the cloud native manager
-  - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.15](https://github.com/etcd-io/etcd/releases/tag/v3.5.15), 4 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.24.2](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.24.2), 6 days ago) - Deploy a Production Ready Kubernetes Cluster
-  - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.59.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.59.0), 1 week ago) - CNCF Jaeger, a Distributed Tracing Platform
-  - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.59.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.59.0), 1 week ago) - Web UI for Jaeger
+  - [kubeflow/training-operator](https://github.com/kubeflow/training-operator) ([v1.8.0](https://github.com/kubeflow/training-operator/releases/tag/v1.8.0), 1 day ago) - Distributed ML Training and Fine-Tuning on Kubernetes
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.30.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.30.0-next.0), 1 day ago) - Backstage is an open framework for building developer portals
+  - [metallb/metallb](https://github.com/metallb/metallb) ([v0.14.8](https://github.com/metallb/metallb/releases/tag/v0.14.8), 1 day ago) - A network load-balancer implementation for Kubernetes using standard routing protocols
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.84](https://github.com/meshery/meshery/releases/tag/v0.7.84), 2 days ago) - Meshery, the cloud native manager
+  - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.15](https://github.com/etcd-io/etcd/releases/tag/v3.5.15), 5 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.24.2](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.24.2), 1 week ago) - Deploy a Production Ready Kubernetes Cluster
+  - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.59.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.59.0), 2 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
+  - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.59.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.59.0), 2 weeks ago) - Web UI for Jaeger
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.6.2](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.6.2), 3 weeks ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
-  - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) ([v1.2.3](https://github.com/kubearmor/kubearmor-client/releases/tag/v1.2.3), 4 weeks ago) - KubeArmor cli tool aka kArmor :robot:
+  - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) ([v1.2.3](https://github.com/kubearmor/kubearmor-client/releases/tag/v1.2.3), 1 month ago) - KubeArmor cli tool aka kArmor :robot:
 
   #### 🔨 My recent Pull Requests
   
-  - [Make kubernetes v1.30.3 default ](https://github.com/kubernetes-sigs/kubespray/pull/11391) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 days ago)
+  - [Make kubernetes v1.30.3 default ](https://github.com/kubernetes-sigs/kubespray/pull/11391) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 days ago)
   - [Feat: Add missing zh-tw translation &amp; Fix wrong ID](https://github.com/HunterPie/localization/pull/99) on [HunterPie/localization](https://github.com/HunterPie/localization) (1 week ago)
   - [Feat: Upgrade external OCI cloud controller manager](https://github.com/kubernetes-sigs/kubespray/pull/11378) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Feat: Gateway API CRDs install support](https://github.com/kubernetes-sigs/kubespray/pull/11376) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
@@ -66,7 +66,7 @@
 
   #### ⭐ Recent Stars
   
-  - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity (1 day ago)
+  - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity (2 days ago)
   - [nalexn/clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui) - SwiftUI sample app using Clean Architecture. Examples of working with CoreData persistence, networking, dependency injection, unit testing, and more. (1 week ago)
   - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform Provider for Proxmox (2 weeks ago)
   - [kubernetes/enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes (2 months ago)
