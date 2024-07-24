@@ -40,8 +40,8 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.29.2](https://github.com/backstage/backstage/releases/tag/v1.29.2), today) - Backstage is an open framework for building developer portals
   - [kubeflow/training-operator](https://github.com/kubeflow/training-operator) ([v1.8.0](https://github.com/kubeflow/training-operator/releases/tag/v1.8.0), 1 day ago) - Distributed ML Training and Fine-Tuning on Kubernetes
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.30.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.30.0-next.0), 1 day ago) - Backstage is an open framework for building developer portals
   - [metallb/metallb](https://github.com/metallb/metallb) ([v0.14.8](https://github.com/metallb/metallb/releases/tag/v0.14.8), 1 day ago) - A network load-balancer implementation for Kubernetes using standard routing protocols
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.84](https://github.com/meshery/meshery/releases/tag/v0.7.84), 2 days ago) - Meshery, the cloud native manager
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.15](https://github.com/etcd-io/etcd/releases/tag/v3.5.15), 5 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
