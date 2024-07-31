@@ -40,6 +40,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [kedacore/keda](https://github.com/kedacore/keda) ([v2.14.1](https://github.com/kedacore/keda/releases/tag/v2.14.1), today) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.30.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.30.0-next.2), today) - Backstage is an open framework for building developer portals
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.85](https://github.com/meshery/meshery/releases/tag/v0.7.85), 3 days ago) - Meshery, the cloud native manager
   - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.30.0-rc.1](https://github.com/projectcontour/contour/releases/tag/v1.30.0-rc.1), 5 days ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
@@ -49,7 +50,6 @@
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.24.2](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.24.2), 2 weeks ago) - Deploy a Production Ready Kubernetes Cluster
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.59.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.59.0), 3 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.59.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.59.0), 3 weeks ago) - Web UI for Jaeger
-  - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.6.2](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.6.2), 1 month ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
 
   #### 🔨 My recent Pull Requests
   
