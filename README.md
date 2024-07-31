@@ -17,8 +17,8 @@
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (1 week ago)
   - [HunterPie/localization](https://github.com/HunterPie/localization) - Localization repository for HunterPie&#39;s client (2 weeks ago)
   - [cloud-native-taiwan/status-infra-labs](https://github.com/cloud-native-taiwan/status-infra-labs) -  (3 weeks ago)
-  - [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group (3 weeks ago)
-  - [longhorn/website](https://github.com/longhorn/website) - https://longhorn.io/ (4 weeks ago)
+  - [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group (4 weeks ago)
+  - [longhorn/website](https://github.com/longhorn/website) - https://longhorn.io/ (1 month ago)
   - [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (1 month ago)
   - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (2 months ago)
   - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (2 months ago)
@@ -40,15 +40,15 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.30.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.30.0-next.1), today) - Backstage is an open framework for building developer portals
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.85](https://github.com/meshery/meshery/releases/tag/v0.7.85), 2 days ago) - Meshery, the cloud native manager
-  - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.30.0-rc.1](https://github.com/projectcontour/contour/releases/tag/v1.30.0-rc.1), 4 days ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.30.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.30.0-next.1), 1 day ago) - Backstage is an open framework for building developer portals
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.85](https://github.com/meshery/meshery/releases/tag/v0.7.85), 3 days ago) - Meshery, the cloud native manager
+  - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.30.0-rc.1](https://github.com/projectcontour/contour/releases/tag/v1.30.0-rc.1), 5 days ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
   - [kubeflow/training-operator](https://github.com/kubeflow/training-operator) ([v1.8.0](https://github.com/kubeflow/training-operator/releases/tag/v1.8.0), 1 week ago) - Distributed ML Training and Fine-Tuning on Kubernetes
   - [metallb/metallb](https://github.com/metallb/metallb) ([v0.14.8](https://github.com/metallb/metallb/releases/tag/v0.14.8), 1 week ago) - A network load-balancer implementation for Kubernetes using standard routing protocols
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.15](https://github.com/etcd-io/etcd/releases/tag/v3.5.15), 1 week ago) - Distributed reliable key-value store for the most critical data of a distributed system
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.24.2](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.24.2), 1 week ago) - Deploy a Production Ready Kubernetes Cluster
-  - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.59.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.59.0), 2 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
-  - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.59.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.59.0), 2 weeks ago) - Web UI for Jaeger
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.24.2](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.24.2), 2 weeks ago) - Deploy a Production Ready Kubernetes Cluster
+  - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.59.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.59.0), 3 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
+  - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.59.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.59.0), 3 weeks ago) - Web UI for Jaeger
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.6.2](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.6.2), 1 month ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
 
   #### 🔨 My recent Pull Requests
