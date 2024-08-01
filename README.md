@@ -40,8 +40,8 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [kedacore/keda](https://github.com/kedacore/keda) ([v2.15.0](https://github.com/kedacore/keda/releases/tag/v2.15.0), today) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
   - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.30.0](https://github.com/projectcontour/contour/releases/tag/v1.30.0), 1 day ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
-  - [kedacore/keda](https://github.com/kedacore/keda) ([v2.14.1](https://github.com/kedacore/keda/releases/tag/v2.14.1), 1 day ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.30.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.30.0-next.2), 1 day ago) - Backstage is an open framework for building developer portals
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.85](https://github.com/meshery/meshery/releases/tag/v0.7.85), 4 days ago) - Meshery, the cloud native manager
   - [kubeflow/training-operator](https://github.com/kubeflow/training-operator) ([v1.8.0](https://github.com/kubeflow/training-operator/releases/tag/v1.8.0), 1 week ago) - Distributed ML Training and Fine-Tuning on Kubernetes
