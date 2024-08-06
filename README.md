@@ -40,6 +40,8 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.60.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.60.0), today) - CNCF Jaeger, a Distributed Tracing Platform
+  - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.60.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.60.0), today) - Web UI for Jaeger
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.30.0-next.3](https://github.com/backstage/backstage/releases/tag/v1.30.0-next.3), today) - Backstage is an open framework for building developer portals
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.87](https://github.com/meshery/meshery/releases/tag/v0.7.87), 4 days ago) - Meshery, the cloud native manager
   - [kedacore/keda](https://github.com/kedacore/keda) ([v2.15.0](https://github.com/kedacore/keda/releases/tag/v2.15.0), 5 days ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
@@ -48,8 +50,6 @@
   - [metallb/metallb](https://github.com/metallb/metallb) ([v0.14.8](https://github.com/metallb/metallb/releases/tag/v0.14.8), 2 weeks ago) - A network load-balancer implementation for Kubernetes using standard routing protocols
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.15](https://github.com/etcd-io/etcd/releases/tag/v3.5.15), 2 weeks ago) - Distributed reliable key-value store for the most critical data of a distributed system
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.24.2](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.24.2), 2 weeks ago) - Deploy a Production Ready Kubernetes Cluster
-  - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.59.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.59.0), 3 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
-  - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.59.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.59.0), 3 weeks ago) - Web UI for Jaeger
 
   #### 🔨 My recent Pull Requests
   
