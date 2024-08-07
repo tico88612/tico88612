@@ -14,7 +14,7 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [cloud-native-taiwan/coscup-2024-workshop](https://github.com/cloud-native-taiwan/coscup-2024-workshop) - COSCUP 2024 IaC workshop files (1 day ago)
+  - [cloud-native-taiwan/coscup-2024-workshop](https://github.com/cloud-native-taiwan/coscup-2024-workshop) - COSCUP 2024 IaC workshop files (2 days ago)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (2 weeks ago)
   - [HunterPie/localization](https://github.com/HunterPie/localization) - Localization repository for HunterPie&#39;s client (3 weeks ago)
   - [cloud-native-taiwan/status-infra-labs](https://github.com/cloud-native-taiwan/status-infra-labs) -  (1 month ago)
@@ -40,16 +40,16 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.60.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.60.0), today) - CNCF Jaeger, a Distributed Tracing Platform
-  - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.60.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.60.0), today) - Web UI for Jaeger
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.30.0-next.3](https://github.com/backstage/backstage/releases/tag/v1.30.0-next.3), today) - Backstage is an open framework for building developer portals
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.87](https://github.com/meshery/meshery/releases/tag/v0.7.87), 4 days ago) - Meshery, the cloud native manager
-  - [kedacore/keda](https://github.com/kedacore/keda) ([v2.15.0](https://github.com/kedacore/keda/releases/tag/v2.15.0), 5 days ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
-  - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.30.0](https://github.com/projectcontour/contour/releases/tag/v1.30.0), 6 days ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
+  - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.60.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.60.0), 1 day ago) - CNCF Jaeger, a Distributed Tracing Platform
+  - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.60.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.60.0), 1 day ago) - Web UI for Jaeger
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.30.0-next.3](https://github.com/backstage/backstage/releases/tag/v1.30.0-next.3), 1 day ago) - Backstage is an open framework for building developer portals
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.87](https://github.com/meshery/meshery/releases/tag/v0.7.87), 5 days ago) - Meshery, the cloud native manager
+  - [kedacore/keda](https://github.com/kedacore/keda) ([v2.15.0](https://github.com/kedacore/keda/releases/tag/v2.15.0), 6 days ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
+  - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.30.0](https://github.com/projectcontour/contour/releases/tag/v1.30.0), 1 week ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
   - [kubeflow/training-operator](https://github.com/kubeflow/training-operator) ([v1.8.0](https://github.com/kubeflow/training-operator/releases/tag/v1.8.0), 2 weeks ago) - Distributed ML Training and Fine-Tuning on Kubernetes
   - [metallb/metallb](https://github.com/metallb/metallb) ([v0.14.8](https://github.com/metallb/metallb/releases/tag/v0.14.8), 2 weeks ago) - A network load-balancer implementation for Kubernetes using standard routing protocols
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.15](https://github.com/etcd-io/etcd/releases/tag/v3.5.15), 2 weeks ago) - Distributed reliable key-value store for the most critical data of a distributed system
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.24.2](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.24.2), 2 weeks ago) - Deploy a Production Ready Kubernetes Cluster
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.24.2](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.24.2), 3 weeks ago) - Deploy a Production Ready Kubernetes Cluster
 
   #### 🔨 My recent Pull Requests
   
