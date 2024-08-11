@@ -53,6 +53,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Add CI labels for kubernetes-sigs/kubespray](https://github.com/kubernetes/test-infra/pull/33289) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
   - [Make kubernetes v1.30.3 default ](https://github.com/kubernetes-sigs/kubespray/pull/11391) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
   - [Feat: Add missing zh-tw translation &amp; Fix wrong ID](https://github.com/HunterPie/localization/pull/99) on [HunterPie/localization](https://github.com/HunterPie/localization) (4 weeks ago)
   - [Feat: Upgrade external OCI cloud controller manager](https://github.com/kubernetes-sigs/kubespray/pull/11378) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 weeks ago)
@@ -62,7 +63,6 @@
   - [Bump: OpenStack Cloud Controller Manager to 1.30.0](https://github.com/kubernetes-sigs/kubespray/pull/11358) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [[release-2.25] Bump Kubernetes to 1.29.6](https://github.com/kubernetes-sigs/kubespray/pull/11355) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Bump: Upptime 1.37.0](https://github.com/cloud-native-taiwan/status-infra-labs/pull/4) on [cloud-native-taiwan/status-infra-labs](https://github.com/cloud-native-taiwan/status-infra-labs) (1 month ago)
-  - [CI: Remove Debian 10 support &amp; macvlan test move to Debian 11](https://github.com/kubernetes-sigs/kubespray/pull/11347) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
 
   #### ⭐ Recent Stars
   
