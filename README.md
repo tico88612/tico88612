@@ -40,6 +40,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [HunterPie/localization](https://github.com/HunterPie/localization) ([1.0.32](https://github.com/HunterPie/localization/releases/tag/1.0.32), today) - Localization repository for HunterPie&#39;s client
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.31](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.31), 1 day ago) - Kubernetes website and documentation repo: 
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.30.0-next.4](https://github.com/backstage/backstage/releases/tag/v1.30.0-next.4), 1 day ago) - Backstage is an open framework for building developer portals
   - [kedacore/keda](https://github.com/kedacore/keda) ([v2.15.1](https://github.com/kedacore/keda/releases/tag/v2.15.1), 2 days ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
@@ -49,7 +50,6 @@
   - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.30.0](https://github.com/projectcontour/contour/releases/tag/v1.30.0), 2 weeks ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
   - [kubeflow/training-operator](https://github.com/kubeflow/training-operator) ([v1.8.0](https://github.com/kubeflow/training-operator/releases/tag/v1.8.0), 3 weeks ago) - Distributed ML Training and Fine-Tuning on Kubernetes
   - [metallb/metallb](https://github.com/metallb/metallb) ([v0.14.8](https://github.com/metallb/metallb/releases/tag/v0.14.8), 3 weeks ago) - A network load-balancer implementation for Kubernetes using standard routing protocols
-  - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.15](https://github.com/etcd-io/etcd/releases/tag/v3.5.15), 3 weeks ago) - Distributed reliable key-value store for the most critical data of a distributed system
 
   #### 🔨 My recent Pull Requests
   
