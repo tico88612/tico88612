@@ -40,6 +40,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.7.2](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.7.2), today) - IP address Manager for Cluster API Provider Metal3
   - [HunterPie/localization](https://github.com/HunterPie/localization) ([1.0.32](https://github.com/HunterPie/localization/releases/tag/1.0.32), 1 day ago) - Localization repository for HunterPie&#39;s client
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.31](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.31), 2 days ago) - Kubernetes website and documentation repo: 
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.30.0-next.4](https://github.com/backstage/backstage/releases/tag/v1.30.0-next.4), 2 days ago) - Backstage is an open framework for building developer portals
@@ -49,7 +50,6 @@
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.60.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.60.0), 1 week ago) - Web UI for Jaeger
   - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.30.0](https://github.com/projectcontour/contour/releases/tag/v1.30.0), 2 weeks ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
   - [kubeflow/training-operator](https://github.com/kubeflow/training-operator) ([v1.8.0](https://github.com/kubeflow/training-operator/releases/tag/v1.8.0), 3 weeks ago) - Distributed ML Training and Fine-Tuning on Kubernetes
-  - [metallb/metallb](https://github.com/metallb/metallb) ([v0.14.8](https://github.com/metallb/metallb/releases/tag/v0.14.8), 3 weeks ago) - A network load-balancer implementation for Kubernetes using standard routing protocols
 
   #### 🔨 My recent Pull Requests
   
