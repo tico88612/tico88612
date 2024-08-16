@@ -14,9 +14,9 @@
 
   #### 👷 Check out what I'm currently working on
   
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (today)
   - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (5 days ago)
   - [cloud-native-taiwan/coscup-2024-workshop](https://github.com/cloud-native-taiwan/coscup-2024-workshop) - COSCUP 2024 IaC workshop files (1 week ago)
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (3 weeks ago)
   - [HunterPie/localization](https://github.com/HunterPie/localization) - Localization repository for HunterPie&#39;s client (1 month ago)
   - [cloud-native-taiwan/status-infra-labs](https://github.com/cloud-native-taiwan/status-infra-labs) -  (1 month ago)
   - [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group (1 month ago)
@@ -40,8 +40,8 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [HunterPie/localization](https://github.com/HunterPie/localization) ([1.0.33](https://github.com/HunterPie/localization/releases/tag/1.0.33), today) - Localization repository for HunterPie&#39;s client
   - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.7.2](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.7.2), 1 day ago) - IP address Manager for Cluster API Provider Metal3
-  - [HunterPie/localization](https://github.com/HunterPie/localization) ([1.0.32](https://github.com/HunterPie/localization/releases/tag/1.0.32), 2 days ago) - Localization repository for HunterPie&#39;s client
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.31](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.31), 3 days ago) - Kubernetes website and documentation repo: 
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.30.0-next.4](https://github.com/backstage/backstage/releases/tag/v1.30.0-next.4), 3 days ago) - Backstage is an open framework for building developer portals
   - [kedacore/keda](https://github.com/kedacore/keda) ([v2.15.1](https://github.com/kedacore/keda/releases/tag/v2.15.1), 4 days ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
