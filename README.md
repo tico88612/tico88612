@@ -40,10 +40,10 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.30.0](https://github.com/backstage/backstage/releases/tag/v1.30.0), today) - Backstage is an open framework for building developer portals
   - [HunterPie/localization](https://github.com/HunterPie/localization) ([1.0.33](https://github.com/HunterPie/localization/releases/tag/1.0.33), 4 days ago) - Localization repository for HunterPie&#39;s client
   - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.7.2](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.7.2), 5 days ago) - IP address Manager for Cluster API Provider Metal3
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.31](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.31), 1 week ago) - Kubernetes website and documentation repo: 
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.30.0-next.4](https://github.com/backstage/backstage/releases/tag/v1.30.0-next.4), 1 week ago) - Backstage is an open framework for building developer portals
   - [kedacore/keda](https://github.com/kedacore/keda) ([v2.15.1](https://github.com/kedacore/keda/releases/tag/v2.15.1), 1 week ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.88](https://github.com/meshery/meshery/releases/tag/v0.7.88), 1 week ago) - Meshery, the cloud native manager
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.60.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.60.0), 2 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
