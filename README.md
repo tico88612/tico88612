@@ -40,7 +40,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.30.1](https://github.com/backstage/backstage/releases/tag/v1.30.1), 1 day ago) - Backstage is an open framework for building developer portals
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.30.2](https://github.com/backstage/backstage/releases/tag/v1.30.2), today) - Backstage is an open framework for building developer portals
   - [HunterPie/localization](https://github.com/HunterPie/localization) ([1.0.33](https://github.com/HunterPie/localization/releases/tag/1.0.33), 5 days ago) - Localization repository for HunterPie&#39;s client
   - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.7.2](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.7.2), 6 days ago) - IP address Manager for Cluster API Provider Metal3
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.31](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.31), 1 week ago) - Kubernetes website and documentation repo: 
