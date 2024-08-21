@@ -14,7 +14,7 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (4 days ago)
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (5 days ago)
   - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 week ago)
   - [cloud-native-taiwan/coscup-2024-workshop](https://github.com/cloud-native-taiwan/coscup-2024-workshop) - COSCUP 2024 IaC workshop files (2 weeks ago)
   - [HunterPie/localization](https://github.com/HunterPie/localization) - Localization repository for HunterPie&#39;s client (1 month ago)
@@ -40,21 +40,21 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.30.1](https://github.com/backstage/backstage/releases/tag/v1.30.1), today) - Backstage is an open framework for building developer portals
-  - [HunterPie/localization](https://github.com/HunterPie/localization) ([1.0.33](https://github.com/HunterPie/localization/releases/tag/1.0.33), 4 days ago) - Localization repository for HunterPie&#39;s client
-  - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.7.2](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.7.2), 5 days ago) - IP address Manager for Cluster API Provider Metal3
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.30.1](https://github.com/backstage/backstage/releases/tag/v1.30.1), 1 day ago) - Backstage is an open framework for building developer portals
+  - [HunterPie/localization](https://github.com/HunterPie/localization) ([1.0.33](https://github.com/HunterPie/localization/releases/tag/1.0.33), 5 days ago) - Localization repository for HunterPie&#39;s client
+  - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.7.2](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.7.2), 6 days ago) - IP address Manager for Cluster API Provider Metal3
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.31](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.31), 1 week ago) - Kubernetes website and documentation repo: 
   - [kedacore/keda](https://github.com/kedacore/keda) ([v2.15.1](https://github.com/kedacore/keda/releases/tag/v2.15.1), 1 week ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.88](https://github.com/meshery/meshery/releases/tag/v0.7.88), 1 week ago) - Meshery, the cloud native manager
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.60.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.60.0), 2 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.60.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.60.0), 2 weeks ago) - Web UI for Jaeger
-  - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.30.0](https://github.com/projectcontour/contour/releases/tag/v1.30.0), 2 weeks ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
+  - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.30.0](https://github.com/projectcontour/contour/releases/tag/v1.30.0), 3 weeks ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
   - [kubeflow/training-operator](https://github.com/kubeflow/training-operator) ([v1.8.0](https://github.com/kubeflow/training-operator/releases/tag/v1.8.0), 4 weeks ago) - Distributed ML Training and Fine-Tuning on Kubernetes
 
   #### 🔨 My recent Pull Requests
   
-  - [[WIP] Upgrade Ceph CSI CephFS provisioner 3.11.0](https://github.com/kubernetes-sigs/kubespray/pull/11456) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 days ago)
-  - [Add tico88612 as reviewer](https://github.com/kubernetes-sigs/kubespray/pull/11453) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 days ago)
+  - [[WIP] Upgrade Ceph CSI CephFS provisioner 3.11.0](https://github.com/kubernetes-sigs/kubespray/pull/11456) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 days ago)
+  - [Add tico88612 as reviewer](https://github.com/kubernetes-sigs/kubespray/pull/11453) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (5 days ago)
   - [Add CI labels for kubernetes-sigs/kubespray](https://github.com/kubernetes/test-infra/pull/33289) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
   - [Make kubernetes v1.30.3 default ](https://github.com/kubernetes-sigs/kubespray/pull/11391) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Feat: Add missing zh-tw translation &amp; Fix wrong ID](https://github.com/HunterPie/localization/pull/99) on [HunterPie/localization](https://github.com/HunterPie/localization) (1 month ago)
@@ -66,7 +66,7 @@
 
   #### ⭐ Recent Stars
   
-  - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity (4 weeks ago)
+  - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity (1 month ago)
   - [nalexn/clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui) - SwiftUI sample app using Clean Architecture. Examples of working with CoreData persistence, networking, dependency injection, unit testing, and more. (1 month ago)
   - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform Provider for Proxmox (1 month ago)
   - [kubernetes/enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes (3 months ago)
