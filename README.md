@@ -40,6 +40,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [metal3-io/baremetal-operator](https://github.com/metal3-io/baremetal-operator) ([v0.7.0-rc.0](https://github.com/metal3-io/baremetal-operator/releases/tag/v0.7.0-rc.0), today) - Bare metal host provisioning integration for Kubernetes
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.0-alpha.1](https://github.com/meshery/meshery/releases/tag/v0.8.0-alpha.1), today) - Meshery, the cloud native manager
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.30.2](https://github.com/backstage/backstage/releases/tag/v1.30.2), 2 days ago) - Backstage is an open framework for building developer portals
   - [HunterPie/localization](https://github.com/HunterPie/localization) ([1.0.33](https://github.com/HunterPie/localization/releases/tag/1.0.33), 1 week ago) - Localization repository for HunterPie&#39;s client
@@ -49,7 +50,6 @@
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.60.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.60.0), 2 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.60.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.60.0), 2 weeks ago) - Web UI for Jaeger
   - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.30.0](https://github.com/projectcontour/contour/releases/tag/v1.30.0), 3 weeks ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
-  - [kubeflow/training-operator](https://github.com/kubeflow/training-operator) ([v1.8.0](https://github.com/kubeflow/training-operator/releases/tag/v1.8.0), 1 month ago) - Distributed ML Training and Fine-Tuning on Kubernetes
 
   #### 🔨 My recent Pull Requests
   
