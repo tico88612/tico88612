@@ -40,7 +40,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.89](https://github.com/meshery/meshery/releases/tag/v0.7.89), 2 days ago) - Meshery, the cloud native manager
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.0-alpha.1](https://github.com/meshery/meshery/releases/tag/v0.8.0-alpha.1), today) - Meshery, the cloud native manager
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.30.2](https://github.com/backstage/backstage/releases/tag/v1.30.2), 2 days ago) - Backstage is an open framework for building developer portals
   - [HunterPie/localization](https://github.com/HunterPie/localization) ([1.0.33](https://github.com/HunterPie/localization/releases/tag/1.0.33), 1 week ago) - Localization repository for HunterPie&#39;s client
   - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.7.2](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.7.2), 1 week ago) - IP address Manager for Cluster API Provider Metal3
