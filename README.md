@@ -40,10 +40,10 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.0-alpha.2](https://github.com/meshery/meshery/releases/tag/v0.8.0-alpha.2), today) - Meshery, the cloud native manager
-  - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.8.0-rc.0](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.8.0-rc.0), today) - IP address Manager for Cluster API Provider Metal3
-  - [metal3-io/baremetal-operator](https://github.com/metal3-io/baremetal-operator) ([v0.7.0-rc.0](https://github.com/metal3-io/baremetal-operator/releases/tag/v0.7.0-rc.0), today) - Bare metal host provisioning integration for Kubernetes
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.30.2](https://github.com/backstage/backstage/releases/tag/v1.30.2), 2 days ago) - Backstage is an open framework for building developer portals
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.0-alpha.2](https://github.com/meshery/meshery/releases/tag/v0.8.0-alpha.2), 1 day ago) - Meshery, the cloud native manager
+  - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.8.0-rc.0](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.8.0-rc.0), 1 day ago) - IP address Manager for Cluster API Provider Metal3
+  - [metal3-io/baremetal-operator](https://github.com/metal3-io/baremetal-operator) ([v0.7.0-rc.0](https://github.com/metal3-io/baremetal-operator/releases/tag/v0.7.0-rc.0), 1 day ago) - Bare metal host provisioning integration for Kubernetes
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.30.2](https://github.com/backstage/backstage/releases/tag/v1.30.2), 3 days ago) - Backstage is an open framework for building developer portals
   - [HunterPie/localization](https://github.com/HunterPie/localization) ([1.0.33](https://github.com/HunterPie/localization/releases/tag/1.0.33), 1 week ago) - Localization repository for HunterPie&#39;s client
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.31](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.31), 1 week ago) - Kubernetes website and documentation repo: 
   - [kedacore/keda](https://github.com/kedacore/keda) ([v2.15.1](https://github.com/kedacore/keda/releases/tag/v2.15.1), 1 week ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
@@ -53,7 +53,7 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [[WIP] Upgrade Ceph CSI CephFS provisioner 3.11.0](https://github.com/kubernetes-sigs/kubespray/pull/11456) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (6 days ago)
+  - [[WIP] Upgrade Ceph CSI CephFS provisioner 3.11.0](https://github.com/kubernetes-sigs/kubespray/pull/11456) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Add tico88612 as reviewer](https://github.com/kubernetes-sigs/kubespray/pull/11453) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Add CI labels for kubernetes-sigs/kubespray](https://github.com/kubernetes/test-infra/pull/33289) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
   - [Make kubernetes v1.30.3 default ](https://github.com/kubernetes-sigs/kubespray/pull/11391) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
@@ -66,11 +66,11 @@
 
   #### ⭐ Recent Stars
   
-  - [ljcucc/mobai-alei](https://github.com/ljcucc/mobai-alei) - 膜拜阿雷的信眾有福了！現在到 mobai-alei.ljcu.cc 就可以產生膜拜貼圖！ (1 day ago)
+  - [ljcucc/mobai-alei](https://github.com/ljcucc/mobai-alei) - 膜拜阿雷的信眾有福了！現在到 mobai-alei.ljcu.cc 就可以產生膜拜貼圖！ (2 days ago)
   - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity (1 month ago)
   - [nalexn/clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui) - SwiftUI sample app using Clean Architecture. Examples of working with CoreData persistence, networking, dependency injection, unit testing, and more. (1 month ago)
   - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform Provider for Proxmox (1 month ago)
-  - [kubernetes/enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes (3 months ago)
+  - [kubernetes/enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes (4 months ago)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (8 months ago)
   - [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers: Linux &amp; DevOps Troubleshooting Scenarios SaaS (9 months ago)
   - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南 (9 months ago)
