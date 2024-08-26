@@ -40,9 +40,9 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.0-beta.1](https://github.com/meshery/meshery/releases/tag/v0.8.0-beta.1), today) - Meshery, the cloud native manager
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.30.3](https://github.com/backstage/backstage/releases/tag/v1.30.3), today) - Backstage is an open framework for building developer portals
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.0-rc.0](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.0-rc.0), today) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.0-alpha.2](https://github.com/meshery/meshery/releases/tag/v0.8.0-alpha.2), 3 days ago) - Meshery, the cloud native manager
   - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.8.0-rc.0](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.8.0-rc.0), 3 days ago) - IP address Manager for Cluster API Provider Metal3
   - [metal3-io/baremetal-operator](https://github.com/metal3-io/baremetal-operator) ([v0.7.0-rc.0](https://github.com/metal3-io/baremetal-operator/releases/tag/v0.7.0-rc.0), 3 days ago) - Bare metal host provisioning integration for Kubernetes
   - [HunterPie/localization](https://github.com/HunterPie/localization) ([1.0.33](https://github.com/HunterPie/localization/releases/tag/1.0.33), 1 week ago) - Localization repository for HunterPie&#39;s client
