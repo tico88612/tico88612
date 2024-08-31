@@ -14,7 +14,7 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (2 weeks ago)
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (today)
   - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (2 weeks ago)
   - [cloud-native-taiwan/coscup-2024-workshop](https://github.com/cloud-native-taiwan/coscup-2024-workshop) - COSCUP 2024 IaC workshop files (3 weeks ago)
   - [HunterPie/localization](https://github.com/HunterPie/localization) - Localization repository for HunterPie&#39;s client (1 month ago)
