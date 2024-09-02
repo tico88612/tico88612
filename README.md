@@ -14,11 +14,11 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (1 day ago)
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (2 days ago)
   - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (3 weeks ago)
-  - [cloud-native-taiwan/coscup-2024-workshop](https://github.com/cloud-native-taiwan/coscup-2024-workshop) - COSCUP 2024 IaC workshop files (3 weeks ago)
+  - [cloud-native-taiwan/coscup-2024-workshop](https://github.com/cloud-native-taiwan/coscup-2024-workshop) - COSCUP 2024 IaC workshop files (4 weeks ago)
   - [HunterPie/localization](https://github.com/HunterPie/localization) - Localization repository for HunterPie&#39;s client (1 month ago)
-  - [cloud-native-taiwan/status-infra-labs](https://github.com/cloud-native-taiwan/status-infra-labs) -  (1 month ago)
+  - [cloud-native-taiwan/status-infra-labs](https://github.com/cloud-native-taiwan/status-infra-labs) -  (2 months ago)
   - [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group (2 months ago)
   - [longhorn/website](https://github.com/longhorn/website) - https://longhorn.io/ (2 months ago)
   - [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (2 months ago)
@@ -40,14 +40,14 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.0-beta.4](https://github.com/meshery/meshery/releases/tag/v0.8.0-beta.4), 3 days ago) - Meshery, the cloud native manager
-  - [metal3-io/baremetal-operator](https://github.com/metal3-io/baremetal-operator) ([v0.8.0-rc.0](https://github.com/metal3-io/baremetal-operator/releases/tag/v0.8.0-rc.0), 3 days ago) - Bare metal host provisioning integration for Kubernetes
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.31.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.31.0-next.0), 5 days ago) - Backstage is an open framework for building developer portals
-  - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.0-rc.0](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.0-rc.0), 6 days ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.0-beta.4](https://github.com/meshery/meshery/releases/tag/v0.8.0-beta.4), 4 days ago) - Meshery, the cloud native manager
+  - [metal3-io/baremetal-operator](https://github.com/metal3-io/baremetal-operator) ([v0.8.0-rc.0](https://github.com/metal3-io/baremetal-operator/releases/tag/v0.8.0-rc.0), 4 days ago) - Bare metal host provisioning integration for Kubernetes
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.31.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.31.0-next.0), 6 days ago) - Backstage is an open framework for building developer portals
+  - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.0-rc.0](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.0-rc.0), 1 week ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
   - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.8.0-rc.0](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.8.0-rc.0), 1 week ago) - IP address Manager for Cluster API Provider Metal3
   - [HunterPie/localization](https://github.com/HunterPie/localization) ([1.0.33](https://github.com/HunterPie/localization/releases/tag/1.0.33), 2 weeks ago) - Localization repository for HunterPie&#39;s client
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.31](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.31), 2 weeks ago) - Kubernetes website and documentation repo: 
-  - [kedacore/keda](https://github.com/kedacore/keda) ([v2.15.1](https://github.com/kedacore/keda/releases/tag/v2.15.1), 2 weeks ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
+  - [kedacore/keda](https://github.com/kedacore/keda) ([v2.15.1](https://github.com/kedacore/keda/releases/tag/v2.15.1), 3 weeks ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.60.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.60.0), 3 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.60.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.60.0), 3 weeks ago) - Web UI for Jaeger
 
