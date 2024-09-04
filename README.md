@@ -40,11 +40,11 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.93](https://github.com/meshery/meshery/releases/tag/v0.7.93), today) - Meshery, the cloud native manager
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.0](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.0), today) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.31.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.31.0-next.1), 1 day ago) - Backstage is an open framework for building developer portals
   - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.8.0](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.8.0), 1 day ago) - IP address Manager for Cluster API Provider Metal3
   - [metal3-io/baremetal-operator](https://github.com/metal3-io/baremetal-operator) ([v0.8.0](https://github.com/metal3-io/baremetal-operator/releases/tag/v0.8.0), 1 day ago) - Bare metal host provisioning integration for Kubernetes
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.92](https://github.com/meshery/meshery/releases/tag/v0.7.92), 1 day ago) - Meshery, the cloud native manager
   - [HunterPie/localization](https://github.com/HunterPie/localization) ([1.0.33](https://github.com/HunterPie/localization/releases/tag/1.0.33), 2 weeks ago) - Localization repository for HunterPie&#39;s client
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.31](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.31), 3 weeks ago) - Kubernetes website and documentation repo: 
   - [kedacore/keda](https://github.com/kedacore/keda) ([v2.15.1](https://github.com/kedacore/keda/releases/tag/v2.15.1), 3 weeks ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
