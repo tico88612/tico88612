@@ -14,7 +14,7 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (4 days ago)
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (5 days ago)
   - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (3 weeks ago)
   - [cloud-native-taiwan/coscup-2024-workshop](https://github.com/cloud-native-taiwan/coscup-2024-workshop) - COSCUP 2024 IaC workshop files (1 month ago)
   - [HunterPie/localization](https://github.com/HunterPie/localization) - Localization repository for HunterPie&#39;s client (1 month ago)
@@ -40,16 +40,16 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.93](https://github.com/meshery/meshery/releases/tag/v0.7.93), today) - Meshery, the cloud native manager
-  - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.0](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.0), today) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.31.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.31.0-next.1), 1 day ago) - Backstage is an open framework for building developer portals
-  - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.8.0](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.8.0), 1 day ago) - IP address Manager for Cluster API Provider Metal3
-  - [metal3-io/baremetal-operator](https://github.com/metal3-io/baremetal-operator) ([v0.8.0](https://github.com/metal3-io/baremetal-operator/releases/tag/v0.8.0), 1 day ago) - Bare metal host provisioning integration for Kubernetes
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.93](https://github.com/meshery/meshery/releases/tag/v0.7.93), 1 day ago) - Meshery, the cloud native manager
+  - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.0](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.0), 1 day ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.31.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.31.0-next.1), 2 days ago) - Backstage is an open framework for building developer portals
+  - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.8.0](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.8.0), 2 days ago) - IP address Manager for Cluster API Provider Metal3
+  - [metal3-io/baremetal-operator](https://github.com/metal3-io/baremetal-operator) ([v0.8.0](https://github.com/metal3-io/baremetal-operator/releases/tag/v0.8.0), 2 days ago) - Bare metal host provisioning integration for Kubernetes
   - [HunterPie/localization](https://github.com/HunterPie/localization) ([1.0.33](https://github.com/HunterPie/localization/releases/tag/1.0.33), 2 weeks ago) - Localization repository for HunterPie&#39;s client
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.31](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.31), 3 weeks ago) - Kubernetes website and documentation repo: 
   - [kedacore/keda](https://github.com/kedacore/keda) ([v2.15.1](https://github.com/kedacore/keda/releases/tag/v2.15.1), 3 weeks ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
-  - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.60.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.60.0), 4 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
-  - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.60.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.60.0), 4 weeks ago) - Web UI for Jaeger
+  - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.60.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.60.0), 1 month ago) - CNCF Jaeger, a Distributed Tracing Platform
+  - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.60.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.60.0), 1 month ago) - Web UI for Jaeger
 
   #### 🔨 My recent Pull Requests
   
@@ -61,12 +61,12 @@
   - [Feat: Upgrade external OCI cloud controller manager](https://github.com/kubernetes-sigs/kubespray/pull/11378) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Feat: Gateway API CRDs install support](https://github.com/kubernetes-sigs/kubespray/pull/11376) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Bump Cinder CSI Plugin to v1.30.0](https://github.com/kubernetes-sigs/kubespray/pull/11374) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
-  - [Fix CentOS 7 yum repo baseurl update](https://github.com/kubernetes-sigs/kubespray/pull/11360) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
-  - [Bump: OpenStack Cloud Controller Manager to 1.30.0](https://github.com/kubernetes-sigs/kubespray/pull/11358) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
+  - [Fix CentOS 7 yum repo baseurl update](https://github.com/kubernetes-sigs/kubespray/pull/11360) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 months ago)
+  - [Bump: OpenStack Cloud Controller Manager to 1.30.0](https://github.com/kubernetes-sigs/kubespray/pull/11358) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 months ago)
 
   #### ⭐ Recent Stars
   
-  - [ljcucc/mobai-alei](https://github.com/ljcucc/mobai-alei) - 膜拜阿雷的信眾有福了！現在到 mobai-alei.ljcu.cc 就可以產生膜拜貼圖！ (1 week ago)
+  - [ljcucc/mobai-alei](https://github.com/ljcucc/mobai-alei) - 膜拜阿雷的信眾有福了！現在到 mobai-alei.ljcu.cc 就可以產生膜拜貼圖！ (2 weeks ago)
   - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity (1 month ago)
   - [nalexn/clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui) - SwiftUI sample app using Clean Architecture. Examples of working with CoreData persistence, networking, dependency injection, unit testing, and more. (1 month ago)
   - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform Provider for Proxmox (1 month ago)
