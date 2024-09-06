@@ -40,9 +40,9 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.6.3](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.6.3), today) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.26.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.26.0), today) - Deploy a Production Ready Kubernetes Cluster
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.93](https://github.com/meshery/meshery/releases/tag/v0.7.93), 2 days ago) - Meshery, the cloud native manager
-  - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.0](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.0), 2 days ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.31.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.31.0-next.1), 3 days ago) - Backstage is an open framework for building developer portals
   - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.8.0](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.8.0), 3 days ago) - IP address Manager for Cluster API Provider Metal3
   - [metal3-io/baremetal-operator](https://github.com/metal3-io/baremetal-operator) ([v0.8.0](https://github.com/metal3-io/baremetal-operator/releases/tag/v0.8.0), 3 days ago) - Bare metal host provisioning integration for Kubernetes
