@@ -27,6 +27,7 @@
 
   #### 🌱 My latest projects
   
+  - [tico88612/blog-comments](https://github.com/tico88612/blog-comments) - 
   - [tico88612/get-real-ip](https://github.com/tico88612/get-real-ip) - 
   - [tico88612/podman-monitor-workshop](https://github.com/tico88612/podman-monitor-workshop) - 
   - [tico88612/cicd-hexo-blog-pages](https://github.com/tico88612/cicd-hexo-blog-pages) - 以 Hexo Blog 撰寫 CI/CD Pipeline 網頁
@@ -36,7 +37,6 @@
   - [tico88612/network-security-final](https://github.com/tico88612/network-security-final) - 
   - [tico88612/docker-init.engineer](https://github.com/tico88612/docker-init.engineer) - 純靠北工程師 Docker 架設版
   - [tico88612/kantai-teachme.tw](https://github.com/tico88612/kantai-teachme.tw) - 
-  - [tico88612/minecraft_on_discord](https://github.com/tico88612/minecraft_on_discord) - Paste this link to Discord
 
   #### 🔭 Latest releases I've contributed to
   
