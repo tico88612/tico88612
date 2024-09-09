@@ -53,6 +53,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Bump ansible 9.8.0 to 10.3.0](https://github.com/kubernetes-sigs/kubespray/pull/11520) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [[WIP] Upgrade Ceph CSI CephFS provisioner 3.11.0](https://github.com/kubernetes-sigs/kubespray/pull/11456) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
   - [Add tico88612 as reviewer](https://github.com/kubernetes-sigs/kubespray/pull/11453) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
   - [Add CI labels for kubernetes-sigs/kubespray](https://github.com/kubernetes/test-infra/pull/33289) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 weeks ago)
@@ -62,7 +63,6 @@
   - [Feat: Gateway API CRDs install support](https://github.com/kubernetes-sigs/kubespray/pull/11376) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Bump Cinder CSI Plugin to v1.30.0](https://github.com/kubernetes-sigs/kubespray/pull/11374) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 months ago)
   - [Fix CentOS 7 yum repo baseurl update](https://github.com/kubernetes-sigs/kubespray/pull/11360) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 months ago)
-  - [Bump: OpenStack Cloud Controller Manager to 1.30.0](https://github.com/kubernetes-sigs/kubespray/pull/11358) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 months ago)
 
   #### ⭐ Recent Stars
   
