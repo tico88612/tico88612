@@ -40,7 +40,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.94](https://github.com/meshery/meshery/releases/tag/v0.7.94), today) - Meshery, the cloud native manager
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.95](https://github.com/meshery/meshery/releases/tag/v0.7.95), today) - Meshery, the cloud native manager
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.16](https://github.com/etcd-io/etcd/releases/tag/v3.5.16), today) - Distributed reliable key-value store for the most critical data of a distributed system
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.31.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.31.0-next.2), today) - Backstage is an open framework for building developer portals
   - [kubeflow/training-operator](https://github.com/kubeflow/training-operator) ([v1.8.1](https://github.com/kubeflow/training-operator/releases/tag/v1.8.1), today) - Distributed ML Training and Fine-Tuning on Kubernetes
