@@ -40,6 +40,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [kubeflow/training-operator](https://github.com/kubeflow/training-operator) ([v1.8.1](https://github.com/kubeflow/training-operator/releases/tag/v1.8.1), today) - Distributed ML Training and Fine-Tuning on Kubernetes
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.1](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.1), 4 days ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.26.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.26.0), 4 days ago) - Deploy a Production Ready Kubernetes Cluster
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.93](https://github.com/meshery/meshery/releases/tag/v0.7.93), 6 days ago) - Meshery, the cloud native manager
@@ -49,7 +50,6 @@
   - [HunterPie/localization](https://github.com/HunterPie/localization) ([1.0.33](https://github.com/HunterPie/localization/releases/tag/1.0.33), 3 weeks ago) - Localization repository for HunterPie&#39;s client
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.31](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.31), 4 weeks ago) - Kubernetes website and documentation repo: 
   - [kedacore/keda](https://github.com/kedacore/keda) ([v2.15.1](https://github.com/kedacore/keda/releases/tag/v2.15.1), 4 weeks ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
-  - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.60.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.60.0), 1 month ago) - CNCF Jaeger, a Distributed Tracing Platform
 
   #### 🔨 My recent Pull Requests
   
