@@ -40,6 +40,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.61.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.61.0), today) - Web UI for Jaeger
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.100](https://github.com/meshery/meshery/releases/tag/v0.7.100), 3 days ago) - Meshery, the cloud native manager
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.34](https://github.com/etcd-io/etcd/releases/tag/v3.4.34), 3 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.31.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.31.0-next.2), 4 days ago) - Backstage is an open framework for building developer portals
@@ -49,7 +50,6 @@
   - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.8.0](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.8.0), 1 week ago) - IP address Manager for Cluster API Provider Metal3
   - [metal3-io/baremetal-operator](https://github.com/metal3-io/baremetal-operator) ([v0.8.0](https://github.com/metal3-io/baremetal-operator/releases/tag/v0.8.0), 1 week ago) - Bare metal host provisioning integration for Kubernetes
   - [HunterPie/localization](https://github.com/HunterPie/localization) ([1.0.33](https://github.com/HunterPie/localization/releases/tag/1.0.33), 4 weeks ago) - Localization repository for HunterPie&#39;s client
-  - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.31](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.31), 1 month ago) - Kubernetes website and documentation repo: 
 
   #### 🔨 My recent Pull Requests
   
