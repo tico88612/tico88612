@@ -40,11 +40,11 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.31.0](https://github.com/backstage/backstage/releases/tag/v1.31.0), today) - Backstage is an open framework for building developer portals
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.102](https://github.com/meshery/meshery/releases/tag/v0.7.102), 1 day ago) - Meshery, the cloud native manager
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.61.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.61.0), 2 days ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.61.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.61.0), 3 days ago) - Web UI for Jaeger
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.34](https://github.com/etcd-io/etcd/releases/tag/v3.4.34), 6 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.31.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.31.0-next.2), 1 week ago) - Backstage is an open framework for building developer portals
   - [kubeflow/training-operator](https://github.com/kubeflow/training-operator) ([v1.8.1](https://github.com/kubeflow/training-operator/releases/tag/v1.8.1), 1 week ago) - Distributed ML Training and Fine-Tuning on Kubernetes
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.1](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.1), 1 week ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.26.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.26.0), 1 week ago) - Deploy a Production Ready Kubernetes Cluster
