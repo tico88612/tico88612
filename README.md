@@ -40,6 +40,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.24.3](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.24.3), today) - Deploy a Production Ready Kubernetes Cluster
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.103](https://github.com/meshery/meshery/releases/tag/v0.7.103), 1 day ago) - Meshery, the cloud native manager
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.31.1](https://github.com/backstage/backstage/releases/tag/v1.31.1), 1 day ago) - Backstage is an open framework for building developer portals
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.61.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.61.0), 3 days ago) - CNCF Jaeger, a Distributed Tracing Platform
@@ -47,7 +48,6 @@
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.34](https://github.com/etcd-io/etcd/releases/tag/v3.4.34), 1 week ago) - Distributed reliable key-value store for the most critical data of a distributed system
   - [kubeflow/training-operator](https://github.com/kubeflow/training-operator) ([v1.8.1](https://github.com/kubeflow/training-operator/releases/tag/v1.8.1), 1 week ago) - Distributed ML Training and Fine-Tuning on Kubernetes
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.1](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.1), 1 week ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.26.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.26.0), 1 week ago) - Deploy a Production Ready Kubernetes Cluster
   - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.8.0](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.8.0), 2 weeks ago) - IP address Manager for Cluster API Provider Metal3
   - [metal3-io/baremetal-operator](https://github.com/metal3-io/baremetal-operator) ([v0.8.0](https://github.com/metal3-io/baremetal-operator/releases/tag/v0.8.0), 2 weeks ago) - Bare metal host provisioning integration for Kubernetes
 
