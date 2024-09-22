@@ -14,7 +14,7 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (6 days ago)
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (1 week ago)
   - [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group (1 week ago)
   - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 month ago)
   - [cloud-native-taiwan/coscup-2024-workshop](https://github.com/cloud-native-taiwan/coscup-2024-workshop) - COSCUP 2024 IaC workshop files (1 month ago)
@@ -22,7 +22,7 @@
   - [cloud-native-taiwan/status-infra-labs](https://github.com/cloud-native-taiwan/status-infra-labs) -  (2 months ago)
   - [longhorn/website](https://github.com/longhorn/website) - https://longhorn.io/ (2 months ago)
   - [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (3 months ago)
-  - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (3 months ago)
+  - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (4 months ago)
   - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (4 months ago)
 
   #### 🌱 My latest projects
@@ -40,10 +40,10 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.106](https://github.com/meshery/meshery/releases/tag/v0.7.106), today) - Meshery, the cloud native manager
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.24.3](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.24.3), 3 days ago) - Deploy a Production Ready Kubernetes Cluster
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.31.1](https://github.com/backstage/backstage/releases/tag/v1.31.1), 4 days ago) - Backstage is an open framework for building developer portals
-  - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.61.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.61.0), 6 days ago) - CNCF Jaeger, a Distributed Tracing Platform
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.106](https://github.com/meshery/meshery/releases/tag/v0.7.106), 1 day ago) - Meshery, the cloud native manager
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.24.3](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.24.3), 4 days ago) - Deploy a Production Ready Kubernetes Cluster
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.31.1](https://github.com/backstage/backstage/releases/tag/v1.31.1), 5 days ago) - Backstage is an open framework for building developer portals
+  - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.61.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.61.0), 1 week ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.61.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.61.0), 1 week ago) - Web UI for Jaeger
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.34](https://github.com/etcd-io/etcd/releases/tag/v3.4.34), 1 week ago) - Distributed reliable key-value store for the most critical data of a distributed system
   - [kubeflow/training-operator](https://github.com/kubeflow/training-operator) ([v1.8.1](https://github.com/kubeflow/training-operator/releases/tag/v1.8.1), 1 week ago) - Distributed ML Training and Fine-Tuning on Kubernetes
