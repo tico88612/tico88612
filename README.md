@@ -40,21 +40,21 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.107](https://github.com/meshery/meshery/releases/tag/v0.7.107), today) - Meshery, the cloud native manager
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.24.3](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.24.3), 5 days ago) - Deploy a Production Ready Kubernetes Cluster
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.31.1](https://github.com/backstage/backstage/releases/tag/v1.31.1), 6 days ago) - Backstage is an open framework for building developer portals
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.107](https://github.com/meshery/meshery/releases/tag/v0.7.107), 1 day ago) - Meshery, the cloud native manager
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.24.3](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.24.3), 6 days ago) - Deploy a Production Ready Kubernetes Cluster
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.31.1](https://github.com/backstage/backstage/releases/tag/v1.31.1), 1 week ago) - Backstage is an open framework for building developer portals
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.61.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.61.0), 1 week ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.61.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.61.0), 1 week ago) - Web UI for Jaeger
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.34](https://github.com/etcd-io/etcd/releases/tag/v3.4.34), 1 week ago) - Distributed reliable key-value store for the most critical data of a distributed system
-  - [kubeflow/training-operator](https://github.com/kubeflow/training-operator) ([v1.8.1](https://github.com/kubeflow/training-operator/releases/tag/v1.8.1), 1 week ago) - Distributed ML Training and Fine-Tuning on Kubernetes
+  - [kubeflow/training-operator](https://github.com/kubeflow/training-operator) ([v1.8.1](https://github.com/kubeflow/training-operator/releases/tag/v1.8.1), 2 weeks ago) - Distributed ML Training and Fine-Tuning on Kubernetes
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.1](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.1), 2 weeks ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
-  - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.8.0](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.8.0), 2 weeks ago) - IP address Manager for Cluster API Provider Metal3
-  - [metal3-io/baremetal-operator](https://github.com/metal3-io/baremetal-operator) ([v0.8.0](https://github.com/metal3-io/baremetal-operator/releases/tag/v0.8.0), 2 weeks ago) - Bare metal host provisioning integration for Kubernetes
+  - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.8.0](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.8.0), 3 weeks ago) - IP address Manager for Cluster API Provider Metal3
+  - [metal3-io/baremetal-operator](https://github.com/metal3-io/baremetal-operator) ([v0.8.0](https://github.com/metal3-io/baremetal-operator/releases/tag/v0.8.0), 3 weeks ago) - Bare metal host provisioning integration for Kubernetes
 
   #### 🔨 My recent Pull Requests
   
   - [Fix: download hash crictl link](https://github.com/kubernetes-sigs/kubespray/pull/11534) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
-  - [Conformance results for v1.30/kubespray](https://github.com/cncf/k8s-conformance/pull/3373) on [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) (1 week ago)
+  - [Conformance results for v1.30/kubespray](https://github.com/cncf/k8s-conformance/pull/3373) on [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) (2 weeks ago)
   - [Bump ansible 9.8.0 to 10.3.0](https://github.com/kubernetes-sigs/kubespray/pull/11520) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [[WIP] Upgrade Ceph CSI CephFS provisioner 3.11.0](https://github.com/kubernetes-sigs/kubespray/pull/11456) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Add tico88612 as reviewer](https://github.com/kubernetes-sigs/kubespray/pull/11453) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
