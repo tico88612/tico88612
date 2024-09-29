@@ -14,7 +14,7 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (2 weeks ago)
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (today)
   - [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group (2 weeks ago)
   - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 month ago)
   - [cloud-native-taiwan/coscup-2024-workshop](https://github.com/cloud-native-taiwan/coscup-2024-workshop) - COSCUP 2024 IaC workshop files (1 month ago)
@@ -54,7 +54,7 @@
   #### 🔨 My recent Pull Requests
   
   - [Add Fedora 39/40 images in test-infra](https://github.com/kubernetes-sigs/kubespray/pull/11578) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 days ago)
-  - [Feat: support Fedora 39/40](https://github.com/kubernetes-sigs/kubespray/pull/11573) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 days ago)
+  - [[WIP] Feat: support Fedora 39/40](https://github.com/kubernetes-sigs/kubespray/pull/11573) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 days ago)
   - [Fix: download hash crictl link](https://github.com/kubernetes-sigs/kubespray/pull/11534) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [Conformance results for v1.30/kubespray](https://github.com/cncf/k8s-conformance/pull/3373) on [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) (2 weeks ago)
   - [Bump ansible 9.8.0 to 10.3.0](https://github.com/kubernetes-sigs/kubespray/pull/11520) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
