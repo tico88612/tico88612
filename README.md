@@ -40,7 +40,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.116](https://github.com/meshery/meshery/releases/tag/v0.7.116), today) - Meshery, the cloud native manager
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.117](https://github.com/meshery/meshery/releases/tag/v0.7.117), today) - Meshery, the cloud native manager
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.2](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.2), 2 days ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.31.3](https://github.com/backstage/backstage/releases/tag/v1.31.3), 3 days ago) - Backstage is an open framework for building developer portals
   - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.8.1](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.8.1), 3 days ago) - IP address Manager for Cluster API Provider Metal3
@@ -53,6 +53,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Feat: CRI-O v1.31 change default runtime to crun](https://github.com/kubernetes-sigs/kubespray/pull/11601) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [Cleanup: Fedora 37/38 CI tests &amp; docs](https://github.com/kubernetes-sigs/kubespray/pull/11600) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [Add Fedora 39/40 images in test-infra](https://github.com/kubernetes-sigs/kubespray/pull/11578) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Feat: support Fedora 39/40](https://github.com/kubernetes-sigs/kubespray/pull/11573) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
@@ -62,7 +63,6 @@
   - [[WIP] Upgrade Ceph CSI CephFS provisioner 3.11.0](https://github.com/kubernetes-sigs/kubespray/pull/11456) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Add tico88612 as reviewer](https://github.com/kubernetes-sigs/kubespray/pull/11453) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Add CI labels for kubernetes-sigs/kubespray](https://github.com/kubernetes/test-infra/pull/33289) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 month ago)
-  - [Make kubernetes v1.30.3 default ](https://github.com/kubernetes-sigs/kubespray/pull/11391) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 months ago)
 
   #### ⭐ Recent Stars
   
