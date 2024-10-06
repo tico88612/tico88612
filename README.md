@@ -53,6 +53,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Cleanup: Fedora 37/38 CI tests &amp; docs](https://github.com/kubernetes-sigs/kubespray/pull/11600) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [Add Fedora 39/40 images in test-infra](https://github.com/kubernetes-sigs/kubespray/pull/11578) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Feat: support Fedora 39/40](https://github.com/kubernetes-sigs/kubespray/pull/11573) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Fix: download hash crictl link](https://github.com/kubernetes-sigs/kubespray/pull/11534) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
@@ -62,7 +63,6 @@
   - [Add tico88612 as reviewer](https://github.com/kubernetes-sigs/kubespray/pull/11453) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Add CI labels for kubernetes-sigs/kubespray](https://github.com/kubernetes/test-infra/pull/33289) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 month ago)
   - [Make kubernetes v1.30.3 default ](https://github.com/kubernetes-sigs/kubespray/pull/11391) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 months ago)
-  - [Feat: Add missing zh-tw translation &amp; Fix wrong ID](https://github.com/HunterPie/localization/pull/99) on [HunterPie/localization](https://github.com/HunterPie/localization) (2 months ago)
 
   #### ⭐ Recent Stars
   
