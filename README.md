@@ -14,7 +14,7 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (4 days ago)
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (5 days ago)
   - [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group (3 weeks ago)
   - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 month ago)
   - [cloud-native-taiwan/coscup-2024-workshop](https://github.com/cloud-native-taiwan/coscup-2024-workshop) - COSCUP 2024 IaC workshop files (2 months ago)
@@ -40,12 +40,12 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.114](https://github.com/meshery/meshery/releases/tag/v0.7.114), today) - Meshery, the cloud native manager
-  - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.2](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.2), 1 day ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.31.3](https://github.com/backstage/backstage/releases/tag/v1.31.3), 2 days ago) - Backstage is an open framework for building developer portals
-  - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.8.1](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.8.1), 2 days ago) - IP address Manager for Cluster API Provider Metal3
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.114](https://github.com/meshery/meshery/releases/tag/v0.7.114), 1 day ago) - Meshery, the cloud native manager
+  - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.2](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.2), 2 days ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.31.3](https://github.com/backstage/backstage/releases/tag/v1.31.3), 3 days ago) - Backstage is an open framework for building developer portals
+  - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.8.1](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.8.1), 3 days ago) - IP address Manager for Cluster API Provider Metal3
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.24.3](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.24.3), 2 weeks ago) - Deploy a Production Ready Kubernetes Cluster
-  - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.61.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.61.0), 2 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
+  - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.61.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.61.0), 3 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.61.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.61.0), 3 weeks ago) - Web UI for Jaeger
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.34](https://github.com/etcd-io/etcd/releases/tag/v3.4.34), 3 weeks ago) - Distributed reliable key-value store for the most critical data of a distributed system
   - [kubeflow/training-operator](https://github.com/kubeflow/training-operator) ([v1.8.1](https://github.com/kubeflow/training-operator/releases/tag/v1.8.1), 3 weeks ago) - Distributed ML Training and Fine-Tuning on Kubernetes
