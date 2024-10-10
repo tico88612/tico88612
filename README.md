@@ -53,6 +53,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Cleanup: Upgrade `KUBESPRAY_VERSION` and `galaxy.yml` version](https://github.com/kubernetes-sigs/kubespray/pull/11625) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [Test: revert accidental deletion Fedora 39 CRI-O CI](https://github.com/kubernetes-sigs/kubespray/pull/11611) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 days ago)
   - [Feat: CRI-O v1.31 change default runtime to crun](https://github.com/kubernetes-sigs/kubespray/pull/11601) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 days ago)
   - [Cleanup: Fedora 37/38 CI tests &amp; docs](https://github.com/kubernetes-sigs/kubespray/pull/11600) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 days ago)
@@ -62,7 +63,6 @@
   - [Conformance results for v1.30/kubespray](https://github.com/cncf/k8s-conformance/pull/3373) on [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) (1 month ago)
   - [Bump ansible 9.8.0 to 10.3.0](https://github.com/kubernetes-sigs/kubespray/pull/11520) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [[WIP] Upgrade Ceph CSI CephFS provisioner 3.11.0](https://github.com/kubernetes-sigs/kubespray/pull/11456) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
-  - [Add tico88612 as reviewer](https://github.com/kubernetes-sigs/kubespray/pull/11453) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
 
   #### ⭐ Recent Stars
   
