@@ -40,8 +40,8 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.32.0](https://github.com/backstage/backstage/releases/tag/v1.32.0), today) - Backstage is an open framework for building developer portals
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.121](https://github.com/meshery/meshery/releases/tag/v0.7.121), 1 week ago) - Meshery, the cloud native manager
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.32.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.32.0-next.2), 1 week ago) - Backstage is an open framework for building developer portals
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.62.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.62.0), 1 week ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.62.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.62.0), 1 week ago) - Web UI for Jaeger
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.2](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.2), 1 week ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
