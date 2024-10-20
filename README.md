@@ -96,5 +96,9 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=tico88612&theme=flat&no-frame=true&theme=onedark&margin-w=15&column=4" />
 
+<be>
+
+<a href="https://gitroll.io/profile/u0ufMd0HHwCUrp6xGFYIqjIkupi83" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u0ufMd0HHwCUrp6xGFYIqjIkupi83" alt="GitRoll Profile Badge"/></a>
+
 
 ![](https://hit.yhype.me/github/profile?user_id=17496418)
