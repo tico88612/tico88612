@@ -6,7 +6,8 @@
 
 - 🧑‍💻 IT/SRE @ Hualien, Taiwan
 - 🐳 Kubernetes, Container, Golang, Typescript
-- 🤝 CNCF Ambassador (H1 2024) | CNTUG Co-Organizer | Kubernetes & Kubernetes SIGs member
+- 🤝 CNCF Ambassador (H1 2024) | CNTUG Co-Organizer | Kubernetes Community Days Taipei 2024 Co-organizer
+- 💻 Code Reviewer @ Kubespray | v1.32 Release Signal Team Shadow @ Kubernetes
 - ❤️ Kagamine Rin
 
 <details>
@@ -98,7 +99,7 @@
 
 <be>
 
-<a href="https://gitroll.io/profile/u0ufMd0HHwCUrp6xGFYIqjIkupi83" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u0ufMd0HHwCUrp6xGFYIqjIkupi83" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/u0ufMd0HHwCUrp6xGFYIqjIkupi83" target="_blank"><img width=500px src="https://gitroll.io/api/badges/profiles/v1/u0ufMd0HHwCUrp6xGFYIqjIkupi83" alt="GitRoll Profile Badge"/></a>
 
 
 ![](https://hit.yhype.me/github/profile?user_id=17496418)
