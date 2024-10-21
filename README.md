@@ -54,6 +54,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [[WIP] Fix `debian11-custom-cni` failing test &amp; upgrade `debian12-custom-cni-helm` chart version](https://github.com/kubernetes-sigs/kubespray/pull/11654) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [Add Kubernetes 1.31](https://github.com/coredns/deployment/pull/301) on [coredns/deployment](https://github.com/coredns/deployment) (today)
   - [Feat: CoreDNS upgrade to v1.11.3](https://github.com/kubernetes-sigs/kubespray/pull/11653) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [Cleanup: remove in-tree cloud provider support](https://github.com/kubernetes-sigs/kubespray/pull/11633) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (6 days ago)
@@ -63,7 +64,6 @@
   - [Feat: CRI-O v1.31 change default runtime to crun](https://github.com/kubernetes-sigs/kubespray/pull/11601) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [Cleanup: Fedora 37/38 CI tests &amp; docs](https://github.com/kubernetes-sigs/kubespray/pull/11600) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [Add Fedora 39/40 images in test-infra](https://github.com/kubernetes-sigs/kubespray/pull/11578) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
-  - [Feat: support Fedora 39/40](https://github.com/kubernetes-sigs/kubespray/pull/11573) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
 
   #### ⭐ Recent Stars
   
