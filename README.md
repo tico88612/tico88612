@@ -54,7 +54,7 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [[WIP] Fix `debian11-custom-cni` failing test &amp; upgrade `debian12-custom-cni-helm` chart version](https://github.com/kubernetes-sigs/kubespray/pull/11654) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 day ago)
+  - [Fix `debian11-custom-cni` failing test &amp; upgrade `debian12-custom-cni-helm` chart version](https://github.com/kubernetes-sigs/kubespray/pull/11654) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 day ago)
   - [Add Kubernetes 1.31](https://github.com/coredns/deployment/pull/301) on [coredns/deployment](https://github.com/coredns/deployment) (1 day ago)
   - [Feat: CoreDNS upgrade to v1.11.3](https://github.com/kubernetes-sigs/kubespray/pull/11653) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 day ago)
   - [Cleanup: remove in-tree cloud provider support](https://github.com/kubernetes-sigs/kubespray/pull/11633) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
