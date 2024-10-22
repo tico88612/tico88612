@@ -23,7 +23,7 @@
   - [cloud-native-taiwan/status-infra-labs](https://github.com/cloud-native-taiwan/status-infra-labs) -  (3 months ago)
   - [longhorn/website](https://github.com/longhorn/website) - https://longhorn.io/ (3 months ago)
   - [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (4 months ago)
-  - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (4 months ago)
+  - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (5 months ago)
   - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (5 months ago)
 
   #### 🌱 My latest projects
@@ -41,8 +41,8 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.125](https://github.com/meshery/meshery/releases/tag/v0.7.125), today) - Meshery, the cloud native manager
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.32.2](https://github.com/backstage/backstage/releases/tag/v1.32.2), 3 days ago) - Backstage is an open framework for building developer portals
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.125](https://github.com/meshery/meshery/releases/tag/v0.7.125), 1 day ago) - Meshery, the cloud native manager
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.32.2](https://github.com/backstage/backstage/releases/tag/v1.32.2), 4 days ago) - Backstage is an open framework for building developer portals
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.62.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.62.0), 2 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.62.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.62.0), 2 weeks ago) - Web UI for Jaeger
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.2](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.2), 2 weeks ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
@@ -54,20 +54,20 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [[WIP] Fix `debian11-custom-cni` failing test &amp; upgrade `debian12-custom-cni-helm` chart version](https://github.com/kubernetes-sigs/kubespray/pull/11654) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
-  - [Add Kubernetes 1.31](https://github.com/coredns/deployment/pull/301) on [coredns/deployment](https://github.com/coredns/deployment) (today)
-  - [Feat: CoreDNS upgrade to v1.11.3](https://github.com/kubernetes-sigs/kubespray/pull/11653) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
-  - [Cleanup: remove in-tree cloud provider support](https://github.com/kubernetes-sigs/kubespray/pull/11633) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (6 days ago)
+  - [[WIP] Fix `debian11-custom-cni` failing test &amp; upgrade `debian12-custom-cni-helm` chart version](https://github.com/kubernetes-sigs/kubespray/pull/11654) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 day ago)
+  - [Add Kubernetes 1.31](https://github.com/coredns/deployment/pull/301) on [coredns/deployment](https://github.com/coredns/deployment) (1 day ago)
+  - [Feat: CoreDNS upgrade to v1.11.3](https://github.com/kubernetes-sigs/kubespray/pull/11653) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 day ago)
+  - [Cleanup: remove in-tree cloud provider support](https://github.com/kubernetes-sigs/kubespray/pull/11633) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Fix: cannot stop &amp; remove all cri containers via remove_node.yml](https://github.com/kubernetes-sigs/kubespray/pull/11631) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Cleanup: Upgrade `KUBESPRAY_VERSION`](https://github.com/kubernetes-sigs/kubespray/pull/11625) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
-  - [Test: revert accidental deletion Fedora 39 CRI-O CI](https://github.com/kubernetes-sigs/kubespray/pull/11611) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
+  - [Test: revert accidental deletion Fedora 39 CRI-O CI](https://github.com/kubernetes-sigs/kubespray/pull/11611) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [Feat: CRI-O v1.31 change default runtime to crun](https://github.com/kubernetes-sigs/kubespray/pull/11601) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [Cleanup: Fedora 37/38 CI tests &amp; docs](https://github.com/kubernetes-sigs/kubespray/pull/11600) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [Add Fedora 39/40 images in test-infra](https://github.com/kubernetes-sigs/kubespray/pull/11578) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
 
   #### ⭐ Recent Stars
   
-  - [knabben/stalker](https://github.com/knabben/stalker) - Stalk and Hunt Flake Testgrid Jobs  (today)
+  - [knabben/stalker](https://github.com/knabben/stalker) - Stalk and Hunt Flake Testgrid Jobs  (1 day ago)
   - [ljcucc/mobai-alei](https://github.com/ljcucc/mobai-alei) - 膜拜阿雷的信眾有福了！現在到 mobai-alei.ljcu.cc 就可以產生膜拜貼圖！ (2 months ago)
   - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity (3 months ago)
   - [nalexn/clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui) - SwiftUI sample app using Clean Architecture. Examples of working with CoreData persistence, networking, dependency injection, unit testing, and more. (3 months ago)
