@@ -15,6 +15,7 @@
 
   #### 👷 Check out what I'm currently working on
   
+  - [coredns/deployment](https://github.com/coredns/deployment) - Scripts, utilities, and examples for deploying CoreDNS. (today)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (2 days ago)
   - [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group (1 month ago)
   - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (2 months ago)
@@ -24,7 +25,6 @@
   - [longhorn/website](https://github.com/longhorn/website) - https://longhorn.io/ (3 months ago)
   - [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (4 months ago)
   - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (5 months ago)
-  - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (5 months ago)
 
   #### 🌱 My latest projects
   
