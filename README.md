@@ -80,11 +80,11 @@
 
   #### 👯 Check out some of my recent followers
   
+  - [cameronraysmith](https://github.com/cameronraysmith)
   - [BlueBoy247](https://github.com/BlueBoy247)
   - [Charles-Chrismann](https://github.com/Charles-Chrismann)
   - [hu8813](https://github.com/hu8813)
   - [wolf-yuan-6115](https://github.com/wolf-yuan-6115)
-  - [tzuhsunn](https://github.com/tzuhsunn)
 </details>
 
 <img src="https://github-readme-stats.vercel.app/api?username=tico88612&hide_title=true&count_private=true&show_icons=true" />
