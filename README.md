@@ -5,8 +5,8 @@
 ![](https://komarev.com/ghpvc/?username=tico88612&color=brightgreen&style=for-the-badge)
 
 - 🧑‍💻 IT/SRE @ Hualien, Taiwan
-- 🐳 Kubernetes, Container, Golang, Typescript
-- 🤝 CNCF Ambassador (H1 2024) | CNTUG Co-Organizer | Kubernetes Community Days Taipei 2024 Co-organizer
+- 🐳 Kubernetes, Container, Golang
+- 🤝 CNCF Ambassador (H1 2024) | CNTUG Co-Organizer | KCD Taipei 2024 Co-organizer | KCD Taipei 2025 Lead Organizer
 - 💻 Code Reviewer @ Kubespray | v1.32 Release Signal Team Shadow @ Kubernetes
 - ❤️ Kagamine Rin
 
