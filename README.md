@@ -15,7 +15,7 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (today)
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (1 day ago)
   - [coredns/deployment](https://github.com/coredns/deployment) - Scripts, utilities, and examples for deploying CoreDNS. (1 week ago)
   - [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group (1 month ago)
   - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (2 months ago)
@@ -41,12 +41,12 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.135](https://github.com/meshery/meshery/releases/tag/v0.7.135), today) - Meshery, the cloud native manager
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.33.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.33.0-next.2), today) - Backstage is an open framework for building developer portals
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.25.1](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.25.1), today) - Deploy a Production Ready Kubernetes Cluster
-  - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.30.1](https://github.com/projectcontour/contour/releases/tag/v1.30.1), 1 day ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
-  - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.62.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.62.0), 4 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
-  - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.62.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.62.0), 4 weeks ago) - Web UI for Jaeger
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.135](https://github.com/meshery/meshery/releases/tag/v0.7.135), 1 day ago) - Meshery, the cloud native manager
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.33.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.33.0-next.2), 1 day ago) - Backstage is an open framework for building developer portals
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.25.1](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.25.1), 1 day ago) - Deploy a Production Ready Kubernetes Cluster
+  - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.30.1](https://github.com/projectcontour/contour/releases/tag/v1.30.1), 2 days ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
+  - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.62.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.62.0), 1 month ago) - CNCF Jaeger, a Distributed Tracing Platform
+  - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.62.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.62.0), 1 month ago) - Web UI for Jaeger
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.2](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.2), 1 month ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
   - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.8.1](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.8.1), 1 month ago) - IP address Manager for Cluster API Provider Metal3
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.34](https://github.com/etcd-io/etcd/releases/tag/v3.4.34), 1 month ago) - Distributed reliable key-value store for the most critical data of a distributed system
@@ -71,7 +71,7 @@
   - [ljcucc/mobai-alei](https://github.com/ljcucc/mobai-alei) - 膜拜阿雷的信眾有福了！現在到 mobai-alei.ljcu.cc 就可以產生膜拜貼圖！ (2 months ago)
   - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity (3 months ago)
   - [nalexn/clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui) - SwiftUI sample app using Clean Architecture. Examples of working with CoreData persistence, networking, dependency injection, unit testing, and more. (3 months ago)
-  - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform Provider for Proxmox (3 months ago)
+  - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform Provider for Proxmox (4 months ago)
   - [kubernetes/enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes (6 months ago)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (10 months ago)
   - [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers: Linux &amp; DevOps Troubleshooting Scenarios SaaS (11 months ago)
