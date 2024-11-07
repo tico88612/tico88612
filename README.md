@@ -54,6 +54,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Bump: pause container upgrade to 3.10](https://github.com/kubernetes-sigs/kubespray/pull/11695) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [Feat: kubeadm v1beta4 support](https://github.com/kubernetes-sigs/kubespray/pull/11674) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [[cert-manager] upgrade to v1.15.3](https://github.com/kubernetes-sigs/kubespray/pull/11668) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Fix `debian11-custom-cni` failing test &amp; upgrade `debian12-custom-cni-helm` chart version](https://github.com/kubernetes-sigs/kubespray/pull/11654) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
@@ -63,7 +64,6 @@
   - [Fix: cannot stop &amp; remove all cri containers via remove_node.yml](https://github.com/kubernetes-sigs/kubespray/pull/11631) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
   - [Cleanup: Upgrade `KUBESPRAY_VERSION`](https://github.com/kubernetes-sigs/kubespray/pull/11625) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 weeks ago)
   - [Test: revert accidental deletion Fedora 39 CRI-O CI](https://github.com/kubernetes-sigs/kubespray/pull/11611) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
-  - [Feat: CRI-O v1.31 change default runtime to crun](https://github.com/kubernetes-sigs/kubespray/pull/11601) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
 
   #### ⭐ Recent Stars
   
