@@ -15,8 +15,8 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (1 day ago)
-  - [coredns/deployment](https://github.com/coredns/deployment) - Scripts, utilities, and examples for deploying CoreDNS. (1 week ago)
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (2 days ago)
+  - [coredns/deployment](https://github.com/coredns/deployment) - Scripts, utilities, and examples for deploying CoreDNS. (2 weeks ago)
   - [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group (1 month ago)
   - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (2 months ago)
   - [cloud-native-taiwan/coscup-2024-workshop](https://github.com/cloud-native-taiwan/coscup-2024-workshop) - COSCUP 2024 IaC workshop files (3 months ago)
@@ -41,10 +41,10 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.136](https://github.com/meshery/meshery/releases/tag/v0.7.136), today) - Meshery, the cloud native manager
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.33.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.33.0-next.2), 1 day ago) - Backstage is an open framework for building developer portals
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.25.1](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.25.1), 1 day ago) - Deploy a Production Ready Kubernetes Cluster
-  - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.30.1](https://github.com/projectcontour/contour/releases/tag/v1.30.1), 2 days ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.136](https://github.com/meshery/meshery/releases/tag/v0.7.136), 1 day ago) - Meshery, the cloud native manager
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.33.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.33.0-next.2), 2 days ago) - Backstage is an open framework for building developer portals
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.25.1](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.25.1), 2 days ago) - Deploy a Production Ready Kubernetes Cluster
+  - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.30.1](https://github.com/projectcontour/contour/releases/tag/v1.30.1), 3 days ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.62.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.62.0), 1 month ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.62.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.62.0), 1 month ago) - Web UI for Jaeger
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.2](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.2), 1 month ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
@@ -61,8 +61,8 @@
   - [Feat: CoreDNS upgrade to v1.11.3](https://github.com/kubernetes-sigs/kubespray/pull/11653) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [Cleanup: remove in-tree cloud provider support](https://github.com/kubernetes-sigs/kubespray/pull/11633) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
   - [Fix: cannot stop &amp; remove all cri containers via remove_node.yml](https://github.com/kubernetes-sigs/kubespray/pull/11631) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
-  - [Cleanup: Upgrade `KUBESPRAY_VERSION`](https://github.com/kubernetes-sigs/kubespray/pull/11625) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
-  - [Test: revert accidental deletion Fedora 39 CRI-O CI](https://github.com/kubernetes-sigs/kubespray/pull/11611) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 weeks ago)
+  - [Cleanup: Upgrade `KUBESPRAY_VERSION`](https://github.com/kubernetes-sigs/kubespray/pull/11625) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 weeks ago)
+  - [Test: revert accidental deletion Fedora 39 CRI-O CI](https://github.com/kubernetes-sigs/kubespray/pull/11611) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Feat: CRI-O v1.31 change default runtime to crun](https://github.com/kubernetes-sigs/kubespray/pull/11601) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
 
   #### ⭐ Recent Stars
@@ -75,7 +75,7 @@
   - [kubernetes/enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes (6 months ago)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (10 months ago)
   - [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers: Linux &amp; DevOps Troubleshooting Scenarios SaaS (11 months ago)
-  - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南 (11 months ago)
+  - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南 (1 year ago)
   - [gladstone-institutes/Bioinformatics-Workshops](https://github.com/gladstone-institutes/Bioinformatics-Workshops) - Workshops presented by the Gladstone Bioinformatics Core (1 year ago)
 
   #### 👯 Check out some of my recent followers
