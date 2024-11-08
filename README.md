@@ -41,7 +41,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.138](https://github.com/meshery/meshery/releases/tag/v0.7.138), 1 day ago) - Meshery, the cloud native manager
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.139](https://github.com/meshery/meshery/releases/tag/v0.7.139), today) - Meshery, the cloud native manager
   - [kedacore/keda](https://github.com/kedacore/keda) ([v2.16.0](https://github.com/kedacore/keda/releases/tag/v2.16.0), 1 day ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.33.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.33.0-next.2), 3 days ago) - Backstage is an open framework for building developer portals
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.25.1](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.25.1), 3 days ago) - Deploy a Production Ready Kubernetes Cluster
