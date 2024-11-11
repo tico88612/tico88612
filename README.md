@@ -41,7 +41,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.143](https://github.com/meshery/meshery/releases/tag/v0.7.143), today) - Meshery, the cloud native manager
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.144](https://github.com/meshery/meshery/releases/tag/v0.7.144), today) - Meshery, the cloud native manager
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.63.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.63.0), 1 day ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.63.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.63.0), 1 day ago) - Web UI for Jaeger
   - [kedacore/keda](https://github.com/kedacore/keda) ([v2.16.0](https://github.com/kedacore/keda/releases/tag/v2.16.0), 4 days ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
