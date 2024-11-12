@@ -41,7 +41,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.17](https://github.com/etcd-io/etcd/releases/tag/v3.5.17), today) - Distributed reliable key-value store for the most critical data of a distributed system
+  - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.35](https://github.com/etcd-io/etcd/releases/tag/v3.4.35), today) - Distributed reliable key-value store for the most critical data of a distributed system
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.146](https://github.com/meshery/meshery/releases/tag/v0.7.146), today) - Meshery, the cloud native manager
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.63.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.63.0), 2 days ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.63.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.63.0), 2 days ago) - Web UI for Jaeger
@@ -67,6 +67,7 @@
 
   #### ⭐ Recent Stars
   
+  - [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) - Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF (today)
   - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (5 days ago)
   - [knabben/stalker](https://github.com/knabben/stalker) - Stalk and Hunt Flake Testgrid Jobs  (3 weeks ago)
   - [ljcucc/mobai-alei](https://github.com/ljcucc/mobai-alei) - 膜拜阿雷的信眾有福了！現在到 mobai-alei.ljcu.cc 就可以產生膜拜貼圖！ (2 months ago)
@@ -76,7 +77,6 @@
   - [kubernetes/enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes (6 months ago)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (11 months ago)
   - [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers: Linux &amp; DevOps Troubleshooting Scenarios SaaS (1 year ago)
-  - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南 (1 year ago)
 
   #### 👯 Check out some of my recent followers
   
