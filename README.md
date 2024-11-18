@@ -41,14 +41,14 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.153](https://github.com/meshery/meshery/releases/tag/v0.7.153), today) - Meshery, the cloud native manager
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.33.0-next.3](https://github.com/backstage/backstage/releases/tag/v1.33.0-next.3), 5 days ago) - Backstage is an open framework for building developer portals
-  - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.35](https://github.com/etcd-io/etcd/releases/tag/v3.4.35), 5 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.153](https://github.com/meshery/meshery/releases/tag/v0.7.153), 1 day ago) - Meshery, the cloud native manager
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.33.0-next.3](https://github.com/backstage/backstage/releases/tag/v1.33.0-next.3), 6 days ago) - Backstage is an open framework for building developer portals
+  - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.35](https://github.com/etcd-io/etcd/releases/tag/v3.4.35), 6 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.63.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.63.0), 1 week ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.63.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.63.0), 1 week ago) - Web UI for Jaeger
   - [kedacore/keda](https://github.com/kedacore/keda) ([v2.16.0](https://github.com/kedacore/keda/releases/tag/v2.16.0), 1 week ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.25.1](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.25.1), 1 week ago) - Deploy a Production Ready Kubernetes Cluster
-  - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.30.1](https://github.com/projectcontour/contour/releases/tag/v1.30.1), 1 week ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
+  - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.30.1](https://github.com/projectcontour/contour/releases/tag/v1.30.1), 2 weeks ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.2](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.2), 1 month ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
   - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.8.1](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.8.1), 1 month ago) - IP address Manager for Cluster API Provider Metal3
 
@@ -57,9 +57,9 @@
   - [Bump: pause container upgrade to 3.10](https://github.com/kubernetes-sigs/kubespray/pull/11695) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Feat: kubeadm v1beta4 support](https://github.com/kubernetes-sigs/kubespray/pull/11674) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [[cert-manager] upgrade to v1.15.3](https://github.com/kubernetes-sigs/kubespray/pull/11668) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
-  - [Fix `debian11-custom-cni` failing test &amp; upgrade `debian12-custom-cni-helm` chart version](https://github.com/kubernetes-sigs/kubespray/pull/11654) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
-  - [Add Kubernetes 1.31](https://github.com/coredns/deployment/pull/301) on [coredns/deployment](https://github.com/coredns/deployment) (3 weeks ago)
-  - [Feat: CoreDNS upgrade to v1.11.3](https://github.com/kubernetes-sigs/kubespray/pull/11653) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
+  - [Fix `debian11-custom-cni` failing test &amp; upgrade `debian12-custom-cni-helm` chart version](https://github.com/kubernetes-sigs/kubespray/pull/11654) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 weeks ago)
+  - [Add Kubernetes 1.31](https://github.com/coredns/deployment/pull/301) on [coredns/deployment](https://github.com/coredns/deployment) (4 weeks ago)
+  - [Feat: CoreDNS upgrade to v1.11.3](https://github.com/kubernetes-sigs/kubespray/pull/11653) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 weeks ago)
   - [Cleanup: remove in-tree cloud provider support](https://github.com/kubernetes-sigs/kubespray/pull/11633) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Fix: cannot stop &amp; remove all cri containers via remove_node.yml](https://github.com/kubernetes-sigs/kubespray/pull/11631) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Cleanup: Upgrade `KUBESPRAY_VERSION`](https://github.com/kubernetes-sigs/kubespray/pull/11625) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
@@ -67,9 +67,9 @@
 
   #### ⭐ Recent Stars
   
-  - [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) - Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF (5 days ago)
+  - [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) - Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF (6 days ago)
   - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 week ago)
-  - [knabben/stalker](https://github.com/knabben/stalker) - Stalk and Hunt Flake Testgrid Jobs  (3 weeks ago)
+  - [knabben/stalker](https://github.com/knabben/stalker) - Stalk and Hunt Flake Testgrid Jobs  (4 weeks ago)
   - [ljcucc/mobai-alei](https://github.com/ljcucc/mobai-alei) - 膜拜阿雷的信眾有福了！現在到 mobai-alei.ljcu.cc 就可以產生膜拜貼圖！ (2 months ago)
   - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity (3 months ago)
   - [nalexn/clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui) - SwiftUI sample app using Clean Architecture. Examples of working with CoreData persistence, networking, dependency injection, unit testing, and more. (4 months ago)
