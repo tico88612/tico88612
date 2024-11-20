@@ -41,8 +41,8 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.33.1](https://github.com/backstage/backstage/releases/tag/v1.33.1), today) - Backstage is an open framework for building developer portals
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.156](https://github.com/meshery/meshery/releases/tag/v0.7.156), today) - Meshery, the cloud native manager
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.33.1](https://github.com/backstage/backstage/releases/tag/v1.33.1), 1 day ago) - Backstage is an open framework for building developer portals
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.156](https://github.com/meshery/meshery/releases/tag/v0.7.156), 1 day ago) - Meshery, the cloud native manager
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.35](https://github.com/etcd-io/etcd/releases/tag/v3.4.35), 1 week ago) - Distributed reliable key-value store for the most critical data of a distributed system
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.63.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.63.0), 1 week ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.63.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.63.0), 1 week ago) - Web UI for Jaeger
@@ -57,9 +57,9 @@
   - [Bump: pause container upgrade to 3.10](https://github.com/kubernetes-sigs/kubespray/pull/11695) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Feat: kubeadm v1beta4 support](https://github.com/kubernetes-sigs/kubespray/pull/11674) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
   - [[cert-manager] upgrade to v1.15.3](https://github.com/kubernetes-sigs/kubespray/pull/11668) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
-  - [Fix `debian11-custom-cni` failing test &amp; upgrade `debian12-custom-cni-helm` chart version](https://github.com/kubernetes-sigs/kubespray/pull/11654) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 weeks ago)
-  - [Add Kubernetes 1.31](https://github.com/coredns/deployment/pull/301) on [coredns/deployment](https://github.com/coredns/deployment) (4 weeks ago)
-  - [Feat: CoreDNS upgrade to v1.11.3](https://github.com/kubernetes-sigs/kubespray/pull/11653) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 weeks ago)
+  - [Fix `debian11-custom-cni` failing test &amp; upgrade `debian12-custom-cni-helm` chart version](https://github.com/kubernetes-sigs/kubespray/pull/11654) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
+  - [Add Kubernetes 1.31](https://github.com/coredns/deployment/pull/301) on [coredns/deployment](https://github.com/coredns/deployment) (1 month ago)
+  - [Feat: CoreDNS upgrade to v1.11.3](https://github.com/kubernetes-sigs/kubespray/pull/11653) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Cleanup: remove in-tree cloud provider support](https://github.com/kubernetes-sigs/kubespray/pull/11633) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Fix: cannot stop &amp; remove all cri containers via remove_node.yml](https://github.com/kubernetes-sigs/kubespray/pull/11631) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Cleanup: Upgrade `KUBESPRAY_VERSION`](https://github.com/kubernetes-sigs/kubespray/pull/11625) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
@@ -69,8 +69,8 @@
   
   - [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) - Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF (1 week ago)
   - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 week ago)
-  - [knabben/stalker](https://github.com/knabben/stalker) - Stalk and Hunt Flake Testgrid Jobs  (4 weeks ago)
-  - [ljcucc/mobai-alei](https://github.com/ljcucc/mobai-alei) - 膜拜阿雷的信眾有福了！現在到 mobai-alei.ljcu.cc 就可以產生膜拜貼圖！ (2 months ago)
+  - [knabben/stalker](https://github.com/knabben/stalker) - Stalk and Hunt Flake Testgrid Jobs  (1 month ago)
+  - [ljcucc/mobai-alei](https://github.com/ljcucc/mobai-alei) - 膜拜阿雷的信眾有福了！現在到 mobai-alei.ljcu.cc 就可以產生膜拜貼圖！ (3 months ago)
   - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity (4 months ago)
   - [nalexn/clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui) - SwiftUI sample app using Clean Architecture. Examples of working with CoreData persistence, networking, dependency injection, unit testing, and more. (4 months ago)
   - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform Provider for Proxmox (4 months ago)
