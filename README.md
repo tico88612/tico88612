@@ -41,6 +41,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.9.0-beta.0](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.9.0-beta.0), today) - IP address Manager for Cluster API Provider Metal3
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.166](https://github.com/meshery/meshery/releases/tag/v0.7.166), today) - Meshery, the cloud native manager
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.34.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.34.0-next.0), 3 days ago) - Backstage is an open framework for building developer portals
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.35](https://github.com/etcd-io/etcd/releases/tag/v3.4.35), 2 weeks ago) - Distributed reliable key-value store for the most critical data of a distributed system
@@ -50,7 +51,6 @@
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.25.1](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.25.1), 3 weeks ago) - Deploy a Production Ready Kubernetes Cluster
   - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.30.1](https://github.com/projectcontour/contour/releases/tag/v1.30.1), 3 weeks ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.2](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.2), 1 month ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
-  - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.8.1](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.8.1), 1 month ago) - IP address Manager for Cluster API Provider Metal3
 
   #### 🔨 My recent Pull Requests
   
