@@ -15,8 +15,8 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (4 days ago)
-  - [cloud-native-taiwan/Infra-Labs-Docs](https://github.com/cloud-native-taiwan/Infra-Labs-Docs) - Documentation for Cloud Native Taiwan Infra Labs (6 days ago)
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (5 days ago)
+  - [cloud-native-taiwan/Infra-Labs-Docs](https://github.com/cloud-native-taiwan/Infra-Labs-Docs) - Documentation for Cloud Native Taiwan Infra Labs (1 week ago)
   - [coredns/deployment](https://github.com/coredns/deployment) - Scripts, utilities, and examples for deploying CoreDNS. (1 month ago)
   - [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group (2 months ago)
   - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (3 months ago)
@@ -41,9 +41,9 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.7.3](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.7.3), today) - IP address Manager for Cluster API Provider Metal3
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.33.5](https://github.com/backstage/backstage/releases/tag/v1.33.5), today) - Backstage is an open framework for building developer portals
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.166](https://github.com/meshery/meshery/releases/tag/v0.7.166), today) - Meshery, the cloud native manager
+  - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.7.3](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.7.3), 1 day ago) - IP address Manager for Cluster API Provider Metal3
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.33.5](https://github.com/backstage/backstage/releases/tag/v1.33.5), 1 day ago) - Backstage is an open framework for building developer portals
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.166](https://github.com/meshery/meshery/releases/tag/v0.7.166), 1 day ago) - Meshery, the cloud native manager
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.35](https://github.com/etcd-io/etcd/releases/tag/v3.4.35), 2 weeks ago) - Distributed reliable key-value store for the most critical data of a distributed system
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.63.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.63.0), 2 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.63.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.63.0), 2 weeks ago) - Web UI for Jaeger
@@ -54,7 +54,7 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [Bump: OpenStack Cloud Controller Manager to v1.31.1](https://github.com/kubernetes-sigs/kubespray/pull/11738) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (6 days ago)
+  - [Bump: OpenStack Cloud Controller Manager to v1.31.1](https://github.com/kubernetes-sigs/kubespray/pull/11738) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Bump: Kubernetes default version v1.31.3](https://github.com/kubernetes-sigs/kubespray/pull/11737) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Bump: Docusaurus 3.6 &amp; Node 20](https://github.com/cloud-native-taiwan/Infra-Labs-Docs/pull/72) on [cloud-native-taiwan/Infra-Labs-Docs](https://github.com/cloud-native-taiwan/Infra-Labs-Docs) (1 week ago)
   - [Bump: pause container upgrade to 3.10](https://github.com/kubernetes-sigs/kubespray/pull/11695) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
