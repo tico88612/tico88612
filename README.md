@@ -15,7 +15,7 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (1 week ago)
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (today)
   - [cloud-native-taiwan/Infra-Labs-Docs](https://github.com/cloud-native-taiwan/Infra-Labs-Docs) - Documentation for Cloud Native Taiwan Infra Labs (1 week ago)
   - [coredns/deployment](https://github.com/coredns/deployment) - Scripts, utilities, and examples for deploying CoreDNS. (1 month ago)
   - [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group (2 months ago)
