@@ -72,7 +72,7 @@
   - [knabben/stalker](https://github.com/knabben/stalker) - Stalk and Hunt Flake Testgrid Jobs  (1 month ago)
   - [ljcucc/mobai-alei](https://github.com/ljcucc/mobai-alei) - 膜拜阿雷的信眾有福了！現在到 mobai-alei.ljcu.cc 就可以產生膜拜貼圖！ (3 months ago)
   - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity (4 months ago)
-  - [nalexn/clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui) - SwiftUI sample app using Clean Architecture. Examples of working with CoreData persistence, networking, dependency injection, unit testing, and more. (4 months ago)
+  - [nalexn/clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui) - SwiftUI sample app using Clean Architecture. Examples of working with SwiftData persistence, networking, dependency injection, unit testing, and more. (4 months ago)
   - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform / OpenTofu Provider for Proxmox VE (5 months ago)
   - [kubernetes/enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes (7 months ago)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (11 months ago)
