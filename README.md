@@ -15,6 +15,7 @@
 
   #### 👷 Check out what I'm currently working on
   
+  - [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (today)
   - [cloud-native-taiwan/Infra-Labs-Docs](https://github.com/cloud-native-taiwan/Infra-Labs-Docs) - Documentation for Cloud Native Taiwan Infra Labs (4 days ago)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (5 days ago)
   - [coredns/deployment](https://github.com/coredns/deployment) - Scripts, utilities, and examples for deploying CoreDNS. (1 month ago)
@@ -24,7 +25,6 @@
   - [HunterPie/localization](https://github.com/HunterPie/localization) - Localization repository for HunterPie&#39;s client (4 months ago)
   - [cloud-native-taiwan/status-infra-labs](https://github.com/cloud-native-taiwan/status-infra-labs) -  (5 months ago)
   - [longhorn/website](https://github.com/longhorn/website) - https://longhorn.io/ (5 months ago)
-  - [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (5 months ago)
 
   #### 🌱 My latest projects
   
@@ -41,10 +41,10 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.34.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.34.0-next.2), today) - Backstage is an open framework for building developer portals
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.168](https://github.com/meshery/meshery/releases/tag/v0.7.168), 1 day ago) - Meshery, the cloud native manager
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.64.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.64.0), 4 days ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.64.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.64.0), 4 days ago) - Web UI for Jaeger
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.34.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.34.0-next.1), 1 week ago) - Backstage is an open framework for building developer portals
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.9.0-beta.0](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.9.0-beta.0), 1 week ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
   - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.7.3](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.7.3), 1 week ago) - IP address Manager for Cluster API Provider Metal3
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.35](https://github.com/etcd-io/etcd/releases/tag/v3.4.35), 4 weeks ago) - Distributed reliable key-value store for the most critical data of a distributed system
