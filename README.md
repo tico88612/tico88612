@@ -41,6 +41,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [HunterPie/localization](https://github.com/HunterPie/localization) ([1.0.34](https://github.com/HunterPie/localization/releases/tag/1.0.34), today) - Localization repository for HunterPie&#39;s client
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.34.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.34.0-next.2), 1 day ago) - Backstage is an open framework for building developer portals
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.168](https://github.com/meshery/meshery/releases/tag/v0.7.168), 2 days ago) - Meshery, the cloud native manager
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.64.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.64.0), 5 days ago) - CNCF Jaeger, a Distributed Tracing Platform
@@ -50,7 +51,6 @@
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.35](https://github.com/etcd-io/etcd/releases/tag/v3.4.35), 4 weeks ago) - Distributed reliable key-value store for the most critical data of a distributed system
   - [kedacore/keda](https://github.com/kedacore/keda) ([v2.16.0](https://github.com/kedacore/keda/releases/tag/v2.16.0), 1 month ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.25.1](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.25.1), 1 month ago) - Deploy a Production Ready Kubernetes Cluster
-  - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.30.1](https://github.com/projectcontour/contour/releases/tag/v1.30.1), 1 month ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
 
   #### 🔨 My recent Pull Requests
   
