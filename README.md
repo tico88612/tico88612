@@ -41,9 +41,9 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.33.6](https://github.com/backstage/backstage/releases/tag/v1.33.6), today) - Backstage is an open framework for building developer portals
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.32](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.32), 1 day ago) - Kubernetes website and documentation repo: 
   - [HunterPie/localization](https://github.com/HunterPie/localization) ([1.0.34](https://github.com/HunterPie/localization/releases/tag/1.0.34), 1 day ago) - Localization repository for HunterPie&#39;s client
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.34.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.34.0-next.2), 2 days ago) - Backstage is an open framework for building developer portals
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.168](https://github.com/meshery/meshery/releases/tag/v0.7.168), 3 days ago) - Meshery, the cloud native manager
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.64.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.64.0), 6 days ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.64.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.64.0), 6 days ago) - Web UI for Jaeger
