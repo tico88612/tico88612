@@ -41,6 +41,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) ([v1.3.0](https://github.com/kubearmor/kubearmor-client/releases/tag/v1.3.0), today) - KubeArmor cli tool aka kArmor :robot:
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.33.6](https://github.com/backstage/backstage/releases/tag/v1.33.6), 1 day ago) - Backstage is an open framework for building developer portals
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.32](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.32), 2 days ago) - Kubernetes website and documentation repo: 
   - [HunterPie/localization](https://github.com/HunterPie/localization) ([1.0.34](https://github.com/HunterPie/localization/releases/tag/1.0.34), 2 days ago) - Localization repository for HunterPie&#39;s client
@@ -50,7 +51,6 @@
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.9.0-beta.0](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.9.0-beta.0), 1 week ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
   - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.7.3](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.7.3), 2 weeks ago) - IP address Manager for Cluster API Provider Metal3
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.35](https://github.com/etcd-io/etcd/releases/tag/v3.4.35), 1 month ago) - Distributed reliable key-value store for the most critical data of a distributed system
-  - [kedacore/keda](https://github.com/kedacore/keda) ([v2.16.0](https://github.com/kedacore/keda/releases/tag/v2.16.0), 1 month ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
 
   #### 🔨 My recent Pull Requests
   
