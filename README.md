@@ -41,7 +41,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.169](https://github.com/meshery/meshery/releases/tag/v0.7.169), 3 days ago) - Meshery, the cloud native manager
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.170](https://github.com/meshery/meshery/releases/tag/v0.7.170), today) - Meshery, the cloud native manager
   - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) ([v1.3.0](https://github.com/kubearmor/kubearmor-client/releases/tag/v1.3.0), 3 days ago) - KubeArmor cli tool aka kArmor :robot:
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.33.6](https://github.com/backstage/backstage/releases/tag/v1.33.6), 4 days ago) - Backstage is an open framework for building developer portals
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.32](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.32), 5 days ago) - Kubernetes website and documentation repo: 
