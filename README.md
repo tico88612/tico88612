@@ -41,6 +41,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.9.0](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.9.0), today) - IP address Manager for Cluster API Provider Metal3
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.170](https://github.com/meshery/meshery/releases/tag/v0.7.170), 1 day ago) - Meshery, the cloud native manager
   - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) ([v1.3.0](https://github.com/kubearmor/kubearmor-client/releases/tag/v1.3.0), 4 days ago) - KubeArmor cli tool aka kArmor :robot:
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.33.6](https://github.com/backstage/backstage/releases/tag/v1.33.6), 5 days ago) - Backstage is an open framework for building developer portals
@@ -49,7 +50,6 @@
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.64.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.64.0), 1 week ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.64.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.64.0), 1 week ago) - Web UI for Jaeger
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.9.0-beta.0](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.9.0-beta.0), 2 weeks ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
-  - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.7.3](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.7.3), 2 weeks ago) - IP address Manager for Cluster API Provider Metal3
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.35](https://github.com/etcd-io/etcd/releases/tag/v3.4.35), 1 month ago) - Distributed reliable key-value store for the most critical data of a distributed system
 
   #### 🔨 My recent Pull Requests
