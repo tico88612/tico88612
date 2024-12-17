@@ -15,7 +15,7 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (6 days ago)
+  - [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (1 week ago)
   - [cloud-native-taiwan/Infra-Labs-Docs](https://github.com/cloud-native-taiwan/Infra-Labs-Docs) - Documentation for Cloud Native Taiwan Infra Labs (1 week ago)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (1 week ago)
   - [coredns/deployment](https://github.com/coredns/deployment) - Scripts, utilities, and examples for deploying CoreDNS. (1 month ago)
@@ -41,20 +41,20 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.170](https://github.com/meshery/meshery/releases/tag/v0.7.170), today) - Meshery, the cloud native manager
-  - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) ([v1.3.0](https://github.com/kubearmor/kubearmor-client/releases/tag/v1.3.0), 3 days ago) - KubeArmor cli tool aka kArmor :robot:
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.33.6](https://github.com/backstage/backstage/releases/tag/v1.33.6), 4 days ago) - Backstage is an open framework for building developer portals
-  - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.32](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.32), 5 days ago) - Kubernetes website and documentation repo: 
-  - [HunterPie/localization](https://github.com/HunterPie/localization) ([1.0.34](https://github.com/HunterPie/localization/releases/tag/1.0.34), 5 days ago) - Localization repository for HunterPie&#39;s client
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.170](https://github.com/meshery/meshery/releases/tag/v0.7.170), 1 day ago) - Meshery, the cloud native manager
+  - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) ([v1.3.0](https://github.com/kubearmor/kubearmor-client/releases/tag/v1.3.0), 4 days ago) - KubeArmor cli tool aka kArmor :robot:
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.33.6](https://github.com/backstage/backstage/releases/tag/v1.33.6), 5 days ago) - Backstage is an open framework for building developer portals
+  - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.32](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.32), 6 days ago) - Kubernetes website and documentation repo: 
+  - [HunterPie/localization](https://github.com/HunterPie/localization) ([1.0.34](https://github.com/HunterPie/localization/releases/tag/1.0.34), 6 days ago) - Localization repository for HunterPie&#39;s client
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.64.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.64.0), 1 week ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.64.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.64.0), 1 week ago) - Web UI for Jaeger
-  - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.9.0-beta.0](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.9.0-beta.0), 1 week ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
+  - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.9.0-beta.0](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.9.0-beta.0), 2 weeks ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
   - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.7.3](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.7.3), 2 weeks ago) - IP address Manager for Cluster API Provider Metal3
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.35](https://github.com/etcd-io/etcd/releases/tag/v3.4.35), 1 month ago) - Distributed reliable key-value store for the most critical data of a distributed system
 
   #### 🔨 My recent Pull Requests
   
-  - [Add ChengHao&#39;s bluesky account](https://github.com/cncf/people/pull/743) on [cncf/people](https://github.com/cncf/people) (6 days ago)
+  - [Add ChengHao&#39;s bluesky account](https://github.com/cncf/people/pull/743) on [cncf/people](https://github.com/cncf/people) (1 week ago)
   - [Fix sample inventory kube_version to 1.31.3](https://github.com/kubernetes-sigs/kubespray/pull/11767) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Refactor Gateway API installation process and bump Gateway API v1.2.1](https://github.com/kubernetes-sigs/kubespray/pull/11763) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [Bump: OpenStack Cloud Controller Manager to v1.31.1](https://github.com/kubernetes-sigs/kubespray/pull/11738) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
