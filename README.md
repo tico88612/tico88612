@@ -41,9 +41,9 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.9.1](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.9.1), today) - IP address Manager for Cluster API Provider Metal3
   - [metallb/metallb](https://github.com/metallb/metallb) ([v0.14.9](https://github.com/metallb/metallb/releases/tag/v0.14.9), 1 day ago) - A network load-balancer implementation for Kubernetes using standard routing protocols
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.34.0](https://github.com/backstage/backstage/releases/tag/v1.34.0), 1 day ago) - Backstage is an open framework for building developer portals
-  - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.9.0](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.9.0), 1 day ago) - IP address Manager for Cluster API Provider Metal3
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.170](https://github.com/meshery/meshery/releases/tag/v0.7.170), 2 days ago) - Meshery, the cloud native manager
   - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) ([v1.3.0](https://github.com/kubearmor/kubearmor-client/releases/tag/v1.3.0), 5 days ago) - KubeArmor cli tool aka kArmor :robot:
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.32](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.32), 1 week ago) - Kubernetes website and documentation repo: 
