@@ -15,9 +15,9 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [cloud-native-taiwan/Infra-Labs-Docs](https://github.com/cloud-native-taiwan/Infra-Labs-Docs) - Documentation for Cloud Native Taiwan Infra Labs (1 day ago)
+  - [cloud-native-taiwan/Infra-Labs-Docs](https://github.com/cloud-native-taiwan/Infra-Labs-Docs) - Documentation for Cloud Native Taiwan Infra Labs (2 days ago)
   - [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (1 week ago)
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (1 week ago)
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (2 weeks ago)
   - [coredns/deployment](https://github.com/coredns/deployment) - Scripts, utilities, and examples for deploying CoreDNS. (1 month ago)
   - [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group (3 months ago)
   - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (4 months ago)
@@ -41,11 +41,11 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.171](https://github.com/meshery/meshery/releases/tag/v0.7.171), today) - Meshery, the cloud native manager
-  - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.9.1](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.9.1), today) - IP address Manager for Cluster API Provider Metal3
-  - [metallb/metallb](https://github.com/metallb/metallb) ([v0.14.9](https://github.com/metallb/metallb/releases/tag/v0.14.9), 1 day ago) - A network load-balancer implementation for Kubernetes using standard routing protocols
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.34.0](https://github.com/backstage/backstage/releases/tag/v1.34.0), 1 day ago) - Backstage is an open framework for building developer portals
-  - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) ([v1.3.0](https://github.com/kubearmor/kubearmor-client/releases/tag/v1.3.0), 5 days ago) - KubeArmor cli tool aka kArmor :robot:
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.171](https://github.com/meshery/meshery/releases/tag/v0.7.171), 1 day ago) - Meshery, the cloud native manager
+  - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.9.1](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.9.1), 1 day ago) - IP address Manager for Cluster API Provider Metal3
+  - [metallb/metallb](https://github.com/metallb/metallb) ([v0.14.9](https://github.com/metallb/metallb/releases/tag/v0.14.9), 2 days ago) - A network load-balancer implementation for Kubernetes using standard routing protocols
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.34.0](https://github.com/backstage/backstage/releases/tag/v1.34.0), 2 days ago) - Backstage is an open framework for building developer portals
+  - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) ([v1.3.0](https://github.com/kubearmor/kubearmor-client/releases/tag/v1.3.0), 6 days ago) - KubeArmor cli tool aka kArmor :robot:
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.32](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.32), 1 week ago) - Kubernetes website and documentation repo: 
   - [HunterPie/localization](https://github.com/HunterPie/localization) ([1.0.34](https://github.com/HunterPie/localization/releases/tag/1.0.34), 1 week ago) - Localization repository for HunterPie&#39;s client
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.64.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.64.0), 1 week ago) - CNCF Jaeger, a Distributed Tracing Platform
@@ -59,7 +59,7 @@
   - [Refactor Gateway API installation process and bump Gateway API v1.2.1](https://github.com/kubernetes-sigs/kubespray/pull/11763) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [Bump: OpenStack Cloud Controller Manager to v1.31.1](https://github.com/kubernetes-sigs/kubespray/pull/11738) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
   - [Bump: Kubernetes default version v1.31.3](https://github.com/kubernetes-sigs/kubespray/pull/11737) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
-  - [Bump: Docusaurus 3.6 &amp; Node 20](https://github.com/cloud-native-taiwan/Infra-Labs-Docs/pull/72) on [cloud-native-taiwan/Infra-Labs-Docs](https://github.com/cloud-native-taiwan/Infra-Labs-Docs) (3 weeks ago)
+  - [Bump: Docusaurus 3.6 &amp; Node 20](https://github.com/cloud-native-taiwan/Infra-Labs-Docs/pull/72) on [cloud-native-taiwan/Infra-Labs-Docs](https://github.com/cloud-native-taiwan/Infra-Labs-Docs) (4 weeks ago)
   - [Bump: pause container upgrade to 3.10](https://github.com/kubernetes-sigs/kubespray/pull/11695) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Feat: kubeadm v1beta4 support](https://github.com/kubernetes-sigs/kubespray/pull/11674) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [[cert-manager] upgrade to v1.15.3](https://github.com/kubernetes-sigs/kubespray/pull/11668) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
@@ -71,7 +71,7 @@
   - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 month ago)
   - [knabben/stalker](https://github.com/knabben/stalker) - Stalk and Hunt Flake Testgrid Jobs  (1 month ago)
   - [ljcucc/mobai-alei](https://github.com/ljcucc/mobai-alei) - 膜拜阿雷的信眾有福了！現在到 mobai-alei.ljcu.cc 就可以產生膜拜貼圖！ (3 months ago)
-  - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity (4 months ago)
+  - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity (5 months ago)
   - [nalexn/clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui) - SwiftUI sample app using Clean Architecture. Examples of working with SwiftData persistence, networking, dependency injection, unit testing, and more. (5 months ago)
   - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform / OpenTofu Provider for Proxmox VE (5 months ago)
   - [kubernetes/enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes (7 months ago)
