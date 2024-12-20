@@ -41,8 +41,8 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [metal3-io/baremetal-operator](https://github.com/metal3-io/baremetal-operator) ([v0.6.3](https://github.com/metal3-io/baremetal-operator/releases/tag/v0.6.3), today) - Bare metal host provisioning integration for Kubernetes
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.9.0](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.9.0), 1 day ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
-  - [metal3-io/baremetal-operator](https://github.com/metal3-io/baremetal-operator) ([v0.9.0](https://github.com/metal3-io/baremetal-operator/releases/tag/v0.9.0), 1 day ago) - Bare metal host provisioning integration for Kubernetes
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.171](https://github.com/meshery/meshery/releases/tag/v0.7.171), 2 days ago) - Meshery, the cloud native manager
   - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.9.1](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.9.1), 2 days ago) - IP address Manager for Cluster API Provider Metal3
   - [metallb/metallb](https://github.com/metallb/metallb) ([v0.14.9](https://github.com/metallb/metallb/releases/tag/v0.14.9), 3 days ago) - A network load-balancer implementation for Kubernetes using standard routing protocols
