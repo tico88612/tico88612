@@ -41,6 +41,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [kedacore/keda](https://github.com/kedacore/keda) ([v2.16.1](https://github.com/kedacore/keda/releases/tag/v2.16.1), today) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.1](https://github.com/meshery/meshery/releases/tag/v0.8.1), today) - Meshery, the cloud native manager
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.34.2](https://github.com/backstage/backstage/releases/tag/v1.34.2), today) - Backstage is an open framework for building developer portals
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.7.4](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.7.4), 2 days ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
@@ -50,7 +51,6 @@
   - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) ([v1.3.0](https://github.com/kubearmor/kubearmor-client/releases/tag/v1.3.0), 1 week ago) - KubeArmor cli tool aka kArmor :robot:
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.32](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.32), 1 week ago) - Kubernetes website and documentation repo: 
   - [HunterPie/localization](https://github.com/HunterPie/localization) ([1.0.34](https://github.com/HunterPie/localization/releases/tag/1.0.34), 1 week ago) - Localization repository for HunterPie&#39;s client
-  - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.64.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.64.0), 2 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
 
   #### 🔨 My recent Pull Requests
   
