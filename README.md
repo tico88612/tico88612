@@ -54,6 +54,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Bump: Kubernetes default version v1.31.4](https://github.com/kubernetes-sigs/kubespray/pull/11828) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [Add ChengHao&#39;s bluesky account](https://github.com/cncf/people/pull/743) on [cncf/people](https://github.com/cncf/people) (2 weeks ago)
   - [Fix sample inventory kube_version to 1.31.3](https://github.com/kubernetes-sigs/kubespray/pull/11767) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
   - [Refactor Gateway API installation process and bump Gateway API v1.2.1](https://github.com/kubernetes-sigs/kubespray/pull/11763) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
@@ -63,7 +64,6 @@
   - [Bump: pause container upgrade to 3.10](https://github.com/kubernetes-sigs/kubespray/pull/11695) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Feat: kubeadm v1beta4 support](https://github.com/kubernetes-sigs/kubespray/pull/11674) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [[cert-manager] upgrade to v1.15.3](https://github.com/kubernetes-sigs/kubespray/pull/11668) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 months ago)
-  - [Fix `debian11-custom-cni` failing test &amp; upgrade `debian12-custom-cni-helm` chart version](https://github.com/kubernetes-sigs/kubespray/pull/11654) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 months ago)
 
   #### ⭐ Recent Stars
   
