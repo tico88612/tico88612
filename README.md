@@ -41,12 +41,12 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [kedacore/keda](https://github.com/kedacore/keda) ([v2.16.1](https://github.com/kedacore/keda/releases/tag/v2.16.1), 1 day ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.1](https://github.com/meshery/meshery/releases/tag/v0.8.1), 1 day ago) - Meshery, the cloud native manager
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.34.2](https://github.com/backstage/backstage/releases/tag/v1.34.2), 1 day ago) - Backstage is an open framework for building developer portals
-  - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.7.4](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.7.4), 3 days ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
-  - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.7.4](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.7.4), 5 days ago) - IP address Manager for Cluster API Provider Metal3
-  - [metal3-io/baremetal-operator](https://github.com/metal3-io/baremetal-operator) ([v0.6.3](https://github.com/metal3-io/baremetal-operator/releases/tag/v0.6.3), 5 days ago) - Bare metal host provisioning integration for Kubernetes
+  - [kedacore/keda](https://github.com/kedacore/keda) ([v2.16.1](https://github.com/kedacore/keda/releases/tag/v2.16.1), 2 days ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.1](https://github.com/meshery/meshery/releases/tag/v0.8.1), 2 days ago) - Meshery, the cloud native manager
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.34.2](https://github.com/backstage/backstage/releases/tag/v1.34.2), 2 days ago) - Backstage is an open framework for building developer portals
+  - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.7.4](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.7.4), 4 days ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
+  - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.7.4](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.7.4), 6 days ago) - IP address Manager for Cluster API Provider Metal3
+  - [metal3-io/baremetal-operator](https://github.com/metal3-io/baremetal-operator) ([v0.6.3](https://github.com/metal3-io/baremetal-operator/releases/tag/v0.6.3), 6 days ago) - Bare metal host provisioning integration for Kubernetes
   - [metallb/metallb](https://github.com/metallb/metallb) ([v0.14.9](https://github.com/metallb/metallb/releases/tag/v0.14.9), 1 week ago) - A network load-balancer implementation for Kubernetes using standard routing protocols
   - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) ([v1.3.0](https://github.com/kubearmor/kubearmor-client/releases/tag/v1.3.0), 1 week ago) - KubeArmor cli tool aka kArmor :robot:
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.32](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.32), 2 weeks ago) - Kubernetes website and documentation repo: 
@@ -54,7 +54,7 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [Bump: Kubernetes default version v1.31.4](https://github.com/kubernetes-sigs/kubespray/pull/11828) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
+  - [Bump: Kubernetes default version v1.31.4](https://github.com/kubernetes-sigs/kubespray/pull/11828) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 day ago)
   - [Add ChengHao&#39;s bluesky account](https://github.com/cncf/people/pull/743) on [cncf/people](https://github.com/cncf/people) (2 weeks ago)
   - [Fix sample inventory kube_version to 1.31.3](https://github.com/kubernetes-sigs/kubespray/pull/11767) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
   - [Refactor Gateway API installation process and bump Gateway API v1.2.1](https://github.com/kubernetes-sigs/kubespray/pull/11763) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
