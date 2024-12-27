@@ -54,6 +54,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Bump: Containerd upgrade to 1.7.24 &amp; runc upgrade to v1.2.3](https://github.com/kubernetes-sigs/kubespray/pull/11833) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [Bump: Helm upgrade to v3.16.4](https://github.com/kubernetes-sigs/kubespray/pull/11832) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 day ago)
   - [Bump: Kubernetes default version v1.31.4](https://github.com/kubernetes-sigs/kubespray/pull/11828) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 days ago)
   - [Add ChengHao&#39;s bluesky account](https://github.com/cncf/people/pull/743) on [cncf/people](https://github.com/cncf/people) (2 weeks ago)
@@ -63,7 +64,6 @@
   - [Bump: Kubernetes default version v1.31.3](https://github.com/kubernetes-sigs/kubespray/pull/11737) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Bump: Docusaurus 3.6 &amp; Node 20](https://github.com/cloud-native-taiwan/Infra-Labs-Docs/pull/72) on [cloud-native-taiwan/Infra-Labs-Docs](https://github.com/cloud-native-taiwan/Infra-Labs-Docs) (1 month ago)
   - [Bump: pause container upgrade to 3.10](https://github.com/kubernetes-sigs/kubespray/pull/11695) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
-  - [Feat: kubeadm v1beta4 support](https://github.com/kubernetes-sigs/kubespray/pull/11674) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
 
   #### ⭐ Recent Stars
   
