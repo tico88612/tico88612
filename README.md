@@ -6,7 +6,7 @@
 
 - 🧑‍💻 IT/SRE @ Hualien, Taiwan
 - 🐳 Kubernetes, Container, Golang
-- 🤝 CNCF Ambassador (H1 2024) | CNTUG Co-Organizer | KCD Taipei 2024 Co-organizer | KCD Taipei 2025 Lead Organizer
+- 🤝 CNCF Ambassador (H1 2024) | Kubestronaut | CNTUG Co-Organizer | KCD Taipei 2024 Co-organizer | KCD Taipei 2025 Lead Organizer
 - 💻 Code Reviewer @ Kubespray | v1.32 Release Signal Team Shadow @ Kubernetes
 - ❤️ Kagamine Rin
 
