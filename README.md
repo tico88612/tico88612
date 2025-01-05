@@ -15,6 +15,7 @@
 
   #### 👷 Check out what I'm currently working on
   
+  - [cloud-native-taiwan/kcd-taipei-2025](https://github.com/cloud-native-taiwan/kcd-taipei-2025) -  (today)
   - [cloud-native-taiwan/Infra-Labs-Docs](https://github.com/cloud-native-taiwan/Infra-Labs-Docs) - Documentation for Cloud Native Taiwan Infra Labs (3 days ago)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (1 week ago)
   - [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (3 weeks ago)
@@ -24,7 +25,6 @@
   - [cloud-native-taiwan/coscup-2024-workshop](https://github.com/cloud-native-taiwan/coscup-2024-workshop) - COSCUP 2024 IaC workshop files (5 months ago)
   - [HunterPie/localization](https://github.com/HunterPie/localization) - Localization repository for HunterPie&#39;s client (5 months ago)
   - [cloud-native-taiwan/status-infra-labs](https://github.com/cloud-native-taiwan/status-infra-labs) -  (6 months ago)
-  - [longhorn/website](https://github.com/longhorn/website) - https://longhorn.io/ (6 months ago)
 
   #### 🌱 My latest projects
   
