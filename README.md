@@ -41,6 +41,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.27.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.27.0), today) - Deploy a Production Ready Kubernetes Cluster
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.4](https://github.com/meshery/meshery/releases/tag/v0.8.4), 1 day ago) - Meshery, the cloud native manager
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.35.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.35.0-next.1), 6 days ago) - Backstage is an open framework for building developer portals
   - [kedacore/keda](https://github.com/kedacore/keda) ([v2.16.1](https://github.com/kedacore/keda/releases/tag/v2.16.1), 1 week ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
@@ -50,7 +51,6 @@
   - [metallb/metallb](https://github.com/metallb/metallb) ([v0.14.9](https://github.com/metallb/metallb/releases/tag/v0.14.9), 2 weeks ago) - A network load-balancer implementation for Kubernetes using standard routing protocols
   - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) ([v1.3.0](https://github.com/kubearmor/kubearmor-client/releases/tag/v1.3.0), 3 weeks ago) - KubeArmor cli tool aka kArmor :robot:
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.32](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.32), 3 weeks ago) - Kubernetes website and documentation repo: 
-  - [HunterPie/localization](https://github.com/HunterPie/localization) ([1.0.34](https://github.com/HunterPie/localization/releases/tag/1.0.34), 3 weeks ago) - Localization repository for HunterPie&#39;s client
 
   #### 🔨 My recent Pull Requests
   
