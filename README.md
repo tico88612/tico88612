@@ -41,9 +41,9 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.35.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.35.0-next.2), today) - Backstage is an open framework for building developer portals
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.6](https://github.com/meshery/meshery/releases/tag/v0.8.6), today) - Meshery, the cloud native manager
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.27.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.27.0), 1 day ago) - Deploy a Production Ready Kubernetes Cluster
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.35.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.35.0-next.1), 1 week ago) - Backstage is an open framework for building developer portals
   - [kedacore/keda](https://github.com/kedacore/keda) ([v2.16.1](https://github.com/kedacore/keda/releases/tag/v2.16.1), 2 weeks ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.7.4](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.7.4), 2 weeks ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
   - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.7.4](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.7.4), 2 weeks ago) - IP address Manager for Cluster API Provider Metal3
