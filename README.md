@@ -54,6 +54,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Add Flatcar 4081 CI test](https://github.com/kubernetes-sigs/kubespray/pull/11868) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [Add Flatcar 4081.2.1 image to test-infra](https://github.com/kubernetes-sigs/kubespray/pull/11849) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (5 days ago)
   - [Fix meetup link](https://github.com/cloud-native-taiwan/Infra-Labs-Docs/pull/78) on [cloud-native-taiwan/Infra-Labs-Docs](https://github.com/cloud-native-taiwan/Infra-Labs-Docs) (6 days ago)
   - [[WIP] Fix terraform outdated resource to `openstack_blockstorage_volume_v3`](https://github.com/kubernetes-sigs/kubespray/pull/11839) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
@@ -63,7 +64,6 @@
   - [Add ChengHao&#39;s bluesky account](https://github.com/cncf/people/pull/743) on [cncf/people](https://github.com/cncf/people) (4 weeks ago)
   - [Fix sample inventory kube_version to 1.31.3](https://github.com/kubernetes-sigs/kubespray/pull/11767) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Refactor Gateway API installation process and bump Gateway API v1.2.1](https://github.com/kubernetes-sigs/kubespray/pull/11763) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
-  - [Bump: OpenStack Cloud Controller Manager to v1.31.1](https://github.com/kubernetes-sigs/kubespray/pull/11738) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
 
   #### ⭐ Recent Stars
   
