@@ -15,7 +15,7 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (today)
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (1 day ago)
   - [cloud-native-taiwan/kcd-taipei-2025](https://github.com/cloud-native-taiwan/kcd-taipei-2025) -  (1 week ago)
   - [cloud-native-taiwan/Infra-Labs-Docs](https://github.com/cloud-native-taiwan/Infra-Labs-Docs) - Documentation for Cloud Native Taiwan Infra Labs (1 week ago)
   - [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (1 month ago)
@@ -41,21 +41,21 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.30.2](https://github.com/projectcontour/contour/releases/tag/v1.30.2), today) - Contour is a Kubernetes ingress controller using Envoy proxy.
-  - [kubeflow/training-operator](https://github.com/kubeflow/training-operator) ([v1.9.0-rc.0](https://github.com/kubeflow/training-operator/releases/tag/v1.9.0-rc.0), 3 days ago) - Distributed ML Training and Fine-Tuning on Kubernetes
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.8](https://github.com/meshery/meshery/releases/tag/v0.8.8), 4 days ago) - Meshery, the cloud native manager
-  - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.9.1](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.9.1), 5 days ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
-  - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.8.3](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.8.3), 5 days ago) - IP address Manager for Cluster API Provider Metal3
-  - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.65.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.65.0), 5 days ago) - CNCF Jaeger, a Distributed Tracing Platform
-  - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.65.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.65.0), 6 days ago) - Web UI for Jaeger
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.35.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.35.0-next.2), 6 days ago) - Backstage is an open framework for building developer portals
+  - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.30.2](https://github.com/projectcontour/contour/releases/tag/v1.30.2), 1 day ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
+  - [kubeflow/training-operator](https://github.com/kubeflow/training-operator) ([v1.9.0-rc.0](https://github.com/kubeflow/training-operator/releases/tag/v1.9.0-rc.0), 4 days ago) - Distributed ML Training and Fine-Tuning on Kubernetes
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.8](https://github.com/meshery/meshery/releases/tag/v0.8.8), 5 days ago) - Meshery, the cloud native manager
+  - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.9.1](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.9.1), 6 days ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
+  - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.8.3](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.8.3), 6 days ago) - IP address Manager for Cluster API Provider Metal3
+  - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.65.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.65.0), 6 days ago) - CNCF Jaeger, a Distributed Tracing Platform
+  - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.65.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.65.0), 1 week ago) - Web UI for Jaeger
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.35.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.35.0-next.2), 1 week ago) - Backstage is an open framework for building developer portals
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.27.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.27.0), 1 week ago) - Deploy a Production Ready Kubernetes Cluster
-  - [kedacore/keda](https://github.com/kedacore/keda) ([v2.16.1](https://github.com/kedacore/keda/releases/tag/v2.16.1), 2 weeks ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
+  - [kedacore/keda](https://github.com/kedacore/keda) ([v2.16.1](https://github.com/kedacore/keda/releases/tag/v2.16.1), 3 weeks ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
 
   #### 🔨 My recent Pull Requests
   
-  - [Add `manual` option to the `external_cloud_provider` variable](https://github.com/kubernetes-sigs/kubespray/pull/11883) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
-  - [Add Flatcar 4081 CI test](https://github.com/kubernetes-sigs/kubespray/pull/11868) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (5 days ago)
+  - [Add `manual` option to the `external_cloud_provider` variable](https://github.com/kubernetes-sigs/kubespray/pull/11883) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 day ago)
+  - [Add Flatcar 4081 CI test](https://github.com/kubernetes-sigs/kubespray/pull/11868) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (6 days ago)
   - [Add Flatcar 4081.2.1 image to test-infra](https://github.com/kubernetes-sigs/kubespray/pull/11849) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Fix meetup link](https://github.com/cloud-native-taiwan/Infra-Labs-Docs/pull/78) on [cloud-native-taiwan/Infra-Labs-Docs](https://github.com/cloud-native-taiwan/Infra-Labs-Docs) (1 week ago)
   - [[WIP] Fix terraform outdated resource to `openstack_blockstorage_volume_v3`](https://github.com/kubernetes-sigs/kubespray/pull/11839) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
