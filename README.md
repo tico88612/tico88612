@@ -41,7 +41,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.10](https://github.com/meshery/meshery/releases/tag/v0.8.10), today) - Meshery, the cloud native manager
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.11](https://github.com/meshery/meshery/releases/tag/v0.8.11), today) - Meshery, the cloud native manager
   - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.30.2](https://github.com/projectcontour/contour/releases/tag/v1.30.2), 1 day ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
   - [kubeflow/training-operator](https://github.com/kubeflow/training-operator) ([v1.9.0-rc.0](https://github.com/kubeflow/training-operator/releases/tag/v1.9.0-rc.0), 4 days ago) - Distributed ML Training and Fine-Tuning on Kubernetes
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.9.1](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.9.1), 6 days ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
