@@ -15,7 +15,7 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (2 days ago)
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (today)
   - [cloud-native-taiwan/kcd-taipei-2025](https://github.com/cloud-native-taiwan/kcd-taipei-2025) -  (1 week ago)
   - [cloud-native-taiwan/Infra-Labs-Docs](https://github.com/cloud-native-taiwan/Infra-Labs-Docs) - Documentation for Cloud Native Taiwan Infra Labs (1 week ago)
   - [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (1 month ago)
