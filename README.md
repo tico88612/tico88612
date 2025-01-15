@@ -54,6 +54,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Cleanup OWNERS files in each folders](https://github.com/kubernetes-sigs/kubespray/pull/11892) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [Add `manual` option to the `external_cloud_provider` variable](https://github.com/kubernetes-sigs/kubespray/pull/11883) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 days ago)
   - [Add Flatcar 4081 CI test](https://github.com/kubernetes-sigs/kubespray/pull/11868) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Add Flatcar 4081.2.1 image to test-infra](https://github.com/kubernetes-sigs/kubespray/pull/11849) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
@@ -63,7 +64,6 @@
   - [Bump: Helm upgrade to v3.16.4](https://github.com/kubernetes-sigs/kubespray/pull/11832) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [Bump: Kubernetes default version v1.31.4](https://github.com/kubernetes-sigs/kubespray/pull/11828) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
   - [Add ChengHao&#39;s bluesky account](https://github.com/cncf/people/pull/743) on [cncf/people](https://github.com/cncf/people) (1 month ago)
-  - [Fix sample inventory kube_version to 1.31.3](https://github.com/kubernetes-sigs/kubespray/pull/11767) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
 
   #### ⭐ Recent Stars
   
