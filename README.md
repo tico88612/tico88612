@@ -41,9 +41,9 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.12](https://github.com/meshery/meshery/releases/tag/v0.8.12), today) - Meshery, the cloud native manager
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.35.0](https://github.com/backstage/backstage/releases/tag/v1.35.0), 2 days ago) - Backstage is an open framework for building developer portals
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.4](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.4), 2 days ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.11](https://github.com/meshery/meshery/releases/tag/v0.8.11), 2 days ago) - Meshery, the cloud native manager
   - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.30.2](https://github.com/projectcontour/contour/releases/tag/v1.30.2), 3 days ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
   - [kubeflow/training-operator](https://github.com/kubeflow/training-operator) ([v1.9.0-rc.0](https://github.com/kubeflow/training-operator/releases/tag/v1.9.0-rc.0), 6 days ago) - Distributed ML Training and Fine-Tuning on Kubernetes
   - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.8.3](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.8.3), 1 week ago) - IP address Manager for Cluster API Provider Metal3
