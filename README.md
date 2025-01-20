@@ -80,11 +80,11 @@
 
   #### 👯 Check out some of my recent followers
   
+  - [HoKim98](https://github.com/HoKim98)
   - [sbin64](https://github.com/sbin64)
   - [chienfuchen32](https://github.com/chienfuchen32)
   - [standardgalactic](https://github.com/standardgalactic)
   - [XiaomingX](https://github.com/XiaomingX)
-  - [liangjhanyuan](https://github.com/liangjhanyuan)
 </details>
 
 <img src="https://github-readme-stats.vercel.app/api?username=tico88612&hide_title=true&count_private=true&show_icons=true" />
