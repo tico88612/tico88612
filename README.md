@@ -41,9 +41,9 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.36.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.36.0-next.0), today) - Backstage is an open framework for building developer portals
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.19](https://github.com/meshery/meshery/releases/tag/v0.8.19), today) - Meshery, the cloud native manager
   - [HunterPie/localization](https://github.com/HunterPie/localization) ([1.0.35](https://github.com/HunterPie/localization/releases/tag/1.0.35), today) - Localization repository for HunterPie&#39;s client
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.35.0](https://github.com/backstage/backstage/releases/tag/v1.35.0), 1 week ago) - Backstage is an open framework for building developer portals
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.4](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.4), 1 week ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
   - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.30.2](https://github.com/projectcontour/contour/releases/tag/v1.30.2), 1 week ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
   - [kubeflow/training-operator](https://github.com/kubeflow/training-operator) ([v1.9.0-rc.0](https://github.com/kubeflow/training-operator/releases/tag/v1.9.0-rc.0), 1 week ago) - Distributed ML Training and Fine-Tuning on Kubernetes
