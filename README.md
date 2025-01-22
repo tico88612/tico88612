@@ -41,8 +41,8 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.20](https://github.com/meshery/meshery/releases/tag/v0.8.20), today) - Meshery, the cloud native manager
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.36.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.36.0-next.0), 1 day ago) - Backstage is an open framework for building developer portals
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.19](https://github.com/meshery/meshery/releases/tag/v0.8.19), 1 day ago) - Meshery, the cloud native manager
   - [HunterPie/localization](https://github.com/HunterPie/localization) ([1.0.35](https://github.com/HunterPie/localization/releases/tag/1.0.35), 1 day ago) - Localization repository for HunterPie&#39;s client
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.4](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.4), 1 week ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
   - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.30.2](https://github.com/projectcontour/contour/releases/tag/v1.30.2), 1 week ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
