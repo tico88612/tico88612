@@ -41,6 +41,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.18](https://github.com/etcd-io/etcd/releases/tag/v3.5.18), today) - Distributed reliable key-value store for the most critical data of a distributed system
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.23](https://github.com/meshery/meshery/releases/tag/v0.8.23), today) - Meshery, the cloud native manager
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.36.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.36.0-next.0), 3 days ago) - Backstage is an open framework for building developer portals
   - [HunterPie/localization](https://github.com/HunterPie/localization) ([1.0.35](https://github.com/HunterPie/localization/releases/tag/1.0.35), 3 days ago) - Localization repository for HunterPie&#39;s client
@@ -50,7 +51,6 @@
   - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.8.3](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.8.3), 2 weeks ago) - IP address Manager for Cluster API Provider Metal3
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.65.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.65.0), 2 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.65.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.65.0), 2 weeks ago) - Web UI for Jaeger
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.27.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.27.0), 2 weeks ago) - Deploy a Production Ready Kubernetes Cluster
 
   #### 🔨 My recent Pull Requests
   
