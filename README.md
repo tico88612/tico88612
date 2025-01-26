@@ -54,6 +54,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Conformance results for v1.31/kubespray](https://github.com/cncf/k8s-conformance/pull/3584) on [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) (today)
   - [Cleanup OWNERS files in each folders](https://github.com/kubernetes-sigs/kubespray/pull/11892) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Add `manual` option to the `external_cloud_provider` variable](https://github.com/kubernetes-sigs/kubespray/pull/11883) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Add Flatcar 4081 CI test](https://github.com/kubernetes-sigs/kubespray/pull/11868) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
@@ -63,7 +64,6 @@
   - [Bump: Containerd upgrade to 1.7.24 &amp; runc upgrade to v1.2.3](https://github.com/kubernetes-sigs/kubespray/pull/11833) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Bump: Helm upgrade to v3.16.4](https://github.com/kubernetes-sigs/kubespray/pull/11832) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Bump: Kubernetes default version v1.31.4](https://github.com/kubernetes-sigs/kubespray/pull/11828) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
-  - [Add ChengHao&#39;s bluesky account](https://github.com/cncf/people/pull/743) on [cncf/people](https://github.com/cncf/people) (1 month ago)
 
   #### ⭐ Recent Stars
   
