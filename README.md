@@ -41,13 +41,13 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [kubeflow/training-operator](https://github.com/kubeflow/training-operator) ([v1.9.0](https://github.com/kubeflow/training-operator/releases/tag/v1.9.0), today) - Distributed ML Training and Fine-Tuning on Kubernetes
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.36.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.36.0-next.1), today) - Backstage is an open framework for building developer portals
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.25](https://github.com/meshery/meshery/releases/tag/v0.8.25), 1 day ago) - Meshery, the cloud native manager
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.18](https://github.com/etcd-io/etcd/releases/tag/v3.5.18), 4 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
   - [HunterPie/localization](https://github.com/HunterPie/localization) ([1.0.35](https://github.com/HunterPie/localization/releases/tag/1.0.35), 1 week ago) - Localization repository for HunterPie&#39;s client
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.4](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.4), 2 weeks ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
   - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.30.2](https://github.com/projectcontour/contour/releases/tag/v1.30.2), 2 weeks ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
-  - [kubeflow/training-operator](https://github.com/kubeflow/training-operator) ([v1.9.0-rc.0](https://github.com/kubeflow/training-operator/releases/tag/v1.9.0-rc.0), 2 weeks ago) - Distributed ML Training and Fine-Tuning on Kubernetes
   - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.8.3](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.8.3), 2 weeks ago) - IP address Manager for Cluster API Provider Metal3
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.65.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.65.0), 2 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.65.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.65.0), 3 weeks ago) - Web UI for Jaeger
