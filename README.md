@@ -41,6 +41,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.9.3](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.9.3), today) - IP address Manager for Cluster API Provider Metal3
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.35.1](https://github.com/backstage/backstage/releases/tag/v1.35.1), 1 day ago) - Backstage is an open framework for building developer portals
   - [kubeflow/training-operator](https://github.com/kubeflow/training-operator) ([v1.9.0](https://github.com/kubeflow/training-operator/releases/tag/v1.9.0), 2 days ago) - Distributed ML Training and Fine-Tuning on Kubernetes
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.25](https://github.com/meshery/meshery/releases/tag/v0.8.25), 3 days ago) - Meshery, the cloud native manager
@@ -48,7 +49,6 @@
   - [HunterPie/localization](https://github.com/HunterPie/localization) ([1.0.35](https://github.com/HunterPie/localization/releases/tag/1.0.35), 1 week ago) - Localization repository for HunterPie&#39;s client
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.4](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.4), 2 weeks ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
   - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.30.2](https://github.com/projectcontour/contour/releases/tag/v1.30.2), 2 weeks ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
-  - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.8.3](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.8.3), 3 weeks ago) - IP address Manager for Cluster API Provider Metal3
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.65.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.65.0), 3 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.65.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.65.0), 3 weeks ago) - Web UI for Jaeger
 
