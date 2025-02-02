@@ -55,7 +55,7 @@
   #### 🔨 My recent Pull Requests
   
   - [cloud-provider-kind 0.5.0 (new formula)](https://github.com/Homebrew/homebrew-core/pull/206262) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (1 day ago)
-  - [[WIP] Bump Ansible to 10.7.0](https://github.com/kubernetes-sigs/kubespray/pull/11924) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
+  - [[WIP] Bump Ansible to 10.7.0 &amp; Deprecate RHEL8-based tests](https://github.com/kubernetes-sigs/kubespray/pull/11924) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Conformance results for v1.31/kubespray](https://github.com/cncf/k8s-conformance/pull/3584) on [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) (1 week ago)
   - [Cleanup OWNERS files in each folders](https://github.com/kubernetes-sigs/kubespray/pull/11892) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [Add `manual` option to the `external_cloud_provider` variable](https://github.com/kubernetes-sigs/kubespray/pull/11883) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
