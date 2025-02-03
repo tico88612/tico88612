@@ -41,10 +41,10 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.26](https://github.com/meshery/meshery/releases/tag/v0.8.26), today) - Meshery, the cloud native manager
   - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.9.3](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.9.3), 4 days ago) - IP address Manager for Cluster API Provider Metal3
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.35.1](https://github.com/backstage/backstage/releases/tag/v1.35.1), 5 days ago) - Backstage is an open framework for building developer portals
   - [kubeflow/training-operator](https://github.com/kubeflow/training-operator) ([v1.9.0](https://github.com/kubeflow/training-operator/releases/tag/v1.9.0), 6 days ago) - Distributed ML Training and Fine-Tuning on Kubernetes
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.25](https://github.com/meshery/meshery/releases/tag/v0.8.25), 1 week ago) - Meshery, the cloud native manager
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.18](https://github.com/etcd-io/etcd/releases/tag/v3.5.18), 1 week ago) - Distributed reliable key-value store for the most critical data of a distributed system
   - [HunterPie/localization](https://github.com/HunterPie/localization) ([1.0.35](https://github.com/HunterPie/localization/releases/tag/1.0.35), 1 week ago) - Localization repository for HunterPie&#39;s client
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.4](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.4), 2 weeks ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
