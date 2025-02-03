@@ -15,7 +15,7 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group (1 day ago)
+  - [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group (2 days ago)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (2 weeks ago)
   - [scist-tw/wc_scoreboard](https://github.com/scist-tw/wc_scoreboard) -  (4 weeks ago)
   - [cloud-native-taiwan/kcd-taipei-2025](https://github.com/cloud-native-taiwan/kcd-taipei-2025) -  (4 weeks ago)
@@ -41,24 +41,24 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.9.3](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.9.3), 3 days ago) - IP address Manager for Cluster API Provider Metal3
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.35.1](https://github.com/backstage/backstage/releases/tag/v1.35.1), 4 days ago) - Backstage is an open framework for building developer portals
-  - [kubeflow/training-operator](https://github.com/kubeflow/training-operator) ([v1.9.0](https://github.com/kubeflow/training-operator/releases/tag/v1.9.0), 5 days ago) - Distributed ML Training and Fine-Tuning on Kubernetes
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.25](https://github.com/meshery/meshery/releases/tag/v0.8.25), 6 days ago) - Meshery, the cloud native manager
+  - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.9.3](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.9.3), 4 days ago) - IP address Manager for Cluster API Provider Metal3
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.35.1](https://github.com/backstage/backstage/releases/tag/v1.35.1), 5 days ago) - Backstage is an open framework for building developer portals
+  - [kubeflow/training-operator](https://github.com/kubeflow/training-operator) ([v1.9.0](https://github.com/kubeflow/training-operator/releases/tag/v1.9.0), 6 days ago) - Distributed ML Training and Fine-Tuning on Kubernetes
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.25](https://github.com/meshery/meshery/releases/tag/v0.8.25), 1 week ago) - Meshery, the cloud native manager
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.18](https://github.com/etcd-io/etcd/releases/tag/v3.5.18), 1 week ago) - Distributed reliable key-value store for the most critical data of a distributed system
   - [HunterPie/localization](https://github.com/HunterPie/localization) ([1.0.35](https://github.com/HunterPie/localization/releases/tag/1.0.35), 1 week ago) - Localization repository for HunterPie&#39;s client
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.4](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.4), 2 weeks ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
-  - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.30.2](https://github.com/projectcontour/contour/releases/tag/v1.30.2), 2 weeks ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
+  - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.30.2](https://github.com/projectcontour/contour/releases/tag/v1.30.2), 3 weeks ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.65.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.65.0), 3 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.65.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.65.0), 3 weeks ago) - Web UI for Jaeger
 
   #### 🔨 My recent Pull Requests
   
-  - [cloud-provider-kind 0.5.0 (new formula)](https://github.com/Homebrew/homebrew-core/pull/206262) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (1 day ago)
+  - [cloud-provider-kind 0.5.0 (new formula)](https://github.com/Homebrew/homebrew-core/pull/206262) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (2 days ago)
   - [[WIP] Bump Ansible to 10.7.0 &amp; Deprecate RHEL8-based tests](https://github.com/kubernetes-sigs/kubespray/pull/11924) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Conformance results for v1.31/kubespray](https://github.com/cncf/k8s-conformance/pull/3584) on [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) (1 week ago)
   - [Cleanup OWNERS files in each folders](https://github.com/kubernetes-sigs/kubespray/pull/11892) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
-  - [Add `manual` option to the `external_cloud_provider` variable](https://github.com/kubernetes-sigs/kubespray/pull/11883) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
+  - [Add `manual` option to the `external_cloud_provider` variable](https://github.com/kubernetes-sigs/kubespray/pull/11883) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
   - [Add Flatcar 4081 CI test](https://github.com/kubernetes-sigs/kubespray/pull/11868) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
   - [Add Python .gitignore](https://github.com/scist-tw/wc_scoreboard/pull/1) on [scist-tw/wc_scoreboard](https://github.com/scist-tw/wc_scoreboard) (4 weeks ago)
   - [Add Flatcar 4081.2.1 image to test-infra](https://github.com/kubernetes-sigs/kubespray/pull/11849) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
@@ -67,7 +67,7 @@
 
   #### ⭐ Recent Stars
   
-  - [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - A tool to beautify your code screenshots. Built with SolidJS and Fastify. (3 days ago)
+  - [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - A tool to beautify your code screenshots. Built with SolidJS and Fastify. (4 days ago)
   - [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) - Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF (2 months ago)
   - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (2 months ago)
   - [knabben/stalker](https://github.com/knabben/stalker) - Stalk and Hunt Flake Testgrid Jobs  (3 months ago)
