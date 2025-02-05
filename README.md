@@ -15,6 +15,7 @@
 
   #### 👷 Check out what I'm currently working on
   
+  - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) - Cloud provider for KIND clusters (today)
   - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (3 days ago)
   - [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group (4 days ago)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (2 weeks ago)
@@ -24,7 +25,6 @@
   - [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (1 month ago)
   - [coredns/deployment](https://github.com/coredns/deployment) - Scripts, utilities, and examples for deploying CoreDNS. (3 months ago)
   - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (5 months ago)
-  - [cloud-native-taiwan/coscup-2024-workshop](https://github.com/cloud-native-taiwan/coscup-2024-workshop) - COSCUP 2024 IaC workshop files (6 months ago)
 
   #### 🌱 My latest projects
   
@@ -48,9 +48,9 @@
   - [kubeflow/training-operator](https://github.com/kubeflow/training-operator) ([v1.9.0](https://github.com/kubeflow/training-operator/releases/tag/v1.9.0), 1 week ago) - Distributed ML Training and Fine-Tuning on Kubernetes
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.18](https://github.com/etcd-io/etcd/releases/tag/v3.5.18), 1 week ago) - Distributed reliable key-value store for the most critical data of a distributed system
   - [HunterPie/localization](https://github.com/HunterPie/localization) ([1.0.35](https://github.com/HunterPie/localization/releases/tag/1.0.35), 2 weeks ago) - Localization repository for HunterPie&#39;s client
+  - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.5.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.5.0), 3 weeks ago) - Cloud provider for KIND clusters
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.4](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.4), 3 weeks ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
   - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.30.2](https://github.com/projectcontour/contour/releases/tag/v1.30.2), 3 weeks ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
-  - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.65.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.65.0), 4 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
 
   #### 🔨 My recent Pull Requests
   
