@@ -15,6 +15,7 @@
 
   #### 👷 Check out what I'm currently working on
   
+  - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (3 days ago)
   - [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group (4 days ago)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (2 weeks ago)
   - [scist-tw/wc_scoreboard](https://github.com/scist-tw/wc_scoreboard) -  (1 month ago)
@@ -24,7 +25,6 @@
   - [coredns/deployment](https://github.com/coredns/deployment) - Scripts, utilities, and examples for deploying CoreDNS. (3 months ago)
   - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (5 months ago)
   - [cloud-native-taiwan/coscup-2024-workshop](https://github.com/cloud-native-taiwan/coscup-2024-workshop) - COSCUP 2024 IaC workshop files (6 months ago)
-  - [HunterPie/localization](https://github.com/HunterPie/localization) - Localization repository for HunterPie&#39;s client (6 months ago)
 
   #### 🌱 My latest projects
   
@@ -54,7 +54,7 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [[WIP] Update Install description in README.md](https://github.com/kubernetes-sigs/cloud-provider-kind/pull/209) on [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) (today)
+  - [Update install description in README.md](https://github.com/kubernetes-sigs/cloud-provider-kind/pull/209) on [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) (today)
   - [cloud-provider-kind 0.5.0 (new formula)](https://github.com/Homebrew/homebrew-core/pull/206262) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (4 days ago)
   - [[WIP] Bump Ansible to 10.7.0 &amp; Deprecate RHEL8-based tests](https://github.com/kubernetes-sigs/kubespray/pull/11924) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Conformance results for v1.31/kubespray](https://github.com/cncf/k8s-conformance/pull/3584) on [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) (1 week ago)
