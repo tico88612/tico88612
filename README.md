@@ -41,6 +41,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.5](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.5), today) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
   - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.8.4](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.8.4), 1 day ago) - IP address Manager for Cluster API Provider Metal3
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.66.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.66.0), 1 day ago) - Web UI for Jaeger
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.36.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.36.0-next.2), 2 days ago) - Backstage is an open framework for building developer portals
@@ -49,7 +50,6 @@
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.18](https://github.com/etcd-io/etcd/releases/tag/v3.5.18), 1 week ago) - Distributed reliable key-value store for the most critical data of a distributed system
   - [HunterPie/localization](https://github.com/HunterPie/localization) ([1.0.35](https://github.com/HunterPie/localization/releases/tag/1.0.35), 2 weeks ago) - Localization repository for HunterPie&#39;s client
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.5.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.5.0), 3 weeks ago) - Cloud provider for KIND clusters
-  - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.4](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.4), 3 weeks ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
   - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.30.2](https://github.com/projectcontour/contour/releases/tag/v1.30.2), 3 weeks ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
 
   #### 🔨 My recent Pull Requests
