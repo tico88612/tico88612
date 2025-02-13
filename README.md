@@ -41,6 +41,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.6.0-rc.0](https://github.com/etcd-io/etcd/releases/tag/v3.6.0-rc.0), today) - Distributed reliable key-value store for the most critical data of a distributed system
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.30](https://github.com/meshery/meshery/releases/tag/v0.8.30), today) - Meshery, the cloud native manager
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.36.0-next.3](https://github.com/backstage/backstage/releases/tag/v1.36.0-next.3), 2 days ago) - Backstage is an open framework for building developer portals
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.66.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.66.0), 1 week ago) - CNCF Jaeger, a Distributed Tracing Platform
@@ -48,7 +49,6 @@
   - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.8.4](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.8.4), 1 week ago) - IP address Manager for Cluster API Provider Metal3
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.66.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.66.0), 1 week ago) - Web UI for Jaeger
   - [kubeflow/trainer](https://github.com/kubeflow/trainer) ([v1.9.0](https://github.com/kubeflow/trainer/releases/tag/v1.9.0), 2 weeks ago) - Distributed ML Training and Fine-Tuning on Kubernetes
-  - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.18](https://github.com/etcd-io/etcd/releases/tag/v3.5.18), 2 weeks ago) - Distributed reliable key-value store for the most critical data of a distributed system
   - [HunterPie/localization](https://github.com/HunterPie/localization) ([1.0.35](https://github.com/HunterPie/localization/releases/tag/1.0.35), 3 weeks ago) - Localization repository for HunterPie&#39;s client
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.5.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.5.0), 4 weeks ago) - Cloud provider for KIND clusters
 
