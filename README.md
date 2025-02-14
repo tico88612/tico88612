@@ -41,8 +41,8 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.31](https://github.com/meshery/meshery/releases/tag/v0.8.31), today) - Meshery, the cloud native manager
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.6.0-rc.0](https://github.com/etcd-io/etcd/releases/tag/v3.6.0-rc.0), 1 day ago) - Distributed reliable key-value store for the most critical data of a distributed system
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.30](https://github.com/meshery/meshery/releases/tag/v0.8.30), 1 day ago) - Meshery, the cloud native manager
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.36.0-next.3](https://github.com/backstage/backstage/releases/tag/v1.36.0-next.3), 3 days ago) - Backstage is an open framework for building developer portals
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.66.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.66.0), 1 week ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.5](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.5), 1 week ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
