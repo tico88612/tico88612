@@ -41,9 +41,9 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.31](https://github.com/meshery/meshery/releases/tag/v0.8.31), 2 days ago) - Meshery, the cloud native manager
-  - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.6.0-rc.0](https://github.com/etcd-io/etcd/releases/tag/v3.6.0-rc.0), 3 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.36.0-next.3](https://github.com/backstage/backstage/releases/tag/v1.36.0-next.3), 5 days ago) - Backstage is an open framework for building developer portals
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.31](https://github.com/meshery/meshery/releases/tag/v0.8.31), 3 days ago) - Meshery, the cloud native manager
+  - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.6.0-rc.0](https://github.com/etcd-io/etcd/releases/tag/v3.6.0-rc.0), 4 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.36.0-next.3](https://github.com/backstage/backstage/releases/tag/v1.36.0-next.3), 6 days ago) - Backstage is an open framework for building developer portals
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.66.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.66.0), 1 week ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.5](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.5), 1 week ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
   - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.8.4](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.8.4), 1 week ago) - IP address Manager for Cluster API Provider Metal3
@@ -72,7 +72,7 @@
   - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (3 months ago)
   - [knabben/stalker](https://github.com/knabben/stalker) - Stalk and Hunt Flake Testgrid Jobs  (3 months ago)
   - [ljcucc/mobai-alei](https://github.com/ljcucc/mobai-alei) - 膜拜阿雷的信眾有福了！現在到 mobai-alei.ljcu.cc 就可以產生膜拜貼圖！ (5 months ago)
-  - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity (6 months ago)
+  - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity (7 months ago)
   - [nalexn/clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui) - SwiftUI sample app using Clean Architecture. Examples of working with SwiftData persistence, networking, dependency injection, unit testing, and more. (7 months ago)
   - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform / OpenTofu Provider for Proxmox VE (7 months ago)
   - [kubernetes/enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes (9 months ago)
