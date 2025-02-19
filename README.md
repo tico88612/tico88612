@@ -15,7 +15,7 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) - Cloud provider for KIND clusters (1 week ago)
+  - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) - Cloud provider for KIND clusters (2 weeks ago)
   - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (2 weeks ago)
   - [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group (2 weeks ago)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (1 month ago)
@@ -41,20 +41,20 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.32](https://github.com/meshery/meshery/releases/tag/v0.8.32), today) - Meshery, the cloud native manager
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.36.0](https://github.com/backstage/backstage/releases/tag/v1.36.0), today) - Backstage is an open framework for building developer portals
-  - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.6.0-rc.0](https://github.com/etcd-io/etcd/releases/tag/v3.6.0-rc.0), 5 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.32](https://github.com/meshery/meshery/releases/tag/v0.8.32), 1 day ago) - Meshery, the cloud native manager
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.36.0](https://github.com/backstage/backstage/releases/tag/v1.36.0), 1 day ago) - Backstage is an open framework for building developer portals
+  - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.6.0-rc.0](https://github.com/etcd-io/etcd/releases/tag/v3.6.0-rc.0), 6 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.66.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.66.0), 1 week ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.5](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.5), 1 week ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
-  - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.8.4](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.8.4), 1 week ago) - IP address Manager for Cluster API Provider Metal3
-  - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.66.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.66.0), 1 week ago) - Web UI for Jaeger
+  - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.8.4](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.8.4), 2 weeks ago) - IP address Manager for Cluster API Provider Metal3
+  - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.66.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.66.0), 2 weeks ago) - Web UI for Jaeger
   - [kubeflow/trainer](https://github.com/kubeflow/trainer) ([v1.9.0](https://github.com/kubeflow/trainer/releases/tag/v1.9.0), 3 weeks ago) - Distributed ML Training and Fine-Tuning on Kubernetes
   - [HunterPie/localization](https://github.com/HunterPie/localization) ([1.0.35](https://github.com/HunterPie/localization/releases/tag/1.0.35), 4 weeks ago) - Localization repository for HunterPie&#39;s client
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.5.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.5.0), 1 month ago) - Cloud provider for KIND clusters
 
   #### 🔨 My recent Pull Requests
   
-  - [Update install description in README.md](https://github.com/kubernetes-sigs/cloud-provider-kind/pull/209) on [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) (1 week ago)
+  - [Update install description in README.md](https://github.com/kubernetes-sigs/cloud-provider-kind/pull/209) on [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) (2 weeks ago)
   - [cloud-provider-kind 0.5.0 (new formula)](https://github.com/Homebrew/homebrew-core/pull/206262) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (2 weeks ago)
   - [[WIP] Bump Ansible to 10.7.0 &amp; Deprecate RHEL8-based tests](https://github.com/kubernetes-sigs/kubespray/pull/11924) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
   - [Conformance results for v1.31/kubespray](https://github.com/cncf/k8s-conformance/pull/3584) on [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) (3 weeks ago)
