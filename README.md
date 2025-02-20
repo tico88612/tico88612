@@ -41,15 +41,15 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.34](https://github.com/meshery/meshery/releases/tag/v0.8.34), today) - Meshery, the cloud native manager
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.36.0](https://github.com/backstage/backstage/releases/tag/v1.36.0), 1 day ago) - Backstage is an open framework for building developer portals
-  - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.6.0-rc.0](https://github.com/etcd-io/etcd/releases/tag/v3.6.0-rc.0), 6 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
-  - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.66.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.66.0), 1 week ago) - CNCF Jaeger, a Distributed Tracing Platform
-  - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.5](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.5), 1 week ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.34](https://github.com/meshery/meshery/releases/tag/v0.8.34), 1 day ago) - Meshery, the cloud native manager
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.36.0](https://github.com/backstage/backstage/releases/tag/v1.36.0), 2 days ago) - Backstage is an open framework for building developer portals
+  - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.6.0-rc.0](https://github.com/etcd-io/etcd/releases/tag/v3.6.0-rc.0), 1 week ago) - Distributed reliable key-value store for the most critical data of a distributed system
+  - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.66.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.66.0), 2 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
+  - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.5](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.5), 2 weeks ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
   - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.8.4](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.8.4), 2 weeks ago) - IP address Manager for Cluster API Provider Metal3
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.66.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.66.0), 2 weeks ago) - Web UI for Jaeger
   - [kubeflow/trainer](https://github.com/kubeflow/trainer) ([v1.9.0](https://github.com/kubeflow/trainer/releases/tag/v1.9.0), 3 weeks ago) - Distributed ML Training and Fine-Tuning on Kubernetes
-  - [HunterPie/localization](https://github.com/HunterPie/localization) ([1.0.35](https://github.com/HunterPie/localization/releases/tag/1.0.35), 4 weeks ago) - Localization repository for HunterPie&#39;s client
+  - [HunterPie/localization](https://github.com/HunterPie/localization) ([1.0.35](https://github.com/HunterPie/localization/releases/tag/1.0.35), 1 month ago) - Localization repository for HunterPie&#39;s client
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.5.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.5.0), 1 month ago) - Cloud provider for KIND clusters
 
   #### 🔨 My recent Pull Requests
@@ -67,7 +67,7 @@
 
   #### ⭐ Recent Stars
   
-  - [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - A tool to beautify your code screenshots. Built with SolidJS and Fastify. (2 weeks ago)
+  - [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - A tool to beautify your code screenshots. Built with SolidJS and Fastify. (3 weeks ago)
   - [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) - Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF (3 months ago)
   - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (3 months ago)
   - [knabben/stalker](https://github.com/knabben/stalker) - Stalk and Hunt Flake Testgrid Jobs  (4 months ago)
@@ -75,7 +75,7 @@
   - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity (7 months ago)
   - [nalexn/clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui) - SwiftUI sample app using Clean Architecture. Examples of working with SwiftData persistence, networking, dependency injection, unit testing, and more. (7 months ago)
   - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform / OpenTofu Provider for Proxmox VE (7 months ago)
-  - [kubernetes/enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes (9 months ago)
+  - [kubernetes/enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes (10 months ago)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (1 year ago)
 
   #### 👯 Check out some of my recent followers
