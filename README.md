@@ -23,7 +23,7 @@
   - [cloud-native-taiwan/kcd-taipei-2025](https://github.com/cloud-native-taiwan/kcd-taipei-2025) -  (1 month ago)
   - [cloud-native-taiwan/Infra-Labs-Docs](https://github.com/cloud-native-taiwan/Infra-Labs-Docs) - Documentation for Cloud Native Taiwan Infra Labs (1 month ago)
   - [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (2 months ago)
-  - [coredns/deployment](https://github.com/coredns/deployment) - Scripts, utilities, and examples for deploying CoreDNS. (3 months ago)
+  - [coredns/deployment](https://github.com/coredns/deployment) - Scripts, utilities, and examples for deploying CoreDNS. (4 months ago)
   - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (6 months ago)
 
   #### 🌱 My latest projects
@@ -41,9 +41,9 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.6.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.6.0), today) - Cloud provider for KIND clusters
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.34](https://github.com/meshery/meshery/releases/tag/v0.8.34), 1 day ago) - Meshery, the cloud native manager
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.36.0](https://github.com/backstage/backstage/releases/tag/v1.36.0), 2 days ago) - Backstage is an open framework for building developer portals
+  - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.6.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.6.0), 1 day ago) - Cloud provider for KIND clusters
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.34](https://github.com/meshery/meshery/releases/tag/v0.8.34), 2 days ago) - Meshery, the cloud native manager
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.36.0](https://github.com/backstage/backstage/releases/tag/v1.36.0), 3 days ago) - Backstage is an open framework for building developer portals
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.6.0-rc.0](https://github.com/etcd-io/etcd/releases/tag/v3.6.0-rc.0), 1 week ago) - Distributed reliable key-value store for the most critical data of a distributed system
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.66.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.66.0), 2 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.5](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.5), 2 weeks ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
