@@ -41,6 +41,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) ([v1.3.1](https://github.com/kubearmor/kubearmor-client/releases/tag/v1.3.1), today) - KubeArmor cli tool aka kArmor :robot:
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.36.1](https://github.com/backstage/backstage/releases/tag/v1.36.1), today) - Backstage is an open framework for building developer portals
   - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.9.4](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.9.4), today) - IP address Manager for Cluster API Provider Metal3
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.6.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.6.0), 1 day ago) - Cloud provider for KIND clusters
@@ -50,7 +51,6 @@
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.5](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.5), 2 weeks ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.66.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.66.0), 2 weeks ago) - Web UI for Jaeger
   - [kubeflow/trainer](https://github.com/kubeflow/trainer) ([v1.9.0](https://github.com/kubeflow/trainer/releases/tag/v1.9.0), 3 weeks ago) - Distributed ML Training and Fine-Tuning on Kubernetes
-  - [HunterPie/localization](https://github.com/HunterPie/localization) ([1.0.35](https://github.com/HunterPie/localization/releases/tag/1.0.35), 1 month ago) - Localization repository for HunterPie&#39;s client
 
   #### 🔨 My recent Pull Requests
   
