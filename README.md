@@ -41,9 +41,9 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.37.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.37.0-next.0), today) - Backstage is an open framework for building developer portals
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.37](https://github.com/meshery/meshery/releases/tag/v0.8.37), 1 day ago) - Meshery, the cloud native manager
   - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) ([v1.3.2](https://github.com/kubearmor/kubearmor-client/releases/tag/v1.3.2), 1 day ago) - KubeArmor cli tool aka kArmor :robot:
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.36.1](https://github.com/backstage/backstage/releases/tag/v1.36.1), 4 days ago) - Backstage is an open framework for building developer portals
   - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.9.4](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.9.4), 4 days ago) - IP address Manager for Cluster API Provider Metal3
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.6.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.6.0), 5 days ago) - Cloud provider for KIND clusters
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.6.0-rc.0](https://github.com/etcd-io/etcd/releases/tag/v3.6.0-rc.0), 1 week ago) - Distributed reliable key-value store for the most critical data of a distributed system
