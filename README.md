@@ -41,7 +41,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.39](https://github.com/meshery/meshery/releases/tag/v0.8.39), today) - Meshery, the cloud native manager
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.40](https://github.com/meshery/meshery/releases/tag/v0.8.40), today) - Meshery, the cloud native manager
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.6](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.6), today) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
   - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) ([v1.3.3](https://github.com/kubearmor/kubearmor-client/releases/tag/v1.3.3), today) - KubeArmor cli tool aka kArmor :robot:
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.6.0-rc.1](https://github.com/etcd-io/etcd/releases/tag/v3.6.0-rc.1), 2 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
