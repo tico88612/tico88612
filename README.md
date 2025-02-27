@@ -41,6 +41,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.6](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.6), today) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.38](https://github.com/meshery/meshery/releases/tag/v0.8.38), today) - Meshery, the cloud native manager
   - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) ([v1.3.3](https://github.com/kubearmor/kubearmor-client/releases/tag/v1.3.3), today) - KubeArmor cli tool aka kArmor :robot:
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.6.0-rc.1](https://github.com/etcd-io/etcd/releases/tag/v3.6.0-rc.1), 2 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
@@ -48,7 +49,6 @@
   - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.9.4](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.9.4), 6 days ago) - IP address Manager for Cluster API Provider Metal3
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.6.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.6.0), 1 week ago) - Cloud provider for KIND clusters
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.66.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.66.0), 3 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
-  - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.5](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.5), 3 weeks ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.66.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.66.0), 3 weeks ago) - Web UI for Jaeger
   - [kubeflow/trainer](https://github.com/kubeflow/trainer) ([v1.9.0](https://github.com/kubeflow/trainer/releases/tag/v1.9.0), 1 month ago) - Distributed ML Training and Fine-Tuning on Kubernetes
 
