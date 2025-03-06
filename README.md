@@ -16,6 +16,7 @@
   #### 👷 Check out what I'm currently working on
   
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (today)
+  - [sitcon-tw/2025](https://github.com/sitcon-tw/2025) -  (today)
   - [cloud-native-taiwan/i.kcd.taipei](https://github.com/cloud-native-taiwan/i.kcd.taipei) -  (4 days ago)
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) - Cloud provider for KIND clusters (4 weeks ago)
   - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (1 month ago)
@@ -24,7 +25,6 @@
   - [scist-tw/wc_scoreboard](https://github.com/scist-tw/wc_scoreboard) -  (2 months ago)
   - [cloud-native-taiwan/Infra-Labs-Docs](https://github.com/cloud-native-taiwan/Infra-Labs-Docs) - Documentation for Cloud Native Taiwan Infra Labs (2 months ago)
   - [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (2 months ago)
-  - [coredns/deployment](https://github.com/coredns/deployment) - Scripts, utilities, and examples for deploying CoreDNS. (4 months ago)
 
   #### 🌱 My latest projects
   
@@ -54,6 +54,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Fix OCF venue url link](https://github.com/sitcon-tw/2025/pull/93) on [sitcon-tw/2025](https://github.com/sitcon-tw/2025) (today)
   - [Fix: CRI-O default capabilities follow with the upstream](https://github.com/kubernetes-sigs/kubespray/pull/12018) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 days ago)
   - [Update install description in README.md](https://github.com/kubernetes-sigs/cloud-provider-kind/pull/209) on [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) (4 weeks ago)
   - [cloud-provider-kind 0.5.0 (new formula)](https://github.com/Homebrew/homebrew-core/pull/206262) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (1 month ago)
@@ -63,7 +64,6 @@
   - [Add `manual` option to the `external_cloud_provider` variable](https://github.com/kubernetes-sigs/kubespray/pull/11883) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Add Flatcar 4081 CI test](https://github.com/kubernetes-sigs/kubespray/pull/11868) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Add Python .gitignore](https://github.com/scist-tw/wc_scoreboard/pull/1) on [scist-tw/wc_scoreboard](https://github.com/scist-tw/wc_scoreboard) (2 months ago)
-  - [Add Flatcar 4081.2.1 image to test-infra](https://github.com/kubernetes-sigs/kubespray/pull/11849) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 months ago)
 
   #### ⭐ Recent Stars
   
