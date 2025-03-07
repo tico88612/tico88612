@@ -41,8 +41,8 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.46](https://github.com/meshery/meshery/releases/tag/v0.8.46), today) - Meshery, the cloud native manager
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.19](https://github.com/etcd-io/etcd/releases/tag/v3.5.19), 2 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.44](https://github.com/meshery/meshery/releases/tag/v0.8.44), 2 days ago) - Meshery, the cloud native manager
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.37.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.37.0-next.1), 3 days ago) - Backstage is an open framework for building developer portals
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.6](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.6), 1 week ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
   - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) ([v1.3.3](https://github.com/kubearmor/kubearmor-client/releases/tag/v1.3.3), 1 week ago) - KubeArmor cli tool aka kArmor :robot:
