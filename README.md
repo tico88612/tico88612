@@ -80,11 +80,11 @@
 
   #### 👯 Check out some of my recent followers
   
+  - [leana8959](https://github.com/leana8959)
   - [977812671](https://github.com/977812671)
   - [j796160836](https://github.com/j796160836)
   - [lex1ng](https://github.com/lex1ng)
   - [mattwang44](https://github.com/mattwang44)
-  - [Holiday66](https://github.com/Holiday66)
 </details>
 
 <img src="https://github-readme-stats.vercel.app/api?username=tico88612&hide_title=true&count_private=true&show_icons=true" />
