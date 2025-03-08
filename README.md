@@ -41,7 +41,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.0](https://github.com/HunterPie/localization/releases/tag/v1.1.0), today) - Localization repository for HunterPie&#39;s client
+  - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.1](https://github.com/HunterPie/localization/releases/tag/v1.1.1), today) - Localization repository for HunterPie&#39;s client
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.67.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.67.0), today) - CNCF Jaeger, a Distributed Tracing Platform
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.67.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.67.0), 1 day ago) - Web UI for Jaeger
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.46](https://github.com/meshery/meshery/releases/tag/v0.8.46), 1 day ago) - Meshery, the cloud native manager
