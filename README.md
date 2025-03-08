@@ -15,6 +15,7 @@
 
   #### 👷 Check out what I'm currently working on
   
+  - [tico88612/kind-workshop](https://github.com/tico88612/kind-workshop) -  (today)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (2 days ago)
   - [sitcon-tw/2025](https://github.com/sitcon-tw/2025) -  (2 days ago)
   - [cloud-native-taiwan/i.kcd.taipei](https://github.com/cloud-native-taiwan/i.kcd.taipei) -  (6 days ago)
@@ -24,10 +25,10 @@
   - [cloud-native-taiwan/kcd-taipei-2025](https://github.com/cloud-native-taiwan/kcd-taipei-2025) -  (2 months ago)
   - [scist-tw/wc_scoreboard](https://github.com/scist-tw/wc_scoreboard) -  (2 months ago)
   - [cloud-native-taiwan/Infra-Labs-Docs](https://github.com/cloud-native-taiwan/Infra-Labs-Docs) - Documentation for Cloud Native Taiwan Infra Labs (2 months ago)
-  - [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (2 months ago)
 
   #### 🌱 My latest projects
   
+  - [tico88612/kind-workshop](https://github.com/tico88612/kind-workshop) - 
   - [tico88612/blog-comments](https://github.com/tico88612/blog-comments) - 
   - [tico88612/get-real-ip](https://github.com/tico88612/get-real-ip) - 
   - [tico88612/podman-monitor-workshop](https://github.com/tico88612/podman-monitor-workshop) - 
@@ -37,7 +38,6 @@
   - [tico88612/cms-docker](https://github.com/tico88612/cms-docker) - Contest Management System v1.5.dev0 Docker Version
   - [tico88612/network-security-final](https://github.com/tico88612/network-security-final) - 
   - [tico88612/docker-init.engineer](https://github.com/tico88612/docker-init.engineer) - 純靠北工程師 Docker 架設版
-  - [tico88612/kantai-teachme.tw](https://github.com/tico88612/kantai-teachme.tw) - 
 
   #### 🔭 Latest releases I've contributed to
   
