@@ -41,8 +41,8 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.3](https://github.com/HunterPie/localization/releases/tag/v1.1.3), today) - Localization repository for HunterPie&#39;s client
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.47](https://github.com/meshery/meshery/releases/tag/v0.8.47), 1 day ago) - Meshery, the cloud native manager
-  - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.2](https://github.com/HunterPie/localization/releases/tag/v1.1.2), 2 days ago) - Localization repository for HunterPie&#39;s client
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.67.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.67.0), 3 days ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.67.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.67.0), 4 days ago) - Web UI for Jaeger
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.19](https://github.com/etcd-io/etcd/releases/tag/v3.5.19), 6 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
