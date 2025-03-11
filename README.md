@@ -41,12 +41,12 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.37.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.37.0-next.2), today) - Backstage is an open framework for building developer portals
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.48](https://github.com/meshery/meshery/releases/tag/v0.8.48), today) - Meshery, the cloud native manager
   - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.3](https://github.com/HunterPie/localization/releases/tag/v1.1.3), today) - Localization repository for HunterPie&#39;s client
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.67.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.67.0), 3 days ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.67.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.67.0), 4 days ago) - Web UI for Jaeger
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.19](https://github.com/etcd-io/etcd/releases/tag/v3.5.19), 6 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.37.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.37.0-next.1), 1 week ago) - Backstage is an open framework for building developer portals
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.6](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.6), 1 week ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
   - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) ([v1.3.3](https://github.com/kubearmor/kubearmor-client/releases/tag/v1.3.3), 1 week ago) - KubeArmor cli tool aka kArmor :robot:
   - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.9.4](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.9.4), 2 weeks ago) - IP address Manager for Cluster API Provider Metal3
