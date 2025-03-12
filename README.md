@@ -15,7 +15,7 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [cloud-native-taiwan/i.kcd.taipei](https://github.com/cloud-native-taiwan/i.kcd.taipei) -  (1 day ago)
+  - [cloud-native-taiwan/i.kcd.taipei](https://github.com/cloud-native-taiwan/i.kcd.taipei) -  (today)
   - [tico88612/kind-workshop](https://github.com/tico88612/kind-workshop) -  (4 days ago)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (6 days ago)
   - [sitcon-tw/2025](https://github.com/sitcon-tw/2025) -  (6 days ago)
