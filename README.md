@@ -41,9 +41,9 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.4](https://github.com/HunterPie/localization/releases/tag/v1.1.4), today) - Localization repository for HunterPie&#39;s client
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.49](https://github.com/meshery/meshery/releases/tag/v0.8.49), 1 day ago) - Meshery, the cloud native manager
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.37.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.37.0-next.2), 3 days ago) - Backstage is an open framework for building developer portals
-  - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.3](https://github.com/HunterPie/localization/releases/tag/v1.1.3), 3 days ago) - Localization repository for HunterPie&#39;s client
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.67.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.67.0), 6 days ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui) ([v1.67.0](https://github.com/jaegertracing/jaeger-ui/releases/tag/v1.67.0), 1 week ago) - Web UI for Jaeger
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.19](https://github.com/etcd-io/etcd/releases/tag/v3.5.19), 1 week ago) - Distributed reliable key-value store for the most critical data of a distributed system
