@@ -15,7 +15,7 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [cloud-native-taiwan/i.kcd.taipei](https://github.com/cloud-native-taiwan/i.kcd.taipei) -  (3 days ago)
+  - [cloud-native-taiwan/i.kcd.taipei](https://github.com/cloud-native-taiwan/i.kcd.taipei) -  (4 days ago)
   - [tico88612/kind-workshop](https://github.com/tico88612/kind-workshop) -  (1 week ago)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (1 week ago)
   - [sitcon-tw/2025](https://github.com/sitcon-tw/2025) -  (1 week ago)
@@ -41,9 +41,9 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.4](https://github.com/HunterPie/localization/releases/tag/v1.1.4), 1 day ago) - Localization repository for HunterPie&#39;s client
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.49](https://github.com/meshery/meshery/releases/tag/v0.8.49), 2 days ago) - Meshery, the cloud native manager
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.37.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.37.0-next.2), 4 days ago) - Backstage is an open framework for building developer portals
+  - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.4](https://github.com/HunterPie/localization/releases/tag/v1.1.4), 2 days ago) - Localization repository for HunterPie&#39;s client
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.49](https://github.com/meshery/meshery/releases/tag/v0.8.49), 3 days ago) - Meshery, the cloud native manager
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.37.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.37.0-next.2), 5 days ago) - Backstage is an open framework for building developer portals
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.67.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.67.0), 1 week ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.19](https://github.com/etcd-io/etcd/releases/tag/v3.5.19), 1 week ago) - Distributed reliable key-value store for the most critical data of a distributed system
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.6](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.6), 2 weeks ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
@@ -54,20 +54,20 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [[release-2.26] Remove: tox testing from pre-commit](https://github.com/kubernetes-sigs/kubespray/pull/12029) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 days ago)
+  - [[release-2.26] Remove: tox testing from pre-commit](https://github.com/kubernetes-sigs/kubespray/pull/12029) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 days ago)
   - [Fix OCF venue url link](https://github.com/sitcon-tw/2025/pull/93) on [sitcon-tw/2025](https://github.com/sitcon-tw/2025) (1 week ago)
   - [Fix: CRI-O default capabilities follow with the upstream](https://github.com/kubernetes-sigs/kubespray/pull/12018) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Update install description in README.md](https://github.com/kubernetes-sigs/cloud-provider-kind/pull/209) on [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) (1 month ago)
   - [cloud-provider-kind 0.5.0 (new formula)](https://github.com/Homebrew/homebrew-core/pull/206262) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (1 month ago)
   - [[WIP] Bump Ansible to 10.7.0 &amp; Deprecate RHEL8-based tests](https://github.com/kubernetes-sigs/kubespray/pull/11924) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Conformance results for v1.31/kubespray](https://github.com/cncf/k8s-conformance/pull/3584) on [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) (1 month ago)
-  - [Cleanup OWNERS files in each folders](https://github.com/kubernetes-sigs/kubespray/pull/11892) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
+  - [Cleanup OWNERS files in each folders](https://github.com/kubernetes-sigs/kubespray/pull/11892) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 months ago)
   - [Add `manual` option to the `external_cloud_provider` variable](https://github.com/kubernetes-sigs/kubespray/pull/11883) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 months ago)
   - [Add Flatcar 4081 CI test](https://github.com/kubernetes-sigs/kubespray/pull/11868) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 months ago)
 
   #### ⭐ Recent Stars
   
-  - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript (3 days ago)
+  - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript (4 days ago)
   - [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - A tool to beautify your code screenshots. Built with SolidJS and Fastify. (1 month ago)
   - [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) - Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF (4 months ago)
   - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (4 months ago)
