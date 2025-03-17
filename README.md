@@ -41,6 +41,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [metal3-io/baremetal-operator](https://github.com/metal3-io/baremetal-operator) ([v0.8.1](https://github.com/metal3-io/baremetal-operator/releases/tag/v0.8.1), today) - Bare metal host provisioning integration for Kubernetes
   - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.5](https://github.com/HunterPie/localization/releases/tag/v1.1.5), 1 day ago) - Localization repository for HunterPie&#39;s client
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.49](https://github.com/meshery/meshery/releases/tag/v0.8.49), 4 days ago) - Meshery, the cloud native manager
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.37.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.37.0-next.2), 6 days ago) - Backstage is an open framework for building developer portals
@@ -50,7 +51,6 @@
   - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) ([v1.3.3](https://github.com/kubearmor/kubearmor-client/releases/tag/v1.3.3), 2 weeks ago) - KubeArmor cli tool aka kArmor :robot:
   - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.9.4](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.9.4), 3 weeks ago) - IP address Manager for Cluster API Provider Metal3
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.6.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.6.0), 3 weeks ago) - Cloud provider for KIND clusters
-  - [kubeflow/trainer](https://github.com/kubeflow/trainer) ([v1.9.0](https://github.com/kubeflow/trainer/releases/tag/v1.9.0), 1 month ago) - Distributed ML Training and Fine-Tuning on Kubernetes
 
   #### 🔨 My recent Pull Requests
   
