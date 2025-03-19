@@ -6,8 +6,16 @@
 
 - 🧑‍💻 IT/SRE @ Hualien, Taiwan
 - 🐳 Kubernetes, Container, Golang
-- 🤝 CNCF Ambassador (H1 2024) | Kubestronaut | CNTUG Co-Organizer | KCD Taipei 2024 Co-organizer | KCD Taipei 2025 Lead Organizer
-- 💻 Code Reviewer @ Kubespray | v1.32 Release Signal Team Shadow @ Kubernetes
+- 🤝 Community Outreach
+  - [Kubestronaut](https://www.cncf.io/training/kubestronaut/?p=chenghao-yang)
+  - [CNCF Ambassador](https://www.cncf.io/people/ambassadors/?p=chenghao-yang) (H1 2024)
+  - [Cloud Native Taiwan User Group](https://cloudnative.tw) Co-Organizer
+  - [KCD Taipei 2024](https://kcd.taipei/2024) Co-organizer
+  - [KCD Taipei 2025](https://kcd.taipei/2025) Lead Organizer
+- 💻 Open Source Maintenance
+  - Code Reviewer @ [Kubespray](https://kubespray.io/)
+  - Release Signal Shadow @ [Kubernetes](https://kubernetes.io) v1.32
+  - Release Signal Shadow @ [Kubernetes](https://kubernetes.io) v1.33
 - ❤️ Kagamine Rin
 
 <details>
@@ -15,7 +23,7 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [cloud-native-taiwan/i.kcd.taipei](https://github.com/cloud-native-taiwan/i.kcd.taipei) -  (1 week ago)
+  - [cloud-native-taiwan/i.kcd.taipei](https://github.com/cloud-native-taiwan/i.kcd.taipei) - Shorten URL for KCD Taipei (1 week ago)
   - [tico88612/kind-workshop](https://github.com/tico88612/kind-workshop) -  (1 week ago)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (1 week ago)
   - [sitcon-tw/2025](https://github.com/sitcon-tw/2025) -  (1 week ago)
