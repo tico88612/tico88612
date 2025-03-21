@@ -49,9 +49,9 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.51](https://github.com/meshery/meshery/releases/tag/v0.8.51), today) - Meshery, the cloud native manager
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.37.0](https://github.com/backstage/backstage/releases/tag/v1.37.0), 3 days ago) - Backstage is an open framework for building developer portals
   - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) ([v1.3.4](https://github.com/kubearmor/kubearmor-client/releases/tag/v1.3.4), 3 days ago) - KubeArmor cli tool aka kArmor :robot:
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.50](https://github.com/meshery/meshery/releases/tag/v0.8.50), 4 days ago) - Meshery, the cloud native manager
   - [metal3-io/baremetal-operator](https://github.com/metal3-io/baremetal-operator) ([v0.8.1](https://github.com/metal3-io/baremetal-operator/releases/tag/v0.8.1), 4 days ago) - Bare metal host provisioning integration for Kubernetes
   - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.5](https://github.com/HunterPie/localization/releases/tag/v1.1.5), 5 days ago) - Localization repository for HunterPie&#39;s client
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.67.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.67.0), 1 week ago) - CNCF Jaeger, a Distributed Tracing Platform
