@@ -54,11 +54,11 @@
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.51](https://github.com/meshery/meshery/releases/tag/v0.8.51), 3 days ago) - Meshery, the cloud native manager
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.37.0](https://github.com/backstage/backstage/releases/tag/v1.37.0), 6 days ago) - Backstage is an open framework for building developer portals
   - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) ([v1.3.4](https://github.com/kubearmor/kubearmor-client/releases/tag/v1.3.4), 6 days ago) - KubeArmor cli tool aka kArmor :robot:
-  - [metal3-io/baremetal-operator](https://github.com/metal3-io/baremetal-operator) ([v0.8.1](https://github.com/metal3-io/baremetal-operator/releases/tag/v0.8.1), 1 week ago) - Bare metal host provisioning integration for Kubernetes
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.67.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.67.0), 2 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.6](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.6), 3 weeks ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
   - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.9.4](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.9.4), 1 month ago) - IP address Manager for Cluster API Provider Metal3
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.6.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.6.0), 1 month ago) - Cloud provider for KIND clusters
+  - [kubeflow/trainer](https://github.com/kubeflow/trainer) ([v1.9.0](https://github.com/kubeflow/trainer/releases/tag/v1.9.0), 1 month ago) - Distributed ML Training and Fine-Tuning on Kubernetes
 
   #### 🔨 My recent Pull Requests
   
