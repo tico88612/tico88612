@@ -49,10 +49,10 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.7](https://github.com/HunterPie/localization/releases/tag/v1.1.7), today) - Localization repository for HunterPie&#39;s client
   - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.30.3](https://github.com/projectcontour/contour/releases/tag/v1.30.3), 1 day ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
   - [backstage/backstage](https://github.com/backstage/backstage) ([v1.38.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.38.0-next.0), 1 day ago) - Backstage is an open framework for building developer portals
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.52](https://github.com/meshery/meshery/releases/tag/v0.8.52), 1 day ago) - Meshery, the cloud native manager
-  - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.6](https://github.com/HunterPie/localization/releases/tag/v1.1.6), 3 days ago) - Localization repository for HunterPie&#39;s client
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.20](https://github.com/etcd-io/etcd/releases/tag/v3.5.20), 5 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
   - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) ([v1.3.4](https://github.com/kubearmor/kubearmor-client/releases/tag/v1.3.4), 1 week ago) - KubeArmor cli tool aka kArmor :robot:
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.67.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.67.0), 2 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
