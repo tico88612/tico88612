@@ -23,8 +23,8 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (today)
-  - [cloud-native-taiwan/i.kcd.taipei](https://github.com/cloud-native-taiwan/i.kcd.taipei) - Shorten URL for KCD Taipei (1 week ago)
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (1 day ago)
+  - [cloud-native-taiwan/i.kcd.taipei](https://github.com/cloud-native-taiwan/i.kcd.taipei) - Shorten URL for KCD Taipei (2 weeks ago)
   - [tico88612/kind-workshop](https://github.com/tico88612/kind-workshop) -  (2 weeks ago)
   - [sitcon-tw/2025](https://github.com/sitcon-tw/2025) -  (2 weeks ago)
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) - Cloud provider for KIND clusters (1 month ago)
@@ -49,11 +49,11 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.30.3](https://github.com/projectcontour/contour/releases/tag/v1.30.3), today) - Contour is a Kubernetes ingress controller using Envoy proxy.
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.38.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.38.0-next.0), today) - Backstage is an open framework for building developer portals
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.52](https://github.com/meshery/meshery/releases/tag/v0.8.52), today) - Meshery, the cloud native manager
-  - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.6](https://github.com/HunterPie/localization/releases/tag/v1.1.6), 2 days ago) - Localization repository for HunterPie&#39;s client
-  - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.20](https://github.com/etcd-io/etcd/releases/tag/v3.5.20), 4 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
+  - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.30.3](https://github.com/projectcontour/contour/releases/tag/v1.30.3), 1 day ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.38.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.38.0-next.0), 1 day ago) - Backstage is an open framework for building developer portals
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.52](https://github.com/meshery/meshery/releases/tag/v0.8.52), 1 day ago) - Meshery, the cloud native manager
+  - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.6](https://github.com/HunterPie/localization/releases/tag/v1.1.6), 3 days ago) - Localization repository for HunterPie&#39;s client
+  - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.20](https://github.com/etcd-io/etcd/releases/tag/v3.5.20), 5 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
   - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) ([v1.3.4](https://github.com/kubearmor/kubearmor-client/releases/tag/v1.3.4), 1 week ago) - KubeArmor cli tool aka kArmor :robot:
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.67.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.67.0), 2 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.6](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.6), 3 weeks ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
@@ -62,11 +62,11 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [[release-2.27] [calico] Fix v3.29.2 crds archive checksum](https://github.com/kubernetes-sigs/kubespray/pull/12082) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
-  - [[release-2.26] Bump ingress-nginx to 1.11.5 and certgen to 1.5.2](https://github.com/kubernetes-sigs/kubespray/pull/12081) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
-  - [[release-2.27] Bump ingress-nginx to 1.12.1 and certgen to 1.5.2](https://github.com/kubernetes-sigs/kubespray/pull/12080) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
-  - [Bump Docker default version to 28.0](https://github.com/kubernetes-sigs/kubespray/pull/12070) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 days ago)
-  - [[release-2.26] Remove: tox testing from pre-commit](https://github.com/kubernetes-sigs/kubespray/pull/12029) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
+  - [[release-2.27] [calico] Fix v3.29.2 crds archive checksum](https://github.com/kubernetes-sigs/kubespray/pull/12082) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 day ago)
+  - [[release-2.26] Bump ingress-nginx to 1.11.5 and certgen to 1.5.2](https://github.com/kubernetes-sigs/kubespray/pull/12081) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 day ago)
+  - [[release-2.27] Bump ingress-nginx to 1.12.1 and certgen to 1.5.2](https://github.com/kubernetes-sigs/kubespray/pull/12080) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 day ago)
+  - [Bump Docker default version to 28.0](https://github.com/kubernetes-sigs/kubespray/pull/12070) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 days ago)
+  - [[release-2.26] Remove: tox testing from pre-commit](https://github.com/kubernetes-sigs/kubespray/pull/12029) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [Fix OCF venue url link](https://github.com/sitcon-tw/2025/pull/93) on [sitcon-tw/2025](https://github.com/sitcon-tw/2025) (2 weeks ago)
   - [Fix: CRI-O default capabilities follow with the upstream](https://github.com/kubernetes-sigs/kubespray/pull/12018) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
   - [Update install description in README.md](https://github.com/kubernetes-sigs/cloud-provider-kind/pull/209) on [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) (1 month ago)
@@ -75,7 +75,7 @@
 
   #### ⭐ Recent Stars
   
-  - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript (1 week ago)
+  - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript (2 weeks ago)
   - [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - A tool to beautify your code screenshots. Built with SolidJS and Fastify. (1 month ago)
   - [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) - Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF (4 months ago)
   - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (4 months ago)
