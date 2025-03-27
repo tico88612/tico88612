@@ -23,10 +23,10 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (1 day ago)
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (2 days ago)
   - [cloud-native-taiwan/i.kcd.taipei](https://github.com/cloud-native-taiwan/i.kcd.taipei) - Shorten URL for KCD Taipei (2 weeks ago)
   - [tico88612/kind-workshop](https://github.com/tico88612/kind-workshop) -  (2 weeks ago)
-  - [sitcon-tw/2025](https://github.com/sitcon-tw/2025) -  (2 weeks ago)
+  - [sitcon-tw/2025](https://github.com/sitcon-tw/2025) -  (3 weeks ago)
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) - Cloud provider for KIND clusters (1 month ago)
   - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (1 month ago)
   - [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group (1 month ago)
@@ -49,29 +49,29 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.7](https://github.com/HunterPie/localization/releases/tag/v1.1.7), today) - Localization repository for HunterPie&#39;s client
-  - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.30.3](https://github.com/projectcontour/contour/releases/tag/v1.30.3), 1 day ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
-  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.38.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.38.0-next.0), 1 day ago) - Backstage is an open framework for building developer portals
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.52](https://github.com/meshery/meshery/releases/tag/v0.8.52), 1 day ago) - Meshery, the cloud native manager
-  - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.20](https://github.com/etcd-io/etcd/releases/tag/v3.5.20), 5 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
+  - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.7](https://github.com/HunterPie/localization/releases/tag/v1.1.7), 1 day ago) - Localization repository for HunterPie&#39;s client
+  - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.30.3](https://github.com/projectcontour/contour/releases/tag/v1.30.3), 2 days ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
+  - [backstage/backstage](https://github.com/backstage/backstage) ([v1.38.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.38.0-next.0), 2 days ago) - Backstage is an open framework for building developer portals
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.52](https://github.com/meshery/meshery/releases/tag/v0.8.52), 2 days ago) - Meshery, the cloud native manager
+  - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.20](https://github.com/etcd-io/etcd/releases/tag/v3.5.20), 6 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
   - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) ([v1.3.4](https://github.com/kubearmor/kubearmor-client/releases/tag/v1.3.4), 1 week ago) - KubeArmor cli tool aka kArmor :robot:
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.67.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.67.0), 2 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
-  - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.6](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.6), 3 weeks ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
+  - [metal3-io/cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3) ([v1.8.6](https://github.com/metal3-io/cluster-api-provider-metal3/releases/tag/v1.8.6), 4 weeks ago) - Metal³ integration with https://github.com/kubernetes-sigs/cluster-api
   - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.9.4](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.9.4), 1 month ago) - IP address Manager for Cluster API Provider Metal3
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.6.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.6.0), 1 month ago) - Cloud provider for KIND clusters
 
   #### 🔨 My recent Pull Requests
   
-  - [[release-2.27] [calico] Fix v3.29.2 crds archive checksum](https://github.com/kubernetes-sigs/kubespray/pull/12082) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 day ago)
-  - [[release-2.26] Bump ingress-nginx to 1.11.5 and certgen to 1.5.2](https://github.com/kubernetes-sigs/kubespray/pull/12081) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 day ago)
-  - [[release-2.27] Bump ingress-nginx to 1.12.1 and certgen to 1.5.2](https://github.com/kubernetes-sigs/kubespray/pull/12080) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 day ago)
-  - [Bump Docker default version to 28.0](https://github.com/kubernetes-sigs/kubespray/pull/12070) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 days ago)
+  - [[release-2.27] [calico] Fix v3.29.2 crds archive checksum](https://github.com/kubernetes-sigs/kubespray/pull/12082) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 days ago)
+  - [[release-2.26] Bump ingress-nginx to 1.11.5 and certgen to 1.5.2](https://github.com/kubernetes-sigs/kubespray/pull/12081) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 days ago)
+  - [[release-2.27] Bump ingress-nginx to 1.12.1 and certgen to 1.5.2](https://github.com/kubernetes-sigs/kubespray/pull/12080) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 days ago)
+  - [Bump Docker default version to 28.0](https://github.com/kubernetes-sigs/kubespray/pull/12070) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (5 days ago)
   - [[release-2.26] Remove: tox testing from pre-commit](https://github.com/kubernetes-sigs/kubespray/pull/12029) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
-  - [Fix OCF venue url link](https://github.com/sitcon-tw/2025/pull/93) on [sitcon-tw/2025](https://github.com/sitcon-tw/2025) (2 weeks ago)
+  - [Fix OCF venue url link](https://github.com/sitcon-tw/2025/pull/93) on [sitcon-tw/2025](https://github.com/sitcon-tw/2025) (3 weeks ago)
   - [Fix: CRI-O default capabilities follow with the upstream](https://github.com/kubernetes-sigs/kubespray/pull/12018) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
   - [Update install description in README.md](https://github.com/kubernetes-sigs/cloud-provider-kind/pull/209) on [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) (1 month ago)
   - [cloud-provider-kind 0.5.0 (new formula)](https://github.com/Homebrew/homebrew-core/pull/206262) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (1 month ago)
-  - [[WIP] Bump Ansible to 10.7.0 &amp; Deprecate RHEL8-based tests](https://github.com/kubernetes-sigs/kubespray/pull/11924) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
+  - [[WIP] Bump Ansible to 10.7.0 &amp; Deprecate RHEL8-based tests](https://github.com/kubernetes-sigs/kubespray/pull/11924) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 months ago)
 
   #### ⭐ Recent Stars
   
