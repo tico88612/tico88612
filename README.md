@@ -30,8 +30,8 @@
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) - Cloud provider for KIND clusters (1 month ago)
   - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (1 month ago)
   - [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group (1 month ago)
-  - [scist-tw/wc_scoreboard](https://github.com/scist-tw/wc_scoreboard) -  (2 months ago)
   - [cloud-native-taiwan/kcd-taipei-2025](https://github.com/cloud-native-taiwan/kcd-taipei-2025) -  (2 months ago)
+  - [scist-tw/wc_scoreboard](https://github.com/scist-tw/wc_scoreboard) -  (2 months ago)
   - [cloud-native-taiwan/Infra-Labs-Docs](https://github.com/cloud-native-taiwan/Infra-Labs-Docs) - Documentation for Cloud Native Taiwan Infra Labs (2 months ago)
 
   #### 🌱 My latest projects
@@ -51,6 +51,7 @@
   
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.6.0-rc.3](https://github.com/etcd-io/etcd/releases/tag/v3.6.0-rc.3), 3 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.53](https://github.com/meshery/meshery/releases/tag/v0.8.53), 3 days ago) - Meshery, the cloud native manager
+  - [metal3-io/ip-address-manager](https://github.com/metal3-io/ip-address-manager) ([v1.10.0-beta.0](https://github.com/metal3-io/ip-address-manager/releases/tag/v1.10.0-beta.0), 3 days ago) - IP address Manager for Cluster API Provider Metal3
   - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.7](https://github.com/HunterPie/localization/releases/tag/v1.1.7), 4 days ago) - Localization repository for HunterPie&#39;s client
   - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.30.3](https://github.com/projectcontour/contour/releases/tag/v1.30.3), 5 days ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.67.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.67.0), 3 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
@@ -58,7 +59,6 @@
   - [kubeflow/trainer](https://github.com/kubeflow/trainer) ([v1.9.0](https://github.com/kubeflow/trainer/releases/tag/v1.9.0), 2 months ago) - Distributed ML Training and Fine-Tuning on Kubernetes
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.27.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.27.0), 2 months ago) - Deploy a Production Ready Kubernetes Cluster
   - [metallb/metallb](https://github.com/metallb/metallb) ([v0.14.9](https://github.com/metallb/metallb/releases/tag/v0.14.9), 3 months ago) - A network load-balancer implementation for Kubernetes using standard routing protocols
-  - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.32](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.32), 3 months ago) - Kubernetes website and documentation repo: 
 
   #### 🔨 My recent Pull Requests
   
