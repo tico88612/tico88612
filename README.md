@@ -49,8 +49,8 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.54](https://github.com/meshery/meshery/releases/tag/v0.8.54), today) - Meshery, the cloud native manager
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.6.0-rc.3](https://github.com/etcd-io/etcd/releases/tag/v3.6.0-rc.3), 4 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.53](https://github.com/meshery/meshery/releases/tag/v0.8.53), 4 days ago) - Meshery, the cloud native manager
   - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.7](https://github.com/HunterPie/localization/releases/tag/v1.1.7), 5 days ago) - Localization repository for HunterPie&#39;s client
   - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.30.3](https://github.com/projectcontour/contour/releases/tag/v1.30.3), 6 days ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.67.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.67.0), 3 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
