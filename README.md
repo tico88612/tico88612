@@ -62,6 +62,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Add bug issue template](https://github.com/metal3-io/metal3-dev-env/pull/1516) on [metal3-io/metal3-dev-env](https://github.com/metal3-io/metal3-dev-env) (today)
   - [Refactor Cilium CNI installation](https://github.com/kubernetes-sigs/kubespray/pull/12101) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 days ago)
   - [[release-2.27] [calico] Fix v3.29.2 crds archive checksum](https://github.com/kubernetes-sigs/kubespray/pull/12082) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [[release-2.26] Bump ingress-nginx to 1.11.5 and certgen to 1.5.2](https://github.com/kubernetes-sigs/kubespray/pull/12081) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
@@ -71,7 +72,6 @@
   - [Fix OCF venue url link](https://github.com/sitcon-tw/2025/pull/93) on [sitcon-tw/2025](https://github.com/sitcon-tw/2025) (4 weeks ago)
   - [Fix: CRI-O default capabilities follow with the upstream](https://github.com/kubernetes-sigs/kubespray/pull/12018) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Update install description in README.md](https://github.com/kubernetes-sigs/cloud-provider-kind/pull/209) on [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) (1 month ago)
-  - [cloud-provider-kind 0.5.0 (new formula)](https://github.com/Homebrew/homebrew-core/pull/206262) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (2 months ago)
 
   #### ⭐ Recent Stars
   
