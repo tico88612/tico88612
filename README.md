@@ -49,8 +49,8 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [kubeflow/trainer](https://github.com/kubeflow/trainer) ([v1.9.1](https://github.com/kubeflow/trainer/releases/tag/v1.9.1), 3 days ago) - Distributed ML Training and Fine-Tuning on Kubernetes
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.54](https://github.com/meshery/meshery/releases/tag/v0.8.54), 3 days ago) - Meshery, the cloud native manager
+  - [kubeflow/trainer](https://github.com/kubeflow/trainer) ([v1.9.1](https://github.com/kubeflow/trainer/releases/tag/v1.9.1), 4 days ago) - Distributed ML Training and Fine-Tuning on Kubernetes
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.54](https://github.com/meshery/meshery/releases/tag/v0.8.54), 4 days ago) - Meshery, the cloud native manager
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.6.0-rc.3](https://github.com/etcd-io/etcd/releases/tag/v3.6.0-rc.3), 1 week ago) - Distributed reliable key-value store for the most critical data of a distributed system
   - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.7](https://github.com/HunterPie/localization/releases/tag/v1.1.7), 1 week ago) - Localization repository for HunterPie&#39;s client
   - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.30.3](https://github.com/projectcontour/contour/releases/tag/v1.30.3), 1 week ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
@@ -62,8 +62,8 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [Add bug issue template](https://github.com/metal3-io/metal3-dev-env/pull/1516) on [metal3-io/metal3-dev-env](https://github.com/metal3-io/metal3-dev-env) (today)
-  - [Refactor Cilium CNI installation](https://github.com/kubernetes-sigs/kubespray/pull/12101) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 days ago)
+  - [Add bug issue template](https://github.com/metal3-io/metal3-dev-env/pull/1516) on [metal3-io/metal3-dev-env](https://github.com/metal3-io/metal3-dev-env) (1 day ago)
+  - [Refactor Cilium CNI installation](https://github.com/kubernetes-sigs/kubespray/pull/12101) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 days ago)
   - [[release-2.27] [calico] Fix v3.29.2 crds archive checksum](https://github.com/kubernetes-sigs/kubespray/pull/12082) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [[release-2.26] Bump ingress-nginx to 1.11.5 and certgen to 1.5.2](https://github.com/kubernetes-sigs/kubespray/pull/12081) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [[release-2.27] Bump ingress-nginx to 1.12.1 and certgen to 1.5.2](https://github.com/kubernetes-sigs/kubespray/pull/12080) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
