@@ -49,7 +49,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.8](https://github.com/HunterPie/localization/releases/tag/v1.1.8), today) - Localization repository for HunterPie&#39;s client
+  - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.9](https://github.com/HunterPie/localization/releases/tag/v1.1.9), today) - Localization repository for HunterPie&#39;s client
   - [kubeflow/trainer](https://github.com/kubeflow/trainer) ([v1.9.1](https://github.com/kubeflow/trainer/releases/tag/v1.9.1), 4 days ago) - Distributed ML Training and Fine-Tuning on Kubernetes
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.54](https://github.com/meshery/meshery/releases/tag/v0.8.54), 4 days ago) - Meshery, the cloud native manager
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.6.0-rc.3](https://github.com/etcd-io/etcd/releases/tag/v3.6.0-rc.3), 1 week ago) - Distributed reliable key-value store for the most critical data of a distributed system
