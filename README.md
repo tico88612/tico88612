@@ -49,12 +49,12 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.68.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.68.0), today) - CNCF Jaeger, a Distributed Tracing Platform
   - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.9](https://github.com/HunterPie/localization/releases/tag/v1.1.9), 1 day ago) - Localization repository for HunterPie&#39;s client
   - [kubeflow/trainer](https://github.com/kubeflow/trainer) ([v1.9.1](https://github.com/kubeflow/trainer/releases/tag/v1.9.1), 5 days ago) - Distributed ML Training and Fine-Tuning on Kubernetes
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.54](https://github.com/meshery/meshery/releases/tag/v0.8.54), 5 days ago) - Meshery, the cloud native manager
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.6.0-rc.3](https://github.com/etcd-io/etcd/releases/tag/v3.6.0-rc.3), 1 week ago) - Distributed reliable key-value store for the most critical data of a distributed system
   - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.30.3](https://github.com/projectcontour/contour/releases/tag/v1.30.3), 1 week ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
-  - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.67.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.67.0), 4 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.6.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.6.0), 1 month ago) - Cloud provider for KIND clusters
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.27.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.27.0), 2 months ago) - Deploy a Production Ready Kubernetes Cluster
   - [metallb/metallb](https://github.com/metallb/metallb) ([v0.14.9](https://github.com/metallb/metallb/releases/tag/v0.14.9), 3 months ago) - A network load-balancer implementation for Kubernetes using standard routing protocols
