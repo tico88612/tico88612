@@ -25,13 +25,13 @@
   
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (1 week ago)
   - [cloud-native-taiwan/i.kcd.taipei](https://github.com/cloud-native-taiwan/i.kcd.taipei) - Shorten URL for KCD Taipei (3 weeks ago)
-  - [tico88612/kind-workshop](https://github.com/tico88612/kind-workshop) -  (3 weeks ago)
-  - [sitcon-tw/2025](https://github.com/sitcon-tw/2025) -  (4 weeks ago)
+  - [tico88612/kind-workshop](https://github.com/tico88612/kind-workshop) -  (4 weeks ago)
+  - [sitcon-tw/2025](https://github.com/sitcon-tw/2025) -  (1 month ago)
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) - Cloud provider for KIND clusters (1 month ago)
   - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (2 months ago)
   - [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group (2 months ago)
-  - [scist-tw/wc_scoreboard](https://github.com/scist-tw/wc_scoreboard) -  (2 months ago)
-  - [cloud-native-taiwan/kcd-taipei-2025](https://github.com/cloud-native-taiwan/kcd-taipei-2025) -  (2 months ago)
+  - [scist-tw/wc_scoreboard](https://github.com/scist-tw/wc_scoreboard) -  (3 months ago)
+  - [cloud-native-taiwan/kcd-taipei-2025](https://github.com/cloud-native-taiwan/kcd-taipei-2025) -  (3 months ago)
   - [cloud-native-taiwan/Infra-Labs-Docs](https://github.com/cloud-native-taiwan/Infra-Labs-Docs) - Documentation for Cloud Native Taiwan Infra Labs (3 months ago)
 
   #### 🌱 My latest projects
@@ -49,12 +49,12 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.9](https://github.com/HunterPie/localization/releases/tag/v1.1.9), today) - Localization repository for HunterPie&#39;s client
-  - [kubeflow/trainer](https://github.com/kubeflow/trainer) ([v1.9.1](https://github.com/kubeflow/trainer/releases/tag/v1.9.1), 4 days ago) - Distributed ML Training and Fine-Tuning on Kubernetes
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.54](https://github.com/meshery/meshery/releases/tag/v0.8.54), 4 days ago) - Meshery, the cloud native manager
+  - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.9](https://github.com/HunterPie/localization/releases/tag/v1.1.9), 1 day ago) - Localization repository for HunterPie&#39;s client
+  - [kubeflow/trainer](https://github.com/kubeflow/trainer) ([v1.9.1](https://github.com/kubeflow/trainer/releases/tag/v1.9.1), 5 days ago) - Distributed ML Training and Fine-Tuning on Kubernetes
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.54](https://github.com/meshery/meshery/releases/tag/v0.8.54), 5 days ago) - Meshery, the cloud native manager
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.6.0-rc.3](https://github.com/etcd-io/etcd/releases/tag/v3.6.0-rc.3), 1 week ago) - Distributed reliable key-value store for the most critical data of a distributed system
   - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.30.3](https://github.com/projectcontour/contour/releases/tag/v1.30.3), 1 week ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
-  - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.67.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.67.0), 3 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
+  - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.67.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.67.0), 4 weeks ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.6.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.6.0), 1 month ago) - Cloud provider for KIND clusters
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.27.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.27.0), 2 months ago) - Deploy a Production Ready Kubernetes Cluster
   - [metallb/metallb](https://github.com/metallb/metallb) ([v0.14.9](https://github.com/metallb/metallb/releases/tag/v0.14.9), 3 months ago) - A network load-balancer implementation for Kubernetes using standard routing protocols
@@ -62,14 +62,14 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [Add bug issue template](https://github.com/metal3-io/metal3-dev-env/pull/1516) on [metal3-io/metal3-dev-env](https://github.com/metal3-io/metal3-dev-env) (1 day ago)
-  - [Refactor Cilium CNI installation](https://github.com/kubernetes-sigs/kubespray/pull/12101) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 days ago)
+  - [Add bug issue template](https://github.com/metal3-io/metal3-dev-env/pull/1516) on [metal3-io/metal3-dev-env](https://github.com/metal3-io/metal3-dev-env) (2 days ago)
+  - [Refactor Cilium CNI installation](https://github.com/kubernetes-sigs/kubespray/pull/12101) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 days ago)
   - [[release-2.27] [calico] Fix v3.29.2 crds archive checksum](https://github.com/kubernetes-sigs/kubespray/pull/12082) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [[release-2.26] Bump ingress-nginx to 1.11.5 and certgen to 1.5.2](https://github.com/kubernetes-sigs/kubespray/pull/12081) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [[release-2.27] Bump ingress-nginx to 1.12.1 and certgen to 1.5.2](https://github.com/kubernetes-sigs/kubespray/pull/12080) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
-  - [Bump Docker default version to 28.0](https://github.com/kubernetes-sigs/kubespray/pull/12070) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
+  - [Bump Docker default version to 28.0](https://github.com/kubernetes-sigs/kubespray/pull/12070) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [[release-2.26] Remove: tox testing from pre-commit](https://github.com/kubernetes-sigs/kubespray/pull/12029) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
-  - [Fix OCF venue url link](https://github.com/sitcon-tw/2025/pull/93) on [sitcon-tw/2025](https://github.com/sitcon-tw/2025) (4 weeks ago)
+  - [Fix OCF venue url link](https://github.com/sitcon-tw/2025/pull/93) on [sitcon-tw/2025](https://github.com/sitcon-tw/2025) (1 month ago)
   - [Fix: CRI-O default capabilities follow with the upstream](https://github.com/kubernetes-sigs/kubespray/pull/12018) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Update install description in README.md](https://github.com/kubernetes-sigs/cloud-provider-kind/pull/209) on [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) (1 month ago)
 
@@ -83,7 +83,7 @@
   - [ljcucc/mobai-alei](https://github.com/ljcucc/mobai-alei) - 膜拜阿雷的信眾有福了！現在到 mobai-alei.ljcu.cc 就可以產生膜拜貼圖！ (7 months ago)
   - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity (8 months ago)
   - [nalexn/clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui) - SwiftUI sample app using Clean Architecture. Examples of working with SwiftData persistence, networking, dependency injection, unit testing, and more. (8 months ago)
-  - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform / OpenTofu Provider for Proxmox VE (8 months ago)
+  - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform / OpenTofu Provider for Proxmox VE (9 months ago)
   - [kubernetes/enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes (11 months ago)
 
   #### 👯 Check out some of my recent followers
