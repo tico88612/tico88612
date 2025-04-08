@@ -49,7 +49,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.55](https://github.com/meshery/meshery/releases/tag/v0.8.55), 1 day ago) - Meshery, the cloud native manager
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.56](https://github.com/meshery/meshery/releases/tag/v0.8.56), today) - Meshery, the cloud native manager
   - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ([v1.68.0](https://github.com/jaegertracing/jaeger/releases/tag/v1.68.0), 3 days ago) - CNCF Jaeger, a Distributed Tracing Platform
   - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.9](https://github.com/HunterPie/localization/releases/tag/v1.1.9), 4 days ago) - Localization repository for HunterPie&#39;s client
   - [kubeflow/trainer](https://github.com/kubeflow/trainer) ([v1.9.1](https://github.com/kubeflow/trainer/releases/tag/v1.9.1), 1 week ago) - Distributed ML Training and Fine-Tuning on Kubernetes
