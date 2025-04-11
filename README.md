@@ -62,6 +62,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Refactor MetalLB Installation](https://github.com/kubernetes-sigs/kubespray/pull/12126) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [Bump: OpenStack Cloud Controller Manager upgrade to v1.32.0](https://github.com/kubernetes-sigs/kubespray/pull/12121) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 days ago)
   - [Update envoy to v1.33.2](https://github.com/kubernetes-sigs/cloud-provider-kind/pull/226) on [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) (2 days ago)
   - [[rbd-provisioner] deprecate outdated application and documentation](https://github.com/kubernetes-sigs/kubespray/pull/12114) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 days ago)
@@ -71,7 +72,6 @@
   - [[release-2.27] [calico] Fix v3.29.2 crds archive checksum](https://github.com/kubernetes-sigs/kubespray/pull/12082) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [[release-2.26] Bump ingress-nginx to 1.11.5 and certgen to 1.5.2](https://github.com/kubernetes-sigs/kubespray/pull/12081) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [[release-2.27] Bump ingress-nginx to 1.12.1 and certgen to 1.5.2](https://github.com/kubernetes-sigs/kubespray/pull/12080) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
-  - [Bump Docker default version to 28.0](https://github.com/kubernetes-sigs/kubespray/pull/12070) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
 
   #### ⭐ Recent Stars
   
