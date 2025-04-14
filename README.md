@@ -23,8 +23,8 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (2 days ago)
-  - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) - Cloud provider for KIND clusters (4 days ago)
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (3 days ago)
+  - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) - Cloud provider for KIND clusters (5 days ago)
   - [cloud-native-taiwan/i.kcd.taipei](https://github.com/cloud-native-taiwan/i.kcd.taipei) - Shorten URL for KCD Taipei (1 month ago)
   - [tico88612/kind-workshop](https://github.com/tico88612/kind-workshop) -  (1 month ago)
   - [sitcon-tw/2025](https://github.com/sitcon-tw/2025) -  (1 month ago)
@@ -49,9 +49,9 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.57](https://github.com/meshery/meshery/releases/tag/v0.8.57), 2 days ago) - Meshery, the cloud native manager
-  - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.10](https://github.com/HunterPie/localization/releases/tag/v1.1.10), 4 days ago) - Localization repository for HunterPie&#39;s client
-  - [kubeflow/trainer](https://github.com/kubeflow/trainer) ([v1.9.1](https://github.com/kubeflow/trainer/releases/tag/v1.9.1), 1 week ago) - Distributed ML Training and Fine-Tuning on Kubernetes
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.57](https://github.com/meshery/meshery/releases/tag/v0.8.57), 3 days ago) - Meshery, the cloud native manager
+  - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.10](https://github.com/HunterPie/localization/releases/tag/v1.1.10), 5 days ago) - Localization repository for HunterPie&#39;s client
+  - [kubeflow/trainer](https://github.com/kubeflow/trainer) ([v1.9.1](https://github.com/kubeflow/trainer/releases/tag/v1.9.1), 2 weeks ago) - Distributed ML Training and Fine-Tuning on Kubernetes
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.6.0-rc.3](https://github.com/etcd-io/etcd/releases/tag/v3.6.0-rc.3), 2 weeks ago) - Distributed reliable key-value store for the most critical data of a distributed system
   - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.30.3](https://github.com/projectcontour/contour/releases/tag/v1.30.3), 2 weeks ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.6.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.6.0), 1 month ago) - Cloud provider for KIND clusters
@@ -62,11 +62,11 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [Refactor MetalLB Installation](https://github.com/kubernetes-sigs/kubespray/pull/12126) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 days ago)
-  - [Bump: OpenStack Cloud Controller Manager upgrade to v1.32.0](https://github.com/kubernetes-sigs/kubespray/pull/12121) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 days ago)
-  - [Update envoy to v1.33.2](https://github.com/kubernetes-sigs/cloud-provider-kind/pull/226) on [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) (4 days ago)
-  - [[rbd-provisioner] deprecate outdated application and documentation](https://github.com/kubernetes-sigs/kubespray/pull/12114) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (6 days ago)
-  - [[cephfs-provisioner] deprecate outdated application and documentation](https://github.com/kubernetes-sigs/kubespray/pull/12113) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (6 days ago)
+  - [Refactor MetalLB Installation](https://github.com/kubernetes-sigs/kubespray/pull/12126) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 days ago)
+  - [Bump: OpenStack Cloud Controller Manager upgrade to v1.32.0](https://github.com/kubernetes-sigs/kubespray/pull/12121) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (5 days ago)
+  - [Update envoy to v1.33.2](https://github.com/kubernetes-sigs/cloud-provider-kind/pull/226) on [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) (5 days ago)
+  - [[rbd-provisioner] deprecate outdated application and documentation](https://github.com/kubernetes-sigs/kubespray/pull/12114) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
+  - [[cephfs-provisioner] deprecate outdated application and documentation](https://github.com/kubernetes-sigs/kubespray/pull/12113) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Add bug issue template](https://github.com/metal3-io/metal3-dev-env/pull/1516) on [metal3-io/metal3-dev-env](https://github.com/metal3-io/metal3-dev-env) (1 week ago)
   - [Refactor Cilium CNI installation](https://github.com/kubernetes-sigs/kubespray/pull/12101) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [[release-2.27] [calico] Fix v3.29.2 crds archive checksum](https://github.com/kubernetes-sigs/kubespray/pull/12082) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
