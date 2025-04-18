@@ -53,7 +53,6 @@
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.37](https://github.com/etcd-io/etcd/releases/tag/v3.4.37), 3 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.57](https://github.com/meshery/meshery/releases/tag/v0.8.57), 1 week ago) - Meshery, the cloud native manager
   - [kubeflow/trainer](https://github.com/kubeflow/trainer) ([v1.9.1](https://github.com/kubeflow/trainer/releases/tag/v1.9.1), 2 weeks ago) - Distributed ML Training and Fine-Tuning on Kubernetes
-  - [projectcontour/contour](https://github.com/projectcontour/contour) ([v1.30.3](https://github.com/projectcontour/contour/releases/tag/v1.30.3), 3 weeks ago) - Contour is a Kubernetes ingress controller using Envoy proxy.
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.6.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.6.0), 1 month ago) - Cloud provider for KIND clusters
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.27.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.27.0), 3 months ago) - Deploy a Production Ready Kubernetes Cluster
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.32](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.32), 4 months ago) - Kubernetes website and documentation repo: 
