@@ -49,9 +49,9 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.58](https://github.com/meshery/meshery/releases/tag/v0.8.58), today) - Meshery, the cloud native manager
-  - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.11](https://github.com/HunterPie/localization/releases/tag/v1.1.11), 2 days ago) - Localization repository for HunterPie&#39;s client
-  - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.37](https://github.com/etcd-io/etcd/releases/tag/v3.4.37), 3 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.58](https://github.com/meshery/meshery/releases/tag/v0.8.58), 1 day ago) - Meshery, the cloud native manager
+  - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.11](https://github.com/HunterPie/localization/releases/tag/v1.1.11), 3 days ago) - Localization repository for HunterPie&#39;s client
+  - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.37](https://github.com/etcd-io/etcd/releases/tag/v3.4.37), 4 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
   - [kubeflow/trainer](https://github.com/kubeflow/trainer) ([v1.9.1](https://github.com/kubeflow/trainer/releases/tag/v1.9.1), 2 weeks ago) - Distributed ML Training and Fine-Tuning on Kubernetes
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.6.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.6.0), 1 month ago) - Cloud provider for KIND clusters
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.27.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.27.0), 3 months ago) - Deploy a Production Ready Kubernetes Cluster
@@ -61,7 +61,7 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [Fix: kubeadm secondary use file discovery validation](https://github.com/kubernetes-sigs/kubespray/pull/12132) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
+  - [Fix: kubeadm secondary use file discovery validation](https://github.com/kubernetes-sigs/kubespray/pull/12132) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 day ago)
   - [Refactor MetalLB Installation](https://github.com/kubernetes-sigs/kubespray/pull/12126) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Bump: OpenStack Cloud Controller Manager upgrade to v1.32.0](https://github.com/kubernetes-sigs/kubespray/pull/12121) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Update envoy to v1.33.2](https://github.com/kubernetes-sigs/cloud-provider-kind/pull/226) on [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) (1 week ago)
@@ -74,13 +74,13 @@
 
   #### ⭐ Recent Stars
   
-  - [srl-labs/containerlab](https://github.com/srl-labs/containerlab) - container-based networking labs (3 days ago)
+  - [srl-labs/containerlab](https://github.com/srl-labs/containerlab) - container-based networking labs (4 days ago)
   - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript (1 month ago)
   - [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - A tool to beautify your code screenshots. Built with SolidJS and Fastify. (2 months ago)
   - [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) - Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF (5 months ago)
   - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (5 months ago)
-  - [knabben/stalker](https://github.com/knabben/stalker) - Stalk and Hunt Flake Testgrid Jobs  (5 months ago)
-  - [ljcucc/mobai-alei](https://github.com/ljcucc/mobai-alei) - 膜拜阿雷的信眾有福了！現在到 mobai-alei.ljcu.cc 就可以產生膜拜貼圖！ (7 months ago)
+  - [knabben/stalker](https://github.com/knabben/stalker) - Stalk and Hunt Flake Testgrid Jobs  (6 months ago)
+  - [ljcucc/mobai-alei](https://github.com/ljcucc/mobai-alei) - 膜拜阿雷的信眾有福了！現在到 mobai-alei.ljcu.cc 就可以產生膜拜貼圖！ (8 months ago)
   - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity (9 months ago)
   - [nalexn/clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui) - SwiftUI sample app using Clean Architecture. Examples of working with SwiftData persistence, networking, dependency injection, unit testing, and more. (9 months ago)
   - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform / OpenTofu Provider for Proxmox VE (9 months ago)
