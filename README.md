@@ -56,7 +56,6 @@
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.6.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.6.0), 1 month ago) - Cloud provider for KIND clusters
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.27.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.27.0), 3 months ago) - Deploy a Production Ready Kubernetes Cluster
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.32](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.32), 4 months ago) - Kubernetes website and documentation repo: 
-  - [metallb/metallb-operator](https://github.com/metallb/metallb-operator) ([v0.14.2](https://github.com/metallb/metallb-operator/releases/tag/v0.14.2), 11 months ago) - MetalLB Operator for deploying metallb
   - [coredns/deployment](https://github.com/coredns/deployment) ([coredns-1.14.0](https://github.com/coredns/deployment/releases/tag/coredns-1.14.0), 4 years ago) - Scripts, utilities, and examples for deploying CoreDNS.
 
   #### 🔨 My recent Pull Requests
