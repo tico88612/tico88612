@@ -87,11 +87,11 @@
 
   #### 👯 Check out some of my recent followers
   
+  - [caozhuozi](https://github.com/caozhuozi)
   - [yashpawar6849](https://github.com/yashpawar6849)
   - [farshadasadpour](https://github.com/farshadasadpour)
   - [AudMonte01](https://github.com/AudMonte01)
   - [leana8959](https://github.com/leana8959)
-  - [977812671](https://github.com/977812671)
 </details>
 
 <img src="https://github-readme-stats.vercel.app/api?username=tico88612&hide_title=true&count_private=true&show_icons=true" />
