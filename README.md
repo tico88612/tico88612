@@ -49,9 +49,9 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.59](https://github.com/meshery/meshery/releases/tag/v0.8.59), today) - Meshery, the cloud native manager
-  - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.11](https://github.com/HunterPie/localization/releases/tag/v1.1.11), 5 days ago) - Localization repository for HunterPie&#39;s client
-  - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.37](https://github.com/etcd-io/etcd/releases/tag/v3.4.37), 6 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.59](https://github.com/meshery/meshery/releases/tag/v0.8.59), 1 day ago) - Meshery, the cloud native manager
+  - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.11](https://github.com/HunterPie/localization/releases/tag/v1.1.11), 6 days ago) - Localization repository for HunterPie&#39;s client
+  - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.37](https://github.com/etcd-io/etcd/releases/tag/v3.4.37), 1 week ago) - Distributed reliable key-value store for the most critical data of a distributed system
   - [kubeflow/trainer](https://github.com/kubeflow/trainer) ([v1.9.1](https://github.com/kubeflow/trainer/releases/tag/v1.9.1), 3 weeks ago) - Distributed ML Training and Fine-Tuning on Kubernetes
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.6.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.6.0), 2 months ago) - Cloud provider for KIND clusters
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.27.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.27.0), 3 months ago) - Deploy a Production Ready Kubernetes Cluster
@@ -60,20 +60,20 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [Fix: kubelet-csr-approver moves to regular application installation](https://github.com/kubernetes-sigs/kubespray/pull/12141) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 day ago)
-  - [Support Fedora 41](https://github.com/kubernetes-sigs/kubespray/pull/12138) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 days ago)
-  - [Fix: kubeadm secondary use file discovery validation](https://github.com/kubernetes-sigs/kubespray/pull/12132) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 days ago)
+  - [Fix: kubelet-csr-approver moves to regular application installation](https://github.com/kubernetes-sigs/kubespray/pull/12141) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 days ago)
+  - [Support Fedora 41](https://github.com/kubernetes-sigs/kubespray/pull/12138) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 days ago)
+  - [Fix: kubeadm secondary use file discovery validation](https://github.com/kubernetes-sigs/kubespray/pull/12132) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 days ago)
   - [Refactor MetalLB Installation](https://github.com/kubernetes-sigs/kubespray/pull/12126) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Bump: OpenStack Cloud Controller Manager upgrade to v1.32.0](https://github.com/kubernetes-sigs/kubespray/pull/12121) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Update envoy to v1.33.2](https://github.com/kubernetes-sigs/cloud-provider-kind/pull/226) on [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) (1 week ago)
   - [[rbd-provisioner] deprecate outdated application and documentation](https://github.com/kubernetes-sigs/kubespray/pull/12114) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [[cephfs-provisioner] deprecate outdated application and documentation](https://github.com/kubernetes-sigs/kubespray/pull/12113) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [Add bug issue template](https://github.com/metal3-io/metal3-dev-env/pull/1516) on [metal3-io/metal3-dev-env](https://github.com/metal3-io/metal3-dev-env) (2 weeks ago)
-  - [Refactor Cilium CNI installation](https://github.com/kubernetes-sigs/kubespray/pull/12101) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
+  - [Refactor Cilium CNI installation](https://github.com/kubernetes-sigs/kubespray/pull/12101) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
 
   #### ⭐ Recent Stars
   
-  - [srl-labs/containerlab](https://github.com/srl-labs/containerlab) - container-based networking labs (6 days ago)
+  - [srl-labs/containerlab](https://github.com/srl-labs/containerlab) - container-based networking labs (1 week ago)
   - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript (1 month ago)
   - [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - A tool to beautify your code screenshots. Built with SolidJS and Fastify. (2 months ago)
   - [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) - Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF (5 months ago)
