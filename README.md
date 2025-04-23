@@ -49,13 +49,13 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.33](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.33), today) - Kubernetes website and documentation repo: 
   - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.60](https://github.com/meshery/meshery/releases/tag/v0.8.60), 1 day ago) - Meshery, the cloud native manager
   - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.11](https://github.com/HunterPie/localization/releases/tag/v1.1.11), 1 week ago) - Localization repository for HunterPie&#39;s client
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.37](https://github.com/etcd-io/etcd/releases/tag/v3.4.37), 1 week ago) - Distributed reliable key-value store for the most critical data of a distributed system
   - [kubeflow/trainer](https://github.com/kubeflow/trainer) ([v1.9.1](https://github.com/kubeflow/trainer/releases/tag/v1.9.1), 3 weeks ago) - Distributed ML Training and Fine-Tuning on Kubernetes
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.6.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.6.0), 2 months ago) - Cloud provider for KIND clusters
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.27.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.27.0), 3 months ago) - Deploy a Production Ready Kubernetes Cluster
-  - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.32](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.32), 4 months ago) - Kubernetes website and documentation repo: 
   - [coredns/deployment](https://github.com/coredns/deployment) ([coredns-1.14.0](https://github.com/coredns/deployment/releases/tag/coredns-1.14.0), 4 years ago) - Scripts, utilities, and examples for deploying CoreDNS.
 
   #### 🔨 My recent Pull Requests
