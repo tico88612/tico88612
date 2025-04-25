@@ -49,7 +49,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.62](https://github.com/meshery/meshery/releases/tag/v0.8.62), 1 day ago) - Meshery, the cloud native manager
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.63](https://github.com/meshery/meshery/releases/tag/v0.8.63), today) - Meshery, the cloud native manager
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.33](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.33), 2 days ago) - Kubernetes website and documentation repo: 
   - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.11](https://github.com/HunterPie/localization/releases/tag/v1.1.11), 1 week ago) - Localization repository for HunterPie&#39;s client
   - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.37](https://github.com/etcd-io/etcd/releases/tag/v3.4.37), 1 week ago) - Distributed reliable key-value store for the most critical data of a distributed system
