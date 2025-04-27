@@ -49,8 +49,8 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.64](https://github.com/meshery/meshery/releases/tag/v0.8.64), today) - Meshery, the cloud native manager
-  - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.33](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.33), 3 days ago) - Kubernetes website and documentation repo: 
+  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.64](https://github.com/meshery/meshery/releases/tag/v0.8.64), 1 day ago) - Meshery, the cloud native manager
+  - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.33](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.33), 4 days ago) - Kubernetes website and documentation repo: 
   - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.11](https://github.com/HunterPie/localization/releases/tag/v1.1.11), 1 week ago) - Localization repository for HunterPie&#39;s client
   - [kubeflow/trainer](https://github.com/kubeflow/trainer) ([v1.9.1](https://github.com/kubeflow/trainer/releases/tag/v1.9.1), 3 weeks ago) - Distributed ML Training and Fine-Tuning on Kubernetes
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.6.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.6.0), 2 months ago) - Cloud provider for KIND clusters
@@ -59,9 +59,9 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [Revert &#34;Update cluster-proportional-autoscaler to v1.9.0&#34;](https://github.com/kubernetes-sigs/kubespray/pull/12168) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
-  - [[WIP] Feat: add `dns_autoscaler_affinity` and remove in-place values](https://github.com/kubernetes-sigs/kubespray/pull/12165) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
-  - [Fix: kubelet-csr-approver moves to regular application installation](https://github.com/kubernetes-sigs/kubespray/pull/12141) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (6 days ago)
+  - [Revert &#34;Update cluster-proportional-autoscaler to v1.9.0&#34;](https://github.com/kubernetes-sigs/kubespray/pull/12168) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 day ago)
+  - [[WIP] Feat: add `dns_autoscaler_affinity` and remove in-place values](https://github.com/kubernetes-sigs/kubespray/pull/12165) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 day ago)
+  - [Fix: kubelet-csr-approver moves to regular application installation](https://github.com/kubernetes-sigs/kubespray/pull/12141) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Support Fedora 41](https://github.com/kubernetes-sigs/kubespray/pull/12138) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Fix: kubeadm secondary use file discovery validation](https://github.com/kubernetes-sigs/kubespray/pull/12132) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Refactor MetalLB Installation](https://github.com/kubernetes-sigs/kubespray/pull/12126) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
@@ -72,7 +72,7 @@
 
   #### ⭐ Recent Stars
   
-  - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website &amp; Blog Theme for Hugo (2 days ago)
+  - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website &amp; Blog Theme for Hugo (3 days ago)
   - [srl-labs/containerlab](https://github.com/srl-labs/containerlab) - container-based networking labs (1 week ago)
   - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript (1 month ago)
   - [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - A tool to beautify your code screenshots. Built with SolidJS and Fastify. (2 months ago)
