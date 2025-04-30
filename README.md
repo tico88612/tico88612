@@ -49,7 +49,6 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.65](https://github.com/meshery/meshery/releases/tag/v0.8.65), 3 days ago) - Meshery, the cloud native manager
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.33](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.33), 1 week ago) - Kubernetes website and documentation repo: 
   - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.11](https://github.com/HunterPie/localization/releases/tag/v1.1.11), 2 weeks ago) - Localization repository for HunterPie&#39;s client
   - [kubeflow/trainer](https://github.com/kubeflow/trainer) ([v1.9.1](https://github.com/kubeflow/trainer/releases/tag/v1.9.1), 1 month ago) - Distributed ML Training and Fine-Tuning on Kubernetes
