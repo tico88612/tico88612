@@ -86,10 +86,10 @@
   #### 👯 Check out some of my recent followers
   
   - [tonve](https://github.com/tonve)
-  - [BadisLaffet1](https://github.com/BadisLaffet1)
   - [rohithadassanayake](https://github.com/rohithadassanayake)
   - [WuSandWitch](https://github.com/WuSandWitch)
   - [LemonTeatw1](https://github.com/LemonTeatw1)
+  - [fan9704](https://github.com/fan9704)
 </details>
 
 <img src="https://github-readme-stats.vercel.app/api?username=tico88612&hide_title=true&count_private=true&show_icons=true" />
