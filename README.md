@@ -49,8 +49,8 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.12](https://github.com/HunterPie/localization/releases/tag/v1.1.12), today) - Localization repository for HunterPie&#39;s client
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.33](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.33), 1 week ago) - Kubernetes website and documentation repo: 
-  - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.11](https://github.com/HunterPie/localization/releases/tag/v1.1.11), 2 weeks ago) - Localization repository for HunterPie&#39;s client
   - [kubeflow/trainer](https://github.com/kubeflow/trainer) ([v1.9.1](https://github.com/kubeflow/trainer/releases/tag/v1.9.1), 1 month ago) - Distributed ML Training and Fine-Tuning on Kubernetes
   - [cilium/tetragon](https://github.com/cilium/tetragon) ([v1.4.0](https://github.com/cilium/tetragon/releases/tag/v1.4.0), 1 month ago) - eBPF-based Security Observability and Runtime Enforcement
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.6.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.6.0), 2 months ago) - Cloud provider for KIND clusters
