@@ -59,6 +59,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [doc: fix cgroup rate explanation not match the parameter](https://github.com/cilium/tetragon/pull/3699) on [cilium/tetragon](https://github.com/cilium/tetragon) (today)
   - [Feat: Gateway API early installation](https://github.com/kubernetes-sigs/kubespray/pull/12189) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 day ago)
   - [doc: fix policy-library sshd anchor link &amp; title ](https://github.com/cilium/tetragon/pull/3678) on [cilium/tetragon](https://github.com/cilium/tetragon) (5 days ago)
   - [Revert &#34;Update cluster-proportional-autoscaler to v1.9.0&#34;](https://github.com/kubernetes-sigs/kubespray/pull/12168) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
@@ -68,7 +69,6 @@
   - [Fix: kubeadm secondary use file discovery validation](https://github.com/kubernetes-sigs/kubespray/pull/12132) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [Refactor MetalLB Installation](https://github.com/kubernetes-sigs/kubespray/pull/12126) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
   - [Bump: OpenStack Cloud Controller Manager upgrade to v1.32.0](https://github.com/kubernetes-sigs/kubespray/pull/12121) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
-  - [Update envoy to v1.33.2](https://github.com/kubernetes-sigs/cloud-provider-kind/pull/226) on [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) (3 weeks ago)
 
   #### ⭐ Recent Stars
   
