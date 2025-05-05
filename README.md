@@ -23,16 +23,16 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (today)
-  - [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement (4 days ago)
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (1 day ago)
+  - [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement (5 days ago)
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) - Cloud provider for KIND clusters (3 weeks ago)
   - [cloud-native-taiwan/i.kcd.taipei](https://github.com/cloud-native-taiwan/i.kcd.taipei) - Shorten URL for KCD Taipei (1 month ago)
   - [tico88612/kind-workshop](https://github.com/tico88612/kind-workshop) -  (1 month ago)
-  - [sitcon-tw/2025](https://github.com/sitcon-tw/2025) -  (1 month ago)
+  - [sitcon-tw/2025](https://github.com/sitcon-tw/2025) -  (2 months ago)
   - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (3 months ago)
   - [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group (3 months ago)
-  - [scist-tw/wc_scoreboard](https://github.com/scist-tw/wc_scoreboard) -  (3 months ago)
-  - [cloud-native-taiwan/kcd-taipei-2025](https://github.com/cloud-native-taiwan/kcd-taipei-2025) -  (3 months ago)
+  - [scist-tw/wc_scoreboard](https://github.com/scist-tw/wc_scoreboard) -  (4 months ago)
+  - [cloud-native-taiwan/kcd-taipei-2025](https://github.com/cloud-native-taiwan/kcd-taipei-2025) -  (4 months ago)
 
   #### 🌱 My latest projects
   
@@ -49,8 +49,8 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [kubeflow/trainer](https://github.com/kubeflow/trainer) ([v1.9.2](https://github.com/kubeflow/trainer/releases/tag/v1.9.2), 1 day ago) - Distributed ML Training and Fine-Tuning on Kubernetes
-  - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.12](https://github.com/HunterPie/localization/releases/tag/v1.1.12), 2 days ago) - Localization repository for HunterPie&#39;s client
+  - [kubeflow/trainer](https://github.com/kubeflow/trainer) ([v1.9.2](https://github.com/kubeflow/trainer/releases/tag/v1.9.2), 2 days ago) - Distributed ML Training and Fine-Tuning on Kubernetes
+  - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.12](https://github.com/HunterPie/localization/releases/tag/v1.1.12), 3 days ago) - Localization repository for HunterPie&#39;s client
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.33](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.33), 1 week ago) - Kubernetes website and documentation repo: 
   - [cilium/tetragon](https://github.com/cilium/tetragon) ([v1.4.0](https://github.com/cilium/tetragon/releases/tag/v1.4.0), 1 month ago) - eBPF-based Security Observability and Runtime Enforcement
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.6.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.6.0), 2 months ago) - Cloud provider for KIND clusters
@@ -59,8 +59,8 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [Feat: Gateway API early installation](https://github.com/kubernetes-sigs/kubespray/pull/12189) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
-  - [doc: fix policy-library sshd anchor link &amp; title ](https://github.com/cilium/tetragon/pull/3678) on [cilium/tetragon](https://github.com/cilium/tetragon) (4 days ago)
+  - [Feat: Gateway API early installation](https://github.com/kubernetes-sigs/kubespray/pull/12189) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 day ago)
+  - [doc: fix policy-library sshd anchor link &amp; title ](https://github.com/cilium/tetragon/pull/3678) on [cilium/tetragon](https://github.com/cilium/tetragon) (5 days ago)
   - [Revert &#34;Update cluster-proportional-autoscaler to v1.9.0&#34;](https://github.com/kubernetes-sigs/kubespray/pull/12168) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Feat: add `dns_autoscaler_affinity` and remove in-place values](https://github.com/kubernetes-sigs/kubespray/pull/12165) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Fix: kubelet-csr-approver moves to regular application installation](https://github.com/kubernetes-sigs/kubespray/pull/12141) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
