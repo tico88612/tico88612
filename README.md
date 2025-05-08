@@ -23,6 +23,7 @@
 
   #### 👷 Check out what I'm currently working on
   
+  - [tico88612/devstats-card](https://github.com/tico88612/devstats-card) - Your CNCF DevStats Card (today)
   - [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement (3 days ago)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (4 days ago)
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) - Cloud provider for KIND clusters (4 weeks ago)
@@ -32,10 +33,10 @@
   - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (3 months ago)
   - [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group (3 months ago)
   - [scist-tw/wc_scoreboard](https://github.com/scist-tw/wc_scoreboard) -  (4 months ago)
-  - [cloud-native-taiwan/kcd-taipei-2025](https://github.com/cloud-native-taiwan/kcd-taipei-2025) -  (4 months ago)
 
   #### 🌱 My latest projects
   
+  - [tico88612/devstats-card](https://github.com/tico88612/devstats-card) - Your CNCF DevStats Card
   - [tico88612/kind-workshop](https://github.com/tico88612/kind-workshop) - 
   - [tico88612/blog-comments](https://github.com/tico88612/blog-comments) - 
   - [tico88612/get-real-ip](https://github.com/tico88612/get-real-ip) - 
@@ -45,7 +46,6 @@
   - [tico88612/butter-toast-cup-2023](https://github.com/tico88612/butter-toast-cup-2023) - 奶油吐司杯 2023 分數計算機
   - [tico88612/cms-docker](https://github.com/tico88612/cms-docker) - Contest Management System v1.5.dev0 Docker Version
   - [tico88612/network-security-final](https://github.com/tico88612/network-security-final) - 
-  - [tico88612/docker-init.engineer](https://github.com/tico88612/docker-init.engineer) - 純靠北工程師 Docker 架設版
 
   #### 🔭 Latest releases I've contributed to
   
