@@ -92,7 +92,7 @@
   - [LemonTeatw1](https://github.com/LemonTeatw1)
 </details>
 
-<img src="https://devstats.me/score?username=tico88612" />
+<img src="https://devstats.me/?username=tico88612" />
 
 <br>
 
