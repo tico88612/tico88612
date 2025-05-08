@@ -23,8 +23,8 @@
 
   #### 👷 Check out what I'm currently working on
   
+  - [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement (3 days ago)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (4 days ago)
-  - [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement (1 week ago)
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) - Cloud provider for KIND clusters (4 weeks ago)
   - [cloud-native-taiwan/i.kcd.taipei](https://github.com/cloud-native-taiwan/i.kcd.taipei) - Shorten URL for KCD Taipei (1 month ago)
   - [tico88612/kind-workshop](https://github.com/tico88612/kind-workshop) -  (2 months ago)
@@ -92,7 +92,7 @@
   - [LemonTeatw1](https://github.com/LemonTeatw1)
 </details>
 
-<a href="https://github.com/tico88612/devstats-card"><img src="https://devstats.me/?username=tico88612" /></a>
+<a href="https://github.com/tico88612/devstats-card"><img src="https://devstats.me/?username=tico88612&t=1" /></a>
 
 <br>
 
