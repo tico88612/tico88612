@@ -52,6 +52,10 @@
   {{- end}}
 </details>
 
+<img src="https://devstats.me/score?username=tico88612" />
+
+<br>
+
 <img src="https://github-readme-stats.vercel.app/api?username=tico88612&hide_title=true&count_private=true&show_icons=true" />
 
 <br>
