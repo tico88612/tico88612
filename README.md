@@ -31,8 +31,8 @@
   - [sitcon-tw/2025](https://github.com/sitcon-tw/2025) -  (2 months ago)
   - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (3 months ago)
   - [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group (3 months ago)
-  - [scist-tw/wc_scoreboard](https://github.com/scist-tw/wc_scoreboard) -  (4 months ago)
   - [cloud-native-taiwan/kcd-taipei-2025](https://github.com/cloud-native-taiwan/kcd-taipei-2025) -  (4 months ago)
+  - [scist-tw/wc_scoreboard](https://github.com/scist-tw/wc_scoreboard) -  (4 months ago)
 
   #### 🌱 My latest projects
   
