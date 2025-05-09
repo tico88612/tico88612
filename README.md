@@ -23,6 +23,7 @@
 
   #### 👷 Check out what I'm currently working on
   
+  - [cloud-native-taiwan/Infra-Labs-Docs](https://github.com/cloud-native-taiwan/Infra-Labs-Docs) - Documentation for Cloud Native Taiwan Infra Labs (today)
   - [tico88612/devstats-card](https://github.com/tico88612/devstats-card) - Your CNCF DevStats Card (today)
   - [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement (4 days ago)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (5 days ago)
@@ -32,7 +33,6 @@
   - [sitcon-tw/2025](https://github.com/sitcon-tw/2025) -  (2 months ago)
   - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (3 months ago)
   - [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group (3 months ago)
-  - [scist-tw/wc_scoreboard](https://github.com/scist-tw/wc_scoreboard) -  (4 months ago)
 
   #### 🌱 My latest projects
   
@@ -59,6 +59,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Add CNCF DevStats Card usecase](https://github.com/cloud-native-taiwan/Infra-Labs-Docs/pull/79) on [cloud-native-taiwan/Infra-Labs-Docs](https://github.com/cloud-native-taiwan/Infra-Labs-Docs) (today)
   - [doc: fix cgroup rate explanation not match the parameter](https://github.com/cilium/tetragon/pull/3699) on [cilium/tetragon](https://github.com/cilium/tetragon) (4 days ago)
   - [Feat: Gateway API early installation](https://github.com/kubernetes-sigs/kubespray/pull/12189) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (5 days ago)
   - [doc: fix policy-library sshd anchor link &amp; title ](https://github.com/cilium/tetragon/pull/3678) on [cilium/tetragon](https://github.com/cilium/tetragon) (1 week ago)
@@ -68,7 +69,6 @@
   - [Support Fedora 41](https://github.com/kubernetes-sigs/kubespray/pull/12138) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [Fix: kubeadm secondary use file discovery validation](https://github.com/kubernetes-sigs/kubespray/pull/12132) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
   - [Refactor MetalLB Installation](https://github.com/kubernetes-sigs/kubespray/pull/12126) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 weeks ago)
-  - [Bump: OpenStack Cloud Controller Manager upgrade to v1.32.0](https://github.com/kubernetes-sigs/kubespray/pull/12121) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
 
   #### ⭐ Recent Stars
   
