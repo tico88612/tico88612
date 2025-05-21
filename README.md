@@ -49,6 +49,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.28.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.28.0), today) - Deploy a Production Ready Kubernetes Cluster
   - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.12](https://github.com/HunterPie/localization/releases/tag/v1.1.12), 2 weeks ago) - Localization repository for HunterPie&#39;s client
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.33](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.33), 4 weeks ago) - Kubernetes website and documentation repo: 
   - [cilium/tetragon](https://github.com/cilium/tetragon) ([v1.4.0](https://github.com/cilium/tetragon/releases/tag/v1.4.0), 2 months ago) - eBPF-based Security Observability and Runtime Enforcement
@@ -57,6 +58,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Chore: upgrade galaxy.yml version](https://github.com/kubernetes-sigs/kubespray/pull/12241) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [Add tico88612 to kubespray-maintainers team](https://github.com/kubernetes/org/pull/5599) on [kubernetes/org](https://github.com/kubernetes/org) (1 week ago)
   - [Add CNCF DevStats Card usecase](https://github.com/cloud-native-taiwan/Infra-Labs-Docs/pull/79) on [cloud-native-taiwan/Infra-Labs-Docs](https://github.com/cloud-native-taiwan/Infra-Labs-Docs) (1 week ago)
   - [doc: fix cgroup rate explanation not match the parameter](https://github.com/cilium/tetragon/pull/3699) on [cilium/tetragon](https://github.com/cilium/tetragon) (2 weeks ago)
@@ -66,7 +68,6 @@
   - [Feat: add `dns_autoscaler_affinity` and remove in-place values](https://github.com/kubernetes-sigs/kubespray/pull/12165) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
   - [Fix: kubelet-csr-approver moves to regular application installation](https://github.com/kubernetes-sigs/kubespray/pull/12141) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Support Fedora 41](https://github.com/kubernetes-sigs/kubespray/pull/12138) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
-  - [Fix: kubeadm secondary use file discovery validation](https://github.com/kubernetes-sigs/kubespray/pull/12132) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
 
   #### ⭐ Recent Stars
   
