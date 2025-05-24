@@ -23,9 +23,9 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (2 days ago)
-  - [tico88612/devstats-card](https://github.com/tico88612/devstats-card) - Your CNCF DevStats Card (2 days ago)
-  - [cloud-native-taiwan/i.kcd.taipei](https://github.com/cloud-native-taiwan/i.kcd.taipei) - Shorten URL for KCD Taipei (6 days ago)
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (3 days ago)
+  - [tico88612/devstats-card](https://github.com/tico88612/devstats-card) - Your CNCF DevStats Card (3 days ago)
+  - [cloud-native-taiwan/i.kcd.taipei](https://github.com/cloud-native-taiwan/i.kcd.taipei) - Shorten URL for KCD Taipei (1 week ago)
   - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (1 week ago)
   - [cloud-native-taiwan/Infra-Labs-Docs](https://github.com/cloud-native-taiwan/Infra-Labs-Docs) - Documentation for Cloud Native Taiwan Infra Labs (2 weeks ago)
   - [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement (2 weeks ago)
@@ -49,7 +49,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.28.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.28.0), 2 days ago) - Deploy a Production Ready Kubernetes Cluster
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.28.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.28.0), 3 days ago) - Deploy a Production Ready Kubernetes Cluster
   - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.12](https://github.com/HunterPie/localization/releases/tag/v1.1.12), 3 weeks ago) - Localization repository for HunterPie&#39;s client
   - [cilium/tetragon](https://github.com/cilium/tetragon) ([v1.4.0](https://github.com/cilium/tetragon/releases/tag/v1.4.0), 2 months ago) - eBPF-based Security Observability and Runtime Enforcement
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.6.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.6.0), 3 months ago) - Cloud provider for KIND clusters
@@ -57,20 +57,20 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [Chore: upgrade galaxy.yml version](https://github.com/kubernetes-sigs/kubespray/pull/12241) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 days ago)
+  - [Chore: upgrade galaxy.yml version](https://github.com/kubernetes-sigs/kubespray/pull/12241) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 days ago)
   - [Add tico88612 to kubespray-maintainers team](https://github.com/kubernetes/org/pull/5599) on [kubernetes/org](https://github.com/kubernetes/org) (1 week ago)
   - [Add CNCF DevStats Card usecase](https://github.com/cloud-native-taiwan/Infra-Labs-Docs/pull/79) on [cloud-native-taiwan/Infra-Labs-Docs](https://github.com/cloud-native-taiwan/Infra-Labs-Docs) (2 weeks ago)
   - [doc: fix cgroup rate explanation not match the parameter](https://github.com/cilium/tetragon/pull/3699) on [cilium/tetragon](https://github.com/cilium/tetragon) (2 weeks ago)
   - [Feat: Gateway API early installation](https://github.com/kubernetes-sigs/kubespray/pull/12189) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [doc: fix policy-library sshd anchor link &amp; title ](https://github.com/cilium/tetragon/pull/3678) on [cilium/tetragon](https://github.com/cilium/tetragon) (3 weeks ago)
-  - [Revert &#34;Update cluster-proportional-autoscaler to v1.9.0&#34;](https://github.com/kubernetes-sigs/kubespray/pull/12168) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
-  - [Feat: add `dns_autoscaler_affinity` and remove in-place values](https://github.com/kubernetes-sigs/kubespray/pull/12165) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
+  - [Revert &#34;Update cluster-proportional-autoscaler to v1.9.0&#34;](https://github.com/kubernetes-sigs/kubespray/pull/12168) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 weeks ago)
+  - [Feat: add `dns_autoscaler_affinity` and remove in-place values](https://github.com/kubernetes-sigs/kubespray/pull/12165) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 weeks ago)
   - [Fix: kubelet-csr-approver moves to regular application installation](https://github.com/kubernetes-sigs/kubespray/pull/12141) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Support Fedora 41](https://github.com/kubernetes-sigs/kubespray/pull/12138) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
 
   #### ⭐ Recent Stars
   
-  - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website &amp; Blog Theme for Hugo (4 weeks ago)
+  - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website &amp; Blog Theme for Hugo (1 month ago)
   - [srl-labs/containerlab](https://github.com/srl-labs/containerlab) - container-based networking labs (1 month ago)
   - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript (2 months ago)
   - [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - A tool to beautify your code screenshots. Built with SolidJS and Fastify. (3 months ago)
