@@ -57,6 +57,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [[flannel] upgrade to 0.26.7](https://github.com/kubernetes-sigs/kubespray/pull/12260) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [Feat: add nftable mode in calico](https://github.com/kubernetes-sigs/kubespray/pull/12255) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 days ago)
   - [Fix: the cluster is upgraded from 2.27 to 2.28 cilium will break](https://github.com/kubernetes-sigs/kubespray/pull/12254) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 days ago)
   - [Chore: upgrade galaxy.yml version](https://github.com/kubernetes-sigs/kubespray/pull/12241) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (5 days ago)
@@ -66,7 +67,6 @@
   - [Feat: Gateway API early installation](https://github.com/kubernetes-sigs/kubespray/pull/12189) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
   - [doc: fix policy-library sshd anchor link &amp; title ](https://github.com/cilium/tetragon/pull/3678) on [cilium/tetragon](https://github.com/cilium/tetragon) (3 weeks ago)
   - [Revert &#34;Update cluster-proportional-autoscaler to v1.9.0&#34;](https://github.com/kubernetes-sigs/kubespray/pull/12168) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
-  - [Feat: add `dns_autoscaler_affinity` and remove in-place values](https://github.com/kubernetes-sigs/kubespray/pull/12165) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
 
   #### ⭐ Recent Stars
   
