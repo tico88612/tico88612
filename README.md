@@ -23,7 +23,7 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [cloud-native-taiwan/i.kcd.taipei](https://github.com/cloud-native-taiwan/i.kcd.taipei) - Shorten URL for KCD Taipei (today)
+  - [cloud-native-taiwan/i.kcd.taipei](https://github.com/cloud-native-taiwan/i.kcd.taipei) - Shorten URL for KCD Taipei (1 day ago)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (1 week ago)
   - [tico88612/devstats-card](https://github.com/tico88612/devstats-card) - Your CNCF DevStats Card (1 week ago)
   - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (2 weeks ago)
@@ -57,9 +57,9 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [[WIP][flannel] upgrade to 0.26.7](https://github.com/kubernetes-sigs/kubespray/pull/12260) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 days ago)
-  - [Feat: add nftable mode in calico](https://github.com/kubernetes-sigs/kubespray/pull/12255) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (6 days ago)
-  - [Fix: the cluster is upgraded from 2.27 to 2.28 cilium will break](https://github.com/kubernetes-sigs/kubespray/pull/12254) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (6 days ago)
+  - [[WIP][flannel] upgrade to 0.26.7](https://github.com/kubernetes-sigs/kubespray/pull/12260) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (5 days ago)
+  - [Feat: add nftable mode in calico](https://github.com/kubernetes-sigs/kubespray/pull/12255) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
+  - [Fix: the cluster is upgraded from 2.27 to 2.28 cilium will break](https://github.com/kubernetes-sigs/kubespray/pull/12254) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Chore: upgrade galaxy.yml version](https://github.com/kubernetes-sigs/kubespray/pull/12241) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Add tico88612 to kubespray-maintainers team](https://github.com/kubernetes/org/pull/5599) on [kubernetes/org](https://github.com/kubernetes/org) (2 weeks ago)
   - [Add CNCF DevStats Card usecase](https://github.com/cloud-native-taiwan/Infra-Labs-Docs/pull/79) on [cloud-native-taiwan/Infra-Labs-Docs](https://github.com/cloud-native-taiwan/Infra-Labs-Docs) (3 weeks ago)
