@@ -14,8 +14,7 @@
   - [KCD Taipei 2025](https://kcd.taipei/2025) Lead Organizer
 - 💻 Open Source Maintenance
   - Code Reviewer @ [Kubespray](https://kubespray.io/)
-  - Release Signal Shadow @ [Kubernetes](https://kubernetes.io) v1.32
-  - Release Signal Shadow @ [Kubernetes](https://kubernetes.io) v1.33
+  - Release Signal Shadow @ [Kubernetes](https://kubernetes.io) v1.32 ~ v1.34
 - ❤️ Kagamine Rin
 
 <details>
