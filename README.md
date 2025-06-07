@@ -56,6 +56,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [[release-2.28] Bump galaxy.yml version](https://github.com/kubernetes-sigs/kubespray/pull/12290) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [Add myself (tico88612) as approver](https://github.com/kubernetes-sigs/kubespray/pull/12281) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 days ago)
   - [[flannel] upgrade to 0.26.7](https://github.com/kubernetes-sigs/kubespray/pull/12260) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Feat: add nftable mode in calico](https://github.com/kubernetes-sigs/kubespray/pull/12255) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
@@ -65,7 +66,6 @@
   - [Add CNCF DevStats Card usecase](https://github.com/cloud-native-taiwan/Infra-Labs-Docs/pull/79) on [cloud-native-taiwan/Infra-Labs-Docs](https://github.com/cloud-native-taiwan/Infra-Labs-Docs) (4 weeks ago)
   - [doc: fix cgroup rate explanation not match the parameter](https://github.com/cilium/tetragon/pull/3699) on [cilium/tetragon](https://github.com/cilium/tetragon) (1 month ago)
   - [Feat: Gateway API early installation](https://github.com/kubernetes-sigs/kubespray/pull/12189) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
-  - [doc: fix policy-library sshd anchor link &amp; title ](https://github.com/cilium/tetragon/pull/3678) on [cilium/tetragon](https://github.com/cilium/tetragon) (1 month ago)
 
   #### ⭐ Recent Stars
   
