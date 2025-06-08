@@ -48,7 +48,6 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.28.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.28.0), 2 weeks ago) - Deploy a Production Ready Kubernetes Cluster
   - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.12](https://github.com/HunterPie/localization/releases/tag/v1.1.12), 1 month ago) - Localization repository for HunterPie&#39;s client
   - [cilium/tetragon](https://github.com/cilium/tetragon) ([v1.4.0](https://github.com/cilium/tetragon/releases/tag/v1.4.0), 2 months ago) - eBPF-based Security Observability and Runtime Enforcement
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.6.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.6.0), 3 months ago) - Cloud provider for KIND clusters
