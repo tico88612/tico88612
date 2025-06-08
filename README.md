@@ -68,6 +68,7 @@
 
   #### ⭐ Recent Stars
   
+  - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (today)
   - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website &amp; Blog Theme for Hugo (1 month ago)
   - [srl-labs/containerlab](https://github.com/srl-labs/containerlab) - container-based networking labs (1 month ago)
   - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript (2 months ago)
@@ -77,7 +78,6 @@
   - [knabben/stalker](https://github.com/knabben/stalker) - Stalk and Hunt Flake Testgrid Jobs  (7 months ago)
   - [ljcucc/mobai-alei](https://github.com/ljcucc/mobai-alei) - 膜拜阿雷的信眾有福了！現在到 mobai-alei.ljcu.cc 就可以產生膜拜貼圖！ (9 months ago)
   - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity (10 months ago)
-  - [nalexn/clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui) - SwiftUI sample app using Clean Architecture. Examples of working with SwiftData persistence, networking, dependency injection, unit testing, and more. (11 months ago)
 
   #### 👯 Check out some of my recent followers
   
