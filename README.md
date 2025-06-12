@@ -55,6 +55,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [fix(docs): firewall security group typo enabled](https://github.com/bpg/terraform-provider-proxmox/pull/1994) on [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) (today)
   - [Replace Terraform with OpenTofu](https://github.com/kubernetes-sigs/kubespray/pull/12291) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 days ago)
   - [[release-2.28] Bump galaxy.yml version](https://github.com/kubernetes-sigs/kubespray/pull/12290) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (5 days ago)
   - [Add myself (tico88612) as approver](https://github.com/kubernetes-sigs/kubespray/pull/12281) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
@@ -64,7 +65,6 @@
   - [Chore: upgrade galaxy.yml version](https://github.com/kubernetes-sigs/kubespray/pull/12241) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
   - [Add tico88612 to kubespray-maintainers team](https://github.com/kubernetes/org/pull/5599) on [kubernetes/org](https://github.com/kubernetes/org) (4 weeks ago)
   - [Add CNCF DevStats Card usecase](https://github.com/cloud-native-taiwan/Infra-Labs-Docs/pull/79) on [cloud-native-taiwan/Infra-Labs-Docs](https://github.com/cloud-native-taiwan/Infra-Labs-Docs) (1 month ago)
-  - [doc: fix cgroup rate explanation not match the parameter](https://github.com/cilium/tetragon/pull/3699) on [cilium/tetragon](https://github.com/cilium/tetragon) (1 month ago)
 
   #### ⭐ Recent Stars
   
