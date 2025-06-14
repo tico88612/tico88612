@@ -55,6 +55,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Bump: external snapshot CRD v0.15.0](https://github.com/kubernetes-sigs/kubespray/pull/12308) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [Cleanup: kubeadm-config v1beta4 extra args defined conditions](https://github.com/kubernetes-sigs/kubespray/pull/12307) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [CI: replace kaniko with buildkit](https://github.com/kubernetes-sigs/kubespray/pull/12305) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [Cleanup: Ubuntu 20.04 tests](https://github.com/kubernetes-sigs/kubespray/pull/12301) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 day ago)
@@ -64,7 +65,6 @@
   - [Add myself (tico88612) as approver](https://github.com/kubernetes-sigs/kubespray/pull/12281) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [[flannel] upgrade to 0.26.7](https://github.com/kubernetes-sigs/kubespray/pull/12260) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [Feat: add nftable mode in calico](https://github.com/kubernetes-sigs/kubespray/pull/12255) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
-  - [Fix: the cluster is upgraded from 2.27 to 2.28 cilium will break](https://github.com/kubernetes-sigs/kubespray/pull/12254) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
 
   #### ⭐ Recent Stars
   
