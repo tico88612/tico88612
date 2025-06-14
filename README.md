@@ -55,6 +55,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Cleanup: kubeadm-config v1beta4 extra args defined conditions](https://github.com/kubernetes-sigs/kubespray/pull/12307) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [CI: replace kaniko with buildkit](https://github.com/kubernetes-sigs/kubespray/pull/12305) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [Cleanup: Ubuntu 20.04 tests](https://github.com/kubernetes-sigs/kubespray/pull/12301) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 day ago)
   - [fix(docs): firewall security group typo enabled](https://github.com/bpg/terraform-provider-proxmox/pull/1994) on [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) (2 days ago)
@@ -64,7 +65,6 @@
   - [[flannel] upgrade to 0.26.7](https://github.com/kubernetes-sigs/kubespray/pull/12260) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [Feat: add nftable mode in calico](https://github.com/kubernetes-sigs/kubespray/pull/12255) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
   - [Fix: the cluster is upgraded from 2.27 to 2.28 cilium will break](https://github.com/kubernetes-sigs/kubespray/pull/12254) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
-  - [Chore: upgrade galaxy.yml version](https://github.com/kubernetes-sigs/kubespray/pull/12241) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
 
   #### ⭐ Recent Stars
   
