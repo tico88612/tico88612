@@ -55,6 +55,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [CI: replace kaniko with buildkit](https://github.com/kubernetes-sigs/kubespray/pull/12305) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [Cleanup: Ubuntu 20.04 tests](https://github.com/kubernetes-sigs/kubespray/pull/12301) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 day ago)
   - [fix(docs): firewall security group typo enabled](https://github.com/bpg/terraform-provider-proxmox/pull/1994) on [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) (2 days ago)
   - [Replace Terraform with OpenTofu](https://github.com/kubernetes-sigs/kubespray/pull/12291) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (5 days ago)
@@ -64,7 +65,6 @@
   - [Feat: add nftable mode in calico](https://github.com/kubernetes-sigs/kubespray/pull/12255) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
   - [Fix: the cluster is upgraded from 2.27 to 2.28 cilium will break](https://github.com/kubernetes-sigs/kubespray/pull/12254) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
   - [Chore: upgrade galaxy.yml version](https://github.com/kubernetes-sigs/kubespray/pull/12241) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
-  - [Add tico88612 to kubespray-maintainers team](https://github.com/kubernetes/org/pull/5599) on [kubernetes/org](https://github.com/kubernetes/org) (1 month ago)
 
   #### ⭐ Recent Stars
   
