@@ -56,6 +56,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [[release-2.28] Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/12330) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [apimachinery/pkg/util/errors: deprecated MessageCountMap](https://github.com/kubernetes/kubernetes/pull/132376) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 days ago)
   - [Bump: external snapshot CRD v0.15.0](https://github.com/kubernetes-sigs/kubespray/pull/12308) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Cleanup: kubeadm-config v1beta4 extra args defined conditions](https://github.com/kubernetes-sigs/kubespray/pull/12307) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
@@ -65,7 +66,6 @@
   - [Replace Terraform with OpenTofu](https://github.com/kubernetes-sigs/kubespray/pull/12291) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [[release-2.28] Bump galaxy.yml version](https://github.com/kubernetes-sigs/kubespray/pull/12290) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [Add myself (tico88612) as approver](https://github.com/kubernetes-sigs/kubespray/pull/12281) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
-  - [[flannel] upgrade to 0.26.7](https://github.com/kubernetes-sigs/kubespray/pull/12260) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
 
   #### ⭐ Recent Stars
   
