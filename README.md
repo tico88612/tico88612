@@ -57,6 +57,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [RockyLinux 10 support](https://github.com/kubernetes-sigs/kubespray/pull/12355) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [[release-2.27] Bump galaxy version](https://github.com/kubernetes-sigs/kubespray/pull/12345) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 days ago)
   - [[release-2.28] Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/12330) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [apimachinery/pkg/util/errors: deprecated MessageCountMap](https://github.com/kubernetes/kubernetes/pull/132376) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
@@ -66,7 +67,6 @@
   - [Cleanup: Ubuntu 20.04 tests](https://github.com/kubernetes-sigs/kubespray/pull/12301) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [fix(docs): firewall security group typo `enabled`](https://github.com/bpg/terraform-provider-proxmox/pull/1994) on [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) (2 weeks ago)
   - [Replace Terraform with OpenTofu](https://github.com/kubernetes-sigs/kubespray/pull/12291) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
-  - [[release-2.28] Bump galaxy.yml version](https://github.com/kubernetes-sigs/kubespray/pull/12290) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
 
   #### ⭐ Recent Stars
   
