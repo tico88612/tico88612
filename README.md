@@ -48,11 +48,11 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.7.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.7.0), today) - Cloud provider for KIND clusters
   - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.79.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.79.0), 3 days ago) - Terraform / OpenTofu Provider for Proxmox VE
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.34.0-alpha.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.0-alpha.2), 1 week ago) - Production-Grade Container Scheduling and Management
   - [HunterPie/localization](https://github.com/HunterPie/localization) ([v1.1.12](https://github.com/HunterPie/localization/releases/tag/v1.1.12), 2 months ago) - Localization repository for HunterPie&#39;s client
   - [cilium/tetragon](https://github.com/cilium/tetragon) ([v1.4.0](https://github.com/cilium/tetragon/releases/tag/v1.4.0), 3 months ago) - eBPF-based Security Observability and Runtime Enforcement
-  - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.6.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.6.0), 4 months ago) - Cloud provider for KIND clusters
   - [coredns/deployment](https://github.com/coredns/deployment) ([coredns-1.14.0](https://github.com/coredns/deployment/releases/tag/coredns-1.14.0), 4 years ago) - Scripts, utilities, and examples for deploying CoreDNS.
 
   #### 🔨 My recent Pull Requests
