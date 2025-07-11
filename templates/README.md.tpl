@@ -51,7 +51,7 @@
   {{- end}}
 </details>
 
-<a href="https://github.com/tico88612/devstats-card"><img src="https://devstats.me/?username=tico88612&t=1" /></a>
+<a href="https://github.com/tico88612/devstats-card"><img src="https://devstats.me/?username=tico88612" /></a>
 
 <br>
 
