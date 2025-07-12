@@ -57,6 +57,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Fix: nodelocaldns capabilities usage](https://github.com/kubernetes-sigs/kubespray/pull/12398) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [RockyLinux 10 support](https://github.com/kubernetes-sigs/kubespray/pull/12355) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [[release-2.27] Bump galaxy version](https://github.com/kubernetes-sigs/kubespray/pull/12345) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [[release-2.28] Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/12330) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
@@ -66,7 +67,6 @@
   - [CI: replace kaniko with buildkit](https://github.com/kubernetes-sigs/kubespray/pull/12305) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 weeks ago)
   - [Cleanup: Ubuntu 20.04 tests](https://github.com/kubernetes-sigs/kubespray/pull/12301) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 weeks ago)
   - [fix(docs): firewall security group typo `enabled`](https://github.com/bpg/terraform-provider-proxmox/pull/1994) on [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) (1 month ago)
-  - [Replace Terraform with OpenTofu](https://github.com/kubernetes-sigs/kubespray/pull/12291) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
 
   #### ⭐ Recent Stars
   
