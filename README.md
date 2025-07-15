@@ -48,9 +48,9 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.7](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.7), today) - Production-Grade Container Scheduling and Management
   - [cilium/tetragon](https://github.com/cilium/tetragon) ([v1.4.1](https://github.com/cilium/tetragon/releases/tag/v1.4.1), today) - eBPF-based Security Observability and Runtime Enforcement
   - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.80.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.80.0), today) - Terraform / OpenTofu Provider for Proxmox VE
-  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.34.0-alpha.3](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.0-alpha.3), 6 days ago) - Production-Grade Container Scheduling and Management
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.7.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.7.0), 6 days ago) - Cloud provider for KIND clusters
   - [coredns/deployment](https://github.com/coredns/deployment) ([coredns-1.14.0](https://github.com/coredns/deployment/releases/tag/coredns-1.14.0), 4 years ago) - Scripts, utilities, and examples for deploying CoreDNS.
 
