@@ -82,11 +82,11 @@
 
   #### 👯 Check out some of my recent followers
   
+  - [c0d3cr4ft3r](https://github.com/c0d3cr4ft3r)
+  - [CodeStaple](https://github.com/CodeStaple)
   - [EricccTaiwan](https://github.com/EricccTaiwan)
   - [kuboqu](https://github.com/kuboqu)
   - [rileychh](https://github.com/rileychh)
-  - [tonve](https://github.com/tonve)
-  - [rohithadassanayake](https://github.com/rohithadassanayake)
 </details>
 
 <a href="https://github.com/tico88612/devstats-card"><img src="https://devstats.me/?username=tico88612" /></a>
