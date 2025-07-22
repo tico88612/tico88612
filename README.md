@@ -56,6 +56,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Feat: lima support for local development](https://github.com/kubernetes-sigs/kubespray/pull/12421) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [KEP-5295: Fix the typo from kayml to kyaml](https://github.com/kubernetes/enhancements/pull/5451) on [kubernetes/enhancements](https://github.com/kubernetes/enhancements) (1 week ago)
   - [Fix: nodelocaldns capabilities usage](https://github.com/kubernetes-sigs/kubespray/pull/12398) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [RockyLinux 10 support](https://github.com/kubernetes-sigs/kubespray/pull/12355) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
@@ -65,7 +66,6 @@
   - [Bump: external snapshot CRD v0.15.0](https://github.com/kubernetes-sigs/kubespray/pull/12308) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Cleanup: kubeadm-config v1beta4 extra args defined conditions](https://github.com/kubernetes-sigs/kubespray/pull/12307) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [CI: replace kaniko with buildkit](https://github.com/kubernetes-sigs/kubespray/pull/12305) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
-  - [Cleanup: Ubuntu 20.04 tests](https://github.com/kubernetes-sigs/kubespray/pull/12301) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
 
   #### ⭐ Recent Stars
   
