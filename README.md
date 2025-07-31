@@ -22,7 +22,7 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (2 days ago)
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (3 days ago)
   - [kubernetes/enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes (2 weeks ago)
   - [tico88612/devstats-card](https://github.com/tico88612/devstats-card) - Your CNCF DevStats Card (2 weeks ago)
   - [cloud-native-taiwan/i.kcd.taipei](https://github.com/cloud-native-taiwan/i.kcd.taipei) - Shorten URL for KCD Taipei (3 weeks ago)
@@ -48,7 +48,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [cilium/tetragon](https://github.com/cilium/tetragon) ([v1.5.0](https://github.com/cilium/tetragon/releases/tag/v1.5.0), 1 day ago) - eBPF-based Security Observability and Runtime Enforcement
+  - [cilium/tetragon](https://github.com/cilium/tetragon) ([v1.5.0](https://github.com/cilium/tetragon/releases/tag/v1.5.0), 2 days ago) - eBPF-based Security Observability and Runtime Enforcement
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.34.0-beta.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.0-beta.0), 2 weeks ago) - Production-Grade Container Scheduling and Management
   - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.80.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.80.0), 2 weeks ago) - Terraform / OpenTofu Provider for Proxmox VE
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.7.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.7.0), 3 weeks ago) - Cloud provider for KIND clusters
@@ -56,7 +56,7 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [[WIP] Fix: comment out all Debian backports in apt source](https://github.com/kubernetes-sigs/kubespray/pull/12434) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
+  - [[WIP] Fix: comment out all Debian backports in apt source](https://github.com/kubernetes-sigs/kubespray/pull/12434) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 day ago)
   - [Feat: lima support for local development](https://github.com/kubernetes-sigs/kubespray/pull/12421) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [KEP-5295: Fix the typo from kayml to kyaml](https://github.com/kubernetes/enhancements/pull/5451) on [kubernetes/enhancements](https://github.com/kubernetes/enhancements) (2 weeks ago)
   - [Fix: nodelocaldns capabilities usage](https://github.com/kubernetes-sigs/kubespray/pull/12398) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
