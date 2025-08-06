@@ -57,7 +57,7 @@
   #### 🔨 My recent Pull Requests
   
   - [Feat: add common_crds role and Prometheus Operator CRDs installation](https://github.com/kubernetes-sigs/kubespray/pull/12441) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (5 days ago)
-  - [[WIP] Fix: comment out all Debian backports in apt source](https://github.com/kubernetes-sigs/kubespray/pull/12434) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
+  - [Fix: change the EOL Debian backports to archive](https://github.com/kubernetes-sigs/kubespray/pull/12434) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Feat: lima support for local development](https://github.com/kubernetes-sigs/kubespray/pull/12421) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [KEP-5295: Fix the typo from kayml to kyaml](https://github.com/kubernetes/enhancements/pull/5451) on [kubernetes/enhancements](https://github.com/kubernetes/enhancements) (3 weeks ago)
   - [Fix: nodelocaldns capabilities usage](https://github.com/kubernetes-sigs/kubespray/pull/12398) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
