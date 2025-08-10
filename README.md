@@ -22,9 +22,9 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (2 days ago)
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (3 days ago)
   - [kubernetes/enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes (3 weeks ago)
-  - [tico88612/devstats-card](https://github.com/tico88612/devstats-card) - Your CNCF DevStats Card (4 weeks ago)
+  - [tico88612/devstats-card](https://github.com/tico88612/devstats-card) - Your CNCF DevStats Card (1 month ago)
   - [cloud-native-taiwan/i.kcd.taipei](https://github.com/cloud-native-taiwan/i.kcd.taipei) - Shorten URL for KCD Taipei (1 month ago)
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (1 month ago)
   - [kubernetes/apimachinery](https://github.com/kubernetes/apimachinery) -  (1 month ago)
@@ -48,7 +48,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.34.0-rc.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.0-rc.1), today) - Production-Grade Container Scheduling and Management
+  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.34.0-rc.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.0-rc.1), 1 day ago) - Production-Grade Container Scheduling and Management
   - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.81.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.81.0), 1 week ago) - Terraform / OpenTofu Provider for Proxmox VE
   - [cilium/tetragon](https://github.com/cilium/tetragon) ([v1.5.0](https://github.com/cilium/tetragon/releases/tag/v1.5.0), 1 week ago) - eBPF-based Security Observability and Runtime Enforcement
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.7.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.7.0), 1 month ago) - Cloud provider for KIND clusters
