@@ -22,7 +22,7 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (3 days ago)
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (4 days ago)
   - [kubernetes/enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes (3 weeks ago)
   - [tico88612/devstats-card](https://github.com/tico88612/devstats-card) - Your CNCF DevStats Card (1 month ago)
   - [cloud-native-taiwan/i.kcd.taipei](https://github.com/cloud-native-taiwan/i.kcd.taipei) - Shorten URL for KCD Taipei (1 month ago)
@@ -48,7 +48,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.34.0-rc.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.0-rc.1), 1 day ago) - Production-Grade Container Scheduling and Management
+  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.34.0-rc.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.0-rc.1), 2 days ago) - Production-Grade Container Scheduling and Management
   - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.81.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.81.0), 1 week ago) - Terraform / OpenTofu Provider for Proxmox VE
   - [cilium/tetragon](https://github.com/cilium/tetragon) ([v1.5.0](https://github.com/cilium/tetragon/releases/tag/v1.5.0), 1 week ago) - eBPF-based Security Observability and Runtime Enforcement
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.7.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.7.0), 1 month ago) - Cloud provider for KIND clusters
@@ -60,7 +60,7 @@
   - [Fix: change the EOL Debian backports to archive](https://github.com/kubernetes-sigs/kubespray/pull/12434) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Feat: lima support for local development](https://github.com/kubernetes-sigs/kubespray/pull/12421) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [KEP-5295: Fix the typo from kayml to kyaml](https://github.com/kubernetes/enhancements/pull/5451) on [kubernetes/enhancements](https://github.com/kubernetes/enhancements) (3 weeks ago)
-  - [Fix: nodelocaldns capabilities usage](https://github.com/kubernetes-sigs/kubespray/pull/12398) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 weeks ago)
+  - [Fix: nodelocaldns capabilities usage](https://github.com/kubernetes-sigs/kubespray/pull/12398) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [RockyLinux 10 support](https://github.com/kubernetes-sigs/kubespray/pull/12355) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [[release-2.27] Bump galaxy version](https://github.com/kubernetes-sigs/kubespray/pull/12345) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [[release-2.28] Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/12330) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
@@ -69,6 +69,7 @@
 
   #### ⭐ Recent Stars
   
+  - [ray-project/kuberay](https://github.com/ray-project/kuberay) - A toolkit to run Ray applications on Kubernetes (today)
   - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS. (2 months ago)
   - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (2 months ago)
   - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (2 months ago)
@@ -78,7 +79,6 @@
   - [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - A tool to beautify your code screenshots. Built with SolidJS and Fastify. (6 months ago)
   - [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) - Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF (9 months ago)
   - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (9 months ago)
-  - [knabben/stalker](https://github.com/knabben/stalker) - Stalk and Hunt Flake Testgrid Jobs  (9 months ago)
 
   #### 👯 Check out some of my recent followers
   
