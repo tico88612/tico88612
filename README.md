@@ -56,6 +56,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Feat: Debian 13 Trixie support](https://github.com/kubernetes-sigs/kubespray/pull/12456) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [Feat: add common_crds role and Prometheus Operator CRDs installation](https://github.com/kubernetes-sigs/kubespray/pull/12441) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Fix: change the EOL Debian backports to archive](https://github.com/kubernetes-sigs/kubespray/pull/12434) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Feat: lima support for local development](https://github.com/kubernetes-sigs/kubespray/pull/12421) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
@@ -65,7 +66,6 @@
   - [[release-2.27] Bump galaxy version](https://github.com/kubernetes-sigs/kubespray/pull/12345) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [[release-2.28] Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/12330) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [apimachinery/pkg/util/errors: deprecated MessageCountMap](https://github.com/kubernetes/kubernetes/pull/132376) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 month ago)
-  - [Bump: external snapshot CRD v0.15.0](https://github.com/kubernetes-sigs/kubespray/pull/12308) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
 
   #### ⭐ Recent Stars
   
