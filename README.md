@@ -56,6 +56,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [[release-2.27] Fix: pre-commit failing test](https://github.com/kubernetes-sigs/kubespray/pull/12484) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [[release-2.28] Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/12462) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (6 days ago)
   - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/12461) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (6 days ago)
   - [Feat: Debian 13 Trixie support](https://github.com/kubernetes-sigs/kubespray/pull/12456) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
@@ -65,7 +66,6 @@
   - [KEP-5295: Fix the typo from kayml to kyaml](https://github.com/kubernetes/enhancements/pull/5451) on [kubernetes/enhancements](https://github.com/kubernetes/enhancements) (1 month ago)
   - [Fix: nodelocaldns capabilities usage](https://github.com/kubernetes-sigs/kubespray/pull/12398) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [RockyLinux 10 support](https://github.com/kubernetes-sigs/kubespray/pull/12355) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
-  - [[release-2.27] Bump galaxy version](https://github.com/kubernetes-sigs/kubespray/pull/12345) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
 
   #### ⭐ Recent Stars
   
