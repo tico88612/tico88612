@@ -48,8 +48,8 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.34.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.0), today) - Production-Grade Container Scheduling and Management
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.28.1](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.28.1), 1 day ago) - Deploy a Production Ready Kubernetes Cluster
-  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.34.0-rc.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.0-rc.2), 1 week ago) - Production-Grade Container Scheduling and Management
   - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.82.1](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.82.1), 1 week ago) - Terraform / OpenTofu Provider for Proxmox VE
   - [cilium/tetragon](https://github.com/cilium/tetragon) ([v1.5.0](https://github.com/cilium/tetragon/releases/tag/v1.5.0), 4 weeks ago) - eBPF-based Security Observability and Runtime Enforcement
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.7.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.7.0), 1 month ago) - Cloud provider for KIND clusters
