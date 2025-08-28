@@ -70,6 +70,8 @@
 
   #### ⭐ Recent Stars
   
+  - [documentdb/documentdb](https://github.com/documentdb/documentdb) - MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, and developer productivity. (today)
+  - [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - Native, Apple Silicon–only local LLM server. Similar to Ollama, but built on Apple&#39;s MLX for maximum performance on M‑series chips. SwiftUI app &#43; SwiftNIO server with OpenAI‑compatible endpoints. (today)
   - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (1 day ago)
   - [ray-project/kuberay](https://github.com/ray-project/kuberay) - A toolkit to run Ray applications on Kubernetes (2 weeks ago)
   - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS. (2 months ago)
@@ -78,8 +80,6 @@
   - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website &amp; Blog Theme for Hugo (4 months ago)
   - [srl-labs/containerlab](https://github.com/srl-labs/containerlab) - container-based networking labs (4 months ago)
   - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript (5 months ago)
-  - [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - A tool to beautify your code screenshots. Built with SolidJS and Fastify. (7 months ago)
-  - [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) - Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF (9 months ago)
 
   #### 👯 Check out some of my recent followers
   
