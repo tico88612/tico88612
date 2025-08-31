@@ -57,6 +57,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Replace apimachinery/pkg/watch.NewFake with NewFakeWithOptions in pkg/controller](https://github.com/kubernetes/kubernetes/pull/133797) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
   - [[release-2.28] Fix: constant etcd_supported_version to dynamic](https://github.com/kubernetes-sigs/kubespray/pull/12499) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (6 days ago)
   - [[release-2.27] Fix: pre-commit failing test](https://github.com/kubernetes-sigs/kubespray/pull/12484) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [[release-2.28] Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/12462) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
@@ -66,7 +67,6 @@
   - [Fix: change the EOL Debian backports to archive](https://github.com/kubernetes-sigs/kubespray/pull/12434) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Feat: lima support for local development](https://github.com/kubernetes-sigs/kubespray/pull/12421) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [KEP-5295: Fix the typo from kayml to kyaml](https://github.com/kubernetes/enhancements/pull/5451) on [kubernetes/enhancements](https://github.com/kubernetes/enhancements) (1 month ago)
-  - [Fix: nodelocaldns capabilities usage](https://github.com/kubernetes-sigs/kubespray/pull/12398) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
 
   #### ⭐ Recent Stars
   
