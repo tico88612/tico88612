@@ -57,6 +57,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [[release-2.28] Add proxy_env to cilium install task for proxy](https://github.com/kubernetes-sigs/kubespray/pull/12530) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [Releng: Galaxy version to 2.28.2](https://github.com/kubernetes-sigs/kubespray/pull/12525) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 days ago)
   - [Replace apimachinery/pkg/watch.NewFake with NewFakeWithOptions in pkg/controller](https://github.com/kubernetes/kubernetes/pull/133797) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (5 days ago)
   - [[release-2.28] Fix: constant etcd_supported_version to dynamic](https://github.com/kubernetes-sigs/kubespray/pull/12499) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
@@ -66,7 +67,6 @@
   - [Feat: Debian 13 Trixie support](https://github.com/kubernetes-sigs/kubespray/pull/12456) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
   - [Feat: add common_crds role and Prometheus Operator CRDs installation](https://github.com/kubernetes-sigs/kubespray/pull/12441) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Fix: change the EOL Debian backports to archive](https://github.com/kubernetes-sigs/kubespray/pull/12434) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
-  - [Feat: lima support for local development](https://github.com/kubernetes-sigs/kubespray/pull/12421) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
 
   #### ⭐ Recent Stars
   
