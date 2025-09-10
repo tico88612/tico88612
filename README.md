@@ -48,20 +48,20 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.8.0-alpha.1](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.8.0-alpha.1), 2 days ago) - Cloud provider for KIND clusters
-  - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.83.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.83.0), 1 week ago) - Terraform / OpenTofu Provider for Proxmox VE
-  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.34.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.0), 1 week ago) - Production-Grade Container Scheduling and Management
+  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.9](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.9), today) - Production-Grade Container Scheduling and Management
+  - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.83.1](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.83.1), today) - Terraform / OpenTofu Provider for Proxmox VE
+  - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.8.0-alpha.1](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.8.0-alpha.1), 3 days ago) - Cloud provider for KIND clusters
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.28.1](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.28.1), 2 weeks ago) - Deploy a Production Ready Kubernetes Cluster
   - [cilium/tetragon](https://github.com/cilium/tetragon) ([v1.5.0](https://github.com/cilium/tetragon/releases/tag/v1.5.0), 1 month ago) - eBPF-based Security Observability and Runtime Enforcement
   - [coredns/deployment](https://github.com/coredns/deployment) ([coredns-1.14.0](https://github.com/coredns/deployment/releases/tag/coredns-1.14.0), 4 years ago) - Scripts, utilities, and examples for deploying CoreDNS.
 
   #### 🔨 My recent Pull Requests
   
-  - [[release-2.28] Add proxy_env to cilium install task for proxy](https://github.com/kubernetes-sigs/kubespray/pull/12530) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 days ago)
-  - [Releng: Galaxy version to 2.28.2](https://github.com/kubernetes-sigs/kubespray/pull/12525) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (6 days ago)
+  - [[release-2.28] Add proxy_env to cilium install task for proxy](https://github.com/kubernetes-sigs/kubespray/pull/12530) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (5 days ago)
+  - [Releng: Galaxy version to 2.28.2](https://github.com/kubernetes-sigs/kubespray/pull/12525) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Replace apimachinery/pkg/watch.NewFake with NewFakeWithOptions in pkg/controller](https://github.com/kubernetes/kubernetes/pull/133797) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
   - [[release-2.28] Fix: constant etcd_supported_version to dynamic](https://github.com/kubernetes-sigs/kubespray/pull/12499) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
-  - [[release-2.27] Fix: pre-commit failing test](https://github.com/kubernetes-sigs/kubespray/pull/12484) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
+  - [[release-2.27] Fix: pre-commit failing test](https://github.com/kubernetes-sigs/kubespray/pull/12484) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
   - [[release-2.28] Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/12462) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
   - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/12461) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
   - [Feat: Debian 13 Trixie support](https://github.com/kubernetes-sigs/kubespray/pull/12456) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 weeks ago)
@@ -72,8 +72,8 @@
   
   - [documentdb/documentdb](https://github.com/documentdb/documentdb) - MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, and developer productivity. (1 week ago)
   - [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - Native, Apple Silicon–only local LLM server. Similar to Ollama, but built on Apple&#39;s MLX for maximum performance on M‑series chips. SwiftUI app &#43; SwiftNIO server with OpenAI‑compatible endpoints. (1 week ago)
-  - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (1 week ago)
-  - [ray-project/kuberay](https://github.com/ray-project/kuberay) - A toolkit to run Ray applications on Kubernetes (4 weeks ago)
+  - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (2 weeks ago)
+  - [ray-project/kuberay](https://github.com/ray-project/kuberay) - A toolkit to run Ray applications on Kubernetes (1 month ago)
   - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS. (3 months ago)
   - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (3 months ago)
   - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (3 months ago)
