@@ -48,7 +48,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.9](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.9), today) - Production-Grade Container Scheduling and Management
+  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.33.5](https://github.com/kubernetes/kubernetes/releases/tag/v1.33.5), today) - Production-Grade Container Scheduling and Management
   - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.83.1](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.83.1), today) - Terraform / OpenTofu Provider for Proxmox VE
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.8.0-alpha.1](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.8.0-alpha.1), 3 days ago) - Cloud provider for KIND clusters
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.28.1](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.28.1), 2 weeks ago) - Deploy a Production Ready Kubernetes Cluster
