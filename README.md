@@ -22,8 +22,8 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (1 day ago)
-  - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (5 days ago)
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (2 days ago)
+  - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (6 days ago)
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (1 week ago)
   - [kubernetes/enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes (2 months ago)
   - [tico88612/devstats-card](https://github.com/tico88612/devstats-card) - Your CNCF DevStats Card (2 months ago)
@@ -48,7 +48,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.83.2](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.83.2), 3 days ago) - Terraform / OpenTofu Provider for Proxmox VE
+  - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.83.2](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.83.2), 4 days ago) - Terraform / OpenTofu Provider for Proxmox VE
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.31.13](https://github.com/kubernetes/kubernetes/releases/tag/v1.31.13), 1 week ago) - Production-Grade Container Scheduling and Management
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.8.0-alpha.1](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.8.0-alpha.1), 1 week ago) - Cloud provider for KIND clusters
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.28.1](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.28.1), 3 weeks ago) - Deploy a Production Ready Kubernetes Cluster
@@ -57,10 +57,10 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [Update release-team.svg](https://github.com/kubernetes/sig-release/pull/2872) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (today)
-  - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/12553) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 days ago)
-  - [Replace JitterUntil with JitterUntilWithContext](https://github.com/kubernetes/kubernetes/pull/134053) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (4 days ago)
-  - [Replace NewIndexerInformerWatcher with NewIndexerInformerWatcherWithLogger](https://github.com/kubernetes/kubernetes/pull/134018) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (6 days ago)
+  - [Update release-team.svg](https://github.com/kubernetes/sig-release/pull/2872) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (1 day ago)
+  - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/12553) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 days ago)
+  - [Replace JitterUntil with JitterUntilWithContext](https://github.com/kubernetes/kubernetes/pull/134053) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (5 days ago)
+  - [Replace NewIndexerInformerWatcher with NewIndexerInformerWatcherWithLogger](https://github.com/kubernetes/kubernetes/pull/134018) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
   - [[release-2.28] Add proxy_env to cilium install task for proxy](https://github.com/kubernetes-sigs/kubespray/pull/12530) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Releng: Galaxy version to 2.28.2](https://github.com/kubernetes-sigs/kubespray/pull/12525) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [Replace apimachinery/pkg/watch.NewFake with NewFakeWithOptions in pkg/controller](https://github.com/kubernetes/kubernetes/pull/133797) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
@@ -70,8 +70,8 @@
 
   #### ⭐ Recent Stars
   
-  - [documentdb/documentdb](https://github.com/documentdb/documentdb) - MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, and developer productivity. (2 weeks ago)
-  - [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - Native, Apple Silicon–only local LLM server. Similar to Ollama, but built on Apple&#39;s MLX for maximum performance on M‑series chips. SwiftUI app &#43; SwiftNIO server with OpenAI‑compatible endpoints. (2 weeks ago)
+  - [documentdb/documentdb](https://github.com/documentdb/documentdb) - MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, and developer productivity. (3 weeks ago)
+  - [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - Native, Apple Silicon–only local LLM server. Similar to Ollama, but built on Apple&#39;s MLX for maximum performance on M‑series chips. SwiftUI app &#43; SwiftNIO server with OpenAI‑compatible endpoints. (3 weeks ago)
   - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (3 weeks ago)
   - [ray-project/kuberay](https://github.com/ray-project/kuberay) - A toolkit to run Ray applications on Kubernetes (1 month ago)
   - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS. (3 months ago)
