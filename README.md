@@ -58,6 +58,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Add 1.35 Release Signal shadows to appropriate mailing lists](https://github.com/kubernetes/k8s.io/pull/8556) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
   - [Add v1.35 Release Signal shadows to the team](https://github.com/kubernetes/sig-release/pull/2879) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (today)
   - [Replace reflector.Run with reflector.RunWithContext in kubelet](https://github.com/kubernetes/kubernetes/pull/134163) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (5 days ago)
   - [Update release-team.svg](https://github.com/kubernetes/sig-release/pull/2872) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (1 week ago)
@@ -67,7 +68,6 @@
   - [[release-2.28] Add proxy_env to cilium install task for proxy](https://github.com/kubernetes-sigs/kubespray/pull/12530) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [Releng: Galaxy version to 2.28.2](https://github.com/kubernetes-sigs/kubespray/pull/12525) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
   - [Replace apimachinery/pkg/watch.NewFake with NewFakeWithOptions in pkg/controller](https://github.com/kubernetes/kubernetes/pull/133797) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 weeks ago)
-  - [[release-2.28] Fix: constant etcd_supported_version to dynamic](https://github.com/kubernetes-sigs/kubespray/pull/12499) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
 
   #### ⭐ Recent Stars
   
