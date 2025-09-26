@@ -49,9 +49,9 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.8.0-alpha.2](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.8.0-alpha.2), today) - Cloud provider for KIND clusters
   - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.84.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.84.0), 4 days ago) - Terraform / OpenTofu Provider for Proxmox VE
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.31.13](https://github.com/kubernetes/kubernetes/releases/tag/v1.31.13), 2 weeks ago) - Production-Grade Container Scheduling and Management
-  - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.8.0-alpha.1](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.8.0-alpha.1), 2 weeks ago) - Cloud provider for KIND clusters
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.28.1](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.28.1), 1 month ago) - Deploy a Production Ready Kubernetes Cluster
   - [cilium/tetragon](https://github.com/cilium/tetragon) ([v1.5.0](https://github.com/cilium/tetragon/releases/tag/v1.5.0), 1 month ago) - eBPF-based Security Observability and Runtime Enforcement
   - [coredns/deployment](https://github.com/coredns/deployment) ([coredns-1.14.0](https://github.com/coredns/deployment/releases/tag/coredns-1.14.0), 4 years ago) - Scripts, utilities, and examples for deploying CoreDNS.
