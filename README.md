@@ -58,6 +58,8 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Update the Release Signal 1.35 members](https://github.com/kubernetes/org/pull/5883) on [kubernetes/org](https://github.com/kubernetes/org) (today)
+  - [Feat: cilium routing mode setting](https://github.com/kubernetes-sigs/kubespray/pull/12588) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [Add 1.35 Release Signal shadows to appropriate mailing lists](https://github.com/kubernetes/k8s.io/pull/8556) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
   - [Add v1.35 Release Signal shadows to the team](https://github.com/kubernetes/sig-release/pull/2879) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (5 days ago)
   - [Replace reflector.Run with reflector.RunWithContext in kubelet](https://github.com/kubernetes/kubernetes/pull/134163) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
@@ -66,8 +68,6 @@
   - [Replace JitterUntil with JitterUntilWithContext](https://github.com/kubernetes/kubernetes/pull/134053) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
   - [Replace NewIndexerInformerWatcher with NewIndexerInformerWatcherWithLogger](https://github.com/kubernetes/kubernetes/pull/134018) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
   - [[release-2.28] Add proxy_env to cilium install task for proxy](https://github.com/kubernetes-sigs/kubespray/pull/12530) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
-  - [Releng: Galaxy version to 2.28.2](https://github.com/kubernetes-sigs/kubespray/pull/12525) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
-  - [Replace apimachinery/pkg/watch.NewFake with NewFakeWithOptions in pkg/controller](https://github.com/kubernetes/kubernetes/pull/133797) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (4 weeks ago)
 
   #### ⭐ Recent Stars
   
