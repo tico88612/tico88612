@@ -23,11 +23,11 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (today)
-  - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (6 days ago)
+  - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 day ago)
+  - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (1 week ago)
   - [cloud-native-taiwan/i.kcd.taipei](https://github.com/cloud-native-taiwan/i.kcd.taipei) - Shorten URL for KCD Taipei (1 week ago)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (2 weeks ago)
-  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 weeks ago)
+  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (3 weeks ago)
   - [kubernetes/enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes (2 months ago)
   - [tico88612/devstats-card](https://github.com/tico88612/devstats-card) - Your CNCF DevStats Card (2 months ago)
   - [kubernetes/apimachinery](https://github.com/kubernetes/apimachinery) -  (3 months ago)
@@ -49,21 +49,21 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.84.1](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.84.1), 1 day ago) - Terraform / OpenTofu Provider for Proxmox VE
-  - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.8.0-alpha.2](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.8.0-alpha.2), 4 days ago) - Cloud provider for KIND clusters
-  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.31.13](https://github.com/kubernetes/kubernetes/releases/tag/v1.31.13), 2 weeks ago) - Production-Grade Container Scheduling and Management
+  - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.84.1](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.84.1), 2 days ago) - Terraform / OpenTofu Provider for Proxmox VE
+  - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.8.0-alpha.2](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.8.0-alpha.2), 5 days ago) - Cloud provider for KIND clusters
+  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.31.13](https://github.com/kubernetes/kubernetes/releases/tag/v1.31.13), 3 weeks ago) - Production-Grade Container Scheduling and Management
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.28.1](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.28.1), 1 month ago) - Deploy a Production Ready Kubernetes Cluster
   - [cilium/tetragon](https://github.com/cilium/tetragon) ([v1.5.0](https://github.com/cilium/tetragon/releases/tag/v1.5.0), 2 months ago) - eBPF-based Security Observability and Runtime Enforcement
   - [coredns/deployment](https://github.com/coredns/deployment) ([coredns-1.14.0](https://github.com/coredns/deployment/releases/tag/coredns-1.14.0), 4 years ago) - Scripts, utilities, and examples for deploying CoreDNS.
 
   #### 🔨 My recent Pull Requests
   
-  - [Update the Release Signal 1.35 members](https://github.com/kubernetes/org/pull/5883) on [kubernetes/org](https://github.com/kubernetes/org) (1 day ago)
-  - [Feat: cilium routing mode setting](https://github.com/kubernetes-sigs/kubespray/pull/12588) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 day ago)
-  - [Add 1.35 Release Signal shadows to appropriate mailing lists](https://github.com/kubernetes/k8s.io/pull/8556) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
-  - [Add v1.35 Release Signal shadows to the team](https://github.com/kubernetes/sig-release/pull/2879) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (6 days ago)
+  - [Update the Release Signal 1.35 members](https://github.com/kubernetes/org/pull/5883) on [kubernetes/org](https://github.com/kubernetes/org) (2 days ago)
+  - [Feat: cilium routing mode setting](https://github.com/kubernetes-sigs/kubespray/pull/12588) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 days ago)
+  - [Add 1.35 Release Signal shadows to appropriate mailing lists](https://github.com/kubernetes/k8s.io/pull/8556) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
+  - [Add v1.35 Release Signal shadows to the team](https://github.com/kubernetes/sig-release/pull/2879) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (1 week ago)
   - [Replace reflector.Run with reflector.RunWithContext in kubelet](https://github.com/kubernetes/kubernetes/pull/134163) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
-  - [Update release-team.svg](https://github.com/kubernetes/sig-release/pull/2872) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (1 week ago)
+  - [Update release-team.svg](https://github.com/kubernetes/sig-release/pull/2872) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (2 weeks ago)
   - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/12553) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [Replace JitterUntil with JitterUntilWithContext](https://github.com/kubernetes/kubernetes/pull/134053) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
   - [Replace NewIndexerInformerWatcher with NewIndexerInformerWatcherWithLogger](https://github.com/kubernetes/kubernetes/pull/134018) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
