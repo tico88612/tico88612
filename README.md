@@ -23,11 +23,11 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (6 days ago)
-  - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (6 days ago)
+  - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 week ago)
+  - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (1 week ago)
   - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (1 week ago)
   - [cloud-native-taiwan/i.kcd.taipei](https://github.com/cloud-native-taiwan/i.kcd.taipei) - Shorten URL for KCD Taipei (2 weeks ago)
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (2 weeks ago)
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (3 weeks ago)
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (3 weeks ago)
   - [kubernetes/enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes (2 months ago)
   - [tico88612/devstats-card](https://github.com/tico88612/devstats-card) - Your CNCF DevStats Card (2 months ago)
@@ -58,7 +58,8 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/12602) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
+  - [Revert &#34;etcd: Update etcd to v3.6.5&#34;](https://github.com/kubernetes/kubernetes/pull/134447) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
+  - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/12602) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 day ago)
   - [Update the Release Signal 1.35 members](https://github.com/kubernetes/org/pull/5883) on [kubernetes/org](https://github.com/kubernetes/org) (1 week ago)
   - [Feat: cilium routing mode setting](https://github.com/kubernetes-sigs/kubespray/pull/12588) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Add 1.35 Release Signal shadows to appropriate mailing lists](https://github.com/kubernetes/k8s.io/pull/8556) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
@@ -67,7 +68,6 @@
   - [Update release-team.svg](https://github.com/kubernetes/sig-release/pull/2872) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (2 weeks ago)
   - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/12553) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
   - [Replace JitterUntil with JitterUntilWithContext](https://github.com/kubernetes/kubernetes/pull/134053) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 weeks ago)
-  - [Replace NewIndexerInformerWatcher with NewIndexerInformerWatcherWithLogger](https://github.com/kubernetes/kubernetes/pull/134018) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 weeks ago)
 
   #### ⭐ Recent Stars
   
