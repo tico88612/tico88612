@@ -4,18 +4,18 @@
 
 ![](https://komarev.com/ghpvc/?username=tico88612&color=brightgreen&style=for-the-badge)
 
-- 🧑‍💻 IT/SRE @ Hualien, Taiwan
+- 🧑‍💻 SRE @ Taiwan
 - 🐳 Kubernetes, Container, Golang
-- 🤝 Community Outreach
-  - [Kubestronaut](https://www.cncf.io/training/kubestronaut/?p=chenghao-yang)
-  - [CNCF Ambassador](https://www.cncf.io/people/ambassadors/?p=chenghao-yang) (H1 2024)
-  - [Cloud Native Taiwan User Group](https://cloudnative.tw) Co-Organizer
-  - [KCD Taipei 2024](https://kcd.taipei/2024) Co-organizer
-  - [KCD Taipei 2025](https://kcd.taipei/2025) Lead Organizer
-- 💻 Open Source Maintenance
+- 💻 Open Source Contributions
   - Maintainer @ [Kubespray](https://kubespray.io/)
   - Release Signal Lead @ [Kubernetes](https://kubernetes.io) v1.35
   - Release Signal Shadow @ [Kubernetes](https://kubernetes.io) v1.32 ~ v1.34
+- 🤝 Community Outreach
+  - [Kubestronaut](https://www.cncf.io/training/kubestronaut/?p=chenghao-yang)
+  - [CNCF Ambassador](https://www.cncf.io/people/ambassadors/?p=chenghao-yang) (H1 2024 ~ 2026)
+  - [Cloud Native Taiwan User Group](https://cloudnative.tw) Co-Organizer
+  - [KCD Taipei 2024](https://kcd.taipei/2024) Co-organizer
+  - [KCD Taipei 2025](https://kcd.taipei/2025) Lead Organizer
 - ❤️ Kagamine Rin
 
 <details>
@@ -58,6 +58,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Set timezone as UTC](https://github.com/knabben/signalhound/pull/3) on [knabben/signalhound](https://github.com/knabben/signalhound) (today)
   - [Revert &#34;etcd: Update etcd to v3.6.5&#34;](https://github.com/kubernetes/kubernetes/pull/134447) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
   - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/12602) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 day ago)
   - [Update the Release Signal 1.35 members](https://github.com/kubernetes/org/pull/5883) on [kubernetes/org](https://github.com/kubernetes/org) (1 week ago)
@@ -67,7 +68,6 @@
   - [Replace reflector.Run with reflector.RunWithContext in kubelet](https://github.com/kubernetes/kubernetes/pull/134163) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
   - [Update release-team.svg](https://github.com/kubernetes/sig-release/pull/2872) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (2 weeks ago)
   - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/12553) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
-  - [Replace JitterUntil with JitterUntilWithContext](https://github.com/kubernetes/kubernetes/pull/134053) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 weeks ago)
 
   #### ⭐ Recent Stars
   
