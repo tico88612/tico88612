@@ -4,18 +4,18 @@
 
 ![](https://komarev.com/ghpvc/?username=tico88612&color=brightgreen&style=for-the-badge)
 
-- 🧑‍💻 IT/SRE @ Hualien, Taiwan
+- 🧑‍💻 SRE @ Taiwan
 - 🐳 Kubernetes, Container, Golang
-- 🤝 Community Outreach
-  - [Kubestronaut](https://www.cncf.io/training/kubestronaut/?p=chenghao-yang)
-  - [CNCF Ambassador](https://www.cncf.io/people/ambassadors/?p=chenghao-yang) (H1 2024)
-  - [Cloud Native Taiwan User Group](https://cloudnative.tw) Co-Organizer
-  - [KCD Taipei 2024](https://kcd.taipei/2024) Co-organizer
-  - [KCD Taipei 2025](https://kcd.taipei/2025) Lead Organizer
-- 💻 Open Source Maintenance
+- 💻 Open Source Contributions
   - Maintainer @ [Kubespray](https://kubespray.io/)
   - Release Signal Lead @ [Kubernetes](https://kubernetes.io) v1.35
   - Release Signal Shadow @ [Kubernetes](https://kubernetes.io) v1.32 ~ v1.34
+- 🤝 Community Outreach
+  - [Kubestronaut](https://www.cncf.io/training/kubestronaut/?p=chenghao-yang)
+  - [CNCF Ambassador](https://www.cncf.io/people/ambassadors/?p=chenghao-yang) (H1 2024 ~ 2026)
+  - [Cloud Native Taiwan User Group](https://cloudnative.tw) Co-Organizer
+  - [KCD Taipei 2024](https://kcd.taipei/2024) Co-organizer
+  - [KCD Taipei 2025](https://kcd.taipei/2025) Lead Organizer
 - ❤️ Kagamine Rin
 
 <details>
