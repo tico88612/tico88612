@@ -23,7 +23,7 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (1 week ago)
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (today)
   - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (2 weeks ago)
   - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (2 weeks ago)
   - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (2 weeks ago)
@@ -49,6 +49,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.29.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.29.0), today) - Deploy a Production Ready Kubernetes Cluster
   - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.85.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.85.0), 2 days ago) - Terraform / OpenTofu Provider for Proxmox VE
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.8.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.8.0), 4 days ago) - Cloud provider for KIND clusters
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0-alpha.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0-alpha.1), 6 days ago) - Production-Grade Container Scheduling and Management
@@ -57,6 +58,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Releng: bump galaxy version 2.30.0](https://github.com/kubernetes-sigs/kubespray/pull/12622) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [Docs: bump version to 2.29.0](https://github.com/kubernetes-sigs/kubespray/pull/12621) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [Set timezone as UTC](https://github.com/knabben/signalhound/pull/3) on [knabben/signalhound](https://github.com/knabben/signalhound) (1 week ago)
   - [Revert &#34;etcd: Update etcd to v3.6.5&#34;](https://github.com/kubernetes/kubernetes/pull/134447) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
@@ -66,7 +68,6 @@
   - [Add 1.35 Release Signal shadows to appropriate mailing lists](https://github.com/kubernetes/k8s.io/pull/8556) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
   - [Add v1.35 Release Signal shadows to the team](https://github.com/kubernetes/sig-release/pull/2879) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (2 weeks ago)
   - [Replace reflector.Run with reflector.RunWithContext in kubelet](https://github.com/kubernetes/kubernetes/pull/134163) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 weeks ago)
-  - [Update release-team.svg](https://github.com/kubernetes/sig-release/pull/2872) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (3 weeks ago)
 
   #### ⭐ Recent Stars
   
