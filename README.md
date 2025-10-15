@@ -72,7 +72,7 @@
   #### ⭐ Recent Stars
   
   - [documentdb/documentdb](https://github.com/documentdb/documentdb) - MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, and developer productivity. (1 month ago)
-  - [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - Native, Apple Silicon–only local LLM server. Similar to Ollama, but built on Apple&#39;s MLX for maximum performance on M‑series chips. SwiftUI app &#43; SwiftNIO server with OpenAI‑compatible endpoints. (1 month ago)
+  - [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - Native Apple Silicon LLM server on MLX with menu bar UI &#43; CLI. OpenAI &amp; Ollama compatible. Supports Apple Foundation Models (Apple Intelligence on macOS 26). (1 month ago)
   - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (1 month ago)
   - [ray-project/kuberay](https://github.com/ray-project/kuberay) - A toolkit to run Ray applications on Kubernetes (2 months ago)
   - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS. (4 months ago)
