@@ -49,13 +49,13 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0-alpha.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0-alpha.2), today) - Production-Grade Container Scheduling and Management
-  - [cilium/tetragon](https://github.com/cilium/tetragon) ([v1.6.0-rc.1](https://github.com/cilium/tetragon/releases/tag/v1.6.0-rc.1), today) - eBPF-based Security Observability and Runtime Enforcement
+  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0-alpha.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0-alpha.2), 1 day ago) - Production-Grade Container Scheduling and Management
+  - [cilium/tetragon](https://github.com/cilium/tetragon) ([v1.6.0-rc.1](https://github.com/cilium/tetragon/releases/tag/v1.6.0-rc.1), 1 day ago) - eBPF-based Security Observability and Runtime Enforcement
   - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.85.1](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.85.1), 1 week ago) - Terraform / OpenTofu Provider for Proxmox VE
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.29.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.29.0), 1 week ago) - Deploy a Production Ready Kubernetes Cluster
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.8.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.8.0), 1 week ago) - Cloud provider for KIND clusters
   - [knabben/signalhound](https://github.com/knabben/signalhound) ([0.0.1](https://github.com/knabben/signalhound/releases/tag/0.0.1), 1 month ago) - Hunts Flake And Failing Testgrid Jobs 
-  - [coredns/deployment](https://github.com/coredns/deployment) ([coredns-1.14.0](https://github.com/coredns/deployment/releases/tag/coredns-1.14.0), 4 years ago) - Scripts, utilities, and examples for deploying CoreDNS.
+  - [coredns/deployment](https://github.com/coredns/deployment) ([coredns-1.14.0](https://github.com/coredns/deployment/releases/tag/coredns-1.14.0), 5 years ago) - Scripts, utilities, and examples for deploying CoreDNS.
 
   #### 🔨 My recent Pull Requests
   
