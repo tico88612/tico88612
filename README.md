@@ -55,7 +55,6 @@
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.29.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.29.0), 1 week ago) - Deploy a Production Ready Kubernetes Cluster
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.8.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.8.0), 2 weeks ago) - Cloud provider for KIND clusters
   - [knabben/signalhound](https://github.com/knabben/signalhound) ([0.0.1](https://github.com/knabben/signalhound/releases/tag/0.0.1), 1 month ago) - Hunts Flake And Failing Testgrid Jobs 
-  - [coredns/deployment](https://github.com/coredns/deployment) ([coredns-1.14.0](https://github.com/coredns/deployment/releases/tag/coredns-1.14.0), 5 years ago) - Scripts, utilities, and examples for deploying CoreDNS.
 
   #### 🔨 My recent Pull Requests
   
