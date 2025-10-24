@@ -59,6 +59,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [[release-2.29] Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/12646) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [[release-2.29] Releng: galaxy version to 2.29.1](https://github.com/kubernetes-sigs/kubespray/pull/12645) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [Releng: bump galaxy version 2.30.0](https://github.com/kubernetes-sigs/kubespray/pull/12622) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Docs: bump version to 2.29.0](https://github.com/kubernetes-sigs/kubespray/pull/12621) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
@@ -68,7 +69,6 @@
   - [Update the Release Signal 1.35 members](https://github.com/kubernetes/org/pull/5883) on [kubernetes/org](https://github.com/kubernetes/org) (3 weeks ago)
   - [Feat: cilium routing mode setting](https://github.com/kubernetes-sigs/kubespray/pull/12588) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
   - [Add 1.35 Release Signal shadows to appropriate mailing lists](https://github.com/kubernetes/k8s.io/pull/8556) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
-  - [Add v1.35 Release Signal shadows to the team](https://github.com/kubernetes/sig-release/pull/2879) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (1 month ago)
 
   #### ⭐ Recent Stars
   
