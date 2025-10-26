@@ -71,6 +71,7 @@
 
   #### ⭐ Recent Stars
   
+  - [linagora/twake-drive](https://github.com/linagora/twake-drive) - The open-source alternative to Google Drive.  (today)
   - [documentdb/documentdb](https://github.com/documentdb/documentdb) - MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, and developer productivity. (1 month ago)
   - [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - Native Apple Silicon LLM server on MLX with menu bar UI &#43; CLI. OpenAI &amp; Ollama compatible. Supports Apple Foundation Models (Apple Intelligence on macOS 26). (1 month ago)
   - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (2 months ago)
@@ -80,7 +81,6 @@
   - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (4 months ago)
   - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website &amp; Blog Theme for Hugo (6 months ago)
   - [srl-labs/containerlab](https://github.com/srl-labs/containerlab) - container-based networking labs (6 months ago)
-  - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript (7 months ago)
 
   #### 👯 Check out some of my recent followers
   
