@@ -49,8 +49,8 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.86.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.86.0), 5 days ago) - Terraform / OpenTofu Provider for Proxmox VE
-  - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.9.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.9.0), 6 days ago) - Cloud provider for KIND clusters
+  - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.86.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.86.0), 6 days ago) - Terraform / OpenTofu Provider for Proxmox VE
+  - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.9.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.9.0), 1 week ago) - Cloud provider for KIND clusters
   - [cilium/tetragon](https://github.com/cilium/tetragon) ([v1.6.0](https://github.com/cilium/tetragon/releases/tag/v1.6.0), 1 week ago) - eBPF-based Security Observability and Runtime Enforcement
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0-alpha.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0-alpha.2), 1 week ago) - Production-Grade Container Scheduling and Management
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.29.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.29.0), 2 weeks ago) - Deploy a Production Ready Kubernetes Cluster
@@ -64,7 +64,7 @@
   - [Docs: bump version to 2.29.0](https://github.com/kubernetes-sigs/kubespray/pull/12621) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [Set timezone as UTC](https://github.com/knabben/signalhound/pull/3) on [knabben/signalhound](https://github.com/knabben/signalhound) (3 weeks ago)
   - [Revert &#34;etcd: Update etcd to v3.6.5&#34;](https://github.com/kubernetes/kubernetes/pull/134447) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 weeks ago)
-  - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/12602) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
+  - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/12602) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 weeks ago)
   - [Update the Release Signal 1.35 members](https://github.com/kubernetes/org/pull/5883) on [kubernetes/org](https://github.com/kubernetes/org) (1 month ago)
   - [Feat: cilium routing mode setting](https://github.com/kubernetes-sigs/kubespray/pull/12588) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Add 1.35 Release Signal shadows to appropriate mailing lists](https://github.com/kubernetes/k8s.io/pull/8556) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
