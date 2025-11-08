@@ -58,6 +58,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/12678) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [Bump Sonobuoy to 0.57.3](https://github.com/kubernetes-sigs/kubespray/pull/12673) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 day ago)
   - [Test: check nologin files are gone](https://github.com/kubernetes-sigs/kubespray/pull/12670) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 days ago)
   - [[release-2.29] Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/12646) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
@@ -67,7 +68,6 @@
   - [Set timezone as UTC](https://github.com/knabben/signalhound/pull/3) on [knabben/signalhound](https://github.com/knabben/signalhound) (1 month ago)
   - [Revert &#34;etcd: Update etcd to v3.6.5&#34;](https://github.com/kubernetes/kubernetes/pull/134447) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 month ago)
   - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/12602) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
-  - [Update the Release Signal 1.35 members](https://github.com/kubernetes/org/pull/5883) on [kubernetes/org](https://github.com/kubernetes/org) (1 month ago)
 
   #### ⭐ Recent Stars
   
