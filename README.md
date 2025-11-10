@@ -71,6 +71,7 @@
 
   #### ⭐ Recent Stars
   
+  - [kubernetes-sigs/signalhound](https://github.com/kubernetes-sigs/signalhound) - Signalhound monitors TestGrid dashboards to identify and summarize test failures and flaking patterns in Kubernetes CI/CD pipelines.  (today)
   - [linagora/twake-drive](https://github.com/linagora/twake-drive) - The open-source alternative to Google Drive.  (2 weeks ago)
   - [documentdb/documentdb](https://github.com/documentdb/documentdb) - MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, and developer productivity. (2 months ago)
   - [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - Native Apple Silicon LLM server on MLX with chat UI, menu bar app, and CLI. OpenAI &amp; Ollama compatible. Supports Apple Foundation Models. (2 months ago)
@@ -80,7 +81,6 @@
   - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (5 months ago)
   - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (5 months ago)
   - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website &amp; Blog Theme for Hugo (6 months ago)
-  - [srl-labs/containerlab](https://github.com/srl-labs/containerlab) - container-based networking labs (6 months ago)
 
   #### 👯 Check out some of my recent followers
   
