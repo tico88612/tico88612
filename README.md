@@ -58,6 +58,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Fix TestCLICreateCommand failing test](https://github.com/apple/container/pull/897) on [apple/container](https://github.com/apple/container) (today)
   - [Feat: Gateway API auto bump](https://github.com/kubernetes-sigs/kubespray/pull/12714) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 days ago)
   - [Update Release 1.35 Team Branch Manager &amp; Shadows](https://github.com/kubernetes/sig-release/pull/2909) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (2 days ago)
   - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/12678) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
@@ -67,7 +68,6 @@
   - [[release-2.29] Releng: galaxy version to 2.29.1](https://github.com/kubernetes-sigs/kubespray/pull/12645) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
   - [Releng: bump galaxy version 2.30.0](https://github.com/kubernetes-sigs/kubespray/pull/12622) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Docs: bump version to 2.29.0](https://github.com/kubernetes-sigs/kubespray/pull/12621) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
-  - [Set timezone as UTC](https://github.com/knabben/signalhound/pull/3) on [knabben/signalhound](https://github.com/knabben/signalhound) (1 month ago)
 
   #### ⭐ Recent Stars
   
