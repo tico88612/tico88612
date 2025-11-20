@@ -49,8 +49,8 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.87.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.87.0), today) - Terraform / OpenTofu Provider for Proxmox VE
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0-beta.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0-beta.0), 1 day ago) - Production-Grade Container Scheduling and Management
-  - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.86.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.86.0), 3 weeks ago) - Terraform / OpenTofu Provider for Proxmox VE
   - [apple/container](https://github.com/apple/container) ([0.6.0](https://github.com/apple/container/releases/tag/0.6.0), 3 weeks ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.9.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.9.0), 3 weeks ago) - Cloud provider for KIND clusters
   - [cilium/tetragon](https://github.com/cilium/tetragon) ([v1.6.0](https://github.com/cilium/tetragon/releases/tag/v1.6.0), 4 weeks ago) - eBPF-based Security Observability and Runtime Enforcement
