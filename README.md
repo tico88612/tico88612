@@ -74,7 +74,7 @@
   
   - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations (1 week ago)
   - [kubernetes-sigs/signalhound](https://github.com/kubernetes-sigs/signalhound) - Signalhound monitors TestGrid dashboards to identify and summarize test failures and flaking patterns in Kubernetes CI/CD pipelines.  (1 week ago)
-  - [linagora/twake-drive](https://github.com/linagora/twake-drive) - The open-source alternative to Google Drive.  (3 weeks ago)
+  - [linagora/twake-drive-legacy](https://github.com/linagora/twake-drive-legacy) - The open-source alternative to Google Drive.  (3 weeks ago)
   - [documentdb/documentdb](https://github.com/documentdb/documentdb) - MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, and developer productivity. (2 months ago)
   - [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - Native Apple Silicon LLM server on MLX with chat UI, menu bar app, and CLI. OpenAI &amp; Ollama compatible. Supports Apple Foundation Models. (2 months ago)
   - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (2 months ago)
