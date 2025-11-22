@@ -59,6 +59,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Fix: bad request will remove header and retry login](https://github.com/apple/containerization/pull/429) on [apple/containerization](https://github.com/apple/containerization) (today)
   - [Implement container prune](https://github.com/apple/container/pull/904) on [apple/container](https://github.com/apple/container) (2 days ago)
   - [Fix TestCLICreateCommand failing test](https://github.com/apple/container/pull/897) on [apple/container](https://github.com/apple/container) (4 days ago)
   - [Feat: Gateway API auto bump](https://github.com/kubernetes-sigs/kubespray/pull/12714) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (6 days ago)
@@ -68,13 +69,12 @@
   - [Test: check nologin files are gone](https://github.com/kubernetes-sigs/kubespray/pull/12670) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [[release-2.29] Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/12646) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 weeks ago)
   - [[release-2.29] Releng: galaxy version to 2.29.1](https://github.com/kubernetes-sigs/kubespray/pull/12645) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 weeks ago)
-  - [Releng: bump galaxy version 2.30.0](https://github.com/kubernetes-sigs/kubespray/pull/12622) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
 
   #### ⭐ Recent Stars
   
   - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations (1 week ago)
   - [kubernetes-sigs/signalhound](https://github.com/kubernetes-sigs/signalhound) - Signalhound monitors TestGrid dashboards to identify and summarize test failures and flaking patterns in Kubernetes CI/CD pipelines.  (1 week ago)
-  - [linagora/twake-drive-legacy](https://github.com/linagora/twake-drive-legacy) - The open-source alternative to Google Drive.  (3 weeks ago)
+  - [linagora/twake-drive-legacy](https://github.com/linagora/twake-drive-legacy) - LEGACY: The open-source alternative to Google Drive.  (3 weeks ago)
   - [documentdb/documentdb](https://github.com/documentdb/documentdb) - MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, and developer productivity. (2 months ago)
   - [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - Native Apple Silicon LLM server on MLX with chat UI, menu bar app, and CLI. OpenAI &amp; Ollama compatible. Supports Apple Foundation Models. (2 months ago)
   - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (2 months ago)
