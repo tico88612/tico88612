@@ -86,10 +86,10 @@
   #### 👯 Check out some of my recent followers
   
   - [ilgaur](https://github.com/ilgaur)
-  - [XiaomingX](https://github.com/XiaomingX)
   - [Narwhal-fish](https://github.com/Narwhal-fish)
   - [legitYosal](https://github.com/legitYosal)
   - [Piwriw](https://github.com/Piwriw)
+  - [leonzchang](https://github.com/leonzchang)
 </details>
 
 <a href="https://github.com/tico88612/devstats-card"><img src="https://devstats.me/?username=tico88612" /></a>
