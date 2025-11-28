@@ -59,6 +59,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Test: refactor check-network to hydrophone](https://github.com/kubernetes-sigs/kubespray/pull/12754) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [Fix: bad request will remove header and retry login](https://github.com/apple/containerization/pull/429) on [apple/containerization](https://github.com/apple/containerization) (6 days ago)
   - [Implement container prune](https://github.com/apple/container/pull/904) on [apple/container](https://github.com/apple/container) (1 week ago)
   - [Fix TestCLICreateCommand failing test](https://github.com/apple/container/pull/897) on [apple/container](https://github.com/apple/container) (1 week ago)
@@ -68,7 +69,6 @@
   - [Bump Sonobuoy to 0.57.3](https://github.com/kubernetes-sigs/kubespray/pull/12673) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
   - [Test: check nologin files are gone](https://github.com/kubernetes-sigs/kubespray/pull/12670) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
   - [[release-2.29] Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/12646) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
-  - [[release-2.29] Releng: galaxy version to 2.29.1](https://github.com/kubernetes-sigs/kubespray/pull/12645) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
 
   #### ⭐ Recent Stars
   
