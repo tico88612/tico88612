@@ -49,10 +49,10 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0-rc.0), today) - Production-Grade Container Scheduling and Management
   - [apple/container](https://github.com/apple/container) ([0.7.0](https://github.com/apple/container/releases/tag/0.7.0), today) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
   - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.88.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.88.0), 2 days ago) - Terraform / OpenTofu Provider for Proxmox VE
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.10.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.10.0), 4 days ago) - Cloud provider for KIND clusters
-  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0-beta.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0-beta.0), 2 weeks ago) - Production-Grade Container Scheduling and Management
   - [cilium/tetragon](https://github.com/cilium/tetragon) ([v1.6.0](https://github.com/cilium/tetragon/releases/tag/v1.6.0), 1 month ago) - eBPF-based Security Observability and Runtime Enforcement
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.29.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.29.0), 1 month ago) - Deploy a Production Ready Kubernetes Cluster
   - [knabben/signalhound](https://github.com/knabben/signalhound) ([0.0.1](https://github.com/knabben/signalhound/releases/tag/0.0.1), 2 months ago) - Hunts Flake And Failing Testgrid Jobs 
