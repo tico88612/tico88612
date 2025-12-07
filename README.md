@@ -25,7 +25,7 @@
   
   - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (2 weeks ago)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (2 weeks ago)
-  - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (2 weeks ago)
+  - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (3 weeks ago)
   - [knabben/signalhound](https://github.com/knabben/signalhound) - Hunts Flake And Failing Testgrid Jobs  (2 months ago)
   - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (2 months ago)
   - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (2 months ago)
@@ -49,9 +49,9 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.89.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.89.0), today) - Terraform / OpenTofu Provider for Proxmox VE
-  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0-rc.0), 3 days ago) - Production-Grade Container Scheduling and Management
-  - [apple/container](https://github.com/apple/container) ([0.7.0](https://github.com/apple/container/releases/tag/0.7.0), 3 days ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+  - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.89.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.89.0), 1 day ago) - Terraform / OpenTofu Provider for Proxmox VE
+  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0-rc.0), 4 days ago) - Production-Grade Container Scheduling and Management
+  - [apple/container](https://github.com/apple/container) ([0.7.0](https://github.com/apple/container/releases/tag/0.7.0), 4 days ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.10.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.10.0), 1 week ago) - Cloud provider for KIND clusters
   - [cilium/tetragon](https://github.com/cilium/tetragon) ([v1.6.0](https://github.com/cilium/tetragon/releases/tag/v1.6.0), 1 month ago) - eBPF-based Security Observability and Runtime Enforcement
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.29.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.29.0), 1 month ago) - Deploy a Production Ready Kubernetes Cluster
@@ -63,10 +63,10 @@
   - [Fix: bad request will remove header and retry login](https://github.com/apple/containerization/pull/429) on [apple/containerization](https://github.com/apple/containerization) (2 weeks ago)
   - [Implement container prune](https://github.com/apple/container/pull/904) on [apple/container](https://github.com/apple/container) (2 weeks ago)
   - [Fix TestCLICreateCommand failing test](https://github.com/apple/container/pull/897) on [apple/container](https://github.com/apple/container) (2 weeks ago)
-  - [Feat: Gateway API auto bump](https://github.com/kubernetes-sigs/kubespray/pull/12714) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
-  - [Update Release 1.35 Team Branch Manager &amp; Shadows](https://github.com/kubernetes/sig-release/pull/2909) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (2 weeks ago)
+  - [Feat: Gateway API auto bump](https://github.com/kubernetes-sigs/kubespray/pull/12714) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
+  - [Update Release 1.35 Team Branch Manager &amp; Shadows](https://github.com/kubernetes/sig-release/pull/2909) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (3 weeks ago)
   - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/12678) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 weeks ago)
-  - [Bump Sonobuoy to 0.57.3](https://github.com/kubernetes-sigs/kubespray/pull/12673) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 weeks ago)
+  - [Bump Sonobuoy to 0.57.3](https://github.com/kubernetes-sigs/kubespray/pull/12673) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Test: check nologin files are gone](https://github.com/kubernetes-sigs/kubespray/pull/12670) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [[release-2.29] Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/12646) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
 
@@ -79,8 +79,8 @@
   - [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - Native Apple Silicon LLM server with MCP support. OpenAI &amp; Ollama compatible APIs, tool calling, menu bar chat UI, and a plugin ecosystem. Built on MLX. Supports Apple Foundation Models. (3 months ago)
   - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (3 months ago)
   - [ray-project/kuberay](https://github.com/ray-project/kuberay) - A toolkit to run Ray applications on Kubernetes (3 months ago)
-  - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS. (5 months ago)
-  - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (5 months ago)
+  - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS. (6 months ago)
+  - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (6 months ago)
   - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (6 months ago)
 
   #### 👯 Check out some of my recent followers
