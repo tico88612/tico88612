@@ -59,7 +59,7 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [Fix broken testgrid 1.35-blocking gpu job](https://github.com/kubernetes/test-infra/pull/36043) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
+  - [Fix broken testgrid 1.35-blocking device-plugin job](https://github.com/kubernetes/test-infra/pull/36043) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
   - [Test: refactor check-network to hydrophone](https://github.com/kubernetes-sigs/kubespray/pull/12754) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Fix: bad request will remove header and retry login](https://github.com/apple/containerization/pull/429) on [apple/containerization](https://github.com/apple/containerization) (2 weeks ago)
   - [Implement container prune](https://github.com/apple/container/pull/904) on [apple/container](https://github.com/apple/container) (2 weeks ago)
