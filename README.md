@@ -49,6 +49,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), today) - Repo for SIG release
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.34.3](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.3), today) - Production-Grade Container Scheduling and Management
   - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.89.1](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.89.1), 1 day ago) - Terraform / OpenTofu Provider for Proxmox VE
   - [apple/container](https://github.com/apple/container) ([0.7.1](https://github.com/apple/container/releases/tag/0.7.1), 2 days ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
