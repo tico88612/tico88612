@@ -23,10 +23,10 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (5 days ago)
+  - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (6 days ago)
   - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (3 weeks ago)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (3 weeks ago)
-  - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (3 weeks ago)
+  - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (4 weeks ago)
   - [knabben/signalhound](https://github.com/knabben/signalhound) - Hunts Flake And Failing Testgrid Jobs  (2 months ago)
   - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (2 months ago)
   - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (2 months ago)
@@ -49,31 +49,31 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.29.1](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.29.1), 2 days ago) - Deploy a Production Ready Kubernetes Cluster
-  - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), 3 days ago) - Repo for SIG release
-  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.34.3](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.3), 3 days ago) - Production-Grade Container Scheduling and Management
-  - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.89.1](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.89.1), 4 days ago) - Terraform / OpenTofu Provider for Proxmox VE
-  - [apple/container](https://github.com/apple/container) ([0.7.1](https://github.com/apple/container/releases/tag/0.7.1), 5 days ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.29.1](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.29.1), 3 days ago) - Deploy a Production Ready Kubernetes Cluster
+  - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), 4 days ago) - Repo for SIG release
+  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.34.3](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.3), 4 days ago) - Production-Grade Container Scheduling and Management
+  - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.89.1](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.89.1), 5 days ago) - Terraform / OpenTofu Provider for Proxmox VE
+  - [apple/container](https://github.com/apple/container) ([0.7.1](https://github.com/apple/container/releases/tag/0.7.1), 6 days ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.10.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.10.0), 2 weeks ago) - Cloud provider for KIND clusters
   - [cilium/tetragon](https://github.com/cilium/tetragon) ([v1.6.0](https://github.com/cilium/tetragon/releases/tag/v1.6.0), 1 month ago) - eBPF-based Security Observability and Runtime Enforcement
   - [knabben/signalhound](https://github.com/knabben/signalhound) ([0.0.1](https://github.com/knabben/signalhound/releases/tag/0.0.1), 3 months ago) - Hunts Flake And Failing Testgrid Jobs 
 
   #### 🔨 My recent Pull Requests
   
-  - [[release-2.29] Releng: galaxy version to 2.29.2](https://github.com/kubernetes-sigs/kubespray/pull/12786) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 days ago)
-  - [[release-2.29] Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/12782) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 days ago)
-  - [Fix broken testgrid 1.35-blocking device-plugin job](https://github.com/kubernetes/test-infra/pull/36043) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
+  - [[release-2.29] Releng: galaxy version to 2.29.2](https://github.com/kubernetes-sigs/kubespray/pull/12786) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 days ago)
+  - [[release-2.29] Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/12782) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 days ago)
+  - [Fix broken testgrid 1.35-blocking device-plugin job](https://github.com/kubernetes/test-infra/pull/36043) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
   - [Test: refactor check-network to hydrophone](https://github.com/kubernetes-sigs/kubespray/pull/12754) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [Fix: bad request will remove header and retry login](https://github.com/apple/containerization/pull/429) on [apple/containerization](https://github.com/apple/containerization) (3 weeks ago)
   - [Implement container prune](https://github.com/apple/container/pull/904) on [apple/container](https://github.com/apple/container) (3 weeks ago)
   - [Fix TestCLICreateCommand failing test](https://github.com/apple/container/pull/897) on [apple/container](https://github.com/apple/container) (3 weeks ago)
-  - [Feat: Gateway API auto bump](https://github.com/kubernetes-sigs/kubespray/pull/12714) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
-  - [Update Release 1.35 Team Branch Manager &amp; Shadows](https://github.com/kubernetes/sig-release/pull/2909) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (3 weeks ago)
+  - [Feat: Gateway API auto bump](https://github.com/kubernetes-sigs/kubespray/pull/12714) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 weeks ago)
+  - [Update Release 1.35 Team Branch Manager &amp; Shadows](https://github.com/kubernetes/sig-release/pull/2909) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (4 weeks ago)
   - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/12678) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
 
   #### ⭐ Recent Stars
   
-  - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers (6 days ago)
+  - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers (1 week ago)
   - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations (1 month ago)
   - [kubernetes-sigs/signalhound](https://github.com/kubernetes-sigs/signalhound) - Signalhound monitors TestGrid dashboards to identify and summarize test failures and flaking patterns in Kubernetes CI/CD pipelines.  (1 month ago)
   - [linagora/twake-drive-legacy](https://github.com/linagora/twake-drive-legacy) - LEGACY: The open-source alternative to Google Drive.  (1 month ago)
@@ -86,11 +86,11 @@
 
   #### 👯 Check out some of my recent followers
   
+  - [Gabrieliam42](https://github.com/Gabrieliam42)
   - [400Ping](https://github.com/400Ping)
   - [Windfarer](https://github.com/Windfarer)
   - [thc1006](https://github.com/thc1006)
   - [Payback159](https://github.com/Payback159)
-  - [ilgaur](https://github.com/ilgaur)
 </details>
 
 <a href="https://github.com/tico88612/devstats-card"><img src="https://devstats.me/?username=tico88612" /></a>
