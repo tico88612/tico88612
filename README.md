@@ -86,11 +86,11 @@
 
   #### 👯 Check out some of my recent followers
   
-  - [Gabrieliam42](https://github.com/Gabrieliam42)
   - [400Ping](https://github.com/400Ping)
   - [Windfarer](https://github.com/Windfarer)
   - [thc1006](https://github.com/thc1006)
   - [Payback159](https://github.com/Payback159)
+  - [ilgaur](https://github.com/ilgaur)
 </details>
 
 <a href="https://github.com/tico88612/devstats-card"><img src="https://devstats.me/?username=tico88612" /></a>
