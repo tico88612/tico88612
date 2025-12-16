@@ -49,9 +49,9 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.11](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.11), today) - Production-Grade Container Scheduling and Management
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.29.1](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.29.1), 5 days ago) - Deploy a Production Ready Kubernetes Cluster
   - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), 6 days ago) - Repo for SIG release
-  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.34.3](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.3), 6 days ago) - Production-Grade Container Scheduling and Management
   - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.89.1](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.89.1), 1 week ago) - Terraform / OpenTofu Provider for Proxmox VE
   - [apple/container](https://github.com/apple/container) ([0.7.1](https://github.com/apple/container/releases/tag/0.7.1), 1 week ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.10.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.10.0), 2 weeks ago) - Cloud provider for KIND clusters
