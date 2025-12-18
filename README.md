@@ -60,6 +60,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [SeparateCacheWatchRPC LockToDefault set true](https://github.com/kubernetes/kubernetes/pull/135808) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
   - [[release-2.29] Releng: galaxy version to 2.29.2](https://github.com/kubernetes-sigs/kubespray/pull/12786) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [[release-2.29] Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/12782) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Fix broken testgrid 1.35-blocking device-plugin job](https://github.com/kubernetes/test-infra/pull/36043) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
@@ -69,7 +70,6 @@
   - [Fix TestCLICreateCommand failing test](https://github.com/apple/container/pull/897) on [apple/container](https://github.com/apple/container) (1 month ago)
   - [Feat: Gateway API auto bump](https://github.com/kubernetes-sigs/kubespray/pull/12714) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Update Release 1.35 Team Branch Manager &amp; Shadows](https://github.com/kubernetes/sig-release/pull/2909) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (1 month ago)
-  - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/12678) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
 
   #### ⭐ Recent Stars
   
