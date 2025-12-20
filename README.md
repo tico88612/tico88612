@@ -60,6 +60,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Fix: molecule 25.12.0](https://github.com/kubernetes-sigs/kubespray/pull/12808) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [Bump Gateway API CRDs to 1.4.1](https://github.com/kubernetes-sigs/kubespray/pull/12806) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [SeparateCacheWatchRPC LockToDefault set true](https://github.com/kubernetes/kubernetes/pull/135808) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 days ago)
   - [[release-2.29] Releng: galaxy version to 2.29.2](https://github.com/kubernetes-sigs/kubespray/pull/12786) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
@@ -69,7 +70,6 @@
   - [Fix: bad request will remove header and retry login](https://github.com/apple/containerization/pull/429) on [apple/containerization](https://github.com/apple/containerization) (4 weeks ago)
   - [Implement container prune](https://github.com/apple/container/pull/904) on [apple/container](https://github.com/apple/container) (1 month ago)
   - [Fix TestCLICreateCommand failing test](https://github.com/apple/container/pull/897) on [apple/container](https://github.com/apple/container) (1 month ago)
-  - [Feat: Gateway API auto bump](https://github.com/kubernetes-sigs/kubespray/pull/12714) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
 
   #### ⭐ Recent Stars
   
