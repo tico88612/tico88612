@@ -49,7 +49,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.90.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.90.0), 3 days ago) - Terraform / OpenTofu Provider for Proxmox VE
+  - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.90.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.90.0), 4 days ago) - Terraform / OpenTofu Provider for Proxmox VE
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0), 1 week ago) - Production-Grade Container Scheduling and Management
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.29.1](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.29.1), 2 weeks ago) - Deploy a Production Ready Kubernetes Cluster
   - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), 2 weeks ago) - Repo for SIG release
@@ -66,14 +66,14 @@
   - [[release-2.29] Releng: galaxy version to 2.29.2](https://github.com/kubernetes-sigs/kubespray/pull/12786) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [[release-2.29] Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/12782) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [Fix broken testgrid 1.35-blocking device-plugin job](https://github.com/kubernetes/test-infra/pull/36043) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
-  - [Test: refactor check-network to hydrophone](https://github.com/kubernetes-sigs/kubespray/pull/12754) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 weeks ago)
+  - [Test: refactor check-network to hydrophone](https://github.com/kubernetes-sigs/kubespray/pull/12754) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Fix: bad request will remove header and retry login](https://github.com/apple/containerization/pull/429) on [apple/containerization](https://github.com/apple/containerization) (1 month ago)
   - [Implement container prune](https://github.com/apple/container/pull/904) on [apple/container](https://github.com/apple/container) (1 month ago)
   - [Fix TestCLICreateCommand failing test](https://github.com/apple/container/pull/897) on [apple/container](https://github.com/apple/container) (1 month ago)
 
   #### ⭐ Recent Stars
   
-  - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers (2 weeks ago)
+  - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers (3 weeks ago)
   - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations (1 month ago)
   - [kubernetes-sigs/signalhound](https://github.com/kubernetes-sigs/signalhound) - Signalhound monitors TestGrid dashboards to identify and summarize test failures and flaking patterns in Kubernetes CI/CD pipelines.  (1 month ago)
   - [linagora/twake-drive-legacy](https://github.com/linagora/twake-drive-legacy) - LEGACY: The open-source alternative to Google Drive.  (2 months ago)
