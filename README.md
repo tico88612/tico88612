@@ -86,11 +86,11 @@
 
   #### 👯 Check out some of my recent followers
   
+  - [elhamafzalizadeh](https://github.com/elhamafzalizadeh)
   - [timtorChen](https://github.com/timtorChen)
   - [balajiommudali1](https://github.com/balajiommudali1)
   - [400Ping](https://github.com/400Ping)
   - [Windfarer](https://github.com/Windfarer)
-  - [thc1006](https://github.com/thc1006)
 </details>
 
 <a href="https://github.com/tico88612/devstats-card"><img src="https://devstats.me/?username=tico88612" /></a>
