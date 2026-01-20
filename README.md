@@ -60,6 +60,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Add LFX mentorship 2026 Term 1 Kubespray project idea](https://github.com/cncf/mentoring/pull/1576) on [cncf/mentoring](https://github.com/cncf/mentoring) (today)
   - [feat: add help for cli plugin](https://github.com/apple/container/pull/1068) on [apple/container](https://github.com/apple/container) (2 days ago)
   - [Fix: molecule 25.12.0 test](https://github.com/kubernetes-sigs/kubespray/pull/12808) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Bump Gateway API CRDs to 1.4.1](https://github.com/kubernetes-sigs/kubespray/pull/12806) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
@@ -69,7 +70,6 @@
   - [Fix broken testgrid 1.35-blocking device-plugin job](https://github.com/kubernetes/test-infra/pull/36043) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 month ago)
   - [Test: refactor check-network to hydrophone](https://github.com/kubernetes-sigs/kubespray/pull/12754) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Fix: bad request will remove header and retry login](https://github.com/apple/containerization/pull/429) on [apple/containerization](https://github.com/apple/containerization) (1 month ago)
-  - [Implement container prune](https://github.com/apple/container/pull/904) on [apple/container](https://github.com/apple/container) (2 months ago)
 
   #### ⭐ Recent Stars
   
