@@ -60,6 +60,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Fix: prevent delete default network](https://github.com/apple/container/pull/1083) on [apple/container](https://github.com/apple/container) (today)
   - [Rename metric `volume_operation_total_errors` to `volume_operation_errors_total`](https://github.com/kubernetes/kubernetes/pull/136399) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 days ago)
   - [Add LFX mentorship 2026 Term 1 Kubespray project idea](https://github.com/cncf/mentoring/pull/1576) on [cncf/mentoring](https://github.com/cncf/mentoring) (3 days ago)
   - [feat: add help for cli plugin](https://github.com/apple/container/pull/1068) on [apple/container](https://github.com/apple/container) (5 days ago)
@@ -69,7 +70,6 @@
   - [[release-2.29] Releng: galaxy version to 2.29.2](https://github.com/kubernetes-sigs/kubespray/pull/12786) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [[release-2.29] Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/12782) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Fix broken testgrid 1.35-blocking device-plugin job](https://github.com/kubernetes/test-infra/pull/36043) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 month ago)
-  - [Test: refactor check-network to hydrophone](https://github.com/kubernetes-sigs/kubespray/pull/12754) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
 
   #### ⭐ Recent Stars
   
