@@ -8,6 +8,7 @@
 - 🐳 Kubernetes, Container, Golang
 - 💻 Open Source Contributions
   - Maintainer @ [Kubespray](https://kubespray.io/)
+  - Enhancement Shadow @ [Kubernetes](https://kubernetes.io) v1.36
   - Release Signal Lead @ [Kubernetes](https://kubernetes.io) v1.35
   - Release Signal Shadow @ [Kubernetes](https://kubernetes.io) v1.32 ~ v1.34
 - 🤝 Community Outreach
