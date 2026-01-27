@@ -60,6 +60,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Add banner for KubeCon EU 2026](https://github.com/kubernetes/website/pull/54154) on [kubernetes/website](https://github.com/kubernetes/website) (today)
   - [Releng: Galaxy version upgrade to 2.31.0](https://github.com/kubernetes-sigs/kubespray/pull/12909) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 day ago)
   - [Feat: container image delete force option](https://github.com/apple/container/pull/1096) on [apple/container](https://github.com/apple/container) (1 day ago)
   - [Docs: update 2.29.0 to 2.30.0](https://github.com/kubernetes-sigs/kubespray/pull/12899) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 days ago)
@@ -69,7 +70,6 @@
   - [Add LFX mentorship 2026 Term 1 Kubespray project idea](https://github.com/cncf/mentoring/pull/1576) on [cncf/mentoring](https://github.com/cncf/mentoring) (1 week ago)
   - [feat: add help for cli plugin](https://github.com/apple/container/pull/1068) on [apple/container](https://github.com/apple/container) (1 week ago)
   - [Fix: molecule 25.12.0 test](https://github.com/kubernetes-sigs/kubespray/pull/12808) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
-  - [Bump Gateway API CRDs to 1.4.1](https://github.com/kubernetes-sigs/kubespray/pull/12806) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
 
   #### ⭐ Recent Stars
   
@@ -86,11 +86,11 @@
 
   #### 👯 Check out some of my recent followers
   
+  - [HauptJ](https://github.com/HauptJ)
   - [RaulDelary](https://github.com/RaulDelary)
   - [elhamafzalizadeh](https://github.com/elhamafzalizadeh)
   - [timtorChen](https://github.com/timtorChen)
   - [balajiommudali1](https://github.com/balajiommudali1)
-  - [400Ping](https://github.com/400Ping)
 </details>
 
 <a href="https://github.com/tico88612/devstats-card"><img src="https://devstats.me/?username=tico88612" /></a>
