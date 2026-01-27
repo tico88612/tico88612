@@ -60,6 +60,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Update to containerization 0.23.1](https://github.com/apple/container/pull/1099) on [apple/container](https://github.com/apple/container) (today)
   - [Add banner for KubeCon EU 2026](https://github.com/kubernetes/website/pull/54154) on [kubernetes/website](https://github.com/kubernetes/website) (today)
   - [Releng: Galaxy version upgrade to 2.31.0](https://github.com/kubernetes-sigs/kubespray/pull/12909) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 day ago)
   - [Feat: container image delete force option](https://github.com/apple/container/pull/1096) on [apple/container](https://github.com/apple/container) (1 day ago)
@@ -69,7 +70,6 @@
   - [Rename metric `volume_operation_total_errors` to `volume_operation_errors_total`](https://github.com/kubernetes/kubernetes/pull/136399) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (6 days ago)
   - [Add LFX mentorship 2026 Term 1 Kubespray project idea](https://github.com/cncf/mentoring/pull/1576) on [cncf/mentoring](https://github.com/cncf/mentoring) (1 week ago)
   - [feat: add help for cli plugin](https://github.com/apple/container/pull/1068) on [apple/container](https://github.com/apple/container) (1 week ago)
-  - [Fix: molecule 25.12.0 test](https://github.com/kubernetes-sigs/kubespray/pull/12808) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
 
   #### ⭐ Recent Stars
   
