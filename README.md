@@ -62,6 +62,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Feat: add container registry ls](https://github.com/apple/container/pull/1119) on [apple/container](https://github.com/apple/container) (today)
   - [Update to containerization 0.23.1](https://github.com/apple/container/pull/1099) on [apple/container](https://github.com/apple/container) (3 days ago)
   - [Add banner for KubeCon EU 2026](https://github.com/kubernetes/website/pull/54154) on [kubernetes/website](https://github.com/kubernetes/website) (3 days ago)
   - [Releng: Galaxy version upgrade to 2.31.0](https://github.com/kubernetes-sigs/kubespray/pull/12909) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 days ago)
@@ -71,7 +72,6 @@
   - [Fix: prevent delete default network](https://github.com/apple/container/pull/1083) on [apple/container](https://github.com/apple/container) (1 week ago)
   - [Rename metric `volume_operation_total_errors` to `volume_operation_errors_total`](https://github.com/kubernetes/kubernetes/pull/136399) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
   - [Add LFX mentorship 2026 Term 1 Kubespray project idea](https://github.com/cncf/mentoring/pull/1576) on [cncf/mentoring](https://github.com/cncf/mentoring) (1 week ago)
-  - [feat: add help for cli plugin](https://github.com/apple/container/pull/1068) on [apple/container](https://github.com/apple/container) (1 week ago)
 
   #### ⭐ Recent Stars
   
