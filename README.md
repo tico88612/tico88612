@@ -50,9 +50,9 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [apple/container](https://github.com/apple/container) ([0.9.0](https://github.com/apple/container/releases/tag/0.9.0), today) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
   - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.94.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.94.0), 1 day ago) - Terraform / OpenTofu Provider for Proxmox VE
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.30.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.30.0), 5 days ago) - Deploy a Production Ready Kubernetes Cluster
-  - [apple/container](https://github.com/apple/container) ([0.8.0](https://github.com/apple/container/releases/tag/0.8.0), 1 week ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.35](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.35), 1 month ago) - Kubernetes website and documentation repo: 
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0), 1 month ago) - Production-Grade Container Scheduling and Management
   - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), 1 month ago) - Repo for SIG release
