@@ -50,11 +50,11 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.36.0-alpha.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.36.0-alpha.1), today) - Production-Grade Container Scheduling and Management
   - [apple/container](https://github.com/apple/container) ([0.9.0](https://github.com/apple/container/releases/tag/0.9.0), 3 days ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
   - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.94.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.94.0), 4 days ago) - Terraform / OpenTofu Provider for Proxmox VE
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.30.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.30.0), 1 week ago) - Deploy a Production Ready Kubernetes Cluster
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.35](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.35), 1 month ago) - Kubernetes website and documentation repo: 
-  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0), 1 month ago) - Production-Grade Container Scheduling and Management
   - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), 1 month ago) - Repo for SIG release
   - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.10.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.10.0), 2 months ago) - Cloud provider for KIND clusters
   - [cilium/tetragon](https://github.com/cilium/tetragon) ([v1.6.0](https://github.com/cilium/tetragon/releases/tag/v1.6.0), 3 months ago) - eBPF-based Security Observability and Runtime Enforcement
