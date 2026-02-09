@@ -24,15 +24,15 @@
 
   #### 👷 Check out what I'm currently working on
   
+  - [opensource4you/readme](https://github.com/opensource4you/readme) - 源來適你的各種文章、金句、八卦和文字備份 (today)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (1 week ago)
-  - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (1 week ago)
   - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (1 week ago)
+  - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (1 week ago)
   - [cncf/mentoring](https://github.com/cncf/mentoring) - 👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring &#43; CommunityBridge &#43; Summer of Code (2 weeks ago)
   - [cloud-native-taiwan/Infra-Labs-Docs](https://github.com/cloud-native-taiwan/Infra-Labs-Docs) - Documentation for Cloud Native Taiwan Infra Labs (1 month ago)
   - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (2 months ago)
   - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (2 months ago)
   - [knabben/signalhound](https://github.com/knabben/signalhound) - Hunts Flake And Failing Testgrid Jobs  (4 months ago)
-  - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (4 months ago)
   - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (4 months ago)
 
   #### 🌱 My latest projects
@@ -62,6 +62,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Add Kubernetes &amp; Kubespray information](https://github.com/opensource4you/readme/pull/17) on [opensource4you/readme](https://github.com/opensource4you/readme) (today)
   - [Feat: add container registry ls](https://github.com/apple/container/pull/1119) on [apple/container](https://github.com/apple/container) (1 week ago)
   - [Update to containerization 0.23.1](https://github.com/apple/container/pull/1099) on [apple/container](https://github.com/apple/container) (1 week ago)
   - [Add banner for KubeCon EU 2026](https://github.com/kubernetes/website/pull/54154) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
@@ -71,7 +72,6 @@
   - [Docs: cilium_kube_proxy_replacement change boolean](https://github.com/kubernetes-sigs/kubespray/pull/12898) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [Fix: prevent delete default network](https://github.com/apple/container/pull/1083) on [apple/container](https://github.com/apple/container) (2 weeks ago)
   - [Rename metric `volume_operation_total_errors` to `volume_operation_errors_total`](https://github.com/kubernetes/kubernetes/pull/136399) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
-  - [Add LFX mentorship 2026 Term 1 Kubespray project idea](https://github.com/cncf/mentoring/pull/1576) on [cncf/mentoring](https://github.com/cncf/mentoring) (2 weeks ago)
 
   #### ⭐ Recent Stars
   
