@@ -50,9 +50,9 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.95.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.95.0), today) - Terraform / OpenTofu Provider for Proxmox VE
-  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.36.0-alpha.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.36.0-alpha.1), 2 days ago) - Production-Grade Container Scheduling and Management
-  - [apple/container](https://github.com/apple/container) ([0.9.0](https://github.com/apple/container/releases/tag/0.9.0), 5 days ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+  - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.95.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.95.0), 1 day ago) - Terraform / OpenTofu Provider for Proxmox VE
+  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.36.0-alpha.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.36.0-alpha.1), 3 days ago) - Production-Grade Container Scheduling and Management
+  - [apple/container](https://github.com/apple/container) ([0.9.0](https://github.com/apple/container/releases/tag/0.9.0), 6 days ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.30.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.30.0), 1 week ago) - Deploy a Production Ready Kubernetes Cluster
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.35](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.35), 1 month ago) - Kubernetes website and documentation repo: 
   - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), 2 months ago) - Repo for SIG release
@@ -65,8 +65,8 @@
   - [Feat: add container registry ls](https://github.com/apple/container/pull/1119) on [apple/container](https://github.com/apple/container) (1 week ago)
   - [Update to containerization 0.23.1](https://github.com/apple/container/pull/1099) on [apple/container](https://github.com/apple/container) (1 week ago)
   - [Add banner for KubeCon EU 2026](https://github.com/kubernetes/website/pull/54154) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
-  - [Releng: Galaxy version upgrade to 2.31.0](https://github.com/kubernetes-sigs/kubespray/pull/12909) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
-  - [Feat: container image delete force option](https://github.com/apple/container/pull/1096) on [apple/container](https://github.com/apple/container) (1 week ago)
+  - [Releng: Galaxy version upgrade to 2.31.0](https://github.com/kubernetes-sigs/kubespray/pull/12909) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
+  - [Feat: container image delete force option](https://github.com/apple/container/pull/1096) on [apple/container](https://github.com/apple/container) (2 weeks ago)
   - [Docs: update 2.29.0 to 2.30.0](https://github.com/kubernetes-sigs/kubespray/pull/12899) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [Docs: cilium_kube_proxy_replacement change boolean](https://github.com/kubernetes-sigs/kubespray/pull/12898) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [Fix: prevent delete default network](https://github.com/apple/container/pull/1083) on [apple/container](https://github.com/apple/container) (2 weeks ago)
