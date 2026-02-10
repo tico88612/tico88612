@@ -63,7 +63,7 @@
   #### 🔨 My recent Pull Requests
   
   - [Add Kubernetes &amp; Kubespray information](https://github.com/opensource4you/readme/pull/17) on [opensource4you/readme](https://github.com/opensource4you/readme) (1 day ago)
-  - [Feat: add container registry ls](https://github.com/apple/container/pull/1119) on [apple/container](https://github.com/apple/container) (1 week ago)
+  - [Feat: add container registry list](https://github.com/apple/container/pull/1119) on [apple/container](https://github.com/apple/container) (1 week ago)
   - [Update to containerization 0.23.1](https://github.com/apple/container/pull/1099) on [apple/container](https://github.com/apple/container) (2 weeks ago)
   - [Add banner for KubeCon EU 2026](https://github.com/kubernetes/website/pull/54154) on [kubernetes/website](https://github.com/kubernetes/website) (2 weeks ago)
   - [Releng: Galaxy version upgrade to 2.31.0](https://github.com/kubernetes-sigs/kubespray/pull/12909) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
