@@ -62,6 +62,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Feat: add RegistryResource](https://github.com/apple/container/pull/1195) on [apple/container](https://github.com/apple/container) (today)
   - [Add Kubernetes &amp; Kubespray information](https://github.com/opensource4you/readme/pull/17) on [opensource4you/readme](https://github.com/opensource4you/readme) (2 days ago)
   - [Feat: add container registry list](https://github.com/apple/container/pull/1119) on [apple/container](https://github.com/apple/container) (1 week ago)
   - [Update to containerization 0.23.1](https://github.com/apple/container/pull/1099) on [apple/container](https://github.com/apple/container) (2 weeks ago)
@@ -71,7 +72,6 @@
   - [Docs: update 2.29.0 to 2.30.0](https://github.com/kubernetes-sigs/kubespray/pull/12899) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [Docs: cilium_kube_proxy_replacement change boolean](https://github.com/kubernetes-sigs/kubespray/pull/12898) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [Fix: prevent delete default network](https://github.com/apple/container/pull/1083) on [apple/container](https://github.com/apple/container) (2 weeks ago)
-  - [Rename metric `volume_operation_total_errors` to `volume_operation_errors_total`](https://github.com/kubernetes/kubernetes/pull/136399) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 weeks ago)
 
   #### ⭐ Recent Stars
   
