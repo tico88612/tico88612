@@ -88,11 +88,11 @@
 
   #### 👯 Check out some of my recent followers
   
+  - [iverJisty](https://github.com/iverJisty)
   - [scolley31](https://github.com/scolley31)
   - [Elliot-32](https://github.com/Elliot-32)
   - [minchao](https://github.com/minchao)
   - [hevinhsu](https://github.com/hevinhsu)
-  - [apullo777](https://github.com/apullo777)
 </details>
 
 <a href="https://github.com/tico88612/devstats-card"><img src="https://devstats.me/?username=tico88612" /></a>
