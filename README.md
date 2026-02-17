@@ -62,6 +62,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Graduate old alpha ServiceAccount metric to beta](https://github.com/kubernetes/kubernetes/pull/137072) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
   - [Enable norefernece rule for Kube API Linter](https://github.com/kubernetes/kubernetes/pull/137043) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
   - [Enable the `optionalorrequired` linter for the `autoscaling` API group](https://github.com/kubernetes/kubernetes/pull/137038) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 days ago)
   - [Graduate old alpha metrics storage encryption metric to Beta](https://github.com/kubernetes/kubernetes/pull/137031) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 days ago)
@@ -71,7 +72,6 @@
   - [Update to containerization 0.23.1](https://github.com/apple/container/pull/1099) on [apple/container](https://github.com/apple/container) (3 weeks ago)
   - [Add banner for KubeCon EU 2026](https://github.com/kubernetes/website/pull/54154) on [kubernetes/website](https://github.com/kubernetes/website) (3 weeks ago)
   - [Releng: Galaxy version upgrade to 2.31.0](https://github.com/kubernetes-sigs/kubespray/pull/12909) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
-  - [Feat: container image delete force option](https://github.com/apple/container/pull/1096) on [apple/container](https://github.com/apple/container) (3 weeks ago)
 
   #### ⭐ Recent Stars
   
