@@ -62,6 +62,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [KEP-5207: Graduate metrics.k8s.io to Stable](https://github.com/kubernetes/enhancements/pull/5931) on [kubernetes/enhancements](https://github.com/kubernetes/enhancements) (today)
   - [Promote `apiserver_watch_events_total` and `apiserver_watch_events_sizes` to BETA](https://github.com/kubernetes/kubernetes/pull/137116) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (5 days ago)
   - [Graduate old alpha ServiceAccount metric to beta](https://github.com/kubernetes/kubernetes/pull/137072) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (6 days ago)
   - [Enable norefernece rule for Kube API Linter](https://github.com/kubernetes/kubernetes/pull/137043) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
@@ -71,7 +72,6 @@
   - [Add Kubernetes &amp; Kubespray information](https://github.com/opensource4you/readme/pull/17) on [opensource4you/readme](https://github.com/opensource4you/readme) (2 weeks ago)
   - [Feat: add container registry list](https://github.com/apple/container/pull/1119) on [apple/container](https://github.com/apple/container) (3 weeks ago)
   - [Update to containerization 0.23.1](https://github.com/apple/container/pull/1099) on [apple/container](https://github.com/apple/container) (3 weeks ago)
-  - [Add banner for KubeCon EU 2026](https://github.com/kubernetes/website/pull/54154) on [kubernetes/website](https://github.com/kubernetes/website) (3 weeks ago)
 
   #### ⭐ Recent Stars
   
