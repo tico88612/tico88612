@@ -50,7 +50,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.96.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.96.0), 5 days ago) - Terraform / OpenTofu Provider for Proxmox VE
+  - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.97.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.97.0), today) - Terraform / OpenTofu Provider for Proxmox VE
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.12](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.12), 1 week ago) - Production-Grade Container Scheduling and Management
   - [apple/container](https://github.com/apple/container) ([0.9.0](https://github.com/apple/container/releases/tag/0.9.0), 2 weeks ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.30.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.30.0), 3 weeks ago) - Deploy a Production Ready Kubernetes Cluster
