@@ -62,6 +62,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Cleanup: apimachinery test flowcontrol remove dep. prometheus](https://github.com/kubernetes/kubernetes/pull/137294) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
   - [Cleanup: `test/e2e_node` remove prometheus dependency](https://github.com/kubernetes/kubernetes/pull/137242) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 days ago)
   - [KEP-5207: Graduate metrics.k8s.io to Stable](https://github.com/kubernetes/enhancements/pull/5931) on [kubernetes/enhancements](https://github.com/kubernetes/enhancements) (4 days ago)
   - [Promote `apiserver_watch_events_total` and `apiserver_watch_events_sizes` to BETA](https://github.com/kubernetes/kubernetes/pull/137116) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
@@ -71,7 +72,6 @@
   - [Graduate old alpha metrics storage encryption metric to Beta](https://github.com/kubernetes/kubernetes/pull/137031) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
   - [Feat: add RegistryResource](https://github.com/apple/container/pull/1195) on [apple/container](https://github.com/apple/container) (2 weeks ago)
   - [Add Kubernetes &amp; Kubespray information](https://github.com/opensource4you/readme/pull/17) on [opensource4you/readme](https://github.com/opensource4you/readme) (2 weeks ago)
-  - [Feat: add container registry list](https://github.com/apple/container/pull/1119) on [apple/container](https://github.com/apple/container) (4 weeks ago)
 
   #### ⭐ Recent Stars
   
