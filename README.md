@@ -50,9 +50,9 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.97.1](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.97.1), 1 day ago) - Terraform / OpenTofu Provider for Proxmox VE
-  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.13](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.13), 2 days ago) - Production-Grade Container Scheduling and Management
-  - [apple/container](https://github.com/apple/container) ([0.10.0](https://github.com/apple/container/releases/tag/0.10.0), 2 days ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+  - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.97.1](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.97.1), 2 days ago) - Terraform / OpenTofu Provider for Proxmox VE
+  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.13](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.13), 3 days ago) - Production-Grade Container Scheduling and Management
+  - [apple/container](https://github.com/apple/container) ([0.10.0](https://github.com/apple/container/releases/tag/0.10.0), 3 days ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.30.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.30.0), 1 month ago) - Deploy a Production Ready Kubernetes Cluster
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.35](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.35), 2 months ago) - Kubernetes website and documentation repo: 
   - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), 2 months ago) - Repo for SIG release
@@ -62,20 +62,20 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [Cleanup: test instrumentation dependency prometheus](https://github.com/kubernetes/kubernetes/pull/137313) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
-  - [Cleanup: apimachinery test flowcontrol remove dep. prometheus](https://github.com/kubernetes/kubernetes/pull/137294) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
-  - [Cleanup: `test/e2e_node` remove prometheus dependency](https://github.com/kubernetes/kubernetes/pull/137242) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 days ago)
-  - [KEP-5207: Graduate metrics.k8s.io to Stable](https://github.com/kubernetes/enhancements/pull/5931) on [kubernetes/enhancements](https://github.com/kubernetes/enhancements) (5 days ago)
+  - [Cleanup: test instrumentation dependency prometheus](https://github.com/kubernetes/kubernetes/pull/137313) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
+  - [Cleanup: apimachinery test flowcontrol remove dep. prometheus](https://github.com/kubernetes/kubernetes/pull/137294) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 days ago)
+  - [Cleanup: `test/e2e_node` remove prometheus dependency](https://github.com/kubernetes/kubernetes/pull/137242) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (4 days ago)
+  - [KEP-5207: Graduate metrics.k8s.io to Stable](https://github.com/kubernetes/enhancements/pull/5931) on [kubernetes/enhancements](https://github.com/kubernetes/enhancements) (6 days ago)
   - [Promote `apiserver_watch_events_total` and `apiserver_watch_events_sizes` to BETA](https://github.com/kubernetes/kubernetes/pull/137116) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
   - [Graduate old alpha ServiceAccount metric to beta](https://github.com/kubernetes/kubernetes/pull/137072) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
   - [Enable norefernece rule for Kube API Linter](https://github.com/kubernetes/kubernetes/pull/137043) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
-  - [Enable the `optionalorrequired` linter for the `autoscaling` API group](https://github.com/kubernetes/kubernetes/pull/137038) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
-  - [Graduate old alpha metrics storage encryption metric to Beta](https://github.com/kubernetes/kubernetes/pull/137031) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
+  - [Enable the `optionalorrequired` linter for the `autoscaling` API group](https://github.com/kubernetes/kubernetes/pull/137038) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
+  - [Graduate old alpha metrics storage encryption metric to Beta](https://github.com/kubernetes/kubernetes/pull/137031) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
   - [Feat: add RegistryResource](https://github.com/apple/container/pull/1195) on [apple/container](https://github.com/apple/container) (2 weeks ago)
 
   #### ⭐ Recent Stars
   
-  - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - The world&#39;s fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project. (4 days ago)
+  - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - The world&#39;s fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project. (5 days ago)
   - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers (2 months ago)
   - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations (3 months ago)
   - [kubernetes-sigs/signalhound](https://github.com/kubernetes-sigs/signalhound) - Signalhound monitors TestGrid dashboards to identify and summarize test failures and flaking patterns in Kubernetes CI/CD pipelines.  (3 months ago)
