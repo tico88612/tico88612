@@ -62,6 +62,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Remove dep. Prometheus from test/e2e/node/pods.go](https://github.com/kubernetes/kubernetes/pull/137330) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
   - [Test: fix crio-upgrade vm_memory not enough for testing](https://github.com/kubernetes-sigs/kubespray/pull/13060) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [Cleanup: test instrumentation dependency prometheus](https://github.com/kubernetes/kubernetes/pull/137313) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
   - [Cleanup: apimachinery test flowcontrol remove dep. prometheus](https://github.com/kubernetes/kubernetes/pull/137294) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 days ago)
@@ -71,7 +72,6 @@
   - [Graduate old alpha ServiceAccount metric to beta](https://github.com/kubernetes/kubernetes/pull/137072) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
   - [Enable norefernece rule for Kube API Linter](https://github.com/kubernetes/kubernetes/pull/137043) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
   - [Enable the `optionalorrequired` linter for the `autoscaling` API group](https://github.com/kubernetes/kubernetes/pull/137038) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
-  - [Graduate old alpha metrics storage encryption metric to Beta](https://github.com/kubernetes/kubernetes/pull/137031) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
 
   #### ⭐ Recent Stars
   
