@@ -62,6 +62,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Remove dep. Prometheus from cluster/images/etcd-version-monitor](https://github.com/kubernetes/kubernetes/pull/137344) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
   - [Remove dep. Prometheus from test/e2e/node/pods.go](https://github.com/kubernetes/kubernetes/pull/137330) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
   - [Test: fix crio-upgrade vm_memory not enough for testing](https://github.com/kubernetes-sigs/kubespray/pull/13060) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 day ago)
   - [Cleanup: test instrumentation dependency prometheus](https://github.com/kubernetes/kubernetes/pull/137313) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 days ago)
@@ -71,7 +72,6 @@
   - [Promote `apiserver_watch_events_total` and `apiserver_watch_events_sizes` to BETA](https://github.com/kubernetes/kubernetes/pull/137116) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
   - [Graduate old alpha ServiceAccount metric to beta](https://github.com/kubernetes/kubernetes/pull/137072) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
   - [Enable norefernece rule for Kube API Linter](https://github.com/kubernetes/kubernetes/pull/137043) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
-  - [Enable the `optionalorrequired` linter for the `autoscaling` API group](https://github.com/kubernetes/kubernetes/pull/137038) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
 
   #### ⭐ Recent Stars
   
