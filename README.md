@@ -62,6 +62,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Add TestCLIVersion to integration tests and fix assertions](https://github.com/apple/container/pull/1312) on [apple/container](https://github.com/apple/container) (today)
   - [Refactor: container export a tar archive](https://github.com/apple/container/pull/1303) on [apple/container](https://github.com/apple/container) (5 days ago)
   - [Use contextual logging in service cidr controller](https://github.com/kubernetes/kubernetes/pull/137533) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
   - [Use contextual logging in leaderelection controller](https://github.com/kubernetes/kubernetes/pull/137492) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
@@ -71,7 +72,6 @@
   - [Test: fix crio-upgrade vm_memory not enough for testing](https://github.com/kubernetes-sigs/kubespray/pull/13060) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Cleanup: test instrumentation dependency prometheus](https://github.com/kubernetes/kubernetes/pull/137313) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
   - [Cleanup: apimachinery test flowcontrol remove dep. prometheus](https://github.com/kubernetes/kubernetes/pull/137294) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
-  - [Cleanup: `test/e2e_node` remove prometheus dependency](https://github.com/kubernetes/kubernetes/pull/137242) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
 
   #### ⭐ Recent Stars
   
