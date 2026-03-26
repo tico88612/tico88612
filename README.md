@@ -65,7 +65,7 @@
   - [Add container system version with format yaml](https://github.com/apple/container/pull/1353) on [apple/container](https://github.com/apple/container) (today)
   - [[zh-tw] Fix: hello minikube page](https://github.com/kubernetes/website/pull/55052) on [kubernetes/website](https://github.com/kubernetes/website) (1 day ago)
   - [Fix kubernetes-docs-zh-tw not in sig-docs restrictions](https://github.com/kubernetes/community/pull/8905) on [kubernetes/community](https://github.com/kubernetes/community) (1 week ago)
-  - [[WIP] [DONTMERGE] Fix youki molecule test](https://github.com/kubernetes-sigs/kubespray/pull/13102) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
+  - [Fixed youki molecule test](https://github.com/kubernetes-sigs/kubespray/pull/13102) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Add TestCLIVersion to integration tests and fix assertions](https://github.com/apple/container/pull/1312) on [apple/container](https://github.com/apple/container) (1 week ago)
   - [Refactor: container export a tar archive](https://github.com/apple/container/pull/1303) on [apple/container](https://github.com/apple/container) (2 weeks ago)
   - [Use contextual logging in service cidr controller](https://github.com/kubernetes/kubernetes/pull/137533) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
