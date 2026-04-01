@@ -50,9 +50,9 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.100.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.100.0), today) - Terraform / OpenTofu Provider for Proxmox VE
   - [apple/container](https://github.com/apple/container) ([0.11.0](https://github.com/apple/container/releases/tag/0.11.0), 1 day ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
   - [cilium/tetragon](https://github.com/cilium/tetragon) ([v1.6.1](https://github.com/cilium/tetragon/releases/tag/v1.6.1), 1 day ago) - eBPF-based Security Observability and Runtime Enforcement
-  - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.99.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.99.0), 1 week ago) - Terraform / OpenTofu Provider for Proxmox VE
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.36.0-beta.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.36.0-beta.0), 1 week ago) - Production-Grade Container Scheduling and Management
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.30.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.30.0), 2 months ago) - Deploy a Production Ready Kubernetes Cluster
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.35](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.35), 3 months ago) - Kubernetes website and documentation repo: 
