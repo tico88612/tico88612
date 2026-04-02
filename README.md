@@ -62,7 +62,7 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [[WIP] Fix openeuler metalink url](https://github.com/kubernetes-sigs/kubespray/pull/13144) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
+  - [Fix openeuler metalink url](https://github.com/kubernetes-sigs/kubespray/pull/13144) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [Patch versions updates (except CRI-O)](https://github.com/kubernetes-sigs/kubespray/pull/13143) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [Add TestCLIStatus to integration tests and fix assertions](https://github.com/apple/container/pull/1368) on [apple/container](https://github.com/apple/container) (3 days ago)
   - [Promote component-base metrics request-related to beta](https://github.com/kubernetes/kubernetes/pull/138093) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 days ago)
