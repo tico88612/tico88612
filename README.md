@@ -62,6 +62,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Patch versions updates (except CRI-O)](https://github.com/kubernetes-sigs/kubespray/pull/13143) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [Add TestCLIStatus to integration tests and fix assertions](https://github.com/apple/container/pull/1368) on [apple/container](https://github.com/apple/container) (3 days ago)
   - [Promote component-base metrics request-related to beta](https://github.com/kubernetes/kubernetes/pull/138093) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 days ago)
   - [Add `--dashboards` flag to support custom TestGrid dashboards](https://github.com/kubernetes-sigs/signalhound/pull/82) on [kubernetes-sigs/signalhound](https://github.com/kubernetes-sigs/signalhound) (6 days ago)
@@ -71,7 +72,6 @@
   - [Fixed youki molecule test](https://github.com/kubernetes-sigs/kubespray/pull/13102) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [Add TestCLIVersion to integration tests and fix assertions](https://github.com/apple/container/pull/1312) on [apple/container](https://github.com/apple/container) (2 weeks ago)
   - [Refactor: container export a tar archive](https://github.com/apple/container/pull/1303) on [apple/container](https://github.com/apple/container) (3 weeks ago)
-  - [Use contextual logging in service cidr controller](https://github.com/kubernetes/kubernetes/pull/137533) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 weeks ago)
 
   #### ⭐ Recent Stars
   
