@@ -50,11 +50,11 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.26.1](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.26.1), today) - Deploy a Production Ready Kubernetes Cluster
   - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.101.1](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.101.1), 3 days ago) - Terraform / OpenTofu Provider for Proxmox VE
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.36.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.36.0-rc.0), 5 days ago) - Production-Grade Container Scheduling and Management
   - [apple/container](https://github.com/apple/container) ([0.11.0](https://github.com/apple/container/releases/tag/0.11.0), 1 week ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
   - [cilium/tetragon](https://github.com/cilium/tetragon) ([v1.6.1](https://github.com/cilium/tetragon/releases/tag/v1.6.1), 1 week ago) - eBPF-based Security Observability and Runtime Enforcement
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.30.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.30.0), 2 months ago) - Deploy a Production Ready Kubernetes Cluster
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.35](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.35), 3 months ago) - Kubernetes website and documentation repo: 
   - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), 4 months ago) - Repo for SIG release
   - [knabben/signalhound](https://github.com/knabben/signalhound) ([0.0.1](https://github.com/knabben/signalhound/releases/tag/0.0.1), 7 months ago) - Hunts Flake And Failing Testgrid Jobs 
@@ -87,11 +87,11 @@
 
   #### 👯 Check out some of my recent followers
   
+  - [JeromeLin222](https://github.com/JeromeLin222)
   - [jtr860830](https://github.com/jtr860830)
   - [dracoloveforall-crypto](https://github.com/dracoloveforall-crypto)
   - [SharpKoi](https://github.com/SharpKoi)
   - [ariaydejawad](https://github.com/ariaydejawad)
-  - [iverJisty](https://github.com/iverJisty)
 </details>
 
 <a href="https://github.com/tico88612/devstats-card"><img src="https://devstats.me/?username=tico88612" /></a>
