@@ -50,8 +50,8 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.102.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.102.0), today) - Terraform / OpenTofu Provider for Proxmox VE
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.26.1](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.26.1), 1 day ago) - Deploy a Production Ready Kubernetes Cluster
-  - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.101.1](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.101.1), 4 days ago) - Terraform / OpenTofu Provider for Proxmox VE
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.36.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.36.0-rc.0), 6 days ago) - Production-Grade Container Scheduling and Management
   - [apple/container](https://github.com/apple/container) ([0.11.0](https://github.com/apple/container/releases/tag/0.11.0), 2 weeks ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
   - [cilium/tetragon](https://github.com/cilium/tetragon) ([v1.6.1](https://github.com/cilium/tetragon/releases/tag/v1.6.1), 2 weeks ago) - eBPF-based Security Observability and Runtime Enforcement
