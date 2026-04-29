@@ -50,17 +50,18 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [cilium/tetragon](https://github.com/cilium/tetragon) ([v1.7.0](https://github.com/cilium/tetragon/releases/tag/v1.7.0), today) - eBPF-based Security Observability and Runtime Enforcement
   - [apple/container](https://github.com/apple/container) ([0.12.1](https://github.com/apple/container/releases/tag/0.12.1), today) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
   - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.104.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.104.0), 4 days ago) - Terraform / OpenTofu Provider for Proxmox VE
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.31.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.31.0), 4 days ago) - Deploy a Production Ready Kubernetes Cluster
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.36](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.36), 1 week ago) - Kubernetes website and documentation repo: 
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.36.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.36.0), 1 week ago) - Production-Grade Container Scheduling and Management
-  - [cilium/tetragon](https://github.com/cilium/tetragon) ([v1.6.1](https://github.com/cilium/tetragon/releases/tag/v1.6.1), 4 weeks ago) - eBPF-based Security Observability and Runtime Enforcement
   - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), 4 months ago) - Repo for SIG release
   - [knabben/signalhound](https://github.com/knabben/signalhound) ([0.0.1](https://github.com/knabben/signalhound/releases/tag/0.0.1), 7 months ago) - Hunts Flake And Failing Testgrid Jobs 
 
   #### 🔨 My recent Pull Requests
   
+  - [Fix: bad request will remove header and retry login](https://github.com/apple/containerization/pull/711) on [apple/containerization](https://github.com/apple/containerization) (today)
   - [[WIP] Feat: system prune [DONT TEST]](https://github.com/apple/container/pull/1452) on [apple/container](https://github.com/apple/container) (3 days ago)
   - [[release-2.28] Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/13147) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
   - [[release-2.29] Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/13146) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
@@ -70,7 +71,6 @@
   - [Add TestCLIStatus to integration tests and fix assertions](https://github.com/apple/container/pull/1368) on [apple/container](https://github.com/apple/container) (1 month ago)
   - [Promote component-base metrics request-related to beta](https://github.com/kubernetes/kubernetes/pull/138093) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 month ago)
   - [Add `--dashboards` flag to support custom TestGrid dashboards](https://github.com/kubernetes-sigs/signalhound/pull/82) on [kubernetes-sigs/signalhound](https://github.com/kubernetes-sigs/signalhound) (1 month ago)
-  - [Add container system version with format yaml](https://github.com/apple/container/pull/1353) on [apple/container](https://github.com/apple/container) (1 month ago)
 
   #### ⭐ Recent Stars
   
