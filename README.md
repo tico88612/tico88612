@@ -61,6 +61,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Update ChengHao&#39;s information](https://github.com/cncf/people/pull/1620) on [cncf/people](https://github.com/cncf/people) (today)
   - [Revert &#34;bump coredns to v1.14.3&#34;](https://github.com/kubernetes/kubernetes/pull/138714) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
   - [Fix: CoreDNS v1.14.3 for multi arch checksum](https://github.com/kubernetes/k8s.io/pull/9421) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
   - [Fix: bad request will remove header and retry login](https://github.com/apple/containerization/pull/711) on [apple/containerization](https://github.com/apple/containerization) (2 days ago)
@@ -70,7 +71,6 @@
   - [[release-2.30] Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/13145) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 weeks ago)
   - [Fix openeuler metalink url](https://github.com/kubernetes-sigs/kubespray/pull/13144) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 weeks ago)
   - [Patch versions updates (except CRI-O)](https://github.com/kubernetes-sigs/kubespray/pull/13143) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 weeks ago)
-  - [Add TestCLIStatus to integration tests and fix assertions](https://github.com/apple/container/pull/1368) on [apple/container](https://github.com/apple/container) (1 month ago)
 
   #### ⭐ Recent Stars
   
