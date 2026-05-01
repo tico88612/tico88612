@@ -24,6 +24,7 @@
 
   #### 👷 Check out what I'm currently working on
   
+  - [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (today)
   - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS. (1 day ago)
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (1 day ago)
   - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (1 week ago)
@@ -33,7 +34,6 @@
   - [cloud-native-taiwan/infra-labs-docs](https://github.com/cloud-native-taiwan/infra-labs-docs) - Documentation for Cloud Native Taiwan Infra Labs (1 month ago)
   - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (1 month ago)
   - [kubernetes/component-base](https://github.com/kubernetes/component-base) - Shared code for kubernetes core components (2 months ago)
-  - [opensource4you/readme](https://github.com/opensource4you/readme) - 源來適你的各種文章、金句、八卦和文字備份 (2 months ago)
 
   #### 🌱 My latest projects
   
