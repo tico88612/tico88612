@@ -61,7 +61,7 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [Bump envtest-bin to 1.36.0 and update the download link](https://github.com/kubernetes-sigs/usage-metrics-collector/pull/151) on [kubernetes-sigs/usage-metrics-collector](https://github.com/kubernetes-sigs/usage-metrics-collector) (today)
+  - [Bump envtest-bin to 1.32.0 and update the download link](https://github.com/kubernetes-sigs/usage-metrics-collector/pull/151) on [kubernetes-sigs/usage-metrics-collector](https://github.com/kubernetes-sigs/usage-metrics-collector) (today)
   - [Update ChengHao&#39;s information](https://github.com/cncf/people/pull/1620) on [cncf/people](https://github.com/cncf/people) (2 days ago)
   - [Revert &#34;bump coredns to v1.14.3&#34;](https://github.com/kubernetes/kubernetes/pull/138714) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 days ago)
   - [Fix: CoreDNS v1.14.3 for multi arch checksum](https://github.com/kubernetes/k8s.io/pull/9421) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
