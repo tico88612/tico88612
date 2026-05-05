@@ -87,11 +87,11 @@
 
   #### 👯 Check out some of my recent followers
   
+  - [Nithya15aa](https://github.com/Nithya15aa)
   - [JeromeLin222](https://github.com/JeromeLin222)
   - [jtr860830](https://github.com/jtr860830)
   - [dracoloveforall-crypto](https://github.com/dracoloveforall-crypto)
   - [SharpKoi](https://github.com/SharpKoi)
-  - [ariaydejawad](https://github.com/ariaydejawad)
 </details>
 
 <a href="https://github.com/tico88612/devstats-card"><img src="https://devstats.me/?username=tico88612" /></a>
