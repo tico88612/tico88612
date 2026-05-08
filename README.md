@@ -60,6 +60,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Move failing youki to allow_failed and patch update](https://github.com/kubernetes-sigs/kubespray/pull/13241) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [[release-2.31] Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/13231) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 days ago)
   - [Chore: change the GitHub Actions uses commit hash](https://github.com/kubernetes-sigs/kubespray/pull/13227) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 days ago)
   - [Bump envtest-bin to 1.32.0 and update the download link](https://github.com/kubernetes-sigs/usage-metrics-collector/pull/151) on [kubernetes-sigs/usage-metrics-collector](https://github.com/kubernetes-sigs/usage-metrics-collector) (5 days ago)
@@ -69,7 +70,6 @@
   - [Fix: bad request will remove header and retry login](https://github.com/apple/containerization/pull/711) on [apple/containerization](https://github.com/apple/containerization) (1 week ago)
   - [[WIP] Feat: system prune [DONT TEST]](https://github.com/apple/container/pull/1452) on [apple/container](https://github.com/apple/container) (1 week ago)
   - [[release-2.28] Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/13147) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
-  - [[release-2.29] Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/13146) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
 
   #### ⭐ Recent Stars
   
