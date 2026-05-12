@@ -50,7 +50,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.33.12](https://github.com/kubernetes/kubernetes/releases/tag/v1.33.12), today) - Production-Grade Container Scheduling and Management
+  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.36.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.36.1), today) - Production-Grade Container Scheduling and Management
   - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.106.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.106.0), 6 days ago) - Terraform / OpenTofu Provider for Proxmox VE
   - [apple/container](https://github.com/apple/container) ([0.12.3](https://github.com/apple/container/releases/tag/0.12.3), 1 week ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.31.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.31.0), 2 weeks ago) - Deploy a Production Ready Kubernetes Cluster
@@ -86,11 +86,11 @@
 
   #### 👯 Check out some of my recent followers
   
+  - [f5guy](https://github.com/f5guy)
   - [mfaridi1394](https://github.com/mfaridi1394)
   - [Nithya15aa](https://github.com/Nithya15aa)
   - [JeromeLin222](https://github.com/JeromeLin222)
   - [jtr860830](https://github.com/jtr860830)
-  - [dracoloveforall-crypto](https://github.com/dracoloveforall-crypto)
 </details>
 
 <a href="https://github.com/tico88612/devstats-card"><img src="https://devstats.me/?username=tico88612" /></a>
