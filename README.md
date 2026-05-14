@@ -60,6 +60,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Fix: image list align with other commands when use format should ignore quiet](https://github.com/apple/container/pull/1553) on [apple/container](https://github.com/apple/container) (today)
   - [[release-2.31] Move molecule youki to molecule_full](https://github.com/kubernetes-sigs/kubespray/pull/13259) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/13254) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [Move failing youki to allow_failed and patch update](https://github.com/kubernetes-sigs/kubespray/pull/13241) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (6 days ago)
@@ -69,7 +70,6 @@
   - [Update ChengHao&#39;s information](https://github.com/cncf/people/pull/1620) on [cncf/people](https://github.com/cncf/people) (1 week ago)
   - [Revert &#34;bump coredns to v1.14.3&#34;](https://github.com/kubernetes/kubernetes/pull/138714) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
   - [Fix: CoreDNS v1.14.3 for multi arch checksum](https://github.com/kubernetes/k8s.io/pull/9421) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
-  - [Fix: bad request will remove header and retry login](https://github.com/apple/containerization/pull/711) on [apple/containerization](https://github.com/apple/containerization) (2 weeks ago)
 
   #### ⭐ Recent Stars
   
