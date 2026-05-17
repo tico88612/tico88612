@@ -60,6 +60,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Clarify events.k8s.io/v1 Event.Reason is machine-readable](https://github.com/kubernetes/kubernetes/pull/139114) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
   - [Fix: image list align with other commands when use format should ignore quiet](https://github.com/apple/container/pull/1553) on [apple/container](https://github.com/apple/container) (3 days ago)
   - [[release-2.31] Move molecule youki to molecule_full](https://github.com/kubernetes-sigs/kubespray/pull/13259) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 days ago)
   - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/13254) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 days ago)
@@ -69,7 +70,6 @@
   - [Bump envtest-bin to 1.32.0 and update the download link](https://github.com/kubernetes-sigs/usage-metrics-collector/pull/151) on [kubernetes-sigs/usage-metrics-collector](https://github.com/kubernetes-sigs/usage-metrics-collector) (2 weeks ago)
   - [Update ChengHao&#39;s information](https://github.com/cncf/people/pull/1620) on [cncf/people](https://github.com/cncf/people) (2 weeks ago)
   - [Revert &#34;bump coredns to v1.14.3&#34;](https://github.com/kubernetes/kubernetes/pull/138714) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
-  - [Fix: CoreDNS v1.14.3 for multi arch checksum](https://github.com/kubernetes/k8s.io/pull/9421) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
 
   #### ⭐ Recent Stars
   
