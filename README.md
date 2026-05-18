@@ -73,6 +73,7 @@
 
   #### ⭐ Recent Stars
   
+  - [llm-d/llm-d](https://github.com/llm-d/llm-d) - Achieve state of the art inference performance with modern accelerators on Kubernetes (today)
   - [kubernetes-sigs/dranet](https://github.com/kubernetes-sigs/dranet) - DRANET is a Kubernetes Network Driver that uses Dynamic Resource Allocation (DRA) to deliver high-performance networking for demanding applications in Kubernetes. (1 week ago)
   - [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) - GenAI inference performance benchmarking tool (2 weeks ago)
   - [ingero-io/ingero](https://github.com/ingero-io/ingero) - eBPF agent and MCP server for GPU causal observability (1 month ago)
@@ -82,7 +83,6 @@
   - [kubernetes-sigs/signalhound](https://github.com/kubernetes-sigs/signalhound) - Signalhound monitors TestGrid dashboards to identify and summarize test failures and flaking patterns in Kubernetes CI/CD pipelines.  (6 months ago)
   - [linagora/twake-drive-legacy](https://github.com/linagora/twake-drive-legacy) - LEGACY: The open-source alternative to Google Drive.  (6 months ago)
   - [documentdb/documentdb](https://github.com/documentdb/documentdb) - MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, and developer productivity. (8 months ago)
-  - [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source. (8 months ago)
 
   #### 👯 Check out some of my recent followers
   
