@@ -60,6 +60,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [KEP-4639: mark as implemented](https://github.com/kubernetes/enhancements/pull/6096) on [kubernetes/enhancements](https://github.com/kubernetes/enhancements) (today)
   - [Feat: support format validation](https://github.com/apple/container/pull/1575) on [apple/container](https://github.com/apple/container) (1 day ago)
   - [Clarify events.k8s.io/v1 Event.Reason is machine-readable](https://github.com/kubernetes/kubernetes/pull/139114) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 days ago)
   - [Fix: image list align with other commands when use format should ignore quiet](https://github.com/apple/container/pull/1553) on [apple/container](https://github.com/apple/container) (6 days ago)
@@ -69,7 +70,6 @@
   - [[release-2.31] Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/13231) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [Chore: change the GitHub Actions uses commit hash](https://github.com/kubernetes-sigs/kubespray/pull/13227) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [Bump envtest-bin to 1.32.0 and update the download link](https://github.com/kubernetes-sigs/usage-metrics-collector/pull/151) on [kubernetes-sigs/usage-metrics-collector](https://github.com/kubernetes-sigs/usage-metrics-collector) (2 weeks ago)
-  - [Update ChengHao&#39;s information](https://github.com/cncf/people/pull/1620) on [cncf/people](https://github.com/cncf/people) (2 weeks ago)
 
   #### ⭐ Recent Stars
   
