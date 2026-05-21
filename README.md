@@ -60,6 +60,8 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [KEP-5207: Promote metrics.k8s.io to GA](https://github.com/kubernetes/kubernetes/pull/139223) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
+  - [[WIP] Fix pre-commit](https://github.com/kubernetes-sigs/kubespray/pull/13269) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [KEP-4639: mark as implemented](https://github.com/kubernetes/enhancements/pull/6096) on [kubernetes/enhancements](https://github.com/kubernetes/enhancements) (1 day ago)
   - [Feat: support format validation](https://github.com/apple/container/pull/1575) on [apple/container](https://github.com/apple/container) (2 days ago)
   - [Clarify events.k8s.io/v1 Event.Reason is machine-readable](https://github.com/kubernetes/kubernetes/pull/139114) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (4 days ago)
@@ -68,8 +70,6 @@
   - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/13254) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Move failing youki to allow_failed and patch update](https://github.com/kubernetes-sigs/kubespray/pull/13241) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [[release-2.31] Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/13231) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
-  - [Chore: change the GitHub Actions uses commit hash](https://github.com/kubernetes-sigs/kubespray/pull/13227) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
-  - [Bump envtest-bin to 1.32.0 and update the download link](https://github.com/kubernetes-sigs/usage-metrics-collector/pull/151) on [kubernetes-sigs/usage-metrics-collector](https://github.com/kubernetes-sigs/usage-metrics-collector) (2 weeks ago)
 
   #### ⭐ Recent Stars
   
