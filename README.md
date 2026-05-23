@@ -86,11 +86,11 @@
 
   #### 👯 Check out some of my recent followers
   
+  - [crisprking](https://github.com/crisprking)
   - [f5guy](https://github.com/f5guy)
   - [mfaridi1394](https://github.com/mfaridi1394)
   - [Nithya15aa](https://github.com/Nithya15aa)
   - [JeromeLin222](https://github.com/JeromeLin222)
-  - [jtr860830](https://github.com/jtr860830)
 </details>
 
 <a href="https://github.com/tico88612/devstats-card"><img src="https://devstats.me/?username=tico88612" /></a>
