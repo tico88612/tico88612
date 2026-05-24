@@ -60,6 +60,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [golangci-lint: re-enable newexpr hint in modernize linter](https://github.com/kubernetes/kubernetes/pull/139261) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
   - [KEP-5207: Promote metrics.k8s.io to GA](https://github.com/kubernetes/kubernetes/pull/139223) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 days ago)
   - [[WIP] Fix pre-commit](https://github.com/kubernetes-sigs/kubespray/pull/13269) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 days ago)
   - [KEP-4639: mark as implemented](https://github.com/kubernetes/enhancements/pull/6096) on [kubernetes/enhancements](https://github.com/kubernetes/enhancements) (4 days ago)
@@ -69,7 +70,6 @@
   - [[release-2.31] Move molecule youki to molecule_full](https://github.com/kubernetes-sigs/kubespray/pull/13259) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/13254) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Move failing youki to allow_failed and patch update](https://github.com/kubernetes-sigs/kubespray/pull/13241) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
-  - [[release-2.31] Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/13231) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
 
   #### ⭐ Recent Stars
   
