@@ -62,7 +62,7 @@
   
   - [golangci-lint: re-enable newexpr hint in modernize linter](https://github.com/kubernetes/kubernetes/pull/139261) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
   - [KEP-5207: Promote metrics.k8s.io to GA](https://github.com/kubernetes/kubernetes/pull/139223) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (4 days ago)
-  - [[WIP] Fix pre-commit](https://github.com/kubernetes-sigs/kubespray/pull/13269) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 days ago)
+  - [Fixed pre-commit and pin Python Client version in pipeline](https://github.com/kubernetes-sigs/kubespray/pull/13269) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 days ago)
   - [KEP-4639: mark as implemented](https://github.com/kubernetes/enhancements/pull/6096) on [kubernetes/enhancements](https://github.com/kubernetes/enhancements) (5 days ago)
   - [Feat: support format validation](https://github.com/apple/container/pull/1575) on [apple/container](https://github.com/apple/container) (6 days ago)
   - [Clarify events.k8s.io/v1 Event.Reason is machine-readable](https://github.com/kubernetes/kubernetes/pull/139114) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
