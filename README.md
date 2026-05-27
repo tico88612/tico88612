@@ -60,6 +60,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Add K8s Slack invitation link](https://github.com/kubernetes-sigs/inference-perf/pull/510) on [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) (today)
   - [golangci-lint: re-enable newexpr hint in modernize linter](https://github.com/kubernetes/kubernetes/pull/139261) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 days ago)
   - [KEP-5207: Promote metrics.k8s.io to GA](https://github.com/kubernetes/kubernetes/pull/139223) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (6 days ago)
   - [Fixed pre-commit and pin Python Client version in pipeline](https://github.com/kubernetes-sigs/kubespray/pull/13269) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (6 days ago)
@@ -69,7 +70,6 @@
   - [Fix: image list align with other commands when use format should ignore quiet](https://github.com/apple/container/pull/1553) on [apple/container](https://github.com/apple/container) (1 week ago)
   - [[release-2.31] Move molecule youki to molecule_full](https://github.com/kubernetes-sigs/kubespray/pull/13259) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/13254) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
-  - [Move failing youki to allow_failed and patch update](https://github.com/kubernetes-sigs/kubespray/pull/13241) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
 
   #### ⭐ Recent Stars
   
