@@ -8,7 +8,7 @@
 - 🐳 Kubernetes, Container, Golang
 - 💻 Open Source Contributions
   - Maintainer @ [Kubespray](https://kubespray.io/)
-  - Enhancement Shadow @ [Kubernetes](https://kubernetes.io) v1.36
+  - Enhancement Shadow @ [Kubernetes](https://kubernetes.io) v1.36 ~ v1.37
   - Release Signal Lead @ [Kubernetes](https://kubernetes.io) v1.35
   - Release Signal Shadow @ [Kubernetes](https://kubernetes.io) v1.32 ~ v1.34
 - 🤝 Community Outreach
@@ -60,6 +60,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [[WIP] Upgrade Ansible 12.3.0](https://github.com/kubernetes-sigs/kubespray/pull/13282) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [Add K8s Slack invitation link](https://github.com/kubernetes-sigs/inference-perf/pull/510) on [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) (1 day ago)
   - [golangci-lint: re-enable newexpr hint in modernize linter](https://github.com/kubernetes/kubernetes/pull/139261) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (4 days ago)
   - [KEP-5207: Promote metrics.k8s.io to GA](https://github.com/kubernetes/kubernetes/pull/139223) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
@@ -69,7 +70,6 @@
   - [Clarify events.k8s.io/v1 Event.Reason is machine-readable](https://github.com/kubernetes/kubernetes/pull/139114) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
   - [Fix: image list align with other commands when use format should ignore quiet](https://github.com/apple/container/pull/1553) on [apple/container](https://github.com/apple/container) (2 weeks ago)
   - [[release-2.31] Move molecule youki to molecule_full](https://github.com/kubernetes-sigs/kubespray/pull/13259) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
-  - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/13254) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
 
   #### ⭐ Recent Stars
   
