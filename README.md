@@ -24,7 +24,7 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) - GenAI inference performance benchmarking tool (today)
+  - [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) - GenAI inference performance benchmarking tool (1 day ago)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (1 week ago)
   - [kubernetes/enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes (1 week ago)
   - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (2 weeks ago)
@@ -61,11 +61,11 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [Fixed failing e2e test for nix pdm sync error](https://github.com/kubernetes-sigs/inference-perf/pull/521) on [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) (2 days ago)
-  - [fix: failing e2e test for nix pdm sync error](https://github.com/tico88612/inference-perf/pull/1) on [tico88612/inference-perf](https://github.com/tico88612/inference-perf) (2 days ago)
-  - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/13283) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 days ago)
-  - [[WIP] Upgrade Ansible 12.3.0](https://github.com/kubernetes-sigs/kubespray/pull/13282) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 days ago)
-  - [Add K8s Slack invitation link](https://github.com/kubernetes-sigs/inference-perf/pull/510) on [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) (4 days ago)
+  - [Fixed failing e2e test for nix pdm sync error](https://github.com/kubernetes-sigs/inference-perf/pull/521) on [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) (3 days ago)
+  - [fix: failing e2e test for nix pdm sync error](https://github.com/tico88612/inference-perf/pull/1) on [tico88612/inference-perf](https://github.com/tico88612/inference-perf) (3 days ago)
+  - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/13283) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 days ago)
+  - [[WIP] Upgrade Ansible 12.3.0](https://github.com/kubernetes-sigs/kubespray/pull/13282) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 days ago)
+  - [Add K8s Slack invitation link](https://github.com/kubernetes-sigs/inference-perf/pull/510) on [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) (5 days ago)
   - [golangci-lint: re-enable newexpr hint in modernize linter](https://github.com/kubernetes/kubernetes/pull/139261) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
   - [KEP-5207: Promote metrics.k8s.io to GA](https://github.com/kubernetes/kubernetes/pull/139223) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
   - [Fixed pre-commit and pin Python Client version in pipeline](https://github.com/kubernetes-sigs/kubespray/pull/13269) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
@@ -75,7 +75,7 @@
   #### ⭐ Recent Stars
   
   - [kubernetes-sigs/dra-driver-nvidia-gpu](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu) - DRA Driver for NVIDIA GPUs (1 week ago)
-  - [llm-d/llm-d](https://github.com/llm-d/llm-d) - Achieve state of the art inference performance with modern accelerators on Kubernetes (1 week ago)
+  - [llm-d/llm-d](https://github.com/llm-d/llm-d) - Achieve state of the art inference performance with modern accelerators on Kubernetes (2 weeks ago)
   - [kubernetes-sigs/dranet](https://github.com/kubernetes-sigs/dranet) - DRANET is a Kubernetes Network Driver that uses Dynamic Resource Allocation (DRA) to deliver high-performance networking for demanding applications in Kubernetes. (3 weeks ago)
   - [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) - GenAI inference performance benchmarking tool (1 month ago)
   - [ingero-io/ingero](https://github.com/ingero-io/ingero) - eBPF agent and MCP server for GPU causal observability (1 month ago)
