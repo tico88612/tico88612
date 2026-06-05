@@ -61,6 +61,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [[release-2.31] Fix pre-commit ansible-core 2.18](https://github.com/kubernetes-sigs/kubespray/pull/13292) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [Fixed failing e2e test for nix pdm sync error](https://github.com/kubernetes-sigs/inference-perf/pull/521) on [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) (1 week ago)
   - [fix: failing e2e test for nix pdm sync error](https://github.com/tico88612/inference-perf/pull/1) on [tico88612/inference-perf](https://github.com/tico88612/inference-perf) (1 week ago)
   - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/13283) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
@@ -70,7 +71,6 @@
   - [KEP-5207: Promote metrics.k8s.io to GA](https://github.com/kubernetes/kubernetes/pull/139223) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
   - [Fixed pre-commit and pin Python Client version in pipeline](https://github.com/kubernetes-sigs/kubespray/pull/13269) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [KEP-4639: mark as implemented](https://github.com/kubernetes/enhancements/pull/6096) on [kubernetes/enhancements](https://github.com/kubernetes/enhancements) (2 weeks ago)
-  - [Feat: support format validation](https://github.com/apple/container/pull/1575) on [apple/container](https://github.com/apple/container) (2 weeks ago)
 
   #### ⭐ Recent Stars
   
