@@ -24,7 +24,7 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [tico88612/devstats-card](https://github.com/tico88612/devstats-card) - Your CNCF DevStats Card (1 day ago)
+  - [tico88612/devstats-card](https://github.com/tico88612/devstats-card) - Your CNCF DevStats Card (2 days ago)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (1 week ago)
   - [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) - GenAI inference performance benchmarking tool (1 week ago)
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 weeks ago)
@@ -50,8 +50,8 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.109.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.109.0), 2 days ago) - Terraform / OpenTofu Provider for Proxmox VE
-  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.36.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.36.1), 3 weeks ago) - Production-Grade Container Scheduling and Management
+  - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.109.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.109.0), 3 days ago) - Terraform / OpenTofu Provider for Proxmox VE
+  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.36.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.36.1), 4 weeks ago) - Production-Grade Container Scheduling and Management
   - [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) ([v0.5.0](https://github.com/kubernetes-sigs/inference-perf/releases/tag/v0.5.0), 1 month ago) - GenAI inference performance benchmarking tool
   - [apple/container](https://github.com/apple/container) ([0.12.3](https://github.com/apple/container/releases/tag/0.12.3), 1 month ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.31.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.31.0), 1 month ago) - Deploy a Production Ready Kubernetes Cluster
@@ -61,7 +61,7 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [[release-2.31] Fix pre-commit ansible-core 2.18](https://github.com/kubernetes-sigs/kubespray/pull/13292) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 days ago)
+  - [[release-2.31] Fix pre-commit ansible-core 2.18](https://github.com/kubernetes-sigs/kubespray/pull/13292) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 days ago)
   - [Fixed failing e2e test for nix pdm sync error](https://github.com/kubernetes-sigs/inference-perf/pull/521) on [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) (1 week ago)
   - [fix: failing e2e test for nix pdm sync error](https://github.com/tico88612/inference-perf/pull/1) on [tico88612/inference-perf](https://github.com/tico88612/inference-perf) (1 week ago)
   - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/13283) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
@@ -74,7 +74,7 @@
 
   #### ⭐ Recent Stars
   
-  - [kubernetes-sigs/dra-driver-nvidia-gpu](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu) - DRA Driver for NVIDIA GPUs (2 weeks ago)
+  - [kubernetes-sigs/dra-driver-nvidia-gpu](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu) - DRA Driver for NVIDIA GPUs (3 weeks ago)
   - [llm-d/llm-d](https://github.com/llm-d/llm-d) - Achieve state of the art inference performance with modern accelerators on Kubernetes (3 weeks ago)
   - [kubernetes-sigs/dranet](https://github.com/kubernetes-sigs/dranet) - DRANET is a Kubernetes Network Driver that uses Dynamic Resource Allocation (DRA) to deliver high-performance networking for demanding applications in Kubernetes. (1 month ago)
   - [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) - GenAI inference performance benchmarking tool (1 month ago)
