@@ -24,7 +24,7 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [tico88612/devstats-card](https://github.com/tico88612/devstats-card) - Your CNCF DevStats Card (3 days ago)
+  - [tico88612/devstats-card](https://github.com/tico88612/devstats-card) - Your CNCF DevStats Card (today)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (1 week ago)
   - [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) - GenAI inference performance benchmarking tool (1 week ago)
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 weeks ago)
@@ -61,6 +61,8 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Feat: theme options](https://github.com/tico88612/devstats-card/pull/3) on [tico88612/devstats-card](https://github.com/tico88612/devstats-card) (today)
+  - [Feat: Add HEAD HTTP method for healthcheck](https://github.com/tico88612/devstats-card/pull/2) on [tico88612/devstats-card](https://github.com/tico88612/devstats-card) (today)
   - [[release-2.31] Fix pre-commit ansible-core 2.18](https://github.com/kubernetes-sigs/kubespray/pull/13292) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (5 days ago)
   - [Fixed failing e2e test for nix pdm sync error](https://github.com/kubernetes-sigs/inference-perf/pull/521) on [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) (1 week ago)
   - [fix: failing e2e test for nix pdm sync error](https://github.com/tico88612/inference-perf/pull/1) on [tico88612/inference-perf](https://github.com/tico88612/inference-perf) (1 week ago)
@@ -69,8 +71,6 @@
   - [Add K8s Slack invitation link](https://github.com/kubernetes-sigs/inference-perf/pull/510) on [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) (2 weeks ago)
   - [golangci-lint: re-enable newexpr hint in modernize linter](https://github.com/kubernetes/kubernetes/pull/139261) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
   - [KEP-5207: Promote metrics.k8s.io to GA](https://github.com/kubernetes/kubernetes/pull/139223) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
-  - [Fixed pre-commit and pin Python Client version in pipeline](https://github.com/kubernetes-sigs/kubespray/pull/13269) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
-  - [KEP-4639: mark as implemented](https://github.com/kubernetes/enhancements/pull/6096) on [kubernetes/enhancements](https://github.com/kubernetes/enhancements) (3 weeks ago)
 
   #### ⭐ Recent Stars
   
