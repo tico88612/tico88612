@@ -50,9 +50,9 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [apple/container](https://github.com/apple/container) ([1.0.0](https://github.com/apple/container/releases/tag/1.0.0), 1 day ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
-  - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.109.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.109.0), 4 days ago) - Terraform / OpenTofu Provider for Proxmox VE
-  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.36.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.36.1), 4 weeks ago) - Production-Grade Container Scheduling and Management
+  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.37.0-alpha.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.37.0-alpha.1), today) - Production-Grade Container Scheduling and Management
+  - [apple/container](https://github.com/apple/container) ([1.0.0](https://github.com/apple/container/releases/tag/1.0.0), 2 days ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+  - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.109.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.109.0), 5 days ago) - Terraform / OpenTofu Provider for Proxmox VE
   - [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) ([v0.5.0](https://github.com/kubernetes-sigs/inference-perf/releases/tag/v0.5.0), 1 month ago) - GenAI inference performance benchmarking tool
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.31.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.31.0), 1 month ago) - Deploy a Production Ready Kubernetes Cluster
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.36](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.36), 1 month ago) - Kubernetes website and documentation repo: 
@@ -61,16 +61,16 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [Feat: theme options](https://github.com/tico88612/devstats-card/pull/3) on [tico88612/devstats-card](https://github.com/tico88612/devstats-card) (today)
-  - [Feat: Add HEAD HTTP method for healthcheck](https://github.com/tico88612/devstats-card/pull/2) on [tico88612/devstats-card](https://github.com/tico88612/devstats-card) (today)
-  - [[release-2.31] Fix pre-commit ansible-core 2.18](https://github.com/kubernetes-sigs/kubespray/pull/13292) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (5 days ago)
+  - [Fix: index page RWD](https://github.com/tico88612/devstats-card/pull/4) on [tico88612/devstats-card](https://github.com/tico88612/devstats-card) (today)
+  - [Feat: theme options](https://github.com/tico88612/devstats-card/pull/3) on [tico88612/devstats-card](https://github.com/tico88612/devstats-card) (1 day ago)
+  - [Feat: Add HEAD HTTP method for healthcheck](https://github.com/tico88612/devstats-card/pull/2) on [tico88612/devstats-card](https://github.com/tico88612/devstats-card) (1 day ago)
+  - [[release-2.31] Fix pre-commit ansible-core 2.18](https://github.com/kubernetes-sigs/kubespray/pull/13292) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (6 days ago)
   - [Fixed failing e2e test for nix pdm sync error](https://github.com/kubernetes-sigs/inference-perf/pull/521) on [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) (1 week ago)
   - [fix: failing e2e test for nix pdm sync error](https://github.com/tico88612/inference-perf/pull/1) on [tico88612/inference-perf](https://github.com/tico88612/inference-perf) (1 week ago)
   - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/13283) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
-  - [Upgrade Ansible 12.3.0](https://github.com/kubernetes-sigs/kubespray/pull/13282) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
+  - [Upgrade Ansible 12.3.0](https://github.com/kubernetes-sigs/kubespray/pull/13282) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [Add K8s Slack invitation link](https://github.com/kubernetes-sigs/inference-perf/pull/510) on [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) (2 weeks ago)
   - [golangci-lint: re-enable newexpr hint in modernize linter](https://github.com/kubernetes/kubernetes/pull/139261) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
-  - [KEP-5207: Promote metrics.k8s.io to GA](https://github.com/kubernetes/kubernetes/pull/139223) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
 
   #### ⭐ Recent Stars
   
