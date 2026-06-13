@@ -24,8 +24,8 @@
 
   #### 👷 Check out what I'm currently working on
   
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (today)
   - [tico88612/devstats-card](https://github.com/tico88612/devstats-card) - Your CNCF DevStats Card (2 days ago)
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (1 week ago)
   - [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) - GenAI inference performance benchmarking tool (1 week ago)
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 weeks ago)
   - [kubernetes/enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes (3 weeks ago)
@@ -61,6 +61,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/13305) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [Fix: index page RWD](https://github.com/tico88612/devstats-card/pull/4) on [tico88612/devstats-card](https://github.com/tico88612/devstats-card) (2 days ago)
   - [Feat: theme options](https://github.com/tico88612/devstats-card/pull/3) on [tico88612/devstats-card](https://github.com/tico88612/devstats-card) (3 days ago)
   - [Feat: Add HEAD HTTP method for healthcheck](https://github.com/tico88612/devstats-card/pull/2) on [tico88612/devstats-card](https://github.com/tico88612/devstats-card) (3 days ago)
@@ -70,7 +71,6 @@
   - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/13283) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [Upgrade Ansible 12.3.0](https://github.com/kubernetes-sigs/kubespray/pull/13282) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [Add K8s Slack invitation link](https://github.com/kubernetes-sigs/inference-perf/pull/510) on [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) (2 weeks ago)
-  - [golangci-lint: re-enable newexpr hint in modernize linter](https://github.com/kubernetes/kubernetes/pull/139261) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
 
   #### ⭐ Recent Stars
   
