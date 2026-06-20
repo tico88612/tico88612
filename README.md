@@ -24,9 +24,9 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [cloud-native-taiwan/cloud-native-taiwan.github.io](https://github.com/cloud-native-taiwan/cloud-native-taiwan.github.io) - Cloud Native Taiwan website (1 day ago)
-  - [kubernetes/enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes (2 days ago)
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (6 days ago)
+  - [cloud-native-taiwan/cloud-native-taiwan.github.io](https://github.com/cloud-native-taiwan/cloud-native-taiwan.github.io) - Cloud Native Taiwan website (2 days ago)
+  - [kubernetes/enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes (3 days ago)
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (1 week ago)
   - [tico88612/devstats-card](https://github.com/tico88612/devstats-card) - Your CNCF DevStats Card (1 week ago)
   - [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) - GenAI inference performance benchmarking tool (2 weeks ago)
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (3 weeks ago)
@@ -60,8 +60,8 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [[WIP] Feat: kubectl top support v1.metrics.k8s.io](https://github.com/kubernetes/kubernetes/pull/139726) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (5 days ago)
-  - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/13305) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (6 days ago)
+  - [[WIP] Feat: kubectl top support v1.metrics.k8s.io](https://github.com/kubernetes/kubernetes/pull/139726) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (6 days ago)
+  - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/13305) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [Fix: index page RWD](https://github.com/tico88612/devstats-card/pull/4) on [tico88612/devstats-card](https://github.com/tico88612/devstats-card) (1 week ago)
   - [Feat: theme options](https://github.com/tico88612/devstats-card/pull/3) on [tico88612/devstats-card](https://github.com/tico88612/devstats-card) (1 week ago)
   - [Feat: Add HEAD HTTP method for healthcheck](https://github.com/tico88612/devstats-card/pull/2) on [tico88612/devstats-card](https://github.com/tico88612/devstats-card) (1 week ago)
