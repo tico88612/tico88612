@@ -86,11 +86,11 @@
 
   #### 👯 Check out some of my recent followers
   
+  - [halfy1](https://github.com/halfy1)
   - [Datawitch-Programmer](https://github.com/Datawitch-Programmer)
   - [kayden1940](https://github.com/kayden1940)
   - [Zenobia0000](https://github.com/Zenobia0000)
   - [crisprking](https://github.com/crisprking)
-  - [f5guy](https://github.com/f5guy)
 </details>
 
 <a href="https://github.com/tico88612/devstats-card"><img src="https://devstats.me/?username=tico88612" /></a>
