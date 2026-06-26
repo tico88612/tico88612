@@ -60,6 +60,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Cleanup: hidden metrics for apiserver](https://github.com/kubernetes/kubernetes/pull/140044) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
   - [cleanup: hidden metrics for pod log](https://github.com/kubernetes/kubernetes/pull/140038) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
   - [[WIP] Feat: kubectl top support v1.metrics.k8s.io](https://github.com/kubernetes/kubernetes/pull/139726) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
   - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/13305) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
@@ -69,7 +70,6 @@
   - [[release-2.31] Fix pre-commit ansible-core 2.18](https://github.com/kubernetes-sigs/kubespray/pull/13292) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
   - [Fixed failing e2e test for nix pdm sync error](https://github.com/kubernetes-sigs/inference-perf/pull/521) on [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) (4 weeks ago)
   - [fix: failing e2e test for nix pdm sync error](https://github.com/tico88612/inference-perf/pull/1) on [tico88612/inference-perf](https://github.com/tico88612/inference-perf) (4 weeks ago)
-  - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/13283) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 weeks ago)
 
   #### ⭐ Recent Stars
   
