@@ -60,7 +60,7 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [fix(tests): cri-dockerd doesn&#39;t support ExtendWebSocketsToKubelet](https://github.com/kubernetes-sigs/kubespray/pull/13361) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
+  - [fix: ExtendWebSocketsToKubelet when container_manager set docker](https://github.com/kubernetes-sigs/kubespray/pull/13361) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [[WIP] Placeholder for v1.metrics.k8s.io](https://github.com/kubernetes/website/pull/56349) on [kubernetes/website](https://github.com/kubernetes/website) (5 days ago)
   - [Cleanup: hidden metrics for apiserver](https://github.com/kubernetes/kubernetes/pull/140044) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
   - [cleanup: hidden metrics for pod log](https://github.com/kubernetes/kubernetes/pull/140038) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
@@ -86,11 +86,11 @@
 
   #### 👯 Check out some of my recent followers
   
+  - [AdeshDeshmukh](https://github.com/AdeshDeshmukh)
   - [halfy1](https://github.com/halfy1)
   - [Datawitch-Programmer](https://github.com/Datawitch-Programmer)
   - [kayden1940](https://github.com/kayden1940)
   - [Zenobia0000](https://github.com/Zenobia0000)
-  - [crisprking](https://github.com/crisprking)
 </details>
 
 <a href="https://github.com/tico88612/devstats-card"><img src="https://devstats.me/?username=tico88612" /></a>
