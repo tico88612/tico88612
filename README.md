@@ -50,7 +50,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [apple/container](https://github.com/apple/container) ([1.1.0](https://github.com/apple/container/releases/tag/1.1.0), today) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+  - [apple/container](https://github.com/apple/container) ([1.1.0](https://github.com/apple/container/releases/tag/1.1.0), 1 day ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.37.0-alpha.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.37.0-alpha.2), 1 week ago) - Production-Grade Container Scheduling and Management
   - [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) ([v0.6.0](https://github.com/kubernetes-sigs/inference-perf/releases/tag/v0.6.0), 1 week ago) - GenAI inference performance benchmarking tool
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.31.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.31.0), 2 months ago) - Deploy a Production Ready Kubernetes Cluster
@@ -60,8 +60,8 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [fix: ExtendWebSocketsToKubelet when container_manager set docker](https://github.com/kubernetes-sigs/kubespray/pull/13361) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
-  - [[WIP] Placeholder for v1.metrics.k8s.io](https://github.com/kubernetes/website/pull/56349) on [kubernetes/website](https://github.com/kubernetes/website) (5 days ago)
+  - [fix: ExtendWebSocketsToKubelet when container_manager set docker](https://github.com/kubernetes-sigs/kubespray/pull/13361) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 day ago)
+  - [[WIP] Placeholder for v1.metrics.k8s.io](https://github.com/kubernetes/website/pull/56349) on [kubernetes/website](https://github.com/kubernetes/website) (6 days ago)
   - [Cleanup: hidden metrics for apiserver](https://github.com/kubernetes/kubernetes/pull/140044) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
   - [cleanup: hidden metrics for pod log](https://github.com/kubernetes/kubernetes/pull/140038) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
   - [[WIP] Feat: kubectl top support v1.metrics.k8s.io](https://github.com/kubernetes/kubernetes/pull/139726) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 weeks ago)
