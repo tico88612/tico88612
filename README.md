@@ -60,6 +60,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/13368) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [[WIP] [Placeholder] blog for KEP-5207: metrics.k8s.io/v1 GA](https://github.com/kubernetes/website/pull/56446) on [kubernetes/website](https://github.com/kubernetes/website) (4 days ago)
   - [component-base/metrics: make CounterVec satisfy CounterVecMetric](https://github.com/kubernetes/kubernetes/pull/140277) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (6 days ago)
   - [fix: ExtendWebSocketsToKubelet when container_manager set docker](https://github.com/kubernetes-sigs/kubespray/pull/13361) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
@@ -69,7 +70,6 @@
   - [Feat: kubectl top support v1.metrics.k8s.io](https://github.com/kubernetes/kubernetes/pull/139726) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (4 weeks ago)
   - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/13305) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Fix: index page RWD](https://github.com/tico88612/devstats-card/pull/4) on [tico88612/devstats-card](https://github.com/tico88612/devstats-card) (1 month ago)
-  - [Feat: theme options](https://github.com/tico88612/devstats-card/pull/3) on [tico88612/devstats-card](https://github.com/tico88612/devstats-card) (1 month ago)
 
   #### ⭐ Recent Stars
   
