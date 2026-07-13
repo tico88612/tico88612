@@ -25,8 +25,8 @@
   #### 👷 Check out what I'm currently working on
   
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (1 week ago)
-  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 weeks ago)
   - [kubernetes/apiserver](https://github.com/kubernetes/apiserver) - Library for writing a Kubernetes-style API server. (2 weeks ago)
+  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 weeks ago)
   - [cloud-native-taiwan/cloud-native-taiwan.github.io](https://github.com/cloud-native-taiwan/cloud-native-taiwan.github.io) - Cloud Native Taiwan website (3 weeks ago)
   - [kubernetes/enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes (3 weeks ago)
   - [tico88612/devstats-card](https://github.com/tico88612/devstats-card) - Your CNCF DevStats Card (1 month ago)
@@ -86,11 +86,11 @@
 
   #### 👯 Check out some of my recent followers
   
-  - [Gabrieliam42](https://github.com/Gabrieliam42)
   - [AdeshDeshmukh](https://github.com/AdeshDeshmukh)
   - [halfy1](https://github.com/halfy1)
   - [Datawitch-Programmer](https://github.com/Datawitch-Programmer)
   - [kayden1940](https://github.com/kayden1940)
+  - [Zenobia0000](https://github.com/Zenobia0000)
 </details>
 
 <a href="https://github.com/tico88612/devstats-card"><img src="https://devstats.me/?username=tico88612" /></a>
