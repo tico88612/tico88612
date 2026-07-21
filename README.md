@@ -24,6 +24,7 @@
 
   #### 👷 Check out what I'm currently working on
   
+  - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (today)
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (1 day ago)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (1 week ago)
   - [kubernetes/apiserver](https://github.com/kubernetes/apiserver) - Library for writing a Kubernetes-style API server. (3 weeks ago)
@@ -33,7 +34,6 @@
   - [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) - GenAI inference performance benchmarking tool (1 month ago)
   - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (2 months ago)
   - [cloud-native-taiwan/infra-labs-docs](https://github.com/cloud-native-taiwan/infra-labs-docs) - Documentation for Cloud Native Taiwan Infra Labs (2 months ago)
-  - [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (2 months ago)
 
   #### 🌱 My latest projects
   
