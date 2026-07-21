@@ -60,6 +60,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Fix: Slack inviter link](https://github.com/kubernetes/k8s.io/pull/9740) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
   - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/13368) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [[WIP] [Placeholder] blog for KEP-5207: metrics.k8s.io/v1 GA](https://github.com/kubernetes/website/pull/56446) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
   - [component-base/metrics: make CounterVec satisfy CounterVecMetric](https://github.com/kubernetes/kubernetes/pull/140277) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
@@ -69,10 +70,10 @@
   - [cleanup: hidden metrics for pod log](https://github.com/kubernetes/kubernetes/pull/140038) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 weeks ago)
   - [Feat: kubectl top support v1.metrics.k8s.io](https://github.com/kubernetes/kubernetes/pull/139726) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 month ago)
   - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/13305) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
-  - [Fix: index page RWD](https://github.com/tico88612/devstats-card/pull/4) on [tico88612/devstats-card](https://github.com/tico88612/devstats-card) (1 month ago)
 
   #### ⭐ Recent Stars
   
+  - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (today)
   - [yuskesh/apple-container-ebpf-kernel](https://github.com/yuskesh/apple-container-ebpf-kernel) - Build a custom Linux kernel with a full eBPF feature set (BTF, struct_ops/sched_ext, tracing, netem, BPF LSM, AF_XDP) and run it under Apple&#39;s container runtime on Apple Silicon macOS. (4 days ago)
   - [kubernetes-sigs/dra-driver-nvidia-gpu](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu) - DRA Driver for NVIDIA GPUs (2 months ago)
   - [llm-d/llm-d](https://github.com/llm-d/llm-d) - Achieve state of the art inference performance with modern accelerators on Kubernetes (2 months ago)
@@ -82,7 +83,6 @@
   - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers (7 months ago)
   - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations (8 months ago)
   - [kubernetes-sigs/signalhound](https://github.com/kubernetes-sigs/signalhound) - Signalhound monitors TestGrid dashboards to identify and summarize test failures and flaking patterns in Kubernetes CI/CD pipelines.  (8 months ago)
-  - [linagora/twake-drive-legacy](https://github.com/linagora/twake-drive-legacy) - LEGACY: The open-source alternative to Google Drive.  (8 months ago)
 
   #### 👯 Check out some of my recent followers
   
