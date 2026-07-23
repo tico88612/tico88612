@@ -50,9 +50,9 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) ([v0.6.1](https://github.com/kubernetes-sigs/inference-perf/releases/tag/v0.6.1), today) - GenAI inference performance benchmarking tool
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.36.3](https://github.com/kubernetes/kubernetes/releases/tag/v1.36.3), today) - Production-Grade Container Scheduling and Management
   - [apple/container](https://github.com/apple/container) ([1.1.0](https://github.com/apple/container/releases/tag/1.1.0), 2 weeks ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
-  - [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) ([v0.6.0](https://github.com/kubernetes-sigs/inference-perf/releases/tag/v0.6.0), 4 weeks ago) - GenAI inference performance benchmarking tool
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.31.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.31.0), 2 months ago) - Deploy a Production Ready Kubernetes Cluster
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.36](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.36), 3 months ago) - Kubernetes website and documentation repo: 
   - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), 7 months ago) - Repo for SIG release
