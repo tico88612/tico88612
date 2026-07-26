@@ -86,11 +86,11 @@
 
   #### 👯 Check out some of my recent followers
   
-  - [NickJavaDev88](https://github.com/NickJavaDev88)
-  - [Dvurechensky](https://github.com/Dvurechensky)
-  - [AdeshDeshmukh](https://github.com/AdeshDeshmukh)
-  - [halfy1](https://github.com/halfy1)
-  - [Datawitch-Programmer](https://github.com/Datawitch-Programmer)
+  - [klandor](https://github.com/klandor)
+  - [ycy-0510](https://github.com/ycy-0510)
+  - [CPC0900290](https://github.com/CPC0900290)
+  - [nsx8111](https://github.com/nsx8111)
+  - [PichuChen](https://github.com/PichuChen)
 </details>
 
 <a href="https://github.com/tico88612/devstats-card"><img src="https://devstats.me/?username=tico88612" /></a>
