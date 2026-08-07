@@ -50,8 +50,8 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [apple/container](https://github.com/apple/container) ([1.2.1](https://github.com/apple/container/releases/tag/1.2.1), today) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.37.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.37.0-rc.0), 1 day ago) - Production-Grade Container Scheduling and Management
-  - [apple/container](https://github.com/apple/container) ([1.2.0](https://github.com/apple/container/releases/tag/1.2.0), 1 week ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
   - [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) ([v0.6.1](https://github.com/kubernetes-sigs/inference-perf/releases/tag/v0.6.1), 2 weeks ago) - GenAI inference performance benchmarking tool
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.31.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.31.0), 3 months ago) - Deploy a Production Ready Kubernetes Cluster
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.36](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.36), 3 months ago) - Kubernetes website and documentation repo: 
@@ -60,6 +60,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [test(gpu-kubelet-plugin): add cleanup unit test](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu/pull/1315) on [kubernetes-sigs/dra-driver-nvidia-gpu](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu) (today)
   - [Feat: v1.metrics.k8s.io API support](https://github.com/kubernetes-sigs/metrics-server/pull/1855) on [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) (4 days ago)
   - [Fix: Slack inviter link](https://github.com/kubernetes/k8s.io/pull/9740) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
   - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/13368) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
@@ -69,7 +70,6 @@
   - [Add docs for metrics.k8s.io graduation to stable](https://github.com/kubernetes/website/pull/56349) on [kubernetes/website](https://github.com/kubernetes/website) (1 month ago)
   - [Cleanup: hidden metrics for apiserver](https://github.com/kubernetes/kubernetes/pull/140044) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 month ago)
   - [cleanup: hidden metrics for pod log](https://github.com/kubernetes/kubernetes/pull/140038) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 month ago)
-  - [Feat: kubectl top support v1.metrics.k8s.io](https://github.com/kubernetes/kubernetes/pull/139726) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 month ago)
 
   #### ⭐ Recent Stars
   
