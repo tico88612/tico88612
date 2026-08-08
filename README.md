@@ -86,11 +86,11 @@
 
   #### 👯 Check out some of my recent followers
   
+  - [CJhangTW](https://github.com/CJhangTW)
   - [viiccwen](https://github.com/viiccwen)
   - [CodeRichen](https://github.com/CodeRichen)
   - [theLittleApps](https://github.com/theLittleApps)
   - [klandor](https://github.com/klandor)
-  - [ycy-0510](https://github.com/ycy-0510)
 </details>
 
 <a href="https://github.com/tico88612/devstats-card"><img src="https://devstats.me/?username=tico88612" /></a>
