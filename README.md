@@ -31,7 +31,7 @@
   - [kubernetes/apiserver](https://github.com/kubernetes/apiserver) - Library for writing a Kubernetes-style API server. (1 month ago)
   - [cloud-native-taiwan/cloud-native-taiwan.github.io](https://github.com/cloud-native-taiwan/cloud-native-taiwan.github.io) - Cloud Native Taiwan website (1 month ago)
   - [kubernetes/enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes (1 month ago)
-  - [tico88612/devstats-card](https://github.com/tico88612/devstats-card) - Your CNCF DevStats Card (1 month ago)
+  - [tico88612/devstats-card](https://github.com/tico88612/devstats-card) - Your CNCF DevStats Card (2 months ago)
   - [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) - GenAI inference performance benchmarking tool (2 months ago)
   - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (2 months ago)
 
@@ -50,8 +50,8 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [apple/container](https://github.com/apple/container) ([1.2.2](https://github.com/apple/container/releases/tag/1.2.2), 1 day ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
-  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.37.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.37.0-rc.0), 3 days ago) - Production-Grade Container Scheduling and Management
+  - [apple/container](https://github.com/apple/container) ([1.2.2](https://github.com/apple/container/releases/tag/1.2.2), 2 days ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.37.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.37.0-rc.0), 4 days ago) - Production-Grade Container Scheduling and Management
   - [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) ([v0.6.1](https://github.com/kubernetes-sigs/inference-perf/releases/tag/v0.6.1), 2 weeks ago) - GenAI inference performance benchmarking tool
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.31.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.31.0), 3 months ago) - Deploy a Production Ready Kubernetes Cluster
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.36](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.36), 3 months ago) - Kubernetes website and documentation repo: 
@@ -60,10 +60,10 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [test(gpu-kubelet-plugin): add cleanup unit test](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu/pull/1315) on [kubernetes-sigs/dra-driver-nvidia-gpu](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu) (2 days ago)
-  - [Feat: v1.metrics.k8s.io API support](https://github.com/kubernetes-sigs/metrics-server/pull/1855) on [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) (6 days ago)
+  - [test(gpu-kubelet-plugin): add cleanup unit test](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu/pull/1315) on [kubernetes-sigs/dra-driver-nvidia-gpu](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu) (3 days ago)
+  - [Feat: v1.metrics.k8s.io API support](https://github.com/kubernetes-sigs/metrics-server/pull/1855) on [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) (1 week ago)
   - [Fix: Slack inviter link](https://github.com/kubernetes/k8s.io/pull/9740) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
-  - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/13368) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
+  - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/13368) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 weeks ago)
   - [Add blog for KEP-5207: metrics.k8s.io/v1 GA](https://github.com/kubernetes/website/pull/56446) on [kubernetes/website](https://github.com/kubernetes/website) (1 month ago)
   - [component-base/metrics: make CounterVec satisfy CounterVecMetric](https://github.com/kubernetes/kubernetes/pull/140277) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 month ago)
   - [fix: ExtendWebSocketsToKubelet when container_manager set docker](https://github.com/kubernetes-sigs/kubespray/pull/13361) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
