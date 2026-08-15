@@ -24,7 +24,7 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (4 days ago)
+  - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (5 days ago)
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (3 weeks ago)
   - [kubernetes/kubectl](https://github.com/kubernetes/kubectl) - Issue tracker and mirror of kubectl code (3 weeks ago)
   - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (3 weeks ago)
@@ -50,7 +50,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [apple/container](https://github.com/apple/container) ([1.2.2](https://github.com/apple/container/releases/tag/1.2.2), 6 days ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+  - [apple/container](https://github.com/apple/container) ([1.2.2](https://github.com/apple/container/releases/tag/1.2.2), 1 week ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.37.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.37.0-rc.0), 1 week ago) - Production-Grade Container Scheduling and Management
   - [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) ([v0.6.1](https://github.com/kubernetes-sigs/inference-perf/releases/tag/v0.6.1), 3 weeks ago) - GenAI inference performance benchmarking tool
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.31.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.31.0), 3 months ago) - Deploy a Production Ready Kubernetes Cluster
@@ -60,8 +60,8 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [Feat: podautoscaler support Metrics API v1 fallback to v1beta1](https://github.com/kubernetes/kubernetes/pull/141366) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
-  - [Document Metrics API in observability concepts](https://github.com/kubernetes/website/pull/56956) on [kubernetes/website](https://github.com/kubernetes/website) (2 days ago)
+  - [Feat: podautoscaler support Metrics API v1 fallback to v1beta1](https://github.com/kubernetes/kubernetes/pull/141366) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
+  - [Document Metrics API in observability concepts](https://github.com/kubernetes/website/pull/56956) on [kubernetes/website](https://github.com/kubernetes/website) (3 days ago)
   - [test(gpu-kubelet-plugin): add cleanup unit test](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu/pull/1315) on [kubernetes-sigs/dra-driver-nvidia-gpu](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu) (1 week ago)
   - [Feat: v1.metrics.k8s.io API support](https://github.com/kubernetes-sigs/metrics-server/pull/1855) on [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) (1 week ago)
   - [Fix: Slack inviter link](https://github.com/kubernetes/k8s.io/pull/9740) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 weeks ago)
