@@ -60,6 +60,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [KEP-5207: marked as implemented](https://github.com/kubernetes/enhancements/pull/6292) on [kubernetes/enhancements](https://github.com/kubernetes/enhancements) (today)
   - [Feat: podautoscaler support Metrics API v1 fallback to v1beta1](https://github.com/kubernetes/kubernetes/pull/141366) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (5 days ago)
   - [Document Metrics API in observability concepts](https://github.com/kubernetes/website/pull/56956) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
   - [test(gpu-kubelet-plugin): add cleanup unit test](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu/pull/1315) on [kubernetes-sigs/dra-driver-nvidia-gpu](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu) (1 week ago)
@@ -69,7 +70,6 @@
   - [Add blog for KEP-5207: metrics.k8s.io/v1 GA](https://github.com/kubernetes/website/pull/56446) on [kubernetes/website](https://github.com/kubernetes/website) (1 month ago)
   - [component-base/metrics: make CounterVec satisfy CounterVecMetric](https://github.com/kubernetes/kubernetes/pull/140277) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 month ago)
   - [fix: ExtendWebSocketsToKubelet when container_manager set docker](https://github.com/kubernetes-sigs/kubespray/pull/13361) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
-  - [Add docs for metrics.k8s.io graduation to stable](https://github.com/kubernetes/website/pull/56349) on [kubernetes/website](https://github.com/kubernetes/website) (1 month ago)
 
   #### ⭐ Recent Stars
   
