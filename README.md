@@ -50,8 +50,8 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [apple/container](https://github.com/apple/container) ([1.3.0](https://github.com/apple/container/releases/tag/1.3.0), today) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.8](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.8), 4 days ago) - Production-Grade Container Scheduling and Management
-  - [apple/container](https://github.com/apple/container) ([1.2.2](https://github.com/apple/container/releases/tag/1.2.2), 2 weeks ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
   - [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) ([v0.6.1](https://github.com/kubernetes-sigs/inference-perf/releases/tag/v0.6.1), 1 month ago) - GenAI inference performance benchmarking tool
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.31.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.31.0), 4 months ago) - Deploy a Production Ready Kubernetes Cluster
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.36](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.36), 4 months ago) - Kubernetes website and documentation repo: 
