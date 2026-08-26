@@ -27,8 +27,8 @@
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (5 days ago)
   - [kubernetes/enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes (1 week ago)
   - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (2 weeks ago)
-  - [kubernetes/kubectl](https://github.com/kubernetes/kubectl) - Issue tracker and mirror of kubectl code (1 month ago)
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (1 month ago)
+  - [kubernetes/kubectl](https://github.com/kubernetes/kubectl) - Issue tracker and mirror of kubectl code (1 month ago)
   - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 month ago)
   - [kubernetes/apiserver](https://github.com/kubernetes/apiserver) - Library for writing a Kubernetes-style API server. (2 months ago)
   - [cloud-native-taiwan/cloud-native-taiwan.github.io](https://github.com/cloud-native-taiwan/cloud-native-taiwan.github.io) - Cloud Native Taiwan website (2 months ago)
@@ -50,11 +50,11 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.37](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.37), today) - Kubernetes website and documentation repo: 
+  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.37.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.37.0), today) - Production-Grade Container Scheduling and Management
   - [apple/container](https://github.com/apple/container) ([1.3.0](https://github.com/apple/container/releases/tag/1.3.0), 2 days ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
-  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.8](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.8), 6 days ago) - Production-Grade Container Scheduling and Management
   - [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) ([v0.6.1](https://github.com/kubernetes-sigs/inference-perf/releases/tag/v0.6.1), 1 month ago) - GenAI inference performance benchmarking tool
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.31.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.31.0), 4 months ago) - Deploy a Production Ready Kubernetes Cluster
-  - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.36](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.36), 4 months ago) - Kubernetes website and documentation repo: 
   - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), 8 months ago) - Repo for SIG release
   - [knabben/signalhound](https://github.com/knabben/signalhound) ([0.0.1](https://github.com/knabben/signalhound/releases/tag/0.0.1), 11 months ago) - Hunts Flake And Failing Testgrid Jobs 
 
