@@ -8,7 +8,8 @@
 - 🐳 Kubernetes, Container, Golang
 - 💻 Open Source Contributions
   - Maintainer @ [Kubespray](https://kubespray.io/)
-  - Enhancement Shadow @ [Kubernetes](https://kubernetes.io) v1.36 ~ v1.37
+  - Enhancements Lead @ [Kubernetes](https://kubernetes.io) v1.38
+  - Enhancements Shadow @ [Kubernetes](https://kubernetes.io) v1.36 ~ v1.37
   - Release Signal Lead @ [Kubernetes](https://kubernetes.io) v1.35
   - Release Signal Shadow @ [Kubernetes](https://kubernetes.io) v1.32 ~ v1.34
 - 🤝 Community Outreach
@@ -61,6 +62,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Add the 1.37 &amp; 1.38 Milestone links](https://github.com/kubernetes/enhancements/pull/6325) on [kubernetes/enhancements](https://github.com/kubernetes/enhancements) (today)
   - [Enable periodic enhancements sync for v1.38](https://github.com/kubernetes/test-infra/pull/37793) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
   - [KEP-5207: marked as implemented](https://github.com/kubernetes/enhancements/pull/6292) on [kubernetes/enhancements](https://github.com/kubernetes/enhancements) (2 weeks ago)
   - [Feat: podautoscaler support Metrics API v1 fallback to v1beta1](https://github.com/kubernetes/kubernetes/pull/141366) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 weeks ago)
@@ -70,7 +72,6 @@
   - [Fix: Slack inviter link](https://github.com/kubernetes/k8s.io/pull/9740) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
   - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/13368) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
   - [Add blog for KEP-5207: metrics.k8s.io/v1 GA](https://github.com/kubernetes/website/pull/56446) on [kubernetes/website](https://github.com/kubernetes/website) (1 month ago)
-  - [component-base/metrics: make CounterVec satisfy CounterVecMetric](https://github.com/kubernetes/kubernetes/pull/140277) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 month ago)
 
   #### ⭐ Recent Stars
   
