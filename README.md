@@ -25,7 +25,7 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (5 days ago)
+  - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (6 days ago)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (2 weeks ago)
   - [kubernetes/enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes (3 weeks ago)
   - [kubernetes-sigs/dra-driver-nvidia-gpu](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu) - DRA Driver for NVIDIA GPUs (3 weeks ago)
@@ -62,8 +62,8 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [Add the 1.37 &amp; 1.38 Milestone links](https://github.com/kubernetes/enhancements/pull/6325) on [kubernetes/enhancements](https://github.com/kubernetes/enhancements) (3 days ago)
-  - [Enable periodic enhancements sync for v1.38](https://github.com/kubernetes/test-infra/pull/37793) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
+  - [Add the 1.37 &amp; 1.38 Milestone links](https://github.com/kubernetes/enhancements/pull/6325) on [kubernetes/enhancements](https://github.com/kubernetes/enhancements) (4 days ago)
+  - [Enable periodic enhancements sync for v1.38](https://github.com/kubernetes/test-infra/pull/37793) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
   - [KEP-5207: marked as implemented](https://github.com/kubernetes/enhancements/pull/6292) on [kubernetes/enhancements](https://github.com/kubernetes/enhancements) (2 weeks ago)
   - [Feat: podautoscaler support Metrics API v1 fallback to v1beta1](https://github.com/kubernetes/kubernetes/pull/141366) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 weeks ago)
   - [Document Metrics API in observability concepts](https://github.com/kubernetes/website/pull/56956) on [kubernetes/website](https://github.com/kubernetes/website) (3 weeks ago)
