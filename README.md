@@ -62,6 +62,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [test(gpu-kubelet-plugin): add CDI unit test](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu/pull/1442) on [kubernetes-sigs/dra-driver-nvidia-gpu](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu) (today)
   - [Add the 1.37 &amp; 1.38 Milestone links](https://github.com/kubernetes/enhancements/pull/6325) on [kubernetes/enhancements](https://github.com/kubernetes/enhancements) (6 days ago)
   - [Enable periodic enhancements sync for v1.38](https://github.com/kubernetes/test-infra/pull/37793) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
   - [KEP-5207: marked as implemented](https://github.com/kubernetes/enhancements/pull/6292) on [kubernetes/enhancements](https://github.com/kubernetes/enhancements) (3 weeks ago)
@@ -71,7 +72,6 @@
   - [Feat: v1.metrics.k8s.io API support](https://github.com/kubernetes-sigs/metrics-server/pull/1855) on [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) (1 month ago)
   - [Fix: Slack inviter link](https://github.com/kubernetes/k8s.io/pull/9740) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
   - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/13368) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 month ago)
-  - [Add blog for KEP-5207: metrics.k8s.io/v1 GA](https://github.com/kubernetes/website/pull/56446) on [kubernetes/website](https://github.com/kubernetes/website) (2 months ago)
 
   #### ⭐ Recent Stars
   
