@@ -51,7 +51,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [apple/container](https://github.com/apple/container) ([1.4.1](https://github.com/apple/container/releases/tag/1.4.1), today) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+  - [apple/container](https://github.com/apple/container) ([1.4.1](https://github.com/apple/container/releases/tag/1.4.1), 1 day ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.37](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.37), 2 weeks ago) - Kubernetes website and documentation repo: 
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.37.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.37.0), 2 weeks ago) - Production-Grade Container Scheduling and Management
   - [kubernetes-sigs/dra-driver-nvidia-gpu](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu) ([v0.5.0](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu/releases/tag/v0.5.0), 3 weeks ago) - DRA Driver for NVIDIA GPUs
@@ -62,7 +62,7 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [Add the 1.37 &amp; 1.38 Milestone links](https://github.com/kubernetes/enhancements/pull/6325) on [kubernetes/enhancements](https://github.com/kubernetes/enhancements) (5 days ago)
+  - [Add the 1.37 &amp; 1.38 Milestone links](https://github.com/kubernetes/enhancements/pull/6325) on [kubernetes/enhancements](https://github.com/kubernetes/enhancements) (6 days ago)
   - [Enable periodic enhancements sync for v1.38](https://github.com/kubernetes/test-infra/pull/37793) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
   - [KEP-5207: marked as implemented](https://github.com/kubernetes/enhancements/pull/6292) on [kubernetes/enhancements](https://github.com/kubernetes/enhancements) (3 weeks ago)
   - [Feat: podautoscaler support Metrics API v1 fallback to v1beta1](https://github.com/kubernetes/kubernetes/pull/141366) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 weeks ago)
@@ -76,7 +76,7 @@
   #### ⭐ Recent Stars
   
   - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (2 weeks ago)
-  - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local (2 weeks ago)
+  - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local (3 weeks ago)
   - [sysprog21/zhtw-mcp](https://github.com/sysprog21/zhtw-mcp) - A linguistic linter for Traditional Chinese (zh-TW) (3 weeks ago)
   - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (1 month ago)
   - [yuskesh/apple-container-ebpf-kernel](https://github.com/yuskesh/apple-container-ebpf-kernel) - Build a custom Linux kernel with a full eBPF feature set (BTF, struct_ops/sched_ext, tracing, netem, BPF LSM, AF_XDP) and run it under Apple&#39;s container runtime on Apple Silicon macOS. (1 month ago)
