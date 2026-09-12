@@ -51,7 +51,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [apple/container](https://github.com/apple/container) ([1.4.1](https://github.com/apple/container/releases/tag/1.4.1), 2 days ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+  - [apple/container](https://github.com/apple/container) ([1.4.1](https://github.com/apple/container/releases/tag/1.4.1), 3 days ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.37](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.37), 2 weeks ago) - Kubernetes website and documentation repo: 
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.37.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.37.0), 2 weeks ago) - Production-Grade Container Scheduling and Management
   - [kubernetes-sigs/dra-driver-nvidia-gpu](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu) ([v0.5.0](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu/releases/tag/v0.5.0), 3 weeks ago) - DRA Driver for NVIDIA GPUs
@@ -62,7 +62,7 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [test(gpu-kubelet-plugin): add CDI unit test](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu/pull/1442) on [kubernetes-sigs/dra-driver-nvidia-gpu](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu) (1 day ago)
+  - [test(gpu-kubelet-plugin): add CDI unit test](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu/pull/1442) on [kubernetes-sigs/dra-driver-nvidia-gpu](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu) (2 days ago)
   - [Add the 1.37 &amp; 1.38 Milestone links](https://github.com/kubernetes/enhancements/pull/6325) on [kubernetes/enhancements](https://github.com/kubernetes/enhancements) (1 week ago)
   - [Enable periodic enhancements sync for v1.38](https://github.com/kubernetes/test-infra/pull/37793) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
   - [KEP-5207: marked as implemented](https://github.com/kubernetes/enhancements/pull/6292) on [kubernetes/enhancements](https://github.com/kubernetes/enhancements) (3 weeks ago)
