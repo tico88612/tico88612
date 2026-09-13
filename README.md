@@ -88,11 +88,11 @@
 
   #### 👯 Check out some of my recent followers
   
+  - [bryanhsu00](https://github.com/bryanhsu00)
   - [Gabrieliam42](https://github.com/Gabrieliam42)
   - [vedant-kakde](https://github.com/vedant-kakde)
   - [VNaveen124](https://github.com/VNaveen124)
   - [CJhangTW](https://github.com/CJhangTW)
-  - [viiccwen](https://github.com/viiccwen)
 </details>
 
 <a href="https://github.com/tico88612/devstats-card"><img src="https://devstats.me/?username=tico88612" /></a>
