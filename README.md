@@ -25,8 +25,8 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (3 days ago)
-  - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (4 days ago)
+  - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (4 days ago)
+  - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (5 days ago)
   - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (2 weeks ago)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (4 weeks ago)
   - [kubernetes/enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes (1 month ago)
@@ -51,7 +51,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) ([v0.7.0](https://github.com/kubernetes-sigs/inference-perf/releases/tag/v0.7.0), 3 days ago) - GenAI inference performance benchmarking tool
+  - [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) ([v0.7.0](https://github.com/kubernetes-sigs/inference-perf/releases/tag/v0.7.0), 4 days ago) - GenAI inference performance benchmarking tool
   - [apple/container](https://github.com/apple/container) ([1.4.1](https://github.com/apple/container/releases/tag/1.4.1), 1 week ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.37](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.37), 3 weeks ago) - Kubernetes website and documentation repo: 
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.37.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.37.0), 3 weeks ago) - Production-Grade Container Scheduling and Management
@@ -62,9 +62,9 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [Disable periodic enhancements sync for v1.38](https://github.com/kubernetes/test-infra/pull/37872) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
-  - [Add v1.38 Enhancements Shadows to appropriate mailing lists](https://github.com/kubernetes/k8s.io/pull/9935) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
-  - [Add v1.38 enhancements shadows to appropriate groups](https://github.com/kubernetes/org/pull/6642) on [kubernetes/org](https://github.com/kubernetes/org) (4 days ago)
+  - [Disable periodic enhancements sync for v1.38](https://github.com/kubernetes/test-infra/pull/37872) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
+  - [Add v1.38 Enhancements Shadows to appropriate mailing lists](https://github.com/kubernetes/k8s.io/pull/9935) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
+  - [Add v1.38 enhancements shadows to appropriate groups](https://github.com/kubernetes/org/pull/6642) on [kubernetes/org](https://github.com/kubernetes/org) (5 days ago)
   - [test(gpu-kubelet-plugin): add CDI unit test](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu/pull/1442) on [kubernetes-sigs/dra-driver-nvidia-gpu](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu) (1 week ago)
   - [Add the 1.37 &amp; 1.38 Milestone links](https://github.com/kubernetes/enhancements/pull/6325) on [kubernetes/enhancements](https://github.com/kubernetes/enhancements) (2 weeks ago)
   - [Enable periodic enhancements sync for v1.38](https://github.com/kubernetes/test-infra/pull/37793) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
@@ -76,9 +76,9 @@
   #### ⭐ Recent Stars
   
   - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (4 weeks ago)
-  - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local (4 weeks ago)
+  - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local (1 month ago)
   - [sysprog21/zhtw-mcp](https://github.com/sysprog21/zhtw-mcp) - A linguistic linter for Traditional Chinese (zh-TW) (1 month ago)
-  - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (1 month ago)
+  - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (2 months ago)
   - [yuskesh/apple-container-ebpf-kernel](https://github.com/yuskesh/apple-container-ebpf-kernel) - Build a custom Linux kernel with a full eBPF feature set (BTF, struct_ops/sched_ext, tracing, netem, BPF LSM, AF_XDP) and run it under Apple&#39;s container runtime on Apple Silicon macOS. (2 months ago)
   - [kubernetes-sigs/dra-driver-nvidia-gpu](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu) - DRA Driver for NVIDIA GPUs (4 months ago)
   - [llm-d/llm-d](https://github.com/llm-d/llm-d) - Achieve state of the art inference performance with modern accelerators on Kubernetes (4 months ago)
