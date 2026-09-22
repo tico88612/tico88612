@@ -51,12 +51,12 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.32.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.32.0), today) - Deploy a Production Ready Kubernetes Cluster
   - [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) ([v0.7.0](https://github.com/kubernetes-sigs/inference-perf/releases/tag/v0.7.0), 1 week ago) - GenAI inference performance benchmarking tool
   - [apple/container](https://github.com/apple/container) ([1.4.1](https://github.com/apple/container/releases/tag/1.4.1), 1 week ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.37](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.37), 3 weeks ago) - Kubernetes website and documentation repo: 
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.37.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.37.0), 3 weeks ago) - Production-Grade Container Scheduling and Management
   - [kubernetes-sigs/dra-driver-nvidia-gpu](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu) ([v0.5.0](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu/releases/tag/v0.5.0), 1 month ago) - DRA Driver for NVIDIA GPUs
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.31.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.31.0), 5 months ago) - Deploy a Production Ready Kubernetes Cluster
   - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), 9 months ago) - Repo for SIG release
   - [knabben/signalhound](https://github.com/knabben/signalhound) ([0.0.1](https://github.com/knabben/signalhound/releases/tag/0.0.1), 1 year ago) - Hunts Flake And Failing Testgrid Jobs 
 
