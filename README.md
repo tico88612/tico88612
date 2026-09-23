@@ -25,16 +25,16 @@
 
   #### 👷 Check out what I'm currently working on
   
+  - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (today)
+  - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 week ago)
   - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 week ago)
   - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (1 week ago)
   - [kubernetes/enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes (2 weeks ago)
-  - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (3 weeks ago)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (1 month ago)
-  - [kubernetes-sigs/dra-driver-nvidia-gpu](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu) - DRA Driver for NVIDIA GPUs (1 month ago)
   - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (1 month ago)
+  - [kubernetes-sigs/dra-driver-nvidia-gpu](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu) - DRA Driver for NVIDIA GPUs (1 month ago)
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 months ago)
   - [kubernetes/kubectl](https://github.com/kubernetes/kubectl) - Issue tracker and mirror of kubectl code (2 months ago)
-  - [kubernetes/component-base](https://github.com/kubernetes/component-base) - Shared code for kubernetes core components (2 months ago)
 
   #### 🌱 My latest projects
   
@@ -88,11 +88,11 @@
 
   #### 👯 Check out some of my recent followers
   
+  - [haythem-farjallah](https://github.com/haythem-farjallah)
   - [bryanhsu00](https://github.com/bryanhsu00)
   - [vedant-kakde](https://github.com/vedant-kakde)
   - [VNaveen124](https://github.com/VNaveen124)
   - [CJhangTW](https://github.com/CJhangTW)
-  - [viiccwen](https://github.com/viiccwen)
 </details>
 
 <a href="https://github.com/tico88612/devstats-card"><img src="https://devstats.me/?username=tico88612" /></a>
