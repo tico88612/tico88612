@@ -51,8 +51,8 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.38.0-alpha.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.38.0-alpha.1), today) - Production-Grade Container Scheduling and Management
   - [apple/container](https://github.com/apple/container) ([1.5.0](https://github.com/apple/container/releases/tag/1.5.0), today) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
-  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.34.12](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.12), 6 days ago) - Production-Grade Container Scheduling and Management
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.32.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.32.0), 1 week ago) - Deploy a Production Ready Kubernetes Cluster
   - [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) ([v0.7.0](https://github.com/kubernetes-sigs/inference-perf/releases/tag/v0.7.0), 2 weeks ago) - GenAI inference performance benchmarking tool
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.37](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.37), 1 month ago) - Kubernetes website and documentation repo: 
