@@ -63,6 +63,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [feat: introduce DefaultContext(ctx) and deprecate NewContext, NewDefaultContext](https://github.com/kubernetes/kubernetes/pull/142632) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
   - [test: add fake-metrics-server to agnhost](https://github.com/kubernetes/kubernetes/pull/142533) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 days ago)
   - [Add 1.38 Enhancements shadow details](https://github.com/kubernetes/sig-release/pull/3112) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (1 week ago)
   - [Disable periodic enhancements sync for v1.38](https://github.com/kubernetes/test-infra/pull/37872) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
@@ -72,7 +73,6 @@
   - [Add the 1.37 &amp; 1.38 Milestone links](https://github.com/kubernetes/enhancements/pull/6325) on [kubernetes/enhancements](https://github.com/kubernetes/enhancements) (4 weeks ago)
   - [Enable periodic enhancements sync for v1.38](https://github.com/kubernetes/test-infra/pull/37793) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 month ago)
   - [KEP-5207: marked as implemented](https://github.com/kubernetes/enhancements/pull/6292) on [kubernetes/enhancements](https://github.com/kubernetes/enhancements) (1 month ago)
-  - [Feat: podautoscaler support Metrics API v1 fallback to v1beta1](https://github.com/kubernetes/kubernetes/pull/141366) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 month ago)
 
   #### ⭐ Recent Stars
   
