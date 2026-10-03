@@ -51,8 +51,8 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.38.0-alpha.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.38.0-alpha.1), 3 days ago) - Production-Grade Container Scheduling and Management
-  - [apple/container](https://github.com/apple/container) ([1.5.0](https://github.com/apple/container/releases/tag/1.5.0), 3 days ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.38.0-alpha.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.38.0-alpha.1), 4 days ago) - Production-Grade Container Scheduling and Management
+  - [apple/container](https://github.com/apple/container) ([1.5.0](https://github.com/apple/container/releases/tag/1.5.0), 4 days ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.32.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.32.0), 1 week ago) - Deploy a Production Ready Kubernetes Cluster
   - [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) ([v0.7.0](https://github.com/kubernetes-sigs/inference-perf/releases/tag/v0.7.0), 2 weeks ago) - GenAI inference performance benchmarking tool
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.37](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.37), 1 month ago) - Kubernetes website and documentation repo: 
@@ -63,8 +63,8 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [feat: introduce DefaultContext(ctx) and deprecate NewContext, NewDefaultContext](https://github.com/kubernetes/kubernetes/pull/142632) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
-  - [test: add fake-metrics-server to agnhost](https://github.com/kubernetes/kubernetes/pull/142533) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 days ago)
+  - [feat: introduce DefaultContext(ctx) and deprecate NewContext, NewDefaultContext](https://github.com/kubernetes/kubernetes/pull/142632) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
+  - [test: add fake-metrics-server to agnhost](https://github.com/kubernetes/kubernetes/pull/142533) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (4 days ago)
   - [Add 1.38 Enhancements shadow details](https://github.com/kubernetes/sig-release/pull/3112) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (1 week ago)
   - [Disable periodic enhancements sync for v1.38](https://github.com/kubernetes/test-infra/pull/37872) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
   - [Add v1.38 Enhancements Shadows to appropriate mailing lists](https://github.com/kubernetes/k8s.io/pull/9935) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
