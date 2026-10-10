@@ -65,7 +65,7 @@
   
   - [Docs: update the PR template with k/k](https://github.com/kubernetes-sigs/kubespray/pull/13619) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 days ago)
   - [[WIP] DONT MERGE](https://github.com/kubernetes-sigs/kubespray/pull/13612) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (4 days ago)
-  - [feat: introduce DefaultContext(ctx) and deprecate NewContext, NewDefaultContext](https://github.com/kubernetes/kubernetes/pull/142632) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
+  - [apiserver: add WithDefaultNamespace for request contexts](https://github.com/kubernetes/kubernetes/pull/142632) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
   - [test: add fake-metrics-server to agnhost](https://github.com/kubernetes/kubernetes/pull/142533) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
   - [Add 1.38 Enhancements shadow details](https://github.com/kubernetes/sig-release/pull/3112) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (2 weeks ago)
   - [Disable periodic enhancements sync for v1.38](https://github.com/kubernetes/test-infra/pull/37872) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 weeks ago)
