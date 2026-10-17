@@ -63,6 +63,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Add tico88612 as component-base/metrics reviewer](https://github.com/kubernetes/kubernetes/pull/143125) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
   - [Docs: update the PR template with k/k](https://github.com/kubernetes-sigs/kubespray/pull/13619) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [[WIP] DONT MERGE](https://github.com/kubernetes-sigs/kubespray/pull/13612) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [apiserver: add WithDefaultNamespace for request contexts](https://github.com/kubernetes/kubernetes/pull/142632) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
@@ -72,7 +73,6 @@
   - [Add v1.38 Enhancements Shadows to appropriate mailing lists](https://github.com/kubernetes/k8s.io/pull/9935) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
   - [Add v1.38 enhancements shadows to appropriate groups](https://github.com/kubernetes/org/pull/6642) on [kubernetes/org](https://github.com/kubernetes/org) (1 month ago)
   - [test(gpu-kubelet-plugin): add CDI unit test](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu/pull/1442) on [kubernetes-sigs/dra-driver-nvidia-gpu](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu) (1 month ago)
-  - [Add the 1.37 &amp; 1.38 Milestone links](https://github.com/kubernetes/enhancements/pull/6325) on [kubernetes/enhancements](https://github.com/kubernetes/enhancements) (1 month ago)
 
   #### ⭐ Recent Stars
   
