@@ -63,6 +63,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Fix TestEventSeries flaky only focus on testPod namespace](https://github.com/kubernetes/kubernetes/pull/143156) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
   - [Add tico88612 as component-base/metrics reviewer](https://github.com/kubernetes/kubernetes/pull/143125) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
   - [Docs: update the PR template with k/k](https://github.com/kubernetes-sigs/kubespray/pull/13619) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
   - [[WIP] DONT MERGE](https://github.com/kubernetes-sigs/kubespray/pull/13612) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
@@ -72,7 +73,6 @@
   - [Disable periodic enhancements sync for v1.38](https://github.com/kubernetes/test-infra/pull/37872) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 month ago)
   - [Add v1.38 Enhancements Shadows to appropriate mailing lists](https://github.com/kubernetes/k8s.io/pull/9935) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
   - [Add v1.38 enhancements shadows to appropriate groups](https://github.com/kubernetes/org/pull/6642) on [kubernetes/org](https://github.com/kubernetes/org) (1 month ago)
-  - [test(gpu-kubelet-plugin): add CDI unit test](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu/pull/1442) on [kubernetes-sigs/dra-driver-nvidia-gpu](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu) (1 month ago)
 
   #### ⭐ Recent Stars
   
