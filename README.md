@@ -89,11 +89,11 @@
 
   #### 👯 Check out some of my recent followers
   
+  - [KabunBot](https://github.com/KabunBot)
   - [a4hmad1](https://github.com/a4hmad1)
   - [abhijeetgaur-dev](https://github.com/abhijeetgaur-dev)
   - [haythem-farjallah](https://github.com/haythem-farjallah)
   - [bryanhsu00](https://github.com/bryanhsu00)
-  - [vedant-kakde](https://github.com/vedant-kakde)
 </details>
 
 <a href="https://github.com/tico88612/devstats-card"><img src="https://devstats.me/?username=tico88612" /></a>
