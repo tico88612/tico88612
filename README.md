@@ -25,8 +25,8 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [kubernetes/component-base](https://github.com/kubernetes/component-base) - Shared code for kubernetes core components (2 days ago)
-  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 days ago)
+  - [kubernetes/component-base](https://github.com/kubernetes/component-base) - Shared code for kubernetes core components (3 days ago)
+  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (3 days ago)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (1 week ago)
   - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (3 weeks ago)
   - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 month ago)
@@ -53,8 +53,8 @@
   
   - [kubernetes-sigs/dra-driver-nvidia-gpu](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu) ([v0.5.1](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu/releases/tag/v0.5.1), 1 week ago) - DRA Driver for NVIDIA GPUs
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.38.0-alpha.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.38.0-alpha.2), 1 week ago) - Production-Grade Container Scheduling and Management
-  - [apple/container](https://github.com/apple/container) ([1.5.0](https://github.com/apple/container/releases/tag/1.5.0), 2 weeks ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.32.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.32.0), 3 weeks ago) - Deploy a Production Ready Kubernetes Cluster
+  - [apple/container](https://github.com/apple/container) ([1.5.0](https://github.com/apple/container/releases/tag/1.5.0), 3 weeks ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.32.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.32.0), 4 weeks ago) - Deploy a Production Ready Kubernetes Cluster
   - [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) ([v0.7.0](https://github.com/kubernetes-sigs/inference-perf/releases/tag/v0.7.0), 1 month ago) - GenAI inference performance benchmarking tool
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.37](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.37), 1 month ago) - Kubernetes website and documentation repo: 
   - [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) ([metrics-server-helm-chart-3.14.0](https://github.com/kubernetes-sigs/metrics-server/releases/tag/metrics-server-helm-chart-3.14.0), 2 months ago) - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
@@ -63,12 +63,12 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [Fix TestEventSeries flaky only focus on testPod namespace](https://github.com/kubernetes/kubernetes/pull/143156) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
-  - [Add tico88612 as component-base/metrics reviewer](https://github.com/kubernetes/kubernetes/pull/143125) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 days ago)
+  - [Fix TestEventSeries flaky only focus on testPod namespace](https://github.com/kubernetes/kubernetes/pull/143156) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 days ago)
+  - [Add tico88612 as component-base/metrics reviewer](https://github.com/kubernetes/kubernetes/pull/143125) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 days ago)
   - [Docs: update the PR template with k/k](https://github.com/kubernetes-sigs/kubespray/pull/13619) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
-  - [[WIP] DONT MERGE](https://github.com/kubernetes-sigs/kubespray/pull/13612) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (1 week ago)
+  - [[WIP] DONT MERGE](https://github.com/kubernetes-sigs/kubespray/pull/13612) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (2 weeks ago)
   - [apiserver: add WithDefaultNamespace for request contexts](https://github.com/kubernetes/kubernetes/pull/142632) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
-  - [test: add fake-metrics-server to agnhost](https://github.com/kubernetes/kubernetes/pull/142533) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
+  - [test: add fake-metrics-server to agnhost](https://github.com/kubernetes/kubernetes/pull/142533) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 weeks ago)
   - [Add 1.38 Enhancements shadow details](https://github.com/kubernetes/sig-release/pull/3112) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (3 weeks ago)
   - [Disable periodic enhancements sync for v1.38](https://github.com/kubernetes/test-infra/pull/37872) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 month ago)
   - [Add v1.38 Enhancements Shadows to appropriate mailing lists](https://github.com/kubernetes/k8s.io/pull/9935) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
@@ -76,7 +76,7 @@
 
   #### ⭐ Recent Stars
   
-  - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (1 month ago)
+  - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (2 months ago)
   - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local (2 months ago)
   - [sysprog21/zhtw-mcp](https://github.com/sysprog21/zhtw-mcp) - A linguistic linter for Traditional Chinese (zh-TW) (2 months ago)
   - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (3 months ago)
