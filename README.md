@@ -82,7 +82,7 @@
   - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (3 months ago)
   - [yuskesh/apple-container-ebpf-kernel](https://github.com/yuskesh/apple-container-ebpf-kernel) - Build a custom Linux kernel with a full eBPF feature set (BTF, struct_ops/sched_ext, tracing, netem, BPF LSM, AF_XDP) and run it under Apple&#39;s container runtime on Apple Silicon macOS. (3 months ago)
   - [kubernetes-sigs/dra-driver-nvidia-gpu](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu) - DRA Driver for NVIDIA GPUs (5 months ago)
-  - [llm-d/llm-d](https://github.com/llm-d/llm-d) - Achieve state of the art inference performance with modern accelerators on Kubernetes (5 months ago)
+  - [llm-d/llm-d](https://github.com/llm-d/llm-d) - State of the art inference performance with modern accelerators on Kubernetes (5 months ago)
   - [kubernetes-sigs/dranet](https://github.com/kubernetes-sigs/dranet) - DRANET is a Kubernetes Network Driver that uses Dynamic Resource Allocation (DRA) to deliver high-performance networking for demanding applications in Kubernetes. (5 months ago)
   - [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) - GenAI inference performance benchmarking tool (5 months ago)
   - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - The world&#39;s fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project. (7 months ago)
