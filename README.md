@@ -51,7 +51,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [apple/container](https://github.com/apple/container) ([1.6.0](https://github.com/apple/container/releases/tag/1.6.0), 3 days ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+  - [apple/container](https://github.com/apple/container) ([1.6.1](https://github.com/apple/container/releases/tag/1.6.1), today) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
   - [kubernetes-sigs/dra-driver-nvidia-gpu](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu) ([v0.5.1](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu/releases/tag/v0.5.1), 1 week ago) - DRA Driver for NVIDIA GPUs
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.38.0-alpha.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.38.0-alpha.2), 2 weeks ago) - Production-Grade Container Scheduling and Management
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.32.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.32.0), 1 month ago) - Deploy a Production Ready Kubernetes Cluster
