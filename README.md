@@ -63,6 +63,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Increase metrics-server presubmits verify job memory to 6Gi](https://github.com/kubernetes/test-infra/pull/38219) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
   - [chore: upgrade golangci-lint to 2.15.0](https://github.com/kubernetes-sigs/metrics-server/pull/1925) on [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) (3 days ago)
   - [feat: Workload createion validation errors show event in owning Job](https://github.com/kubernetes-sigs/kueue/pull/17923) on [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) (4 days ago)
   - [kubectl: edit support server side](https://github.com/kubernetes/kubernetes/pull/143430) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (6 days ago)
@@ -72,7 +73,6 @@
   - [Docs: update the PR template with k/k](https://github.com/kubernetes-sigs/kubespray/pull/13619) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
   - [[WIP] DONT MERGE](https://github.com/kubernetes-sigs/kubespray/pull/13612) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (3 weeks ago)
   - [apiserver: add WithDefaultNamespace for request contexts](https://github.com/kubernetes/kubernetes/pull/142632) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 month ago)
-  - [test: add fake-metrics-server to agnhost](https://github.com/kubernetes/kubernetes/pull/142533) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 month ago)
 
   #### ⭐ Recent Stars
   
