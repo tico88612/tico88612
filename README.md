@@ -25,7 +25,7 @@
 
   #### 👷 Check out what I'm currently working on
   
-  - [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines. (3 days ago)
+  - [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines. (4 days ago)
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 weeks ago)
   - [kubernetes/component-base](https://github.com/kubernetes/component-base) - Shared code for kubernetes core components (2 weeks ago)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (3 weeks ago)
@@ -51,10 +51,10 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) ([v0.9.1](https://github.com/kubernetes-sigs/metrics-server/releases/tag/v0.9.1), 3 days ago) - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
-  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.38.0-alpha.3](https://github.com/kubernetes/kubernetes/releases/tag/v1.38.0-alpha.3), 4 days ago) - Production-Grade Container Scheduling and Management
+  - [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) ([v0.9.1](https://github.com/kubernetes-sigs/metrics-server/releases/tag/v0.9.1), 4 days ago) - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
+  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.38.0-alpha.3](https://github.com/kubernetes/kubernetes/releases/tag/v1.38.0-alpha.3), 5 days ago) - Production-Grade Container Scheduling and Management
   - [apple/container](https://github.com/apple/container) ([1.6.1](https://github.com/apple/container/releases/tag/1.6.1), 1 week ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
-  - [kubernetes-sigs/dra-driver-nvidia-gpu](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu) ([v0.5.1](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu/releases/tag/v0.5.1), 2 weeks ago) - DRA Driver for NVIDIA GPUs
+  - [kubernetes-sigs/dra-driver-nvidia-gpu](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu) ([v0.5.1](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu/releases/tag/v0.5.1), 3 weeks ago) - DRA Driver for NVIDIA GPUs
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.32.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.32.0), 1 month ago) - Deploy a Production Ready Kubernetes Cluster
   - [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) ([v0.7.0](https://github.com/kubernetes-sigs/inference-perf/releases/tag/v0.7.0), 1 month ago) - GenAI inference performance benchmarking tool
   - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.37](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.37), 2 months ago) - Kubernetes website and documentation repo: 
@@ -63,10 +63,10 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [Increase metrics-server presubmits verify job memory to 6Gi](https://github.com/kubernetes/test-infra/pull/38219) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
-  - [chore: upgrade golangci-lint to 2.15.0](https://github.com/kubernetes-sigs/metrics-server/pull/1925) on [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) (3 days ago)
-  - [feat: Workload createion validation errors show event in owning Job](https://github.com/kubernetes-sigs/kueue/pull/17923) on [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) (4 days ago)
-  - [kubectl: edit support server side](https://github.com/kubernetes/kubernetes/pull/143430) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (6 days ago)
+  - [Increase metrics-server presubmits verify job memory to 6Gi](https://github.com/kubernetes/test-infra/pull/38219) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
+  - [chore: upgrade golangci-lint to 2.15.0](https://github.com/kubernetes-sigs/metrics-server/pull/1925) on [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) (4 days ago)
+  - [feat: Workload createion validation errors show event in owning Job](https://github.com/kubernetes-sigs/kueue/pull/17923) on [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) (5 days ago)
+  - [kubectl: edit support server side](https://github.com/kubernetes/kubernetes/pull/143430) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
   - [Promote admission webhook metrics to BETA and deprecate legacy names](https://github.com/kubernetes/kubernetes/pull/143357) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
   - [Fix TestEventSeries flaky only focus on testPod namespace](https://github.com/kubernetes/kubernetes/pull/143156) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
   - [Add tico88612 as component-base/metrics reviewer](https://github.com/kubernetes/kubernetes/pull/143125) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
