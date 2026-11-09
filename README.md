@@ -90,10 +90,10 @@
   #### 👯 Check out some of my recent followers
   
   - [ljluestc](https://github.com/ljluestc)
-  - [0vm](https://github.com/0vm)
   - [KabunBot](https://github.com/KabunBot)
   - [a4hmad1](https://github.com/a4hmad1)
   - [abhijeetgaur-dev](https://github.com/abhijeetgaur-dev)
+  - [haythem-farjallah](https://github.com/haythem-farjallah)
 </details>
 
 <a href="https://github.com/tico88612/devstats-card"><img src="https://devstats.me/?username=tico88612" /></a>
