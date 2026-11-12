@@ -28,7 +28,7 @@
   - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 week ago)
   - [kubernetes/apiserver](https://github.com/kubernetes/apiserver) - Library for writing a Kubernetes-style API server. (1 week ago)
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (1 week ago)
-  - [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines. (1 week ago)
+  - [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines. (2 weeks ago)
   - [kubernetes/component-base](https://github.com/kubernetes/component-base) - Shared code for kubernetes core components (3 weeks ago)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (1 month ago)
   - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (1 month ago)
@@ -51,9 +51,9 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [apple/container](https://github.com/apple/container) ([1.7.1](https://github.com/apple/container/releases/tag/1.7.1), 5 days ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
-  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.38.0-beta.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.38.0-beta.0), 5 days ago) - Production-Grade Container Scheduling and Management
-  - [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) ([v0.9.1](https://github.com/kubernetes-sigs/metrics-server/releases/tag/v0.9.1), 1 week ago) - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
+  - [apple/container](https://github.com/apple/container) ([1.7.1](https://github.com/apple/container/releases/tag/1.7.1), 6 days ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.38.0-beta.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.38.0-beta.0), 6 days ago) - Production-Grade Container Scheduling and Management
+  - [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) ([v0.9.1](https://github.com/kubernetes-sigs/metrics-server/releases/tag/v0.9.1), 2 weeks ago) - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
   - [kubernetes-sigs/dra-driver-nvidia-gpu](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu) ([v0.5.1](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu/releases/tag/v0.5.1), 1 month ago) - DRA Driver for NVIDIA GPUs
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.32.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.32.0), 1 month ago) - Deploy a Production Ready Kubernetes Cluster
   - [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) ([v0.7.0](https://github.com/kubernetes-sigs/inference-perf/releases/tag/v0.7.0), 1 month ago) - GenAI inference performance benchmarking tool
@@ -63,10 +63,10 @@
 
   #### 🔨 My recent Pull Requests
   
-  - [Fix: update command line flag in pflag v1.1.0](https://github.com/kubernetes-sigs/metrics-server/pull/1938) on [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) (2 days ago)
+  - [Fix: update command line flag in pflag v1.1.0](https://github.com/kubernetes-sigs/metrics-server/pull/1938) on [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) (3 days ago)
   - [client-go: add more labels for improving observability rest_client_request](https://github.com/kubernetes/kubernetes/pull/143757) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
   - [Increase metrics-server presubmits verify job memory to 6Gi](https://github.com/kubernetes/test-infra/pull/38219) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-  - [chore: upgrade golangci-lint to 2.15.0](https://github.com/kubernetes-sigs/metrics-server/pull/1925) on [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) (1 week ago)
+  - [chore: upgrade golangci-lint to 2.15.0](https://github.com/kubernetes-sigs/metrics-server/pull/1925) on [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) (2 weeks ago)
   - [feat: Workload createion validation errors show event in owning Job](https://github.com/kubernetes-sigs/kueue/pull/17923) on [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) (2 weeks ago)
   - [kubectl: edit support server side](https://github.com/kubernetes/kubernetes/pull/143430) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
   - [Promote admission webhook metrics to BETA and deprecate legacy names](https://github.com/kubernetes/kubernetes/pull/143357) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
@@ -89,11 +89,11 @@
 
   #### 👯 Check out some of my recent followers
   
+  - [zffocussss](https://github.com/zffocussss)
   - [ljluestc](https://github.com/ljluestc)
   - [KabunBot](https://github.com/KabunBot)
   - [a4hmad1](https://github.com/a4hmad1)
   - [abhijeetgaur-dev](https://github.com/abhijeetgaur-dev)
-  - [haythem-farjallah](https://github.com/haythem-farjallah)
 </details>
 
 <a href="https://github.com/tico88612/devstats-card"><img src="https://devstats.me/?username=tico88612" /></a>
