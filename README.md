@@ -67,7 +67,7 @@
   - [client-go: add more labels for improving observability rest_client_request](https://github.com/kubernetes/kubernetes/pull/143757) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
   - [Increase metrics-server presubmits verify job memory to 6Gi](https://github.com/kubernetes/test-infra/pull/38219) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
   - [chore: upgrade golangci-lint to 2.15.0](https://github.com/kubernetes-sigs/metrics-server/pull/1925) on [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) (2 weeks ago)
-  - [feat: Workload createion validation errors show event in owning Job](https://github.com/kubernetes-sigs/kueue/pull/17923) on [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) (2 weeks ago)
+  - [feat: Workload createion validation errors show event in owning Job](https://github.com/kubernetes-sigs/kueue/pull/17923) on [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) (3 weeks ago)
   - [kubectl: edit support server side](https://github.com/kubernetes/kubernetes/pull/143430) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 weeks ago)
   - [Promote admission webhook metrics to BETA and deprecate legacy names](https://github.com/kubernetes/kubernetes/pull/143357) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 weeks ago)
   - [Fix TestEventSeries flaky only focus on testPod namespace](https://github.com/kubernetes/kubernetes/pull/143156) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 month ago)
@@ -77,9 +77,9 @@
   #### ⭐ Recent Stars
   
   - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (2 months ago)
-  - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local (2 months ago)
+  - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local (3 months ago)
   - [sysprog21/zhtw-mcp](https://github.com/sysprog21/zhtw-mcp) - A linguistic linter for Traditional Chinese (zh-TW) (3 months ago)
-  - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (3 months ago)
+  - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (4 months ago)
   - [yuskesh/apple-container-ebpf-kernel](https://github.com/yuskesh/apple-container-ebpf-kernel) - Build a custom Linux kernel with a full eBPF feature set (BTF, struct_ops/sched_ext, tracing, netem, BPF LSM, AF_XDP) and run it under Apple&#39;s container runtime on Apple Silicon macOS. (4 months ago)
   - [kubernetes-sigs/dra-driver-nvidia-gpu](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu) - DRA Driver for NVIDIA GPUs (6 months ago)
   - [llm-d/llm-d](https://github.com/llm-d/llm-d) - State of the art inference performance with modern accelerators on Kubernetes (6 months ago)
