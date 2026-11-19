@@ -53,7 +53,7 @@
   
   - [apple/container](https://github.com/apple/container) ([1.7.1](https://github.com/apple/container/releases/tag/1.7.1), 1 week ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.38.0-beta.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.38.0-beta.0), 1 week ago) - Production-Grade Container Scheduling and Management
-  - [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) ([v0.9.1](https://github.com/kubernetes-sigs/metrics-server/releases/tag/v0.9.1), 2 weeks ago) - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
+  - [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) ([v0.9.1](https://github.com/kubernetes-sigs/metrics-server/releases/tag/v0.9.1), 3 weeks ago) - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
   - [kubernetes-sigs/dra-driver-nvidia-gpu](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu) ([v0.5.1](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu/releases/tag/v0.5.1), 1 month ago) - DRA Driver for NVIDIA GPUs
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.32.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.32.0), 1 month ago) - Deploy a Production Ready Kubernetes Cluster
   - [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) ([v0.7.0](https://github.com/kubernetes-sigs/inference-perf/releases/tag/v0.7.0), 2 months ago) - GenAI inference performance benchmarking tool
@@ -66,7 +66,7 @@
   - [Fix: update command line flag in pflag v1.1.0](https://github.com/kubernetes-sigs/metrics-server/pull/1938) on [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) (1 week ago)
   - [client-go: add more labels for improving observability rest_client_request](https://github.com/kubernetes/kubernetes/pull/143757) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
   - [Increase metrics-server presubmits verify job memory to 6Gi](https://github.com/kubernetes/test-infra/pull/38219) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
-  - [chore: upgrade golangci-lint to 2.15.0](https://github.com/kubernetes-sigs/metrics-server/pull/1925) on [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) (2 weeks ago)
+  - [chore: upgrade golangci-lint to 2.15.0](https://github.com/kubernetes-sigs/metrics-server/pull/1925) on [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) (3 weeks ago)
   - [feat: Workload createion validation errors show event in owning Job](https://github.com/kubernetes-sigs/kueue/pull/17923) on [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) (3 weeks ago)
   - [kubectl: edit support server side](https://github.com/kubernetes/kubernetes/pull/143430) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 weeks ago)
   - [Promote admission webhook metrics to BETA and deprecate legacy names](https://github.com/kubernetes/kubernetes/pull/143357) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 weeks ago)
@@ -76,7 +76,7 @@
 
   #### ⭐ Recent Stars
   
-  - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (2 months ago)
+  - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (3 months ago)
   - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local (3 months ago)
   - [sysprog21/zhtw-mcp](https://github.com/sysprog21/zhtw-mcp) - A linguistic linter for Traditional Chinese (zh-TW) (3 months ago)
   - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (4 months ago)
