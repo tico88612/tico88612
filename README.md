@@ -77,6 +77,7 @@
 
   #### ⭐ Recent Stars
   
+  - [k0rdent/kcm](https://github.com/k0rdent/kcm) -  (today)
   - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (3 months ago)
   - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local (3 months ago)
   - [sysprog21/zhtw-mcp](https://github.com/sysprog21/zhtw-mcp) - A linguistic linter for Traditional Chinese (zh-TW) (3 months ago)
@@ -86,7 +87,6 @@
   - [llm-d/llm-d](https://github.com/llm-d/llm-d) - State of the art inference performance with modern accelerators on Kubernetes (6 months ago)
   - [kubernetes-sigs/dranet](https://github.com/kubernetes-sigs/dranet) - DRANET is a Kubernetes Network Driver that uses Dynamic Resource Allocation (DRA) to deliver high-performance networking for demanding applications in Kubernetes. (6 months ago)
   - [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) - GenAI inference performance benchmarking tool (6 months ago)
-  - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - The world&#39;s fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project. (9 months ago)
 
   #### 👯 Check out some of my recent followers
   
