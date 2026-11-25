@@ -64,6 +64,7 @@
 
   #### 🔨 My recent Pull Requests
   
+  - [Patch versions updates](https://github.com/kubernetes-sigs/kubespray/pull/13791) on [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) (today)
   - [Automated cherry pick of #143156: Fix TestEventSeries flaky only focus on testPod namespace](https://github.com/kubernetes/kubernetes/pull/144346) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (6 days ago)
   - [Automated cherry pick of #143156: Fix TestEventSeries flaky only focus on testPod namespace](https://github.com/kubernetes/kubernetes/pull/144345) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (6 days ago)
   - [Automated cherry pick of #143156: Fix TestEventSeries flaky only focus on testPod namespace](https://github.com/kubernetes/kubernetes/pull/144344) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (6 days ago)
@@ -73,7 +74,6 @@
   - [chore: upgrade golangci-lint to 2.15.0](https://github.com/kubernetes-sigs/metrics-server/pull/1925) on [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) (3 weeks ago)
   - [feat: Workload createion validation errors show event in owning Job](https://github.com/kubernetes-sigs/kueue/pull/17923) on [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) (4 weeks ago)
   - [kubectl: edit support server side](https://github.com/kubernetes/kubernetes/pull/143430) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 month ago)
-  - [Promote admission webhook metrics to BETA and deprecate legacy names](https://github.com/kubernetes/kubernetes/pull/143357) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 month ago)
 
   #### ⭐ Recent Stars
   
