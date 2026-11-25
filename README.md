@@ -26,16 +26,16 @@
 
   #### 👷 Check out what I'm currently working on
   
+  - [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) - :vertical_traffic_light: Kubernetes-native Job Queueing and Scheduling (today)
   - [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines. (2 weeks ago)
   - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (3 weeks ago)
-  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (3 weeks ago)
   - [kubernetes/apiserver](https://github.com/kubernetes/apiserver) - Library for writing a Kubernetes-style API server. (3 weeks ago)
+  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (3 weeks ago)
   - [tico88612/dotfiles](https://github.com/tico88612/dotfiles) - Cross-platform dotfiles for macOS and Linux, managed with chezmoi. (1 month ago)
   - [kubernetes/component-base](https://github.com/kubernetes/component-base) - Shared code for kubernetes core components (1 month ago)
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (1 month ago)
   - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (2 months ago)
   - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (2 months ago)
-  - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (2 months ago)
 
   #### 🌱 My latest projects
   
@@ -52,8 +52,9 @@
 
   #### 🔭 Latest releases I've contributed to
   
+  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.11](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.11), today) - Production-Grade Container Scheduling and Management
+  - [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) ([v0.21.0-rc.2](https://github.com/kubernetes-sigs/kueue/releases/tag/v0.21.0-rc.2), 1 day ago) - :vertical_traffic_light: Kubernetes-native Job Queueing and Scheduling
   - [apple/container](https://github.com/apple/container) ([1.7.1](https://github.com/apple/container/releases/tag/1.7.1), 2 weeks ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
-  - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.38.0-beta.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.38.0-beta.0), 2 weeks ago) - Production-Grade Container Scheduling and Management
   - [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) ([v0.9.1](https://github.com/kubernetes-sigs/metrics-server/releases/tag/v0.9.1), 3 weeks ago) - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
   - [kubernetes-sigs/dra-driver-nvidia-gpu](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu) ([v0.5.1](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu/releases/tag/v0.5.1), 1 month ago) - DRA Driver for NVIDIA GPUs
   - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ([v2.32.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.32.0), 2 months ago) - Deploy a Production Ready Kubernetes Cluster
