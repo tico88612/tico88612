@@ -26,6 +26,7 @@
 
   #### 👷 Check out what I'm currently working on
   
+  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (today)
   - [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) - :vertical_traffic_light: Kubernetes-native Job Queueing and Scheduling (1 day ago)
   - [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines. (2 weeks ago)
   - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (3 weeks ago)
@@ -33,7 +34,6 @@
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (3 weeks ago)
   - [tico88612/dotfiles](https://github.com/tico88612/dotfiles) - Cross-platform dotfiles for macOS and Linux, managed with chezmoi. (1 month ago)
   - [kubernetes/component-base](https://github.com/kubernetes/component-base) - Shared code for kubernetes core components (1 month ago)
-  - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster (1 month ago)
   - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (2 months ago)
   - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (2 months ago)
 
