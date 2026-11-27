@@ -52,7 +52,7 @@
 
   #### 🔭 Latest releases I've contributed to
   
-  - [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) ([v0.20.8](https://github.com/kubernetes-sigs/kueue/releases/tag/v0.20.8), 1 day ago) - :vertical_traffic_light: Kubernetes-native Job Queueing and Scheduling
+  - [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) ([v0.21.0-rc.3](https://github.com/kubernetes-sigs/kueue/releases/tag/v0.21.0-rc.3), today) - :vertical_traffic_light: Kubernetes-native Job Queueing and Scheduling
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.11](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.11), 2 days ago) - Production-Grade Container Scheduling and Management
   - [apple/container](https://github.com/apple/container) ([1.7.1](https://github.com/apple/container/releases/tag/1.7.1), 3 weeks ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
   - [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) ([v0.9.1](https://github.com/kubernetes-sigs/metrics-server/releases/tag/v0.9.1), 4 weeks ago) - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
